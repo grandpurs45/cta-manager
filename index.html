@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CTA-Manager Lite</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1 id="appTitle">CTA-Manager Lite</h1>
+      <p id="appVersionLine">Version</p>
+    </div>
+
+    <div class="topbar-stats">
+      <div class="stat-box">
+        <span class="stat-label">Jour</span>
+        <strong id="simDay">J1</strong>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Heure</span>
+        <strong id="simTime">08:00</strong>
+        <span id="simStatus" class="sim-status"></span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">En cours</span>
+        <strong id="activeCount">0</strong>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">En attente</span>
+        <strong id="pendingCount">0</strong>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Budget</span>
+        <strong id="simMoney">0 €</strong>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Terminées</span>
+        <strong id="completedCount">0</strong>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel">
+      <div class="panel-header">
+        <h2>Interventions</h2>
+        <div class="panel-actions">
+          <button id="btnGenerate">Nouvelle intervention</button>
+          <button id="btnReset" class="secondary">Réinitialiser</button>
+          <button id="btnPause">Pause</button>
+          <button onclick="openProgressionPanel()">Progression</button>
+          <button onclick="showAdminPanel()">Administration</button>
+        </div>
+      </div>
+      <div id="interventionsList"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Détail / Engagement</h2>
+      <div id="detailPanel" class="empty">Sélectionne une intervention.</div>
+
+      <h2 class="section-gap">Missions en cours</h2>
+      <div id="missionsPanel"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Casernes</h2>
+      <div id="casernesPanel"></div>
+    </section>
+  </main>
+
+  <script src="js/storage.js"></script>
+
+  <script src="data/settings.js"></script>
+  <script src="data/vehicle-status.js"></script>
+  <script src="data/vehicule-types.js"></script>
+  <script src="data/casernes.js"></script>
+  <script src="data/vehicules.js"></script>
+  <script src="data/interventions.js"></script>
+  <script src="data/zones.js"></script>
+  <script src="data/hopitaux.js"></script>
+  <script src="data/travel-matrix.js"></script>
+  <script src="data/coverage-rules.js"></script>
+
+  <script src="js/coverage-engine.js"></script>
+  <script src="js/simulation.js"></script>
+
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

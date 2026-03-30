@@ -1,0 +1,9 @@
+services:
+  cta-manager-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cta-manager-web
+    ports:
+      - "8080:80"
+    restart: unless-stopped
