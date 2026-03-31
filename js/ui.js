@@ -442,7 +442,19 @@ function renderDetail() {
                         return a.helpsMissing ? -1 : 1;
                       }
 
-                      return a.profil.sp - b.profil.sp;
+                      const aDisplay = a.displayCode || a.profil.code;
+                      const bDisplay = b.displayCode || b.profil.code;
+                      if (aDisplay !== bDisplay) {
+                        return aDisplay.localeCompare(bDisplay, "fr-FR");
+                      }
+
+                      const aModeRank = a.profil.mode === "nominal" ? 0 : 1;
+                      const bModeRank = b.profil.mode === "nominal" ? 0 : 1;
+                      if (aModeRank !== bModeRank) {
+                        return aModeRank - bModeRank;
+                      }
+
+                      return b.profil.sp - a.profil.sp;
                     })
                     .map(p => `
                       <button

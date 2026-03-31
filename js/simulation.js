@@ -1259,39 +1259,47 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
   }
 
   const allowedCodes = getAllowedContributionCodesForIntervention(intervention);
+  const currentSelection = getDispatchSelection(intervention.id);
   const selectableProfiles = [];
   const signatures = new Set();
+  const evaluationCache = new Map();
 
-  availableProfiles.forEach(item => {
-    const normalizedCode = normalizeProfilCode(item.profil);
-    const rawCode = normalizedCode || item.profil.code;
-    const baseCode = getBaseDisplayCode(rawCode);
+  function getProfileKey(profileItem) {
+    return `${profileItem.vehicle.id}|${profileItem.profil.code}|${profileItem.profil.mode}|${profileItem.profil.sp}`;
+  }
 
-    const isAllowed =
-      allowedCodes.has(item.profil.code) ||
-      allowedCodes.has(normalizedCode) ||
-      allowedCodes.has(baseCode);
-
-    if (!isAllowed) {
-      return;
+  function computeTotalDelayFromSelectedItems(selectedItems) {
+    if (!Array.isArray(selectedItems) || selectedItems.length === 0) {
+      return Number.POSITIVE_INFINITY;
     }
 
-    const currentSelection = getDispatchSelection(intervention.id);
+    return Math.max(...selectedItems.map(entry => {
+      const baseDepartDelay = typeof entry.departDelay === "number" ? entry.departDelay : 0;
+      const travelTime = typeof entry.travelTime === "number" ? entry.travelTime : 0;
+      return baseDepartDelay + travelTime;
+    }));
+  }
+
+  function evaluateProfileWithCurrentSelection(profileItem) {
+    const profileKey = getProfileKey(profileItem);
+    const cached = evaluationCache.get(profileKey);
+    if (cached) {
+      return cached;
+    }
 
     const simulatedSelection = [
       ...currentSelection,
       {
-        vehicleId: item.vehicle.id,
-        profilCode: item.profil.code,
-        profilMode: item.profil.mode,
-        profilSp: item.profil.sp
+        vehicleId: profileItem.vehicle.id,
+        profilCode: profileItem.profil.code,
+        profilMode: profileItem.profil.mode,
+        profilSp: profileItem.profil.sp
       }
     ];
 
     const selectedItems = simulatedSelection
       .map(selectionItem => {
         const selectedVehicle = getVehicleById(selectionItem.vehicleId);
-
         if (!selectedVehicle) {
           return null;
         }
@@ -1328,6 +1336,58 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
     const optionCoverageSummary = getOptionCoverageSummary(intervention, engagements);
     const staffingEvaluation = evaluateOptionStaffing(selectedItems);
 
+    const result = {
+      selectedItems,
+      coverageSummary,
+      optionCoverageSummary,
+      staffingEvaluation,
+      totalDelay: computeTotalDelayFromSelectedItems(selectedItems)
+    };
+
+    evaluationCache.set(profileKey, result);
+    return result;
+  }
+
+  let bestMainNeedDelay = Number.POSITIVE_INFINITY;
+
+  availableProfiles.forEach(profileItem => {
+    const evaluation = evaluateProfileWithCurrentSelection(profileItem);
+    if (!evaluation.staffingEvaluation.valid) {
+      return;
+    }
+
+    const contributesToMainNeed =
+      evaluation.coverageSummary.covered ||
+      evaluation.coverageSummary.details?.some(detail => detail.covered);
+
+    if (!contributesToMainNeed) {
+      return;
+    }
+
+    if (evaluation.totalDelay < bestMainNeedDelay) {
+      bestMainNeedDelay = evaluation.totalDelay;
+    }
+  });
+
+  availableProfiles.forEach(item => {
+    const normalizedCode = normalizeProfilCode(item.profil);
+    const rawCode = normalizedCode || item.profil.code;
+    const baseCode = getBaseDisplayCode(rawCode);
+
+    const isAllowed =
+      allowedCodes.has(item.profil.code) ||
+      allowedCodes.has(normalizedCode) ||
+      allowedCodes.has(baseCode);
+
+    if (!isAllowed) {
+      return;
+    }
+
+    const evaluation = evaluateProfileWithCurrentSelection(item);
+    const coverageSummary = evaluation.coverageSummary;
+    const optionCoverageSummary = evaluation.optionCoverageSummary;
+    const staffingEvaluation = evaluation.staffingEvaluation;
+
     if (!staffingEvaluation.valid) {
       return;
     }
@@ -1336,9 +1396,16 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
       coverageSummary.covered ||
       coverageSummary.details?.some(detail => detail.covered);
 
-    const contributesToOption =
+    const optionCovered =
       optionCoverageSummary.hasOptions &&
       optionCoverageSummary.details?.some(detail => detail.covered);
+
+    const optionFasterThanBestMain =
+      !Number.isFinite(bestMainNeedDelay) ||
+      evaluation.totalDelay < bestMainNeedDelay;
+
+    const contributesToOption =
+      optionCovered && optionFasterThanBestMain;
 
     if (!contributesToMainNeed && !contributesToOption) {
       return;
@@ -1880,7 +1947,7 @@ function profileHelpsOptionalNeed(profileEntry, intervention) {
 
   const bestSUAP = getBestMainNeedDelay(intervention, "SUAP");
   if (!bestSUAP) {
-    return false;
+    return true;
   }
 
   const psTravelTime = adjustDelayForVehicle(
@@ -1889,12 +1956,7 @@ function profileHelpsOptionalNeed(profileEntry, intervention) {
   );
   const psTotalDelay = profileEntry.departDelay + psTravelTime;
 
-  const sameCaserneAsBestSUAP = bestSUAP.caserneId === profileEntry.caserne.id;
   const psActuallyFaster = psTotalDelay < bestSUAP.totalDelay;
-
-  if (sameCaserneAsBestSUAP) {
-    return false;
-  }
 
   return psActuallyFaster;
 }
