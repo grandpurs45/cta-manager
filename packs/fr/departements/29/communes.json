@@ -1,0 +1,1946 @@
+{
+  "country": "FR",
+  "departmentCode": "29",
+  "label": "Departement 29",
+  "communes": [
+    {
+      "insee": "29001",
+      "nom": "Argol",
+      "lat": 48.2443,
+      "lon": -4.3047,
+      "population": 1065
+    },
+    {
+      "insee": "29002",
+      "nom": "Arzano",
+      "lat": 47.8944,
+      "lon": -3.4508,
+      "population": 1441
+    },
+    {
+      "insee": "29003",
+      "nom": "Audierne",
+      "lat": 48.028,
+      "lon": -4.5651,
+      "population": 3727
+    },
+    {
+      "insee": "29004",
+      "nom": "Bannalec",
+      "lat": 47.9362,
+      "lon": -3.6883,
+      "population": 5725
+    },
+    {
+      "insee": "29005",
+      "nom": "Baye",
+      "lat": 47.8555,
+      "lon": -3.6111,
+      "population": 1369
+    },
+    {
+      "insee": "29006",
+      "nom": "Bénodet",
+      "lat": 47.8762,
+      "lon": -4.0743,
+      "population": 3849
+    },
+    {
+      "insee": "29007",
+      "nom": "Berrien",
+      "lat": 48.4011,
+      "lon": -3.7649,
+      "population": 943
+    },
+    {
+      "insee": "29008",
+      "nom": "Beuzec-Cap-Sizun",
+      "lat": 48.0729,
+      "lon": -4.5116,
+      "population": 1008
+    },
+    {
+      "insee": "29010",
+      "nom": "Bodilis",
+      "lat": 48.513,
+      "lon": -4.1167,
+      "population": 1723
+    },
+    {
+      "insee": "29011",
+      "nom": "Bohars",
+      "lat": 48.4293,
+      "lon": -4.5214,
+      "population": 3727
+    },
+    {
+      "insee": "29012",
+      "nom": "Bolazec",
+      "lat": 48.4357,
+      "lon": -3.588,
+      "population": 168
+    },
+    {
+      "insee": "29013",
+      "nom": "Botmeur",
+      "lat": 48.3796,
+      "lon": -3.9245,
+      "population": 224
+    },
+    {
+      "insee": "29014",
+      "nom": "Botsorhel",
+      "lat": 48.508,
+      "lon": -3.6282,
+      "population": 425
+    },
+    {
+      "insee": "29015",
+      "nom": "Bourg-Blanc",
+      "lat": 48.4933,
+      "lon": -4.4968,
+      "population": 3573
+    },
+    {
+      "insee": "29016",
+      "nom": "Brasparts",
+      "lat": 48.3185,
+      "lon": -3.9528,
+      "population": 1067
+    },
+    {
+      "insee": "29017",
+      "nom": "Brélès",
+      "lat": 48.473,
+      "lon": -4.6877,
+      "population": 868
+    },
+    {
+      "insee": "29018",
+      "nom": "Brennilis",
+      "lat": 48.3635,
+      "lon": -3.8438,
+      "population": 454
+    },
+    {
+      "insee": "29019",
+      "nom": "Brest",
+      "lat": 48.4085,
+      "lon": -4.4996,
+      "population": 142346
+    },
+    {
+      "insee": "29020",
+      "nom": "Briec",
+      "lat": 48.0964,
+      "lon": -4.0011,
+      "population": 5816
+    },
+    {
+      "insee": "29022",
+      "nom": "Camaret-sur-Mer",
+      "lat": 48.2672,
+      "lon": -4.5953,
+      "population": 2494
+    },
+    {
+      "insee": "29023",
+      "nom": "Carantec",
+      "lat": 48.6693,
+      "lon": -3.9118,
+      "population": 3272
+    },
+    {
+      "insee": "29024",
+      "nom": "Carhaix-Plouguer",
+      "lat": 48.2708,
+      "lon": -3.5654,
+      "population": 7412
+    },
+    {
+      "insee": "29025",
+      "nom": "Cast",
+      "lat": 48.1501,
+      "lon": -4.1288,
+      "population": 1570
+    },
+    {
+      "insee": "29026",
+      "nom": "Châteaulin",
+      "lat": 48.2023,
+      "lon": -4.0765,
+      "population": 5085
+    },
+    {
+      "insee": "29027",
+      "nom": "Châteauneuf-du-Faou",
+      "lat": 48.1868,
+      "lon": -3.8244,
+      "population": 3651
+    },
+    {
+      "insee": "29028",
+      "nom": "Cléden-Cap-Sizun",
+      "lat": 48.0555,
+      "lon": -4.6623,
+      "population": 916
+    },
+    {
+      "insee": "29029",
+      "nom": "Cléden-Poher",
+      "lat": 48.2431,
+      "lon": -3.6639,
+      "population": 1130
+    },
+    {
+      "insee": "29030",
+      "nom": "Cléder",
+      "lat": 48.6578,
+      "lon": -4.1239,
+      "population": 3584
+    },
+    {
+      "insee": "29031",
+      "nom": "Clohars-Carnoët",
+      "lat": 47.7981,
+      "lon": -3.5682,
+      "population": 4708
+    },
+    {
+      "insee": "29032",
+      "nom": "Clohars-Fouesnant",
+      "lat": 47.8999,
+      "lon": -4.0827,
+      "population": 2264
+    },
+    {
+      "insee": "29035",
+      "nom": "Coat-Méal",
+      "lat": 48.5077,
+      "lon": -4.5431,
+      "population": 1133
+    },
+    {
+      "insee": "29036",
+      "nom": "Collorec",
+      "lat": 48.2892,
+      "lon": -3.7642,
+      "population": 588
+    },
+    {
+      "insee": "29037",
+      "nom": "Combrit",
+      "lat": 47.8922,
+      "lon": -4.1607,
+      "population": 4265
+    },
+    {
+      "insee": "29038",
+      "nom": "Commana",
+      "lat": 48.4126,
+      "lon": -3.9724,
+      "population": 983
+    },
+    {
+      "insee": "29039",
+      "nom": "Concarneau",
+      "lat": 47.8977,
+      "lon": -3.8993,
+      "population": 20845
+    },
+    {
+      "insee": "29145",
+      "nom": "Confort-Meilars",
+      "lat": 48.0596,
+      "lon": -4.435,
+      "population": 861
+    },
+    {
+      "insee": "29041",
+      "nom": "Coray",
+      "lat": 48.07,
+      "lon": -3.8618,
+      "population": 1856
+    },
+    {
+      "insee": "29042",
+      "nom": "Crozon",
+      "lat": 48.2396,
+      "lon": -4.4679,
+      "population": 7499
+    },
+    {
+      "insee": "29043",
+      "nom": "Daoulas",
+      "lat": 48.358,
+      "lon": -4.269,
+      "population": 1864
+    },
+    {
+      "insee": "29044",
+      "nom": "Dinéault",
+      "lat": 48.2164,
+      "lon": -4.1755,
+      "population": 1853
+    },
+    {
+      "insee": "29045",
+      "nom": "Dirinon",
+      "lat": 48.3977,
+      "lon": -4.2633,
+      "population": 2188
+    },
+    {
+      "insee": "29046",
+      "nom": "Douarnenez",
+      "lat": 48.0793,
+      "lon": -4.3243,
+      "population": 14068
+    },
+    {
+      "insee": "29048",
+      "nom": "Edern",
+      "lat": 48.1133,
+      "lon": -3.9583,
+      "population": 2186
+    },
+    {
+      "insee": "29049",
+      "nom": "Elliant",
+      "lat": 48.0073,
+      "lon": -3.9053,
+      "population": 3427
+    },
+    {
+      "insee": "29051",
+      "nom": "Ergué-Gabéric",
+      "lat": 48.0115,
+      "lon": -4.0111,
+      "population": 8606
+    },
+    {
+      "insee": "29058",
+      "nom": "Fouesnant",
+      "lat": 47.8444,
+      "lon": -4.0403,
+      "population": 10436
+    },
+    {
+      "insee": "29059",
+      "nom": "Garlan",
+      "lat": 48.6055,
+      "lon": -3.7683,
+      "population": 1043
+    },
+    {
+      "insee": "29060",
+      "nom": "Gouesnach",
+      "lat": 47.9179,
+      "lon": -4.1097,
+      "population": 2836
+    },
+    {
+      "insee": "29061",
+      "nom": "Gouesnou",
+      "lat": 48.4471,
+      "lon": -4.4614,
+      "population": 6501
+    },
+    {
+      "insee": "29062",
+      "nom": "Gouézec",
+      "lat": 48.1717,
+      "lon": -3.9696,
+      "population": 1111
+    },
+    {
+      "insee": "29063",
+      "nom": "Goulien",
+      "lat": 48.0598,
+      "lon": -4.5903,
+      "population": 446
+    },
+    {
+      "insee": "29064",
+      "nom": "Goulven",
+      "lat": 48.6234,
+      "lon": -4.2949,
+      "population": 432
+    },
+    {
+      "insee": "29065",
+      "nom": "Gourlizon",
+      "lat": 48.0272,
+      "lon": -4.267,
+      "population": 949
+    },
+    {
+      "insee": "29066",
+      "nom": "Guengat",
+      "lat": 48.0414,
+      "lon": -4.1882,
+      "population": 1846
+    },
+    {
+      "insee": "29067",
+      "nom": "Guerlesquin",
+      "lat": 48.5289,
+      "lon": -3.5832,
+      "population": 1285
+    },
+    {
+      "insee": "29068",
+      "nom": "Guiclan",
+      "lat": 48.5485,
+      "lon": -3.9759,
+      "population": 2585
+    },
+    {
+      "insee": "29070",
+      "nom": "Guiler-sur-Goyen",
+      "lat": 48.02,
+      "lon": -4.3592,
+      "population": 520
+    },
+    {
+      "insee": "29069",
+      "nom": "Guilers",
+      "lat": 48.4188,
+      "lon": -4.5625,
+      "population": 8268
+    },
+    {
+      "insee": "29071",
+      "nom": "Guilligomarc'h",
+      "lat": 47.9462,
+      "lon": -3.4284,
+      "population": 803
+    },
+    {
+      "insee": "29072",
+      "nom": "Guilvinec",
+      "lat": 47.7995,
+      "lon": -4.2871,
+      "population": 2669
+    },
+    {
+      "insee": "29073",
+      "nom": "Guimaëc",
+      "lat": 48.6814,
+      "lon": -3.7008,
+      "population": 982
+    },
+    {
+      "insee": "29074",
+      "nom": "Guimiliau",
+      "lat": 48.4826,
+      "lon": -3.9979,
+      "population": 994
+    },
+    {
+      "insee": "29075",
+      "nom": "Guipavas",
+      "lat": 48.4305,
+      "lon": -4.3943,
+      "population": 15538
+    },
+    {
+      "insee": "29077",
+      "nom": "Guissény",
+      "lat": 48.615,
+      "lon": -4.4066,
+      "population": 1979
+    },
+    {
+      "insee": "29078",
+      "nom": "Hanvec",
+      "lat": 48.327,
+      "lon": -4.1434,
+      "population": 2025
+    },
+    {
+      "insee": "29079",
+      "nom": "Henvic",
+      "lat": 48.6333,
+      "lon": -3.9247,
+      "population": 1181
+    },
+    {
+      "insee": "29080",
+      "nom": "Hôpital-Camfrout",
+      "lat": 48.3212,
+      "lon": -4.2434,
+      "population": 2215
+    },
+    {
+      "insee": "29081",
+      "nom": "Huelgoat",
+      "lat": 48.3621,
+      "lon": -3.762,
+      "population": 1440
+    },
+    {
+      "insee": "29082",
+      "nom": "Île-de-Batz",
+      "lat": 48.7443,
+      "lon": -4.0051,
+      "population": 458
+    },
+    {
+      "insee": "29083",
+      "nom": "Île-de-Sein",
+      "lat": 48.0372,
+      "lon": -4.8536,
+      "population": 263
+    },
+    {
+      "insee": "29084",
+      "nom": "Île-Molène",
+      "lat": 48.3983,
+      "lon": -4.9618,
+      "population": 176
+    },
+    {
+      "insee": "29085",
+      "nom": "Île-Tudy",
+      "lat": 47.8506,
+      "lon": -4.1612,
+      "population": 742
+    },
+    {
+      "insee": "29086",
+      "nom": "Irvillac",
+      "lat": 48.3677,
+      "lon": -4.1975,
+      "population": 1411
+    },
+    {
+      "insee": "29089",
+      "nom": "Kergloff",
+      "lat": 48.2818,
+      "lon": -3.648,
+      "population": 897
+    },
+    {
+      "insee": "29090",
+      "nom": "Kerlaz",
+      "lat": 48.0907,
+      "lon": -4.2649,
+      "population": 805
+    },
+    {
+      "insee": "29091",
+      "nom": "Kerlouan",
+      "lat": 48.6498,
+      "lon": -4.3925,
+      "population": 1999
+    },
+    {
+      "insee": "29093",
+      "nom": "Kernilis",
+      "lat": 48.5759,
+      "lon": -4.4119,
+      "population": 1407
+    },
+    {
+      "insee": "29094",
+      "nom": "Kernouës",
+      "lat": 48.5959,
+      "lon": -4.3465,
+      "population": 665
+    },
+    {
+      "insee": "29095",
+      "nom": "Kersaint-Plabennec",
+      "lat": 48.4844,
+      "lon": -4.3639,
+      "population": 1571
+    },
+    {
+      "insee": "29054",
+      "nom": "La Feuillée",
+      "lat": 48.3912,
+      "lon": -3.8585,
+      "population": 677
+    },
+    {
+      "insee": "29056",
+      "nom": "La Forest-Landerneau",
+      "lat": 48.4323,
+      "lon": -4.3099,
+      "population": 2018
+    },
+    {
+      "insee": "29057",
+      "nom": "La Forêt-Fouesnant",
+      "lat": 47.9203,
+      "lon": -3.9645,
+      "population": 3508
+    },
+    {
+      "insee": "29144",
+      "nom": "La Martyre",
+      "lat": 48.4341,
+      "lon": -4.1712,
+      "population": 751
+    },
+    {
+      "insee": "29237",
+      "nom": "La Roche-Maurice",
+      "lat": 48.472,
+      "lon": -4.1871,
+      "population": 1893
+    },
+    {
+      "insee": "29097",
+      "nom": "Lampaul-Guimiliau",
+      "lat": 48.4801,
+      "lon": -4.0431,
+      "population": 2032
+    },
+    {
+      "insee": "29098",
+      "nom": "Lampaul-Plouarzel",
+      "lat": 48.4529,
+      "lon": -4.7644,
+      "population": 2221
+    },
+    {
+      "insee": "29099",
+      "nom": "Lampaul-Ploudalmézeau",
+      "lat": 48.5589,
+      "lon": -4.6492,
+      "population": 816
+    },
+    {
+      "insee": "29100",
+      "nom": "Lanarvily",
+      "lat": 48.5612,
+      "lon": -4.3869,
+      "population": 401
+    },
+    {
+      "insee": "29101",
+      "nom": "Landéda",
+      "lat": 48.5944,
+      "lon": -4.5826,
+      "population": 3702
+    },
+    {
+      "insee": "29102",
+      "nom": "Landeleau",
+      "lat": 48.2497,
+      "lon": -3.7332,
+      "population": 993
+    },
+    {
+      "insee": "29103",
+      "nom": "Landerneau",
+      "lat": 48.4494,
+      "lon": -4.2661,
+      "population": 16363
+    },
+    {
+      "insee": "29104",
+      "nom": "Landévennec",
+      "lat": 48.2802,
+      "lon": -4.3104,
+      "population": 330
+    },
+    {
+      "insee": "29105",
+      "nom": "Landivisiau",
+      "lat": 48.5163,
+      "lon": -4.0615,
+      "population": 9426
+    },
+    {
+      "insee": "29106",
+      "nom": "Landrévarzec",
+      "lat": 48.0878,
+      "lon": -4.0757,
+      "population": 1882
+    },
+    {
+      "insee": "29107",
+      "nom": "Landudal",
+      "lat": 48.0585,
+      "lon": -3.9815,
+      "population": 930
+    },
+    {
+      "insee": "29108",
+      "nom": "Landudec",
+      "lat": 47.9986,
+      "lon": -4.3325,
+      "population": 1459
+    },
+    {
+      "insee": "29109",
+      "nom": "Landunvez",
+      "lat": 48.5379,
+      "lon": -4.7392,
+      "population": 1579
+    },
+    {
+      "insee": "29110",
+      "nom": "Langolen",
+      "lat": 48.0736,
+      "lon": -3.911,
+      "population": 836
+    },
+    {
+      "insee": "29111",
+      "nom": "Lanhouarneau",
+      "lat": 48.5753,
+      "lon": -4.2059,
+      "population": 1282
+    },
+    {
+      "insee": "29112",
+      "nom": "Lanildut",
+      "lat": 48.4823,
+      "lon": -4.7343,
+      "population": 1013
+    },
+    {
+      "insee": "29113",
+      "nom": "Lanmeur",
+      "lat": 48.644,
+      "lon": -3.7187,
+      "population": 2387
+    },
+    {
+      "insee": "29114",
+      "nom": "Lannéanou",
+      "lat": 48.4971,
+      "lon": -3.6652,
+      "population": 342
+    },
+    {
+      "insee": "29115",
+      "nom": "Lannédern",
+      "lat": 48.2883,
+      "lon": -3.9033,
+      "population": 321
+    },
+    {
+      "insee": "29116",
+      "nom": "Lanneuffret",
+      "lat": 48.4959,
+      "lon": -4.2021,
+      "population": 158
+    },
+    {
+      "insee": "29117",
+      "nom": "Lannilis",
+      "lat": 48.5719,
+      "lon": -4.5244,
+      "population": 5709
+    },
+    {
+      "insee": "29119",
+      "nom": "Lanrivoaré",
+      "lat": 48.4683,
+      "lon": -4.6368,
+      "population": 1551
+    },
+    {
+      "insee": "29120",
+      "nom": "Lanvéoc",
+      "lat": 48.2764,
+      "lon": -4.4434,
+      "population": 2044
+    },
+    {
+      "insee": "29122",
+      "nom": "Laz",
+      "lat": 48.1347,
+      "lon": -3.8363,
+      "population": 685
+    },
+    {
+      "insee": "29033",
+      "nom": "Le Cloître-Pleyben",
+      "lat": 48.2581,
+      "lon": -3.9006,
+      "population": 502
+    },
+    {
+      "insee": "29034",
+      "nom": "Le Cloître-Saint-Thégonnec",
+      "lat": 48.4571,
+      "lon": -3.792,
+      "population": 641
+    },
+    {
+      "insee": "29040",
+      "nom": "Le Conquet",
+      "lat": 48.3715,
+      "lon": -4.8817,
+      "population": 2835
+    },
+    {
+      "insee": "29047",
+      "nom": "Le Drennec",
+      "lat": 48.534,
+      "lon": -4.3825,
+      "population": 1896
+    },
+    {
+      "insee": "29053",
+      "nom": "Le Faou",
+      "lat": 48.3028,
+      "lon": -4.1422,
+      "population": 1911
+    },
+    {
+      "insee": "29055",
+      "nom": "Le Folgoët",
+      "lat": 48.5678,
+      "lon": -4.3513,
+      "population": 3315
+    },
+    {
+      "insee": "29087",
+      "nom": "Le Juch",
+      "lat": 48.0562,
+      "lon": -4.2646,
+      "population": 765
+    },
+    {
+      "insee": "29235",
+      "nom": "Le Relecq-Kerhuon",
+      "lat": 48.4032,
+      "lon": -4.4014,
+      "population": 11897
+    },
+    {
+      "insee": "29294",
+      "nom": "Le Tréhou",
+      "lat": 48.3967,
+      "lon": -4.1364,
+      "population": 633
+    },
+    {
+      "insee": "29300",
+      "nom": "Le Trévoux",
+      "lat": 47.8866,
+      "lon": -3.6545,
+      "population": 1652
+    },
+    {
+      "insee": "29123",
+      "nom": "Lennon",
+      "lat": 48.207,
+      "lon": -3.9026,
+      "population": 812
+    },
+    {
+      "insee": "29124",
+      "nom": "Lesneven",
+      "lat": 48.5814,
+      "lon": -4.3104,
+      "population": 7566
+    },
+    {
+      "insee": "29125",
+      "nom": "Leuhan",
+      "lat": 48.0941,
+      "lon": -3.7764,
+      "population": 846
+    },
+    {
+      "insee": "29126",
+      "nom": "Loc-Brévalaire",
+      "lat": 48.554,
+      "lon": -4.4065,
+      "population": 210
+    },
+    {
+      "insee": "29128",
+      "nom": "Loc-Eguiner",
+      "lat": 48.4739,
+      "lon": -4.0952,
+      "population": 376
+    },
+    {
+      "insee": "29130",
+      "nom": "Locmaria-Plouzané",
+      "lat": 48.3713,
+      "lon": -4.6533,
+      "population": 5130
+    },
+    {
+      "insee": "29131",
+      "nom": "Locmélar",
+      "lat": 48.4533,
+      "lon": -4.0602,
+      "population": 487
+    },
+    {
+      "insee": "29132",
+      "nom": "Locquénolé",
+      "lat": 48.6236,
+      "lon": -3.8641,
+      "population": 790
+    },
+    {
+      "insee": "29133",
+      "nom": "Locquirec",
+      "lat": 48.6818,
+      "lon": -3.6708,
+      "population": 1555
+    },
+    {
+      "insee": "29134",
+      "nom": "Locronan",
+      "lat": 48.0955,
+      "lon": -4.2102,
+      "population": 829
+    },
+    {
+      "insee": "29135",
+      "nom": "Loctudy",
+      "lat": 47.8246,
+      "lon": -4.1852,
+      "population": 4075
+    },
+    {
+      "insee": "29136",
+      "nom": "Locunolé",
+      "lat": 47.9239,
+      "lon": -3.4859,
+      "population": 1177
+    },
+    {
+      "insee": "29137",
+      "nom": "Logonna-Daoulas",
+      "lat": 48.3292,
+      "lon": -4.293,
+      "population": 2130
+    },
+    {
+      "insee": "29139",
+      "nom": "Lopérec",
+      "lat": 48.3062,
+      "lon": -4.0352,
+      "population": 828
+    },
+    {
+      "insee": "29140",
+      "nom": "Loperhet",
+      "lat": 48.3779,
+      "lon": -4.3142,
+      "population": 3959
+    },
+    {
+      "insee": "29141",
+      "nom": "Loqueffret",
+      "lat": 48.3278,
+      "lon": -3.8466,
+      "population": 336
+    },
+    {
+      "insee": "29142",
+      "nom": "Lothey",
+      "lat": 48.1874,
+      "lon": -4.0277,
+      "population": 424
+    },
+    {
+      "insee": "29143",
+      "nom": "Mahalon",
+      "lat": 48.0286,
+      "lon": -4.4208,
+      "population": 1021
+    },
+    {
+      "insee": "29146",
+      "nom": "Melgven",
+      "lat": 47.9084,
+      "lon": -3.8433,
+      "population": 3371
+    },
+    {
+      "insee": "29147",
+      "nom": "Mellac",
+      "lat": 47.8984,
+      "lon": -3.5835,
+      "population": 3404
+    },
+    {
+      "insee": "29148",
+      "nom": "Mespaul",
+      "lat": 48.6161,
+      "lon": -4.0357,
+      "population": 946
+    },
+    {
+      "insee": "29076",
+      "nom": "Milizac-Guipronvel",
+      "lat": 48.4707,
+      "lon": -4.5639,
+      "population": 4816
+    },
+    {
+      "insee": "29150",
+      "nom": "Moëlan-sur-Mer",
+      "lat": 47.8075,
+      "lon": -3.6522,
+      "population": 6749
+    },
+    {
+      "insee": "29151",
+      "nom": "Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "population": 15194
+    },
+    {
+      "insee": "29152",
+      "nom": "Motreff",
+      "lat": 48.2215,
+      "lon": -3.5602,
+      "population": 654
+    },
+    {
+      "insee": "29153",
+      "nom": "Névez",
+      "lat": 47.8091,
+      "lon": -3.7745,
+      "population": 2795
+    },
+    {
+      "insee": "29155",
+      "nom": "Ouessant",
+      "lat": 48.46,
+      "lon": -5.0869,
+      "population": 860
+    },
+    {
+      "insee": "29156",
+      "nom": "Pencran",
+      "lat": 48.4447,
+      "lon": -4.2194,
+      "population": 2234
+    },
+    {
+      "insee": "29158",
+      "nom": "Penmarch",
+      "lat": 47.8122,
+      "lon": -4.3406,
+      "population": 5508
+    },
+    {
+      "insee": "29159",
+      "nom": "Peumerit",
+      "lat": 47.9461,
+      "lon": -4.2957,
+      "population": 917
+    },
+    {
+      "insee": "29160",
+      "nom": "Plabennec",
+      "lat": 48.5012,
+      "lon": -4.4254,
+      "population": 8686
+    },
+    {
+      "insee": "29161",
+      "nom": "Pleuven",
+      "lat": 47.9132,
+      "lon": -4.049,
+      "population": 3311
+    },
+    {
+      "insee": "29162",
+      "nom": "Pleyben",
+      "lat": 48.2418,
+      "lon": -3.9783,
+      "population": 3692
+    },
+    {
+      "insee": "29163",
+      "nom": "Pleyber-Christ",
+      "lat": 48.5081,
+      "lon": -3.8754,
+      "population": 3166
+    },
+    {
+      "insee": "29165",
+      "nom": "Plobannalec-Lesconil",
+      "lat": 47.8209,
+      "lon": -4.2282,
+      "population": 3718
+    },
+    {
+      "insee": "29166",
+      "nom": "Ploéven",
+      "lat": 48.158,
+      "lon": -4.2216,
+      "population": 550
+    },
+    {
+      "insee": "29167",
+      "nom": "Plogastel-Saint-Germain",
+      "lat": 47.9748,
+      "lon": -4.2689,
+      "population": 2024
+    },
+    {
+      "insee": "29168",
+      "nom": "Plogoff",
+      "lat": 48.0342,
+      "lon": -4.687,
+      "population": 1131
+    },
+    {
+      "insee": "29169",
+      "nom": "Plogonnec",
+      "lat": 48.0694,
+      "lon": -4.1759,
+      "population": 3236
+    },
+    {
+      "insee": "29170",
+      "nom": "Plomelin",
+      "lat": 47.9313,
+      "lon": -4.1499,
+      "population": 4239
+    },
+    {
+      "insee": "29171",
+      "nom": "Plomeur",
+      "lat": 47.8377,
+      "lon": -4.3007,
+      "population": 3904
+    },
+    {
+      "insee": "29172",
+      "nom": "Plomodiern",
+      "lat": 48.1808,
+      "lon": -4.2045,
+      "population": 2282
+    },
+    {
+      "insee": "29173",
+      "nom": "Plonéis",
+      "lat": 48.0099,
+      "lon": -4.2066,
+      "population": 2409
+    },
+    {
+      "insee": "29174",
+      "nom": "Plonéour-Lanvern",
+      "lat": 47.9066,
+      "lon": -4.2678,
+      "population": 6452
+    },
+    {
+      "insee": "29175",
+      "nom": "Plonévez-du-Faou",
+      "lat": 48.2649,
+      "lon": -3.8095,
+      "population": 2160
+    },
+    {
+      "insee": "29176",
+      "nom": "Plonévez-Porzay",
+      "lat": 48.1247,
+      "lon": -4.2387,
+      "population": 1781
+    },
+    {
+      "insee": "29177",
+      "nom": "Plouarzel",
+      "lat": 48.4397,
+      "lon": -4.7236,
+      "population": 4029
+    },
+    {
+      "insee": "29178",
+      "nom": "Ploudalmézeau",
+      "lat": 48.5407,
+      "lon": -4.6686,
+      "population": 6522
+    },
+    {
+      "insee": "29179",
+      "nom": "Ploudaniel",
+      "lat": 48.5205,
+      "lon": -4.3095,
+      "population": 3732
+    },
+    {
+      "insee": "29180",
+      "nom": "Ploudiry",
+      "lat": 48.453,
+      "lon": -4.1323,
+      "population": 872
+    },
+    {
+      "insee": "29181",
+      "nom": "Plouédern",
+      "lat": 48.4829,
+      "lon": -4.2552,
+      "population": 3103
+    },
+    {
+      "insee": "29182",
+      "nom": "Plouégat-Guérand",
+      "lat": 48.624,
+      "lon": -3.6695,
+      "population": 1050
+    },
+    {
+      "insee": "29183",
+      "nom": "Plouégat-Moysan",
+      "lat": 48.5679,
+      "lon": -3.6143,
+      "population": 717
+    },
+    {
+      "insee": "29184",
+      "nom": "Plouénan",
+      "lat": 48.6183,
+      "lon": -3.99,
+      "population": 2610
+    },
+    {
+      "insee": "29185",
+      "nom": "Plouescat",
+      "lat": 48.6676,
+      "lon": -4.1851,
+      "population": 3554
+    },
+    {
+      "insee": "29186",
+      "nom": "Plouezoc'h",
+      "lat": 48.6442,
+      "lon": -3.8251,
+      "population": 1646
+    },
+    {
+      "insee": "29187",
+      "nom": "Plougar",
+      "lat": 48.5568,
+      "lon": -4.1346,
+      "population": 789
+    },
+    {
+      "insee": "29188",
+      "nom": "Plougasnou",
+      "lat": 48.6788,
+      "lon": -3.8142,
+      "population": 3192
+    },
+    {
+      "insee": "29189",
+      "nom": "Plougastel-Daoulas",
+      "lat": 48.3628,
+      "lon": -4.3912,
+      "population": 13434
+    },
+    {
+      "insee": "29190",
+      "nom": "Plougonvelin",
+      "lat": 48.3533,
+      "lon": -4.7252,
+      "population": 4521
+    },
+    {
+      "insee": "29191",
+      "nom": "Plougonven",
+      "lat": 48.5064,
+      "lon": -3.7354,
+      "population": 3382
+    },
+    {
+      "insee": "29192",
+      "nom": "Plougoulm",
+      "lat": 48.654,
+      "lon": -4.0429,
+      "population": 1755
+    },
+    {
+      "insee": "29193",
+      "nom": "Plougourvest",
+      "lat": 48.5516,
+      "lon": -4.0744,
+      "population": 1522
+    },
+    {
+      "insee": "29195",
+      "nom": "Plouguerneau",
+      "lat": 48.6046,
+      "lon": -4.5104,
+      "population": 6755
+    },
+    {
+      "insee": "29196",
+      "nom": "Plouguin",
+      "lat": 48.5291,
+      "lon": -4.5931,
+      "population": 2268
+    },
+    {
+      "insee": "29197",
+      "nom": "Plouhinec",
+      "lat": 48.0122,
+      "lon": -4.4839,
+      "population": 3919
+    },
+    {
+      "insee": "29198",
+      "nom": "Plouider",
+      "lat": 48.6053,
+      "lon": -4.2973,
+      "population": 1809
+    },
+    {
+      "insee": "29199",
+      "nom": "Plouigneau",
+      "lat": 48.5718,
+      "lon": -3.7226,
+      "population": 5014
+    },
+    {
+      "insee": "29201",
+      "nom": "Ploumoguer",
+      "lat": 48.3951,
+      "lon": -4.7086,
+      "population": 2074
+    },
+    {
+      "insee": "29021",
+      "nom": "Plounéour-Brignogan-plages",
+      "lat": 48.6519,
+      "lon": -4.3246,
+      "population": 1972
+    },
+    {
+      "insee": "29202",
+      "nom": "Plounéour-Ménez",
+      "lat": 48.4431,
+      "lon": -3.8834,
+      "population": 1297
+    },
+    {
+      "insee": "29204",
+      "nom": "Plounéventer",
+      "lat": 48.524,
+      "lon": -4.207,
+      "population": 2251
+    },
+    {
+      "insee": "29206",
+      "nom": "Plounévez-Lochrist",
+      "lat": 48.6213,
+      "lon": -4.1983,
+      "population": 2281
+    },
+    {
+      "insee": "29205",
+      "nom": "Plounévézel",
+      "lat": 48.3143,
+      "lon": -3.5653,
+      "population": 1157
+    },
+    {
+      "insee": "29208",
+      "nom": "Plourin",
+      "lat": 48.5057,
+      "lon": -4.6865,
+      "population": 1268
+    },
+    {
+      "insee": "29207",
+      "nom": "Plourin-lès-Morlaix",
+      "lat": 48.5262,
+      "lon": -3.7977,
+      "population": 4548
+    },
+    {
+      "insee": "29209",
+      "nom": "Plouvien",
+      "lat": 48.5331,
+      "lon": -4.4686,
+      "population": 3968
+    },
+    {
+      "insee": "29210",
+      "nom": "Plouvorn",
+      "lat": 48.5759,
+      "lon": -4.0139,
+      "population": 2916
+    },
+    {
+      "insee": "29211",
+      "nom": "Plouyé",
+      "lat": 48.3143,
+      "lon": -3.7391,
+      "population": 687
+    },
+    {
+      "insee": "29212",
+      "nom": "Plouzané",
+      "lat": 48.3748,
+      "lon": -4.5976,
+      "population": 13567
+    },
+    {
+      "insee": "29213",
+      "nom": "Plouzévédé",
+      "lat": 48.5958,
+      "lon": -4.0932,
+      "population": 1897
+    },
+    {
+      "insee": "29214",
+      "nom": "Plovan",
+      "lat": 47.9337,
+      "lon": -4.3589,
+      "population": 677
+    },
+    {
+      "insee": "29215",
+      "nom": "Plozévet",
+      "lat": 47.9793,
+      "lon": -4.4164,
+      "population": 2984
+    },
+    {
+      "insee": "29216",
+      "nom": "Pluguffan",
+      "lat": 47.967,
+      "lon": -4.1836,
+      "population": 4223
+    },
+    {
+      "insee": "29217",
+      "nom": "Pont-Aven",
+      "lat": 47.8742,
+      "lon": -3.7651,
+      "population": 2777
+    },
+    {
+      "insee": "29218",
+      "nom": "Pont-Croix",
+      "lat": 48.0485,
+      "lon": -4.5026,
+      "population": 1669
+    },
+    {
+      "insee": "29302",
+      "nom": "Pont-de-Buis-lès-Quimerch",
+      "lat": 48.2738,
+      "lon": -4.1109,
+      "population": 3663
+    },
+    {
+      "insee": "29220",
+      "nom": "Pont-l'Abbé",
+      "lat": 47.8674,
+      "lon": -4.2174,
+      "population": 8484
+    },
+    {
+      "insee": "29221",
+      "nom": "Porspoder",
+      "lat": 48.4998,
+      "lon": -4.7536,
+      "population": 1753
+    },
+    {
+      "insee": "29222",
+      "nom": "Port-Launay",
+      "lat": 48.2182,
+      "lon": -4.0831,
+      "population": 404
+    },
+    {
+      "insee": "29224",
+      "nom": "Pouldergat",
+      "lat": 48.0429,
+      "lon": -4.3271,
+      "population": 1213
+    },
+    {
+      "insee": "29225",
+      "nom": "Pouldreuzic",
+      "lat": 47.9628,
+      "lon": -4.3653,
+      "population": 2119
+    },
+    {
+      "insee": "29226",
+      "nom": "Poullan-sur-Mer",
+      "lat": 48.0749,
+      "lon": -4.4044,
+      "population": 1453
+    },
+    {
+      "insee": "29227",
+      "nom": "Poullaouen",
+      "lat": 48.3413,
+      "lon": -3.6451,
+      "population": 1470
+    },
+    {
+      "insee": "29228",
+      "nom": "Primelin",
+      "lat": 48.0274,
+      "lon": -4.6052,
+      "population": 650
+    },
+    {
+      "insee": "29229",
+      "nom": "Quéménéven",
+      "lat": 48.1199,
+      "lon": -4.1438,
+      "population": 1119
+    },
+    {
+      "insee": "29230",
+      "nom": "Querrien",
+      "lat": 47.954,
+      "lon": -3.5398,
+      "population": 1645
+    },
+    {
+      "insee": "29232",
+      "nom": "Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
+      "population": 64385
+    },
+    {
+      "insee": "29233",
+      "nom": "Quimperlé",
+      "lat": 47.8558,
+      "lon": -3.5586,
+      "population": 12469
+    },
+    {
+      "insee": "29234",
+      "nom": "Rédené",
+      "lat": 47.856,
+      "lon": -3.4884,
+      "population": 3043
+    },
+    {
+      "insee": "29236",
+      "nom": "Riec-sur-Bélon",
+      "lat": 47.8511,
+      "lon": -3.68,
+      "population": 4376
+    },
+    {
+      "insee": "29238",
+      "nom": "Roscanvel",
+      "lat": 48.317,
+      "lon": -4.5577,
+      "population": 855
+    },
+    {
+      "insee": "29239",
+      "nom": "Roscoff",
+      "lat": 48.7135,
+      "lon": -3.9866,
+      "population": 3334
+    },
+    {
+      "insee": "29240",
+      "nom": "Rosnoën",
+      "lat": 48.2725,
+      "lon": -4.2113,
+      "population": 1012
+    },
+    {
+      "insee": "29241",
+      "nom": "Rosporden",
+      "lat": 47.9504,
+      "lon": -3.8226,
+      "population": 7550
+    },
+    {
+      "insee": "29243",
+      "nom": "Saint-Coulitz",
+      "lat": 48.1835,
+      "lon": -4.0709,
+      "population": 475
+    },
+    {
+      "insee": "29244",
+      "nom": "Saint-Derrien",
+      "lat": 48.5475,
+      "lon": -4.1848,
+      "population": 861
+    },
+    {
+      "insee": "29245",
+      "nom": "Saint-Divy",
+      "lat": 48.4524,
+      "lon": -4.3317,
+      "population": 1605
+    },
+    {
+      "insee": "29246",
+      "nom": "Saint-Eloy",
+      "lat": 48.3653,
+      "lon": -4.1138,
+      "population": 220
+    },
+    {
+      "insee": "29247",
+      "nom": "Saint-Évarzec",
+      "lat": 47.9556,
+      "lon": -4.0124,
+      "population": 3574
+    },
+    {
+      "insee": "29248",
+      "nom": "Saint-Frégant",
+      "lat": 48.5974,
+      "lon": -4.3712,
+      "population": 874
+    },
+    {
+      "insee": "29249",
+      "nom": "Saint-Goazec",
+      "lat": 48.1546,
+      "lon": -3.7605,
+      "population": 739
+    },
+    {
+      "insee": "29250",
+      "nom": "Saint-Hernin",
+      "lat": 48.2097,
+      "lon": -3.6134,
+      "population": 753
+    },
+    {
+      "insee": "29251",
+      "nom": "Saint-Jean-du-Doigt",
+      "lat": 48.6683,
+      "lon": -3.7619,
+      "population": 692
+    },
+    {
+      "insee": "29252",
+      "nom": "Saint-Jean-Trolimon",
+      "lat": 47.8718,
+      "lon": -4.3083,
+      "population": 997
+    },
+    {
+      "insee": "29254",
+      "nom": "Saint-Martin-des-Champs",
+      "lat": 48.5755,
+      "lon": -3.856,
+      "population": 4773
+    },
+    {
+      "insee": "29255",
+      "nom": "Saint-Méen",
+      "lat": 48.5542,
+      "lon": -4.2586,
+      "population": 942
+    },
+    {
+      "insee": "29256",
+      "nom": "Saint-Nic",
+      "lat": 48.2078,
+      "lon": -4.2809,
+      "population": 753
+    },
+    {
+      "insee": "29257",
+      "nom": "Saint-Pabu",
+      "lat": 48.5671,
+      "lon": -4.6203,
+      "population": 2087
+    },
+    {
+      "insee": "29259",
+      "nom": "Saint-Pol-de-Léon",
+      "lat": 48.6743,
+      "lon": -3.989,
+      "population": 6941
+    },
+    {
+      "insee": "29260",
+      "nom": "Saint-Renan",
+      "lat": 48.4288,
+      "lon": -4.6212,
+      "population": 8577
+    },
+    {
+      "insee": "29261",
+      "nom": "Saint-Rivoal",
+      "lat": 48.3458,
+      "lon": -3.9946,
+      "population": 223
+    },
+    {
+      "insee": "29262",
+      "nom": "Saint-Sauveur",
+      "lat": 48.4485,
+      "lon": -3.9992,
+      "population": 849
+    },
+    {
+      "insee": "29263",
+      "nom": "Saint-Ségal",
+      "lat": 48.2349,
+      "lon": -4.0734,
+      "population": 1182
+    },
+    {
+      "insee": "29264",
+      "nom": "Saint-Servais",
+      "lat": 48.5156,
+      "lon": -4.161,
+      "population": 784
+    },
+    {
+      "insee": "29266",
+      "nom": "Saint-Thégonnec Loc-Eguiner",
+      "lat": 48.5113,
+      "lon": -3.9387,
+      "population": 3148
+    },
+    {
+      "insee": "29267",
+      "nom": "Saint-Thois",
+      "lat": 48.1533,
+      "lon": -3.9043,
+      "population": 703
+    },
+    {
+      "insee": "29268",
+      "nom": "Saint-Thonan",
+      "lat": 48.4766,
+      "lon": -4.3218,
+      "population": 1956
+    },
+    {
+      "insee": "29269",
+      "nom": "Saint-Thurien",
+      "lat": 47.9562,
+      "lon": -3.6208,
+      "population": 1000
+    },
+    {
+      "insee": "29270",
+      "nom": "Saint-Urbain",
+      "lat": 48.395,
+      "lon": -4.219,
+      "population": 1670
+    },
+    {
+      "insee": "29271",
+      "nom": "Saint-Vougay",
+      "lat": 48.5917,
+      "lon": -4.1444,
+      "population": 873
+    },
+    {
+      "insee": "29272",
+      "nom": "Saint-Yvi",
+      "lat": 47.9606,
+      "lon": -3.9329,
+      "population": 3431
+    },
+    {
+      "insee": "29265",
+      "nom": "Sainte-Sève",
+      "lat": 48.5614,
+      "lon": -3.8881,
+      "population": 1077
+    },
+    {
+      "insee": "29273",
+      "nom": "Santec",
+      "lat": 48.7059,
+      "lon": -4.0377,
+      "population": 2454
+    },
+    {
+      "insee": "29274",
+      "nom": "Scaër",
+      "lat": 48.0268,
+      "lon": -3.7267,
+      "population": 5178
+    },
+    {
+      "insee": "29275",
+      "nom": "Scrignac",
+      "lat": 48.4238,
+      "lon": -3.6875,
+      "population": 816
+    },
+    {
+      "insee": "29276",
+      "nom": "Sibiril",
+      "lat": 48.6666,
+      "lon": -4.0707,
+      "population": 1143
+    },
+    {
+      "insee": "29277",
+      "nom": "Sizun",
+      "lat": 48.3966,
+      "lon": -4.0251,
+      "population": 2325
+    },
+    {
+      "insee": "29278",
+      "nom": "Spézet",
+      "lat": 48.1875,
+      "lon": -3.6959,
+      "population": 1774
+    },
+    {
+      "insee": "29279",
+      "nom": "Taulé",
+      "lat": 48.6001,
+      "lon": -3.9011,
+      "population": 2914
+    },
+    {
+      "insee": "29280",
+      "nom": "Telgruc-sur-Mer",
+      "lat": 48.2367,
+      "lon": -4.3613,
+      "population": 2167
+    },
+    {
+      "insee": "29281",
+      "nom": "Tourch",
+      "lat": 48.0279,
+      "lon": -3.8229,
+      "population": 1002
+    },
+    {
+      "insee": "29282",
+      "nom": "Trébabu",
+      "lat": 48.3713,
+      "lon": -4.7341,
+      "population": 368
+    },
+    {
+      "insee": "29284",
+      "nom": "Treffiagat",
+      "lat": 47.8068,
+      "lon": -4.2562,
+      "population": 2429
+    },
+    {
+      "insee": "29285",
+      "nom": "Tréflaouénan",
+      "lat": 48.6239,
+      "lon": -4.1014,
+      "population": 518
+    },
+    {
+      "insee": "29286",
+      "nom": "Tréflévénez",
+      "lat": 48.4144,
+      "lon": -4.1785,
+      "population": 260
+    },
+    {
+      "insee": "29287",
+      "nom": "Tréflez",
+      "lat": 48.6254,
+      "lon": -4.2645,
+      "population": 991
+    },
+    {
+      "insee": "29288",
+      "nom": "Trégarantec",
+      "lat": 48.5511,
+      "lon": -4.2891,
+      "population": 634
+    },
+    {
+      "insee": "29289",
+      "nom": "Trégarvan",
+      "lat": 48.2407,
+      "lon": -4.2344,
+      "population": 134
+    },
+    {
+      "insee": "29290",
+      "nom": "Tréglonou",
+      "lat": 48.5442,
+      "lon": -4.544,
+      "population": 689
+    },
+    {
+      "insee": "29291",
+      "nom": "Trégourez",
+      "lat": 48.1053,
+      "lon": -3.8697,
+      "population": 947
+    },
+    {
+      "insee": "29292",
+      "nom": "Tréguennec",
+      "lat": 47.8831,
+      "lon": -4.3368,
+      "population": 311
+    },
+    {
+      "insee": "29293",
+      "nom": "Trégunc",
+      "lat": 47.8372,
+      "lon": -3.8463,
+      "population": 7148
+    },
+    {
+      "insee": "29295",
+      "nom": "Trémaouézan",
+      "lat": 48.5099,
+      "lon": -4.2549,
+      "population": 483
+    },
+    {
+      "insee": "29296",
+      "nom": "Tréméoc",
+      "lat": 47.9064,
+      "lon": -4.2165,
+      "population": 1503
+    },
+    {
+      "insee": "29297",
+      "nom": "Tréméven",
+      "lat": 47.9018,
+      "lon": -3.5254,
+      "population": 2402
+    },
+    {
+      "insee": "29298",
+      "nom": "Tréogat",
+      "lat": 47.9085,
+      "lon": -4.342,
+      "population": 573
+    },
+    {
+      "insee": "29299",
+      "nom": "Tréouergat",
+      "lat": 48.4958,
+      "lon": -4.6065,
+      "population": 323
+    },
+    {
+      "insee": "29301",
+      "nom": "Trézilidé",
+      "lat": 48.6104,
+      "lon": -4.0832,
+      "population": 405
+    }
+  ]
+}

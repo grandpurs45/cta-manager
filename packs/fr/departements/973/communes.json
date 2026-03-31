@@ -1,0 +1,161 @@
+{
+  "country": "FR",
+  "departmentCode": "973",
+  "label": "Departement 973",
+  "communes": [
+    {
+      "insee": "97360",
+      "nom": "Apatou",
+      "lat": 4.9019,
+      "lon": -54.2171,
+      "population": 10306
+    },
+    {
+      "insee": "97361",
+      "nom": "Awala-Yalimapo",
+      "lat": 5.6742,
+      "lon": -53.9167,
+      "population": 1577
+    },
+    {
+      "insee": "97356",
+      "nom": "Camopi",
+      "lat": 2.8679,
+      "lon": -52.6916,
+      "population": 2189
+    },
+    {
+      "insee": "97302",
+      "nom": "Cayenne",
+      "lat": 4.9464,
+      "lon": -52.3319,
+      "population": 62675
+    },
+    {
+      "insee": "97357",
+      "nom": "Grand-Santi",
+      "lat": 4.3756,
+      "lon": -54.1148,
+      "population": 9668
+    },
+    {
+      "insee": "97303",
+      "nom": "Iracoubo",
+      "lat": 5.2395,
+      "lon": -53.2979,
+      "population": 1662
+    },
+    {
+      "insee": "97304",
+      "nom": "Kourou",
+      "lat": 4.9085,
+      "lon": -52.7767,
+      "population": 24824
+    },
+    {
+      "insee": "97305",
+      "nom": "Macouria",
+      "lat": 4.9925,
+      "lon": -52.4834,
+      "population": 19899
+    },
+    {
+      "insee": "97306",
+      "nom": "Mana",
+      "lat": 4.9955,
+      "lon": -53.6784,
+      "population": 10957
+    },
+    {
+      "insee": "97353",
+      "nom": "Maripasoula",
+      "lat": 3.049,
+      "lon": -53.8275,
+      "population": 9579
+    },
+    {
+      "insee": "97307",
+      "nom": "Matoury",
+      "lat": 4.8281,
+      "lon": -52.3498,
+      "population": 36512
+    },
+    {
+      "insee": "97313",
+      "nom": "Montsinéry-Tonnegrande",
+      "lat": 4.8124,
+      "lon": -52.5059,
+      "population": 3626
+    },
+    {
+      "insee": "97314",
+      "nom": "Ouanary",
+      "lat": 4.2104,
+      "lon": -51.8261,
+      "population": 150
+    },
+    {
+      "insee": "97362",
+      "nom": "Papaichton",
+      "lat": 4.0165,
+      "lon": -54.0463,
+      "population": 5006
+    },
+    {
+      "insee": "97301",
+      "nom": "Régina",
+      "lat": 4.0081,
+      "lon": -52.4797,
+      "population": 1658
+    },
+    {
+      "insee": "97309",
+      "nom": "Remire-Montjoly",
+      "lat": 4.8897,
+      "lon": -52.2809,
+      "population": 27723
+    },
+    {
+      "insee": "97310",
+      "nom": "Roura",
+      "lat": 4.4685,
+      "lon": -52.5164,
+      "population": 3449
+    },
+    {
+      "insee": "97358",
+      "nom": "Saint-Élie",
+      "lat": 4.4853,
+      "lon": -53.1108,
+      "population": 159
+    },
+    {
+      "insee": "97308",
+      "nom": "Saint-Georges",
+      "lat": 3.8078,
+      "lon": -52.075,
+      "population": 4915
+    },
+    {
+      "insee": "97311",
+      "nom": "Saint-Laurent-du-Maroni",
+      "lat": 4.9478,
+      "lon": -54.0105,
+      "population": 54429
+    },
+    {
+      "insee": "97352",
+      "nom": "Saül",
+      "lat": 3.8181,
+      "lon": -53.4333,
+      "population": 277
+    },
+    {
+      "insee": "97312",
+      "nom": "Sinnamary",
+      "lat": 5.2418,
+      "lon": -53.0097,
+      "population": 2756
+    }
+  ]
+}

@@ -11,6 +11,7 @@
     <div class="brand">
       <h1 id="appTitle">CTA-Manager Lite</h1>
       <p id="appVersionLine">Version</p>
+      <span id="installationModeBadge" class="mode-badge">Mode local</span>
     </div>
 
     <div class="topbar-stats">
@@ -52,6 +53,8 @@
           <button id="btnPause">Pause</button>
           <button onclick="openProgressionPanel()">Progression</button>
           <button onclick="showAdminPanel()">Administration</button>
+          <button class="secondary" onclick="openTerritorySetupPanel()">Territoire</button>
+          <button class="secondary" onclick="openAboutPanel()">A propos</button>
         </div>
       </div>
       <div id="interventionsList"></div>

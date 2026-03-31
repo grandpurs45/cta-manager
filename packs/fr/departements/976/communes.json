@@ -1,0 +1,126 @@
+{
+  "country": "FR",
+  "departmentCode": "976",
+  "label": "Departement 976",
+  "communes": [
+    {
+      "insee": "97601",
+      "nom": "Acoua",
+      "lat": -12.7249,
+      "lon": 45.0678,
+      "population": 5192
+    },
+    {
+      "insee": "97602",
+      "nom": "Bandraboua",
+      "lat": -12.7176,
+      "lon": 45.1238,
+      "population": 13989
+    },
+    {
+      "insee": "97603",
+      "nom": "Bandrele",
+      "lat": -12.9392,
+      "lon": 45.1797,
+      "population": 10282
+    },
+    {
+      "insee": "97604",
+      "nom": "Bouéni",
+      "lat": -12.9279,
+      "lon": 45.1021,
+      "population": 6189
+    },
+    {
+      "insee": "97605",
+      "nom": "Chiconi",
+      "lat": -12.8209,
+      "lon": 45.1125,
+      "population": 8295
+    },
+    {
+      "insee": "97606",
+      "nom": "Chirongui",
+      "lat": -12.9179,
+      "lon": 45.1428,
+      "population": 8920
+    },
+    {
+      "insee": "97607",
+      "nom": "Dembeni",
+      "lat": -12.853,
+      "lon": 45.1805,
+      "population": 15848
+    },
+    {
+      "insee": "97608",
+      "nom": "Dzaoudzi",
+      "lat": -12.7761,
+      "lon": 45.2769,
+      "population": 17831
+    },
+    {
+      "insee": "97609",
+      "nom": "Kani-Kéli",
+      "lat": -12.9746,
+      "lon": 45.1207,
+      "population": 5507
+    },
+    {
+      "insee": "97610",
+      "nom": "Koungou",
+      "lat": -12.7417,
+      "lon": 45.1912,
+      "population": 32156
+    },
+    {
+      "insee": "97613",
+      "nom": "M'Tsangamouji",
+      "lat": -12.755,
+      "lon": 45.0845,
+      "population": 6432
+    },
+    {
+      "insee": "97611",
+      "nom": "Mamoudzou",
+      "lat": -12.7875,
+      "lon": 45.1964,
+      "population": 71437
+    },
+    {
+      "insee": "97612",
+      "nom": "Mtsamboro",
+      "lat": -12.6754,
+      "lon": 45.0601,
+      "population": 7705
+    },
+    {
+      "insee": "97614",
+      "nom": "Ouangani",
+      "lat": -12.8393,
+      "lon": 45.1384,
+      "population": 10203
+    },
+    {
+      "insee": "97615",
+      "nom": "Pamandzi",
+      "lat": -12.801,
+      "lon": 45.2842,
+      "population": 11442
+    },
+    {
+      "insee": "97616",
+      "nom": "Sada",
+      "lat": -12.8642,
+      "lon": 45.1135,
+      "population": 11156
+    },
+    {
+      "insee": "97617",
+      "nom": "Tsingoni",
+      "lat": -12.7824,
+      "lon": 45.1334,
+      "population": 13934
+    }
+  ]
+}

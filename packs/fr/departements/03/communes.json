@@ -1,0 +1,2226 @@
+{
+  "country": "FR",
+  "departmentCode": "03",
+  "label": "Departement 03",
+  "communes": [
+    {
+      "insee": "03001",
+      "nom": "Abrest",
+      "lat": 46.0962,
+      "lon": 3.4514,
+      "population": 2915
+    },
+    {
+      "insee": "03002",
+      "nom": "Agonges",
+      "lat": 46.6238,
+      "lon": 3.149,
+      "population": 300
+    },
+    {
+      "insee": "03003",
+      "nom": "Ainay-le-Château",
+      "lat": 46.7182,
+      "lon": 2.7157,
+      "population": 989
+    },
+    {
+      "insee": "03004",
+      "nom": "Andelaroche",
+      "lat": 46.248,
+      "lon": 3.74,
+      "population": 214
+    },
+    {
+      "insee": "03005",
+      "nom": "Archignat",
+      "lat": 46.3634,
+      "lon": 2.4102,
+      "population": 321
+    },
+    {
+      "insee": "03006",
+      "nom": "Arfeuilles",
+      "lat": 46.1468,
+      "lon": 3.7388,
+      "population": 594
+    },
+    {
+      "insee": "03007",
+      "nom": "Arpheuilles-Saint-Priest",
+      "lat": 46.2273,
+      "lon": 2.6699,
+      "population": 383
+    },
+    {
+      "insee": "03008",
+      "nom": "Arronnes",
+      "lat": 46.0513,
+      "lon": 3.5714,
+      "population": 378
+    },
+    {
+      "insee": "03009",
+      "nom": "Aubigny",
+      "lat": 46.6774,
+      "lon": 3.1669,
+      "population": 146
+    },
+    {
+      "insee": "03010",
+      "nom": "Audes",
+      "lat": 46.461,
+      "lon": 2.5578,
+      "population": 402
+    },
+    {
+      "insee": "03011",
+      "nom": "Aurouër",
+      "lat": 46.6873,
+      "lon": 3.3123,
+      "population": 400
+    },
+    {
+      "insee": "03012",
+      "nom": "Autry-Issards",
+      "lat": 46.5444,
+      "lon": 3.1202,
+      "population": 313
+    },
+    {
+      "insee": "03013",
+      "nom": "Avermes",
+      "lat": 46.5961,
+      "lon": 3.3164,
+      "population": 4074
+    },
+    {
+      "insee": "03014",
+      "nom": "Avrilly",
+      "lat": 46.3284,
+      "lon": 3.971,
+      "population": 144
+    },
+    {
+      "insee": "03015",
+      "nom": "Bagneux",
+      "lat": 46.6477,
+      "lon": 3.2071,
+      "population": 329
+    },
+    {
+      "insee": "03016",
+      "nom": "Barberier",
+      "lat": 46.2224,
+      "lon": 3.2475,
+      "population": 150
+    },
+    {
+      "insee": "03017",
+      "nom": "Barrais-Bussolles",
+      "lat": 46.2809,
+      "lon": 3.6954,
+      "population": 185
+    },
+    {
+      "insee": "03018",
+      "nom": "Bayet",
+      "lat": 46.2585,
+      "lon": 3.2755,
+      "population": 672
+    },
+    {
+      "insee": "03019",
+      "nom": "Beaulon",
+      "lat": 46.5868,
+      "lon": 3.6733,
+      "population": 1649
+    },
+    {
+      "insee": "03020",
+      "nom": "Beaune-d'Allier",
+      "lat": 46.2782,
+      "lon": 2.8889,
+      "population": 296
+    },
+    {
+      "insee": "03021",
+      "nom": "Bègues",
+      "lat": 46.1232,
+      "lon": 3.1391,
+      "population": 232
+    },
+    {
+      "insee": "03022",
+      "nom": "Bellenaves",
+      "lat": 46.2093,
+      "lon": 3.0693,
+      "population": 983
+    },
+    {
+      "insee": "03023",
+      "nom": "Bellerive-sur-Allier",
+      "lat": 46.1202,
+      "lon": 3.4025,
+      "population": 8943
+    },
+    {
+      "insee": "03024",
+      "nom": "Bert",
+      "lat": 46.3276,
+      "lon": 3.7043,
+      "population": 274
+    },
+    {
+      "insee": "03025",
+      "nom": "Bessay-sur-Allier",
+      "lat": 46.4507,
+      "lon": 3.371,
+      "population": 1382
+    },
+    {
+      "insee": "03026",
+      "nom": "Besson",
+      "lat": 46.4817,
+      "lon": 3.2523,
+      "population": 728
+    },
+    {
+      "insee": "03027",
+      "nom": "Bézenet",
+      "lat": 46.3332,
+      "lon": 2.846,
+      "population": 910
+    },
+    {
+      "insee": "03028",
+      "nom": "Billezois",
+      "lat": 46.208,
+      "lon": 3.5758,
+      "population": 363
+    },
+    {
+      "insee": "03029",
+      "nom": "Billy",
+      "lat": 46.2316,
+      "lon": 3.4414,
+      "population": 817
+    },
+    {
+      "insee": "03030",
+      "nom": "Biozat",
+      "lat": 46.0811,
+      "lon": 3.2927,
+      "population": 933
+    },
+    {
+      "insee": "03031",
+      "nom": "Bizeneuille",
+      "lat": 46.4022,
+      "lon": 2.7351,
+      "population": 296
+    },
+    {
+      "insee": "03032",
+      "nom": "Blomard",
+      "lat": 46.2908,
+      "lon": 2.9644,
+      "population": 222
+    },
+    {
+      "insee": "03033",
+      "nom": "Bost",
+      "lat": 46.1841,
+      "lon": 3.5049,
+      "population": 183
+    },
+    {
+      "insee": "03034",
+      "nom": "Boucé",
+      "lat": 46.3178,
+      "lon": 3.4958,
+      "population": 507
+    },
+    {
+      "insee": "03036",
+      "nom": "Bourbon-l'Archambault",
+      "lat": 46.5829,
+      "lon": 3.0448,
+      "population": 2494
+    },
+    {
+      "insee": "03037",
+      "nom": "Braize",
+      "lat": 46.6619,
+      "lon": 2.6646,
+      "population": 259
+    },
+    {
+      "insee": "03038",
+      "nom": "Bransat",
+      "lat": 46.3328,
+      "lon": 3.2168,
+      "population": 530
+    },
+    {
+      "insee": "03039",
+      "nom": "Bresnay",
+      "lat": 46.4335,
+      "lon": 3.2558,
+      "population": 386
+    },
+    {
+      "insee": "03040",
+      "nom": "Bressolles",
+      "lat": 46.5296,
+      "lon": 3.2879,
+      "population": 1143
+    },
+    {
+      "insee": "03043",
+      "nom": "Broût-Vernet",
+      "lat": 46.1995,
+      "lon": 3.2932,
+      "population": 1217
+    },
+    {
+      "insee": "03044",
+      "nom": "Brugheas",
+      "lat": 46.073,
+      "lon": 3.3634,
+      "population": 1564
+    },
+    {
+      "insee": "03045",
+      "nom": "Busset",
+      "lat": 46.058,
+      "lon": 3.5139,
+      "population": 850
+    },
+    {
+      "insee": "03046",
+      "nom": "Buxières-les-Mines",
+      "lat": 46.4715,
+      "lon": 2.945,
+      "population": 994
+    },
+    {
+      "insee": "03048",
+      "nom": "Cérilly",
+      "lat": 46.6263,
+      "lon": 2.8085,
+      "population": 1316
+    },
+    {
+      "insee": "03049",
+      "nom": "Cesset",
+      "lat": 46.2987,
+      "lon": 3.1988,
+      "population": 430
+    },
+    {
+      "insee": "03051",
+      "nom": "Chambérat",
+      "lat": 46.4145,
+      "lon": 2.4227,
+      "population": 277
+    },
+    {
+      "insee": "03052",
+      "nom": "Chamblet",
+      "lat": 46.3264,
+      "lon": 2.7098,
+      "population": 1074
+    },
+    {
+      "insee": "03053",
+      "nom": "Chantelle",
+      "lat": 46.2398,
+      "lon": 3.1547,
+      "population": 1131
+    },
+    {
+      "insee": "03054",
+      "nom": "Chapeau",
+      "lat": 46.4928,
+      "lon": 3.5127,
+      "population": 231
+    },
+    {
+      "insee": "03058",
+      "nom": "Chappes",
+      "lat": 46.3831,
+      "lon": 2.9426,
+      "population": 220
+    },
+    {
+      "insee": "03059",
+      "nom": "Chareil-Cintrat",
+      "lat": 46.2657,
+      "lon": 3.2328,
+      "population": 388
+    },
+    {
+      "insee": "03060",
+      "nom": "Charmeil",
+      "lat": 46.158,
+      "lon": 3.3935,
+      "population": 947
+    },
+    {
+      "insee": "03061",
+      "nom": "Charmes",
+      "lat": 46.0828,
+      "lon": 3.2464,
+      "population": 369
+    },
+    {
+      "insee": "03062",
+      "nom": "Charroux",
+      "lat": 46.1817,
+      "lon": 3.1625,
+      "population": 335
+    },
+    {
+      "insee": "03063",
+      "nom": "Chassenard",
+      "lat": 46.4385,
+      "lon": 3.9722,
+      "population": 1023
+    },
+    {
+      "insee": "03064",
+      "nom": "Château-sur-Allier",
+      "lat": 46.7812,
+      "lon": 2.9841,
+      "population": 160
+    },
+    {
+      "insee": "03065",
+      "nom": "Châtel-de-Neuvre",
+      "lat": 46.4197,
+      "lon": 3.2961,
+      "population": 563
+    },
+    {
+      "insee": "03066",
+      "nom": "Châtel-Montagne",
+      "lat": 46.1021,
+      "lon": 3.7183,
+      "population": 326
+    },
+    {
+      "insee": "03067",
+      "nom": "Châtelperron",
+      "lat": 46.3996,
+      "lon": 3.6326,
+      "population": 130
+    },
+    {
+      "insee": "03068",
+      "nom": "Châtelus",
+      "lat": 46.2022,
+      "lon": 3.7225,
+      "population": 119
+    },
+    {
+      "insee": "03069",
+      "nom": "Châtillon",
+      "lat": 46.4643,
+      "lon": 3.1228,
+      "population": 317
+    },
+    {
+      "insee": "03070",
+      "nom": "Chavenon",
+      "lat": 46.4218,
+      "lon": 2.9539,
+      "population": 140
+    },
+    {
+      "insee": "03071",
+      "nom": "Chavroches",
+      "lat": 46.354,
+      "lon": 3.5984,
+      "population": 268
+    },
+    {
+      "insee": "03072",
+      "nom": "Chazemais",
+      "lat": 46.4841,
+      "lon": 2.5147,
+      "population": 504
+    },
+    {
+      "insee": "03073",
+      "nom": "Chemilly",
+      "lat": 46.4765,
+      "lon": 3.3088,
+      "population": 580
+    },
+    {
+      "insee": "03074",
+      "nom": "Chevagnes",
+      "lat": 46.6099,
+      "lon": 3.5636,
+      "population": 630
+    },
+    {
+      "insee": "03075",
+      "nom": "Chezelle",
+      "lat": 46.2136,
+      "lon": 3.1097,
+      "population": 158
+    },
+    {
+      "insee": "03076",
+      "nom": "Chézy",
+      "lat": 46.6158,
+      "lon": 3.4514,
+      "population": 212
+    },
+    {
+      "insee": "03077",
+      "nom": "Chirat-l'Église",
+      "lat": 46.2499,
+      "lon": 3.0339,
+      "population": 129
+    },
+    {
+      "insee": "03078",
+      "nom": "Chouvigny",
+      "lat": 46.1246,
+      "lon": 3.0018,
+      "population": 232
+    },
+    {
+      "insee": "03079",
+      "nom": "Cindré",
+      "lat": 46.3215,
+      "lon": 3.5469,
+      "population": 276
+    },
+    {
+      "insee": "03080",
+      "nom": "Cognat-Lyonne",
+      "lat": 46.11,
+      "lon": 3.3002,
+      "population": 706
+    },
+    {
+      "insee": "03081",
+      "nom": "Colombier",
+      "lat": 46.2675,
+      "lon": 2.7937,
+      "population": 327
+    },
+    {
+      "insee": "03082",
+      "nom": "Commentry",
+      "lat": 46.2734,
+      "lon": 2.7509,
+      "population": 6017
+    },
+    {
+      "insee": "03083",
+      "nom": "Contigny",
+      "lat": 46.3461,
+      "lon": 3.3145,
+      "population": 573
+    },
+    {
+      "insee": "03084",
+      "nom": "Cosne-d'Allier",
+      "lat": 46.4876,
+      "lon": 2.8317,
+      "population": 2006
+    },
+    {
+      "insee": "03085",
+      "nom": "Coulandon",
+      "lat": 46.5559,
+      "lon": 3.2412,
+      "population": 645
+    },
+    {
+      "insee": "03086",
+      "nom": "Coulanges",
+      "lat": 46.4789,
+      "lon": 3.8669,
+      "population": 285
+    },
+    {
+      "insee": "03087",
+      "nom": "Couleuvre",
+      "lat": 46.6747,
+      "lon": 2.9041,
+      "population": 580
+    },
+    {
+      "insee": "03088",
+      "nom": "Courçais",
+      "lat": 46.4657,
+      "lon": 2.4489,
+      "population": 314
+    },
+    {
+      "insee": "03089",
+      "nom": "Coutansouze",
+      "lat": 46.2071,
+      "lon": 3.0041,
+      "population": 154
+    },
+    {
+      "insee": "03090",
+      "nom": "Couzon",
+      "lat": 46.6427,
+      "lon": 3.1192,
+      "population": 328
+    },
+    {
+      "insee": "03091",
+      "nom": "Créchy",
+      "lat": 46.2692,
+      "lon": 3.4228,
+      "population": 428
+    },
+    {
+      "insee": "03092",
+      "nom": "Cressanges",
+      "lat": 46.4493,
+      "lon": 3.1666,
+      "population": 644
+    },
+    {
+      "insee": "03093",
+      "nom": "Creuzier-le-Neuf",
+      "lat": 46.1785,
+      "lon": 3.4635,
+      "population": 1225
+    },
+    {
+      "insee": "03094",
+      "nom": "Creuzier-le-Vieux",
+      "lat": 46.1632,
+      "lon": 3.4387,
+      "population": 3205
+    },
+    {
+      "insee": "03095",
+      "nom": "Cusset",
+      "lat": 46.1342,
+      "lon": 3.4774,
+      "population": 13316
+    },
+    {
+      "insee": "03096",
+      "nom": "Deneuille-lès-Chantelle",
+      "lat": 46.2517,
+      "lon": 3.1475,
+      "population": 94
+    },
+    {
+      "insee": "03097",
+      "nom": "Deneuille-les-Mines",
+      "lat": 46.3799,
+      "lon": 2.7692,
+      "population": 347
+    },
+    {
+      "insee": "03098",
+      "nom": "Désertines",
+      "lat": 46.3571,
+      "lon": 2.6253,
+      "population": 4259
+    },
+    {
+      "insee": "03099",
+      "nom": "Deux-Chaises",
+      "lat": 46.3751,
+      "lon": 3.0385,
+      "population": 377
+    },
+    {
+      "insee": "03100",
+      "nom": "Diou",
+      "lat": 46.5234,
+      "lon": 3.7426,
+      "population": 1343
+    },
+    {
+      "insee": "03101",
+      "nom": "Domérat",
+      "lat": 46.3706,
+      "lon": 2.5462,
+      "population": 8622
+    },
+    {
+      "insee": "03102",
+      "nom": "Dompierre-sur-Besbre",
+      "lat": 46.5336,
+      "lon": 3.6787,
+      "population": 2959
+    },
+    {
+      "insee": "03104",
+      "nom": "Doyet",
+      "lat": 46.345,
+      "lon": 2.795,
+      "population": 1109
+    },
+    {
+      "insee": "03105",
+      "nom": "Droiturier",
+      "lat": 46.2288,
+      "lon": 3.7085,
+      "population": 364
+    },
+    {
+      "insee": "03106",
+      "nom": "Durdat-Larequille",
+      "lat": 46.2536,
+      "lon": 2.6968,
+      "population": 1280
+    },
+    {
+      "insee": "03107",
+      "nom": "Ébreuil",
+      "lat": 46.1121,
+      "lon": 3.074,
+      "population": 1306
+    },
+    {
+      "insee": "03108",
+      "nom": "Échassières",
+      "lat": 46.198,
+      "lon": 2.9473,
+      "population": 364
+    },
+    {
+      "insee": "03109",
+      "nom": "Escurolles",
+      "lat": 46.1431,
+      "lon": 3.2675,
+      "population": 804
+    },
+    {
+      "insee": "03110",
+      "nom": "Espinasse-Vozelle",
+      "lat": 46.1313,
+      "lon": 3.3336,
+      "population": 995
+    },
+    {
+      "insee": "03111",
+      "nom": "Estivareilles",
+      "lat": 46.4248,
+      "lon": 2.6305,
+      "population": 1119
+    },
+    {
+      "insee": "03112",
+      "nom": "Étroussat",
+      "lat": 46.2227,
+      "lon": 3.221,
+      "population": 649
+    },
+    {
+      "insee": "03113",
+      "nom": "Ferrières-sur-Sichon",
+      "lat": 46.0205,
+      "lon": 3.6501,
+      "population": 496
+    },
+    {
+      "insee": "03115",
+      "nom": "Fleuriel",
+      "lat": 46.2897,
+      "lon": 3.1625,
+      "population": 336
+    },
+    {
+      "insee": "03116",
+      "nom": "Fourilles",
+      "lat": 46.2452,
+      "lon": 3.1981,
+      "population": 195
+    },
+    {
+      "insee": "03117",
+      "nom": "Franchesse",
+      "lat": 46.6422,
+      "lon": 3.0411,
+      "population": 449
+    },
+    {
+      "insee": "03118",
+      "nom": "Gannat",
+      "lat": 46.0991,
+      "lon": 3.1708,
+      "population": 5610
+    },
+    {
+      "insee": "03119",
+      "nom": "Gannay-sur-Loire",
+      "lat": 46.7217,
+      "lon": 3.5928,
+      "population": 384
+    },
+    {
+      "insee": "03120",
+      "nom": "Garnat-sur-Engièvre",
+      "lat": 46.6346,
+      "lon": 3.6712,
+      "population": 653
+    },
+    {
+      "insee": "03121",
+      "nom": "Gennetines",
+      "lat": 46.6273,
+      "lon": 3.4078,
+      "population": 615
+    },
+    {
+      "insee": "03122",
+      "nom": "Gipcy",
+      "lat": 46.5085,
+      "lon": 3.0496,
+      "population": 235
+    },
+    {
+      "insee": "03124",
+      "nom": "Gouise",
+      "lat": 46.4103,
+      "lon": 3.4322,
+      "population": 219
+    },
+    {
+      "insee": "03158",
+      "nom": "Haut-Bocage",
+      "lat": 46.4752,
+      "lon": 2.6895,
+      "population": 841
+    },
+    {
+      "insee": "03126",
+      "nom": "Hauterive",
+      "lat": 46.0782,
+      "lon": 3.4396,
+      "population": 1186
+    },
+    {
+      "insee": "03127",
+      "nom": "Hérisson",
+      "lat": 46.524,
+      "lon": 2.7134,
+      "population": 555
+    },
+    {
+      "insee": "03128",
+      "nom": "Huriel",
+      "lat": 46.3757,
+      "lon": 2.4812,
+      "population": 2536
+    },
+    {
+      "insee": "03129",
+      "nom": "Hyds",
+      "lat": 46.2715,
+      "lon": 2.8283,
+      "population": 298
+    },
+    {
+      "insee": "03130",
+      "nom": "Isle-et-Bardais",
+      "lat": 46.6866,
+      "lon": 2.7762,
+      "population": 273
+    },
+    {
+      "insee": "03131",
+      "nom": "Isserpent",
+      "lat": 46.1588,
+      "lon": 3.6226,
+      "population": 560
+    },
+    {
+      "insee": "03132",
+      "nom": "Jaligny-sur-Besbre",
+      "lat": 46.3789,
+      "lon": 3.5856,
+      "population": 559
+    },
+    {
+      "insee": "03133",
+      "nom": "Jenzat",
+      "lat": 46.1603,
+      "lon": 3.2007,
+      "population": 517
+    },
+    {
+      "insee": "03047",
+      "nom": "La Celle",
+      "lat": 46.227,
+      "lon": 2.7742,
+      "population": 398
+    },
+    {
+      "insee": "03050",
+      "nom": "La Chabanne",
+      "lat": 46.0268,
+      "lon": 3.7526,
+      "population": 169
+    },
+    {
+      "insee": "03055",
+      "nom": "La Chapelaude",
+      "lat": 46.428,
+      "lon": 2.5114,
+      "population": 938
+    },
+    {
+      "insee": "03056",
+      "nom": "La Chapelle",
+      "lat": 46.0876,
+      "lon": 3.5903,
+      "population": 399
+    },
+    {
+      "insee": "03057",
+      "nom": "La Chapelle-aux-Chasses",
+      "lat": 46.6619,
+      "lon": 3.5294,
+      "population": 197
+    },
+    {
+      "insee": "03114",
+      "nom": "La Ferté-Hauterive",
+      "lat": 46.3997,
+      "lon": 3.335,
+      "population": 254
+    },
+    {
+      "insee": "03125",
+      "nom": "La Guillermie",
+      "lat": 45.9817,
+      "lon": 3.6434,
+      "population": 123
+    },
+    {
+      "insee": "03206",
+      "nom": "La Petite-Marche",
+      "lat": 46.1893,
+      "lon": 2.5662,
+      "population": 167
+    },
+    {
+      "insee": "03134",
+      "nom": "Laféline",
+      "lat": 46.3429,
+      "lon": 3.1786,
+      "population": 173
+    },
+    {
+      "insee": "03135",
+      "nom": "Lalizolle",
+      "lat": 46.1615,
+      "lon": 3.001,
+      "population": 399
+    },
+    {
+      "insee": "03136",
+      "nom": "Lamaids",
+      "lat": 46.302,
+      "lon": 2.441,
+      "population": 210
+    },
+    {
+      "insee": "03137",
+      "nom": "Langy",
+      "lat": 46.2766,
+      "lon": 3.4604,
+      "population": 280
+    },
+    {
+      "insee": "03138",
+      "nom": "Lapalisse",
+      "lat": 46.2613,
+      "lon": 3.6453,
+      "population": 3138
+    },
+    {
+      "insee": "03139",
+      "nom": "Laprugne",
+      "lat": 45.9941,
+      "lon": 3.768,
+      "population": 308
+    },
+    {
+      "insee": "03140",
+      "nom": "Lavault-Sainte-Anne",
+      "lat": 46.3093,
+      "lon": 2.6042,
+      "population": 1139
+    },
+    {
+      "insee": "03141",
+      "nom": "Lavoine",
+      "lat": 45.9675,
+      "lon": 3.6908,
+      "population": 153
+    },
+    {
+      "insee": "03035",
+      "nom": "Le Bouchaud",
+      "lat": 46.305,
+      "lon": 3.9069,
+      "population": 192
+    },
+    {
+      "insee": "03041",
+      "nom": "Le Brethon",
+      "lat": 46.5893,
+      "lon": 2.7136,
+      "population": 324
+    },
+    {
+      "insee": "03042",
+      "nom": "Le Breuil",
+      "lat": 46.1753,
+      "lon": 3.6664,
+      "population": 524
+    },
+    {
+      "insee": "03103",
+      "nom": "Le Donjon",
+      "lat": 46.3498,
+      "lon": 3.8003,
+      "population": 1007
+    },
+    {
+      "insee": "03164",
+      "nom": "Le Mayet-d'École",
+      "lat": 46.1664,
+      "lon": 3.2399,
+      "population": 304
+    },
+    {
+      "insee": "03165",
+      "nom": "Le Mayet-de-Montagne",
+      "lat": 46.0605,
+      "lon": 3.6491,
+      "population": 1383
+    },
+    {
+      "insee": "03183",
+      "nom": "Le Montet",
+      "lat": 46.407,
+      "lon": 3.0532,
+      "population": 472
+    },
+    {
+      "insee": "03208",
+      "nom": "Le Pin",
+      "lat": 46.4219,
+      "lon": 3.8887,
+      "population": 432
+    },
+    {
+      "insee": "03281",
+      "nom": "Le Theil",
+      "lat": 46.3538,
+      "lon": 3.1237,
+      "population": 387
+    },
+    {
+      "insee": "03306",
+      "nom": "Le Vernet",
+      "lat": 46.1064,
+      "lon": 3.4765,
+      "population": 1919
+    },
+    {
+      "insee": "03309",
+      "nom": "Le Veurdre",
+      "lat": 46.7425,
+      "lon": 3.0391,
+      "population": 475
+    },
+    {
+      "insee": "03313",
+      "nom": "Le Vilhain",
+      "lat": 46.5609,
+      "lon": 2.7951,
+      "population": 266
+    },
+    {
+      "insee": "03142",
+      "nom": "Lenax",
+      "lat": 46.3056,
+      "lon": 3.8299,
+      "population": 257
+    },
+    {
+      "insee": "03143",
+      "nom": "Lételon",
+      "lat": 46.6582,
+      "lon": 2.5954,
+      "population": 93
+    },
+    {
+      "insee": "03144",
+      "nom": "Liernolles",
+      "lat": 46.3958,
+      "lon": 3.7686,
+      "population": 193
+    },
+    {
+      "insee": "03145",
+      "nom": "Lignerolles",
+      "lat": 46.2816,
+      "lon": 2.5659,
+      "population": 760
+    },
+    {
+      "insee": "03146",
+      "nom": "Limoise",
+      "lat": 46.6876,
+      "lon": 3.0541,
+      "population": 175
+    },
+    {
+      "insee": "03147",
+      "nom": "Loddes",
+      "lat": 46.2993,
+      "lon": 3.763,
+      "population": 166
+    },
+    {
+      "insee": "03148",
+      "nom": "Loriges",
+      "lat": 46.2667,
+      "lon": 3.342,
+      "population": 350
+    },
+    {
+      "insee": "03149",
+      "nom": "Louchy-Montfand",
+      "lat": 46.3078,
+      "lon": 3.2461,
+      "population": 397
+    },
+    {
+      "insee": "03150",
+      "nom": "Louroux-Bourbonnais",
+      "lat": 46.5358,
+      "lon": 2.8329,
+      "population": 205
+    },
+    {
+      "insee": "03151",
+      "nom": "Louroux-de-Beaune",
+      "lat": 46.3012,
+      "lon": 2.8585,
+      "population": 191
+    },
+    {
+      "insee": "03152",
+      "nom": "Louroux-de-Bouble",
+      "lat": 46.2286,
+      "lon": 2.9727,
+      "population": 226
+    },
+    {
+      "insee": "03154",
+      "nom": "Luneau",
+      "lat": 46.3665,
+      "lon": 3.948,
+      "population": 277
+    },
+    {
+      "insee": "03155",
+      "nom": "Lurcy-Lévis",
+      "lat": 46.7371,
+      "lon": 2.9111,
+      "population": 1821
+    },
+    {
+      "insee": "03156",
+      "nom": "Lusigny",
+      "lat": 46.5731,
+      "lon": 3.4786,
+      "population": 1620
+    },
+    {
+      "insee": "03157",
+      "nom": "Magnet",
+      "lat": 46.2162,
+      "lon": 3.5097,
+      "population": 1053
+    },
+    {
+      "insee": "03159",
+      "nom": "Malicorne",
+      "lat": 46.3053,
+      "lon": 2.7656,
+      "population": 763
+    },
+    {
+      "insee": "03160",
+      "nom": "Marcenat",
+      "lat": 46.2401,
+      "lon": 3.396,
+      "population": 386
+    },
+    {
+      "insee": "03161",
+      "nom": "Marcillat-en-Combraille",
+      "lat": 46.1707,
+      "lon": 2.6332,
+      "population": 900
+    },
+    {
+      "insee": "03162",
+      "nom": "Marigny",
+      "lat": 46.5781,
+      "lon": 3.2122,
+      "population": 200
+    },
+    {
+      "insee": "03163",
+      "nom": "Mariol",
+      "lat": 46.0257,
+      "lon": 3.4935,
+      "population": 679
+    },
+    {
+      "insee": "03166",
+      "nom": "Mazerier",
+      "lat": 46.1351,
+      "lon": 3.1862,
+      "population": 317
+    },
+    {
+      "insee": "03167",
+      "nom": "Mazirat",
+      "lat": 46.2213,
+      "lon": 2.5558,
+      "population": 273
+    },
+    {
+      "insee": "03168",
+      "nom": "Meaulne-Vitray",
+      "lat": 46.6065,
+      "lon": 2.6485,
+      "population": 906
+    },
+    {
+      "insee": "03169",
+      "nom": "Meillard",
+      "lat": 46.3892,
+      "lon": 3.2254,
+      "population": 303
+    },
+    {
+      "insee": "03170",
+      "nom": "Meillers",
+      "lat": 46.5172,
+      "lon": 3.1095,
+      "population": 129
+    },
+    {
+      "insee": "03171",
+      "nom": "Mercy",
+      "lat": 46.4493,
+      "lon": 3.524,
+      "population": 244
+    },
+    {
+      "insee": "03172",
+      "nom": "Mesples",
+      "lat": 46.424,
+      "lon": 2.363,
+      "population": 129
+    },
+    {
+      "insee": "03173",
+      "nom": "Molinet",
+      "lat": 46.4613,
+      "lon": 3.9267,
+      "population": 1104
+    },
+    {
+      "insee": "03174",
+      "nom": "Molles",
+      "lat": 46.1121,
+      "lon": 3.556,
+      "population": 904
+    },
+    {
+      "insee": "03175",
+      "nom": "Monestier",
+      "lat": 46.2641,
+      "lon": 3.1035,
+      "population": 291
+    },
+    {
+      "insee": "03176",
+      "nom": "Monétay-sur-Allier",
+      "lat": 46.3815,
+      "lon": 3.2882,
+      "population": 536
+    },
+    {
+      "insee": "03177",
+      "nom": "Monétay-sur-Loire",
+      "lat": 46.4337,
+      "lon": 3.8235,
+      "population": 250
+    },
+    {
+      "insee": "03179",
+      "nom": "Montaigu-le-Blin",
+      "lat": 46.2914,
+      "lon": 3.5191,
+      "population": 300
+    },
+    {
+      "insee": "03178",
+      "nom": "Montaiguët-en-Forez",
+      "lat": 46.264,
+      "lon": 3.829,
+      "population": 280
+    },
+    {
+      "insee": "03180",
+      "nom": "Montbeugny",
+      "lat": 46.5266,
+      "lon": 3.4847,
+      "population": 638
+    },
+    {
+      "insee": "03181",
+      "nom": "Montcombroux-les-Mines",
+      "lat": 46.3626,
+      "lon": 3.7249,
+      "population": 295
+    },
+    {
+      "insee": "03182",
+      "nom": "Monteignet-sur-l'Andelot",
+      "lat": 46.1147,
+      "lon": 3.2511,
+      "population": 266
+    },
+    {
+      "insee": "03184",
+      "nom": "Montilly",
+      "lat": 46.6112,
+      "lon": 3.2351,
+      "population": 488
+    },
+    {
+      "insee": "03185",
+      "nom": "Montluçon",
+      "lat": 46.3428,
+      "lon": 2.608,
+      "population": 33147
+    },
+    {
+      "insee": "03186",
+      "nom": "Montmarault",
+      "lat": 46.3164,
+      "lon": 2.9561,
+      "population": 1525
+    },
+    {
+      "insee": "03187",
+      "nom": "Montoldre",
+      "lat": 46.338,
+      "lon": 3.4567,
+      "population": 590
+    },
+    {
+      "insee": "03188",
+      "nom": "Montord",
+      "lat": 46.2897,
+      "lon": 3.2406,
+      "population": 211
+    },
+    {
+      "insee": "03189",
+      "nom": "Montvicq",
+      "lat": 46.3173,
+      "lon": 2.8244,
+      "population": 692
+    },
+    {
+      "insee": "03190",
+      "nom": "Moulins",
+      "lat": 46.5591,
+      "lon": 3.3255,
+      "population": 19206
+    },
+    {
+      "insee": "03191",
+      "nom": "Murat",
+      "lat": 46.414,
+      "lon": 2.8993,
+      "population": 264
+    },
+    {
+      "insee": "03192",
+      "nom": "Nades",
+      "lat": 46.1523,
+      "lon": 2.9704,
+      "population": 162
+    },
+    {
+      "insee": "03193",
+      "nom": "Nassigny",
+      "lat": 46.4975,
+      "lon": 2.5892,
+      "population": 194
+    },
+    {
+      "insee": "03194",
+      "nom": "Naves",
+      "lat": 46.1766,
+      "lon": 3.1154,
+      "population": 146
+    },
+    {
+      "insee": "03195",
+      "nom": "Néris-les-Bains",
+      "lat": 46.3028,
+      "lon": 2.6809,
+      "population": 2368
+    },
+    {
+      "insee": "03196",
+      "nom": "Neuilly-en-Donjon",
+      "lat": 46.3437,
+      "lon": 3.8859,
+      "population": 198
+    },
+    {
+      "insee": "03197",
+      "nom": "Neuilly-le-Réal",
+      "lat": 46.4642,
+      "lon": 3.4381,
+      "population": 1435
+    },
+    {
+      "insee": "03198",
+      "nom": "Neure",
+      "lat": 46.7432,
+      "lon": 2.979,
+      "population": 202
+    },
+    {
+      "insee": "03200",
+      "nom": "Neuvy",
+      "lat": 46.5709,
+      "lon": 3.276,
+      "population": 1475
+    },
+    {
+      "insee": "03201",
+      "nom": "Nizerolles",
+      "lat": 46.1068,
+      "lon": 3.6426,
+      "population": 282
+    },
+    {
+      "insee": "03202",
+      "nom": "Noyant-d'Allier",
+      "lat": 46.4783,
+      "lon": 3.1261,
+      "population": 602
+    },
+    {
+      "insee": "03203",
+      "nom": "Paray-le-Frésil",
+      "lat": 46.6582,
+      "lon": 3.6013,
+      "population": 376
+    },
+    {
+      "insee": "03204",
+      "nom": "Paray-sous-Briailles",
+      "lat": 46.295,
+      "lon": 3.3704,
+      "population": 616
+    },
+    {
+      "insee": "03205",
+      "nom": "Périgny",
+      "lat": 46.2455,
+      "lon": 3.5611,
+      "population": 484
+    },
+    {
+      "insee": "03207",
+      "nom": "Pierrefitte-sur-Loire",
+      "lat": 46.5013,
+      "lon": 3.8055,
+      "population": 506
+    },
+    {
+      "insee": "03209",
+      "nom": "Poëzat",
+      "lat": 46.0754,
+      "lon": 3.2271,
+      "population": 152
+    },
+    {
+      "insee": "03210",
+      "nom": "Pouzy-Mésangy",
+      "lat": 46.7048,
+      "lon": 3.0109,
+      "population": 378
+    },
+    {
+      "insee": "03211",
+      "nom": "Prémilhat",
+      "lat": 46.3082,
+      "lon": 2.5476,
+      "population": 2540
+    },
+    {
+      "insee": "03212",
+      "nom": "Quinssaines",
+      "lat": 46.3093,
+      "lon": 2.4903,
+      "population": 1528
+    },
+    {
+      "insee": "03213",
+      "nom": "Reugny",
+      "lat": 46.4579,
+      "lon": 2.6099,
+      "population": 266
+    },
+    {
+      "insee": "03214",
+      "nom": "Rocles",
+      "lat": 46.4418,
+      "lon": 3.0314,
+      "population": 326
+    },
+    {
+      "insee": "03215",
+      "nom": "Rongères",
+      "lat": 46.2987,
+      "lon": 3.451,
+      "population": 555
+    },
+    {
+      "insee": "03216",
+      "nom": "Ronnet",
+      "lat": 46.2047,
+      "lon": 2.6993,
+      "population": 162
+    },
+    {
+      "insee": "03217",
+      "nom": "Saint-Angel",
+      "lat": 46.3558,
+      "lon": 2.6957,
+      "population": 738
+    },
+    {
+      "insee": "03218",
+      "nom": "Saint-Aubin-le-Monial",
+      "lat": 46.5341,
+      "lon": 3.0063,
+      "population": 262
+    },
+    {
+      "insee": "03219",
+      "nom": "Saint-Bonnet-de-Four",
+      "lat": 46.315,
+      "lon": 2.9069,
+      "population": 227
+    },
+    {
+      "insee": "03220",
+      "nom": "Saint-Bonnet-de-Rochefort",
+      "lat": 46.149,
+      "lon": 3.141,
+      "population": 713
+    },
+    {
+      "insee": "03221",
+      "nom": "Saint-Bonnet-Tronçais",
+      "lat": 46.6689,
+      "lon": 2.6964,
+      "population": 726
+    },
+    {
+      "insee": "03222",
+      "nom": "Saint-Caprais",
+      "lat": 46.5468,
+      "lon": 2.7359,
+      "population": 103
+    },
+    {
+      "insee": "03223",
+      "nom": "Saint-Christophe-en-Bourbonnais",
+      "lat": 46.1684,
+      "lon": 3.5838,
+      "population": 442
+    },
+    {
+      "insee": "03224",
+      "nom": "Saint-Clément",
+      "lat": 46.0544,
+      "lon": 3.726,
+      "population": 284
+    },
+    {
+      "insee": "03225",
+      "nom": "Saint-Désiré",
+      "lat": 46.5057,
+      "lon": 2.4521,
+      "population": 424
+    },
+    {
+      "insee": "03226",
+      "nom": "Saint-Didier-en-Donjon",
+      "lat": 46.3846,
+      "lon": 3.8701,
+      "population": 245
+    },
+    {
+      "insee": "03227",
+      "nom": "Saint-Didier-la-Forêt",
+      "lat": 46.2297,
+      "lon": 3.3372,
+      "population": 399
+    },
+    {
+      "insee": "03228",
+      "nom": "Saint-Éloy-d'Allier",
+      "lat": 46.4984,
+      "lon": 2.3605,
+      "population": 58
+    },
+    {
+      "insee": "03229",
+      "nom": "Saint-Ennemond",
+      "lat": 46.6821,
+      "lon": 3.4025,
+      "population": 626
+    },
+    {
+      "insee": "03230",
+      "nom": "Saint-Étienne-de-Vicq",
+      "lat": 46.1696,
+      "lon": 3.5384,
+      "population": 523
+    },
+    {
+      "insee": "03231",
+      "nom": "Saint-Fargeol",
+      "lat": 46.1329,
+      "lon": 2.6298,
+      "population": 187
+    },
+    {
+      "insee": "03232",
+      "nom": "Saint-Félix",
+      "lat": 46.2278,
+      "lon": 3.4792,
+      "population": 279
+    },
+    {
+      "insee": "03233",
+      "nom": "Saint-Genest",
+      "lat": 46.2636,
+      "lon": 2.6019,
+      "population": 386
+    },
+    {
+      "insee": "03234",
+      "nom": "Saint-Gérand-de-Vaux",
+      "lat": 46.386,
+      "lon": 3.4128,
+      "population": 408
+    },
+    {
+      "insee": "03235",
+      "nom": "Saint-Gérand-le-Puy",
+      "lat": 46.261,
+      "lon": 3.5164,
+      "population": 963
+    },
+    {
+      "insee": "03237",
+      "nom": "Saint-Germain-de-Salles",
+      "lat": 46.1881,
+      "lon": 3.2234,
+      "population": 434
+    },
+    {
+      "insee": "03236",
+      "nom": "Saint-Germain-des-Fossés",
+      "lat": 46.1955,
+      "lon": 3.4315,
+      "population": 3579
+    },
+    {
+      "insee": "03238",
+      "nom": "Saint-Hilaire",
+      "lat": 46.4835,
+      "lon": 3.0183,
+      "population": 503
+    },
+    {
+      "insee": "03239",
+      "nom": "Saint-Léger-sur-Vouzance",
+      "lat": 46.4093,
+      "lon": 3.9368,
+      "population": 258
+    },
+    {
+      "insee": "03240",
+      "nom": "Saint-Léon",
+      "lat": 46.4117,
+      "lon": 3.6887,
+      "population": 530
+    },
+    {
+      "insee": "03241",
+      "nom": "Saint-Léopardin-d'Augy",
+      "lat": 46.6968,
+      "lon": 3.1063,
+      "population": 354
+    },
+    {
+      "insee": "03242",
+      "nom": "Saint-Loup",
+      "lat": 46.3559,
+      "lon": 3.3812,
+      "population": 575
+    },
+    {
+      "insee": "03244",
+      "nom": "Saint-Marcel-en-Marcillat",
+      "lat": 46.152,
+      "lon": 2.5812,
+      "population": 130
+    },
+    {
+      "insee": "03243",
+      "nom": "Saint-Marcel-en-Murat",
+      "lat": 46.3222,
+      "lon": 3.0044,
+      "population": 128
+    },
+    {
+      "insee": "03245",
+      "nom": "Saint-Martin-des-Lais",
+      "lat": 46.6798,
+      "lon": 3.6616,
+      "population": 122
+    },
+    {
+      "insee": "03246",
+      "nom": "Saint-Martinien",
+      "lat": 46.3328,
+      "lon": 2.442,
+      "population": 597
+    },
+    {
+      "insee": "03247",
+      "nom": "Saint-Menoux",
+      "lat": 46.5829,
+      "lon": 3.1477,
+      "population": 1116
+    },
+    {
+      "insee": "03248",
+      "nom": "Saint-Nicolas-des-Biefs",
+      "lat": 46.0569,
+      "lon": 3.7909,
+      "population": 146
+    },
+    {
+      "insee": "03249",
+      "nom": "Saint-Palais",
+      "lat": 46.4415,
+      "lon": 2.3078,
+      "population": 163
+    },
+    {
+      "insee": "03250",
+      "nom": "Saint-Pierre-Laval",
+      "lat": 46.1917,
+      "lon": 3.7718,
+      "population": 373
+    },
+    {
+      "insee": "03251",
+      "nom": "Saint-Plaisir",
+      "lat": 46.6289,
+      "lon": 2.9551,
+      "population": 422
+    },
+    {
+      "insee": "03252",
+      "nom": "Saint-Pont",
+      "lat": 46.1552,
+      "lon": 3.2935,
+      "population": 689
+    },
+    {
+      "insee": "03253",
+      "nom": "Saint-Pourçain-sur-Besbre",
+      "lat": 46.4855,
+      "lon": 3.6538,
+      "population": 371
+    },
+    {
+      "insee": "03254",
+      "nom": "Saint-Pourçain-sur-Sioule",
+      "lat": 46.3047,
+      "lon": 3.3028,
+      "population": 4884
+    },
+    {
+      "insee": "03255",
+      "nom": "Saint-Priest-d'Andelot",
+      "lat": 46.0782,
+      "lon": 3.1492,
+      "population": 146
+    },
+    {
+      "insee": "03256",
+      "nom": "Saint-Priest-en-Murat",
+      "lat": 46.3577,
+      "lon": 2.9058,
+      "population": 214
+    },
+    {
+      "insee": "03257",
+      "nom": "Saint-Prix",
+      "lat": 46.2256,
+      "lon": 3.6502,
+      "population": 776
+    },
+    {
+      "insee": "03258",
+      "nom": "Saint-Rémy-en-Rollat",
+      "lat": 46.1915,
+      "lon": 3.377,
+      "population": 1774
+    },
+    {
+      "insee": "03259",
+      "nom": "Saint-Sauvier",
+      "lat": 46.3955,
+      "lon": 2.3337,
+      "population": 320
+    },
+    {
+      "insee": "03260",
+      "nom": "Saint-Sornin",
+      "lat": 46.4129,
+      "lon": 3.0083,
+      "population": 220
+    },
+    {
+      "insee": "03262",
+      "nom": "Saint-Victor",
+      "lat": 46.3891,
+      "lon": 2.6086,
+      "population": 2100
+    },
+    {
+      "insee": "03263",
+      "nom": "Saint-Voir",
+      "lat": 46.4114,
+      "lon": 3.5061,
+      "population": 201
+    },
+    {
+      "insee": "03264",
+      "nom": "Saint-Yorre",
+      "lat": 46.0615,
+      "lon": 3.4672,
+      "population": 2641
+    },
+    {
+      "insee": "03261",
+      "nom": "Sainte-Thérence",
+      "lat": 46.2429,
+      "lon": 2.5752,
+      "population": 179
+    },
+    {
+      "insee": "03265",
+      "nom": "Saligny-sur-Roudon",
+      "lat": 46.4643,
+      "lon": 3.7587,
+      "population": 641
+    },
+    {
+      "insee": "03266",
+      "nom": "Sanssat",
+      "lat": 46.2501,
+      "lon": 3.4663,
+      "population": 276
+    },
+    {
+      "insee": "03267",
+      "nom": "Saulcet",
+      "lat": 46.3284,
+      "lon": 3.266,
+      "population": 657
+    },
+    {
+      "insee": "03268",
+      "nom": "Saulzet",
+      "lat": 46.1379,
+      "lon": 3.2203,
+      "population": 396
+    },
+    {
+      "insee": "03269",
+      "nom": "Sauvagny",
+      "lat": 46.4321,
+      "lon": 2.7987,
+      "population": 82
+    },
+    {
+      "insee": "03270",
+      "nom": "Sazeret",
+      "lat": 46.3471,
+      "lon": 2.9719,
+      "population": 140
+    },
+    {
+      "insee": "03271",
+      "nom": "Serbannes",
+      "lat": 46.1028,
+      "lon": 3.3509,
+      "population": 854
+    },
+    {
+      "insee": "03272",
+      "nom": "Servilly",
+      "lat": 46.2776,
+      "lon": 3.5864,
+      "population": 271
+    },
+    {
+      "insee": "03273",
+      "nom": "Seuillet",
+      "lat": 46.205,
+      "lon": 3.4683,
+      "population": 479
+    },
+    {
+      "insee": "03274",
+      "nom": "Sorbier",
+      "lat": 46.3616,
+      "lon": 3.66,
+      "population": 318
+    },
+    {
+      "insee": "03275",
+      "nom": "Souvigny",
+      "lat": 46.522,
+      "lon": 3.1946,
+      "population": 1698
+    },
+    {
+      "insee": "03276",
+      "nom": "Sussat",
+      "lat": 46.1527,
+      "lon": 3.0557,
+      "population": 107
+    },
+    {
+      "insee": "03277",
+      "nom": "Target",
+      "lat": 46.282,
+      "lon": 3.0503,
+      "population": 244
+    },
+    {
+      "insee": "03278",
+      "nom": "Taxat-Senat",
+      "lat": 46.2078,
+      "lon": 3.1461,
+      "population": 222
+    },
+    {
+      "insee": "03279",
+      "nom": "Teillet-Argenty",
+      "lat": 46.2644,
+      "lon": 2.5186,
+      "population": 555
+    },
+    {
+      "insee": "03280",
+      "nom": "Terjat",
+      "lat": 46.2152,
+      "lon": 2.6191,
+      "population": 180
+    },
+    {
+      "insee": "03282",
+      "nom": "Theneuille",
+      "lat": 46.5944,
+      "lon": 2.8807,
+      "population": 340
+    },
+    {
+      "insee": "03283",
+      "nom": "Thiel-sur-Acolin",
+      "lat": 46.529,
+      "lon": 3.5721,
+      "population": 1027
+    },
+    {
+      "insee": "03284",
+      "nom": "Thionne",
+      "lat": 46.4152,
+      "lon": 3.5775,
+      "population": 291
+    },
+    {
+      "insee": "03285",
+      "nom": "Tortezais",
+      "lat": 46.4427,
+      "lon": 2.8744,
+      "population": 172
+    },
+    {
+      "insee": "03286",
+      "nom": "Toulon-sur-Allier",
+      "lat": 46.5094,
+      "lon": 3.3819,
+      "population": 1166
+    },
+    {
+      "insee": "03287",
+      "nom": "Treban",
+      "lat": 46.3946,
+      "lon": 3.1652,
+      "population": 370
+    },
+    {
+      "insee": "03288",
+      "nom": "Treignat",
+      "lat": 46.3469,
+      "lon": 2.3458,
+      "population": 434
+    },
+    {
+      "insee": "03289",
+      "nom": "Treteau",
+      "lat": 46.3654,
+      "lon": 3.5221,
+      "population": 520
+    },
+    {
+      "insee": "03290",
+      "nom": "Trévol",
+      "lat": 46.6363,
+      "lon": 3.3144,
+      "population": 1643
+    },
+    {
+      "insee": "03291",
+      "nom": "Trézelles",
+      "lat": 46.3193,
+      "lon": 3.5988,
+      "population": 391
+    },
+    {
+      "insee": "03292",
+      "nom": "Tronget",
+      "lat": 46.4232,
+      "lon": 3.0865,
+      "population": 925
+    },
+    {
+      "insee": "03293",
+      "nom": "Urçay",
+      "lat": 46.6361,
+      "lon": 2.612,
+      "population": 296
+    },
+    {
+      "insee": "03294",
+      "nom": "Ussel-d'Allier",
+      "lat": 46.2104,
+      "lon": 3.19,
+      "population": 166
+    },
+    {
+      "insee": "03295",
+      "nom": "Valignat",
+      "lat": 46.1746,
+      "lon": 3.0785,
+      "population": 64
+    },
+    {
+      "insee": "03296",
+      "nom": "Valigny",
+      "lat": 46.7153,
+      "lon": 2.8214,
+      "population": 378
+    },
+    {
+      "insee": "03297",
+      "nom": "Vallon-en-Sully",
+      "lat": 46.5467,
+      "lon": 2.6012,
+      "population": 1457
+    },
+    {
+      "insee": "03298",
+      "nom": "Varennes-sur-Allier",
+      "lat": 46.314,
+      "lon": 3.3963,
+      "population": 3549
+    },
+    {
+      "insee": "03299",
+      "nom": "Varennes-sur-Tèche",
+      "lat": 46.3165,
+      "lon": 3.6383,
+      "population": 228
+    },
+    {
+      "insee": "03300",
+      "nom": "Vaumas",
+      "lat": 46.4482,
+      "lon": 3.6324,
+      "population": 528
+    },
+    {
+      "insee": "03301",
+      "nom": "Vaux",
+      "lat": 46.4217,
+      "lon": 2.5679,
+      "population": 1165
+    },
+    {
+      "insee": "03302",
+      "nom": "Veauce",
+      "lat": 46.1699,
+      "lon": 3.0554,
+      "population": 40
+    },
+    {
+      "insee": "03303",
+      "nom": "Venas",
+      "lat": 46.4696,
+      "lon": 2.7649,
+      "population": 217
+    },
+    {
+      "insee": "03304",
+      "nom": "Vendat",
+      "lat": 46.1599,
+      "lon": 3.347,
+      "population": 2292
+    },
+    {
+      "insee": "03305",
+      "nom": "Verneix",
+      "lat": 46.4083,
+      "lon": 2.6759,
+      "population": 574
+    },
+    {
+      "insee": "03307",
+      "nom": "Verneuil-en-Bourbonnais",
+      "lat": 46.3544,
+      "lon": 3.2497,
+      "population": 239
+    },
+    {
+      "insee": "03308",
+      "nom": "Vernusse",
+      "lat": 46.2612,
+      "lon": 2.9774,
+      "population": 149
+    },
+    {
+      "insee": "03310",
+      "nom": "Vichy",
+      "lat": 46.1318,
+      "lon": 3.4254,
+      "population": 25115
+    },
+    {
+      "insee": "03311",
+      "nom": "Vicq",
+      "lat": 46.1452,
+      "lon": 3.0933,
+      "population": 291
+    },
+    {
+      "insee": "03312",
+      "nom": "Vieure",
+      "lat": 46.4994,
+      "lon": 2.8749,
+      "population": 277
+    },
+    {
+      "insee": "03314",
+      "nom": "Villebret",
+      "lat": 46.2738,
+      "lon": 2.63,
+      "population": 1335
+    },
+    {
+      "insee": "03315",
+      "nom": "Villefranche-d'Allier",
+      "lat": 46.397,
+      "lon": 2.8401,
+      "population": 1238
+    },
+    {
+      "insee": "03316",
+      "nom": "Villeneuve-sur-Allier",
+      "lat": 46.6753,
+      "lon": 3.2486,
+      "population": 1024
+    },
+    {
+      "insee": "03317",
+      "nom": "Viplaix",
+      "lat": 46.4608,
+      "lon": 2.368,
+      "population": 293
+    },
+    {
+      "insee": "03319",
+      "nom": "Voussac",
+      "lat": 46.3268,
+      "lon": 3.0769,
+      "population": 494
+    },
+    {
+      "insee": "03320",
+      "nom": "Ygrande",
+      "lat": 46.5471,
+      "lon": 2.9382,
+      "population": 762
+    },
+    {
+      "insee": "03321",
+      "nom": "Yzeure",
+      "lat": 46.5662,
+      "lon": 3.3854,
+      "population": 12897
+    }
+  ]
+}

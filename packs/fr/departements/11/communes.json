@@ -1,0 +1,3038 @@
+{
+  "country": "FR",
+  "departmentCode": "11",
+  "label": "Departement 11",
+  "communes": [
+    {
+      "insee": "11001",
+      "nom": "Aigues-Vives",
+      "lat": 43.234,
+      "lon": 2.5359,
+      "population": 532
+    },
+    {
+      "insee": "11002",
+      "nom": "Airoux",
+      "lat": 43.3667,
+      "lon": 1.8739,
+      "population": 201
+    },
+    {
+      "insee": "11003",
+      "nom": "Ajac",
+      "lat": 43.0448,
+      "lon": 2.1373,
+      "population": 196
+    },
+    {
+      "insee": "11004",
+      "nom": "Alaigne",
+      "lat": 43.0949,
+      "lon": 2.0887,
+      "population": 327
+    },
+    {
+      "insee": "11005",
+      "nom": "Alairac",
+      "lat": 43.1848,
+      "lon": 2.2387,
+      "population": 1395
+    },
+    {
+      "insee": "11006",
+      "nom": "Albas",
+      "lat": 43.0046,
+      "lon": 2.7328,
+      "population": 87
+    },
+    {
+      "insee": "11007",
+      "nom": "Albières",
+      "lat": 42.9452,
+      "lon": 2.447,
+      "population": 117
+    },
+    {
+      "insee": "11008",
+      "nom": "Alet-les-Bains",
+      "lat": 42.9914,
+      "lon": 2.2618,
+      "population": 379
+    },
+    {
+      "insee": "11009",
+      "nom": "Alzonne",
+      "lat": 43.2646,
+      "lon": 2.1665,
+      "population": 1586
+    },
+    {
+      "insee": "11010",
+      "nom": "Antugnac",
+      "lat": 42.9627,
+      "lon": 2.2174,
+      "population": 291
+    },
+    {
+      "insee": "11011",
+      "nom": "Aragon",
+      "lat": 43.2974,
+      "lon": 2.303,
+      "population": 487
+    },
+    {
+      "insee": "11012",
+      "nom": "Argeliers",
+      "lat": 43.309,
+      "lon": 2.9137,
+      "population": 2124
+    },
+    {
+      "insee": "11013",
+      "nom": "Argens-Minervois",
+      "lat": 43.2458,
+      "lon": 2.7692,
+      "population": 395
+    },
+    {
+      "insee": "11014",
+      "nom": "Armissan",
+      "lat": 43.1888,
+      "lon": 3.0888,
+      "population": 1461
+    },
+    {
+      "insee": "11015",
+      "nom": "Arques",
+      "lat": 42.9445,
+      "lon": 2.3878,
+      "population": 248
+    },
+    {
+      "insee": "11016",
+      "nom": "Arquettes-en-Val",
+      "lat": 43.1061,
+      "lon": 2.4938,
+      "population": 83
+    },
+    {
+      "insee": "11017",
+      "nom": "Artigues",
+      "lat": 42.7895,
+      "lon": 2.2044,
+      "population": 72
+    },
+    {
+      "insee": "11018",
+      "nom": "Arzens",
+      "lat": 43.1968,
+      "lon": 2.2082,
+      "population": 1174
+    },
+    {
+      "insee": "11019",
+      "nom": "Aunat",
+      "lat": 42.79,
+      "lon": 2.1018,
+      "population": 61
+    },
+    {
+      "insee": "11020",
+      "nom": "Auriac",
+      "lat": 42.9259,
+      "lon": 2.4916,
+      "population": 33
+    },
+    {
+      "insee": "11021",
+      "nom": "Axat",
+      "lat": 42.7958,
+      "lon": 2.2412,
+      "population": 479
+    },
+    {
+      "insee": "11022",
+      "nom": "Azille",
+      "lat": 43.2763,
+      "lon": 2.6581,
+      "population": 1115
+    },
+    {
+      "insee": "11023",
+      "nom": "Badens",
+      "lat": 43.2229,
+      "lon": 2.5073,
+      "population": 749
+    },
+    {
+      "insee": "11024",
+      "nom": "Bages",
+      "lat": 43.1163,
+      "lon": 2.9702,
+      "population": 720
+    },
+    {
+      "insee": "11025",
+      "nom": "Bagnoles",
+      "lat": 43.2668,
+      "lon": 2.4466,
+      "population": 300
+    },
+    {
+      "insee": "11026",
+      "nom": "Baraigne",
+      "lat": 43.3293,
+      "lon": 1.8191,
+      "population": 163
+    },
+    {
+      "insee": "11027",
+      "nom": "Barbaira",
+      "lat": 43.1774,
+      "lon": 2.5162,
+      "population": 805
+    },
+    {
+      "insee": "11028",
+      "nom": "Belcaire",
+      "lat": 42.8289,
+      "lon": 1.9368,
+      "population": 365
+    },
+    {
+      "insee": "11029",
+      "nom": "Belcastel-et-Buc",
+      "lat": 43.0251,
+      "lon": 2.3528,
+      "population": 60
+    },
+    {
+      "insee": "11030",
+      "nom": "Belflou",
+      "lat": 43.3214,
+      "lon": 1.796,
+      "population": 111
+    },
+    {
+      "insee": "11031",
+      "nom": "Belfort-sur-Rebenty",
+      "lat": 42.8304,
+      "lon": 2.0497,
+      "population": 25
+    },
+    {
+      "insee": "11032",
+      "nom": "Bellegarde-du-Razès",
+      "lat": 43.1059,
+      "lon": 2.0508,
+      "population": 251
+    },
+    {
+      "insee": "11033",
+      "nom": "Belpech",
+      "lat": 43.2018,
+      "lon": 1.7624,
+      "population": 1343
+    },
+    {
+      "insee": "11034",
+      "nom": "Belvèze-du-Razès",
+      "lat": 43.1236,
+      "lon": 2.0891,
+      "population": 884
+    },
+    {
+      "insee": "11035",
+      "nom": "Belvianes-et-Cavirac",
+      "lat": 42.8473,
+      "lon": 2.2139,
+      "population": 270
+    },
+    {
+      "insee": "11036",
+      "nom": "Belvis",
+      "lat": 42.8573,
+      "lon": 2.0798,
+      "population": 166
+    },
+    {
+      "insee": "11037",
+      "nom": "Berriac",
+      "lat": 43.2153,
+      "lon": 2.4053,
+      "population": 979
+    },
+    {
+      "insee": "11038",
+      "nom": "Bessède-de-Sault",
+      "lat": 42.7915,
+      "lon": 2.1419,
+      "population": 63
+    },
+    {
+      "insee": "11040",
+      "nom": "Bizanet",
+      "lat": 43.1445,
+      "lon": 2.8704,
+      "population": 1730
+    },
+    {
+      "insee": "11041",
+      "nom": "Bize-Minervois",
+      "lat": 43.3364,
+      "lon": 2.8719,
+      "population": 1355
+    },
+    {
+      "insee": "11042",
+      "nom": "Blomac",
+      "lat": 43.2134,
+      "lon": 2.5889,
+      "population": 264
+    },
+    {
+      "insee": "11043",
+      "nom": "Bouilhonnac",
+      "lat": 43.233,
+      "lon": 2.4462,
+      "population": 226
+    },
+    {
+      "insee": "11044",
+      "nom": "Bouisse",
+      "lat": 42.9899,
+      "lon": 2.4259,
+      "population": 104
+    },
+    {
+      "insee": "11045",
+      "nom": "Bouriège",
+      "lat": 42.9938,
+      "lon": 2.1575,
+      "population": 151
+    },
+    {
+      "insee": "11046",
+      "nom": "Bourigeole",
+      "lat": 42.9864,
+      "lon": 2.1206,
+      "population": 56
+    },
+    {
+      "insee": "11048",
+      "nom": "Boutenac",
+      "lat": 43.1469,
+      "lon": 2.7993,
+      "population": 747
+    },
+    {
+      "insee": "11049",
+      "nom": "Bram",
+      "lat": 43.2511,
+      "lon": 2.1108,
+      "population": 3233
+    },
+    {
+      "insee": "11051",
+      "nom": "Brézilhac",
+      "lat": 43.1666,
+      "lon": 2.0746,
+      "population": 172
+    },
+    {
+      "insee": "11052",
+      "nom": "Brousses-et-Villaret",
+      "lat": 43.3433,
+      "lon": 2.2454,
+      "population": 365
+    },
+    {
+      "insee": "11053",
+      "nom": "Brugairolles",
+      "lat": 43.1331,
+      "lon": 2.165,
+      "population": 308
+    },
+    {
+      "insee": "11055",
+      "nom": "Bugarach",
+      "lat": 42.8735,
+      "lon": 2.3554,
+      "population": 250
+    },
+    {
+      "insee": "11056",
+      "nom": "Cabrespine",
+      "lat": 43.3746,
+      "lon": 2.4771,
+      "population": 185
+    },
+    {
+      "insee": "11057",
+      "nom": "Cahuzac",
+      "lat": 43.1909,
+      "lon": 1.8548,
+      "population": 33
+    },
+    {
+      "insee": "11058",
+      "nom": "Cailhau",
+      "lat": 43.1448,
+      "lon": 2.1325,
+      "population": 247
+    },
+    {
+      "insee": "11059",
+      "nom": "Cailhavel",
+      "lat": 43.1669,
+      "lon": 2.1234,
+      "population": 154
+    },
+    {
+      "insee": "11060",
+      "nom": "Cailla",
+      "lat": 42.809,
+      "lon": 2.2008,
+      "population": 49
+    },
+    {
+      "insee": "11061",
+      "nom": "Cambieure",
+      "lat": 43.1268,
+      "lon": 2.1267,
+      "population": 327
+    },
+    {
+      "insee": "11062",
+      "nom": "Campagna-de-Sault",
+      "lat": 42.7564,
+      "lon": 2.0512,
+      "population": 20
+    },
+    {
+      "insee": "11063",
+      "nom": "Campagne-sur-Aude",
+      "lat": 42.9134,
+      "lon": 2.2021,
+      "population": 618
+    },
+    {
+      "insee": "11064",
+      "nom": "Camplong-d'Aude",
+      "lat": 43.1303,
+      "lon": 2.6495,
+      "population": 389
+    },
+    {
+      "insee": "11065",
+      "nom": "Camps-sur-l'Agly",
+      "lat": 42.8659,
+      "lon": 2.4179,
+      "population": 66
+    },
+    {
+      "insee": "11066",
+      "nom": "Camurac",
+      "lat": 42.8015,
+      "lon": 1.9252,
+      "population": 110
+    },
+    {
+      "insee": "11067",
+      "nom": "Canet",
+      "lat": 43.2248,
+      "lon": 2.8291,
+      "population": 1873
+    },
+    {
+      "insee": "11068",
+      "nom": "Capendu",
+      "lat": 43.1821,
+      "lon": 2.5554,
+      "population": 1453
+    },
+    {
+      "insee": "11069",
+      "nom": "Carcassonne",
+      "lat": 43.2078,
+      "lon": 2.3491,
+      "population": 46080
+    },
+    {
+      "insee": "11070",
+      "nom": "Carlipa",
+      "lat": 43.3071,
+      "lon": 2.1222,
+      "population": 332
+    },
+    {
+      "insee": "11071",
+      "nom": "Cascastel-des-Corbières",
+      "lat": 42.9779,
+      "lon": 2.7521,
+      "population": 212
+    },
+    {
+      "insee": "11073",
+      "nom": "Cassaignes",
+      "lat": 42.948,
+      "lon": 2.2942,
+      "population": 61
+    },
+    {
+      "insee": "11075",
+      "nom": "Castans",
+      "lat": 43.4098,
+      "lon": 2.489,
+      "population": 124
+    },
+    {
+      "insee": "11077",
+      "nom": "Castelnau-d'Aude",
+      "lat": 43.2345,
+      "lon": 2.6779,
+      "population": 497
+    },
+    {
+      "insee": "11076",
+      "nom": "Castelnaudary",
+      "lat": 43.3201,
+      "lon": 1.9613,
+      "population": 12151
+    },
+    {
+      "insee": "11078",
+      "nom": "Castelreng",
+      "lat": 43.0208,
+      "lon": 2.1254,
+      "population": 207
+    },
+    {
+      "insee": "11079",
+      "nom": "Caudebronde",
+      "lat": 43.3866,
+      "lon": 2.2989,
+      "population": 221
+    },
+    {
+      "insee": "11081",
+      "nom": "Caunes-Minervois",
+      "lat": 43.3419,
+      "lon": 2.5179,
+      "population": 1554
+    },
+    {
+      "insee": "11082",
+      "nom": "Caunette-sur-Lauquet",
+      "lat": 43.0279,
+      "lon": 2.4218,
+      "population": 11
+    },
+    {
+      "insee": "11083",
+      "nom": "Caunettes-en-Val",
+      "lat": 43.0657,
+      "lon": 2.5629,
+      "population": 56
+    },
+    {
+      "insee": "11084",
+      "nom": "Caux-et-Sauzens",
+      "lat": 43.227,
+      "lon": 2.2575,
+      "population": 1025
+    },
+    {
+      "insee": "11085",
+      "nom": "Cavanac",
+      "lat": 43.1699,
+      "lon": 2.3353,
+      "population": 1021
+    },
+    {
+      "insee": "11086",
+      "nom": "Caves",
+      "lat": 42.9392,
+      "lon": 2.9624,
+      "population": 875
+    },
+    {
+      "insee": "11087",
+      "nom": "Cazalrenoux",
+      "lat": 43.1897,
+      "lon": 1.9485,
+      "population": 105
+    },
+    {
+      "insee": "11088",
+      "nom": "Cazilhac",
+      "lat": 43.1781,
+      "lon": 2.3594,
+      "population": 1664
+    },
+    {
+      "insee": "11089",
+      "nom": "Cenne-Monestiés",
+      "lat": 43.3216,
+      "lon": 2.1294,
+      "population": 413
+    },
+    {
+      "insee": "11090",
+      "nom": "Cépie",
+      "lat": 43.1074,
+      "lon": 2.2397,
+      "population": 598
+    },
+    {
+      "insee": "11091",
+      "nom": "Chalabre",
+      "lat": 42.9813,
+      "lon": 2.0183,
+      "population": 1084
+    },
+    {
+      "insee": "11092",
+      "nom": "Citou",
+      "lat": 43.3726,
+      "lon": 2.5311,
+      "population": 101
+    },
+    {
+      "insee": "11094",
+      "nom": "Clermont-sur-Lauquet",
+      "lat": 43.0484,
+      "lon": 2.4296,
+      "population": 29
+    },
+    {
+      "insee": "11095",
+      "nom": "Comigne",
+      "lat": 43.1651,
+      "lon": 2.5851,
+      "population": 328
+    },
+    {
+      "insee": "11096",
+      "nom": "Comus",
+      "lat": 42.8266,
+      "lon": 1.8862,
+      "population": 33
+    },
+    {
+      "insee": "11098",
+      "nom": "Conilhac-Corbières",
+      "lat": 43.1856,
+      "lon": 2.7115,
+      "population": 954
+    },
+    {
+      "insee": "11099",
+      "nom": "Conques-sur-Orbiel",
+      "lat": 43.2815,
+      "lon": 2.38,
+      "population": 2523
+    },
+    {
+      "insee": "11100",
+      "nom": "Corbières",
+      "lat": 43.0481,
+      "lon": 2.0013,
+      "population": 38
+    },
+    {
+      "insee": "11101",
+      "nom": "Coudons",
+      "lat": 42.8637,
+      "lon": 2.1217,
+      "population": 54
+    },
+    {
+      "insee": "11102",
+      "nom": "Couffoulens",
+      "lat": 43.1494,
+      "lon": 2.3056,
+      "population": 533
+    },
+    {
+      "insee": "11103",
+      "nom": "Couiza",
+      "lat": 42.9324,
+      "lon": 2.2714,
+      "population": 1132
+    },
+    {
+      "insee": "11104",
+      "nom": "Counozouls",
+      "lat": 42.7007,
+      "lon": 2.2284,
+      "population": 57
+    },
+    {
+      "insee": "11105",
+      "nom": "Cournanel",
+      "lat": 43.0308,
+      "lon": 2.2343,
+      "population": 659
+    },
+    {
+      "insee": "11106",
+      "nom": "Coursan",
+      "lat": 43.2458,
+      "lon": 3.062,
+      "population": 5737
+    },
+    {
+      "insee": "11107",
+      "nom": "Courtauly",
+      "lat": 43.0387,
+      "lon": 2.0492,
+      "population": 73
+    },
+    {
+      "insee": "11109",
+      "nom": "Coustaussa",
+      "lat": 42.9379,
+      "lon": 2.2884,
+      "population": 50
+    },
+    {
+      "insee": "11110",
+      "nom": "Coustouge",
+      "lat": 43.0549,
+      "lon": 2.7425,
+      "population": 117
+    },
+    {
+      "insee": "11111",
+      "nom": "Cruscades",
+      "lat": 43.2011,
+      "lon": 2.8179,
+      "population": 936
+    },
+    {
+      "insee": "11112",
+      "nom": "Cubières-sur-Cinoble",
+      "lat": 42.864,
+      "lon": 2.4712,
+      "population": 83
+    },
+    {
+      "insee": "11113",
+      "nom": "Cucugnan",
+      "lat": 42.8593,
+      "lon": 2.6179,
+      "population": 125
+    },
+    {
+      "insee": "11114",
+      "nom": "Cumiès",
+      "lat": 43.2983,
+      "lon": 1.8309,
+      "population": 44
+    },
+    {
+      "insee": "11115",
+      "nom": "Cuxac-Cabardès",
+      "lat": 43.3972,
+      "lon": 2.2803,
+      "population": 947
+    },
+    {
+      "insee": "11116",
+      "nom": "Cuxac-d'Aude",
+      "lat": 43.2571,
+      "lon": 3.0093,
+      "population": 4079
+    },
+    {
+      "insee": "11117",
+      "nom": "Davejean",
+      "lat": 42.9597,
+      "lon": 2.6096,
+      "population": 163
+    },
+    {
+      "insee": "11118",
+      "nom": "Dernacueillette",
+      "lat": 42.9292,
+      "lon": 2.5967,
+      "population": 43
+    },
+    {
+      "insee": "11121",
+      "nom": "Donazac",
+      "lat": 43.0788,
+      "lon": 2.1283,
+      "population": 110
+    },
+    {
+      "insee": "11122",
+      "nom": "Douzens",
+      "lat": 43.1757,
+      "lon": 2.6096,
+      "population": 784
+    },
+    {
+      "insee": "11123",
+      "nom": "Duilhac-sous-Peyrepertuse",
+      "lat": 42.8703,
+      "lon": 2.5624,
+      "population": 140
+    },
+    {
+      "insee": "11124",
+      "nom": "Durban-Corbières",
+      "lat": 42.9975,
+      "lon": 2.8116,
+      "population": 649
+    },
+    {
+      "insee": "11125",
+      "nom": "Embres-et-Castelmaure",
+      "lat": 42.9278,
+      "lon": 2.8142,
+      "population": 165
+    },
+    {
+      "insee": "11126",
+      "nom": "Escales",
+      "lat": 43.2232,
+      "lon": 2.7033,
+      "population": 512
+    },
+    {
+      "insee": "11127",
+      "nom": "Escouloubre",
+      "lat": 42.7145,
+      "lon": 2.1343,
+      "population": 71
+    },
+    {
+      "insee": "11128",
+      "nom": "Escueillens-et-Saint-Just-de-Bélengard",
+      "lat": 43.0987,
+      "lon": 2.0168,
+      "population": 160
+    },
+    {
+      "insee": "11129",
+      "nom": "Espéraza",
+      "lat": 42.9297,
+      "lon": 2.2204,
+      "population": 1774
+    },
+    {
+      "insee": "11130",
+      "nom": "Espezel",
+      "lat": 42.8455,
+      "lon": 2.0256,
+      "population": 238
+    },
+    {
+      "insee": "11132",
+      "nom": "Fabrezan",
+      "lat": 43.1282,
+      "lon": 2.7139,
+      "population": 1306
+    },
+    {
+      "insee": "11133",
+      "nom": "Fajac-en-Val",
+      "lat": 43.1203,
+      "lon": 2.4663,
+      "population": 54
+    },
+    {
+      "insee": "11134",
+      "nom": "Fajac-la-Relenque",
+      "lat": 43.284,
+      "lon": 1.7244,
+      "population": 48
+    },
+    {
+      "insee": "11136",
+      "nom": "Fanjeaux",
+      "lat": 43.1921,
+      "lon": 2.0359,
+      "population": 885
+    },
+    {
+      "insee": "11137",
+      "nom": "Félines-Termenès",
+      "lat": 42.9851,
+      "lon": 2.6148,
+      "population": 130
+    },
+    {
+      "insee": "11138",
+      "nom": "Fendeille",
+      "lat": 43.2707,
+      "lon": 1.9503,
+      "population": 658
+    },
+    {
+      "insee": "11139",
+      "nom": "Fenouillet-du-Razès",
+      "lat": 43.1551,
+      "lon": 2.0259,
+      "population": 78
+    },
+    {
+      "insee": "11140",
+      "nom": "Ferrals-les-Corbières",
+      "lat": 43.1432,
+      "lon": 2.7383,
+      "population": 1275
+    },
+    {
+      "insee": "11141",
+      "nom": "Ferran",
+      "lat": 43.1522,
+      "lon": 2.0854,
+      "population": 125
+    },
+    {
+      "insee": "11142",
+      "nom": "Festes-et-Saint-André",
+      "lat": 42.9616,
+      "lon": 2.1167,
+      "population": 185
+    },
+    {
+      "insee": "11143",
+      "nom": "Feuilla",
+      "lat": 42.9273,
+      "lon": 2.9025,
+      "population": 107
+    },
+    {
+      "insee": "11144",
+      "nom": "Fitou",
+      "lat": 42.8992,
+      "lon": 2.9572,
+      "population": 1158
+    },
+    {
+      "insee": "11145",
+      "nom": "Fleury",
+      "lat": 43.2141,
+      "lon": 3.1766,
+      "population": 4246
+    },
+    {
+      "insee": "11146",
+      "nom": "Floure",
+      "lat": 43.176,
+      "lon": 2.484,
+      "population": 405
+    },
+    {
+      "insee": "11147",
+      "nom": "Fontanès-de-Sault",
+      "lat": 42.7659,
+      "lon": 2.0818,
+      "population": 6
+    },
+    {
+      "insee": "11148",
+      "nom": "Fontcouverte",
+      "lat": 43.1693,
+      "lon": 2.6904,
+      "population": 575
+    },
+    {
+      "insee": "11149",
+      "nom": "Fonters-du-Razès",
+      "lat": 43.2389,
+      "lon": 1.923,
+      "population": 71
+    },
+    {
+      "insee": "11150",
+      "nom": "Fontiers-Cabardès",
+      "lat": 43.3735,
+      "lon": 2.2502,
+      "population": 476
+    },
+    {
+      "insee": "11151",
+      "nom": "Fontiès-d'Aude",
+      "lat": 43.188,
+      "lon": 2.4561,
+      "population": 560
+    },
+    {
+      "insee": "11152",
+      "nom": "Fontjoncouse",
+      "lat": 43.0424,
+      "lon": 2.7945,
+      "population": 139
+    },
+    {
+      "insee": "11154",
+      "nom": "Fournes-Cabardès",
+      "lat": 43.3546,
+      "lon": 2.4111,
+      "population": 53
+    },
+    {
+      "insee": "11155",
+      "nom": "Fourtou",
+      "lat": 42.9106,
+      "lon": 2.443,
+      "population": 77
+    },
+    {
+      "insee": "11156",
+      "nom": "Fraisse-Cabardès",
+      "lat": 43.3323,
+      "lon": 2.2718,
+      "population": 104
+    },
+    {
+      "insee": "11157",
+      "nom": "Fraissé-des-Corbières",
+      "lat": 42.9553,
+      "lon": 2.8711,
+      "population": 232
+    },
+    {
+      "insee": "11158",
+      "nom": "Gaja-et-Villedieu",
+      "lat": 43.0794,
+      "lon": 2.1842,
+      "population": 306
+    },
+    {
+      "insee": "11159",
+      "nom": "Gaja-la-Selve",
+      "lat": 43.2024,
+      "lon": 1.8856,
+      "population": 134
+    },
+    {
+      "insee": "11160",
+      "nom": "Galinagues",
+      "lat": 42.8044,
+      "lon": 2.0477,
+      "population": 29
+    },
+    {
+      "insee": "11161",
+      "nom": "Gardie",
+      "lat": 43.0743,
+      "lon": 2.2993,
+      "population": 128
+    },
+    {
+      "insee": "11162",
+      "nom": "Generville",
+      "lat": 43.211,
+      "lon": 1.9309,
+      "population": 48
+    },
+    {
+      "insee": "11163",
+      "nom": "Gincla",
+      "lat": 42.7658,
+      "lon": 2.3298,
+      "population": 46
+    },
+    {
+      "insee": "11164",
+      "nom": "Ginestas",
+      "lat": 43.2779,
+      "lon": 2.883,
+      "population": 1611
+    },
+    {
+      "insee": "11165",
+      "nom": "Ginoles",
+      "lat": 42.8637,
+      "lon": 2.153,
+      "population": 296
+    },
+    {
+      "insee": "11166",
+      "nom": "Gourvieille",
+      "lat": 43.3366,
+      "lon": 1.7879,
+      "population": 68
+    },
+    {
+      "insee": "11167",
+      "nom": "Gramazie",
+      "lat": 43.1376,
+      "lon": 2.0989,
+      "population": 130
+    },
+    {
+      "insee": "11168",
+      "nom": "Granès",
+      "lat": 42.8966,
+      "lon": 2.256,
+      "population": 118
+    },
+    {
+      "insee": "11169",
+      "nom": "Greffeil",
+      "lat": 43.0752,
+      "lon": 2.3983,
+      "population": 100
+    },
+    {
+      "insee": "11170",
+      "nom": "Gruissan",
+      "lat": 43.1042,
+      "lon": 3.0871,
+      "population": 5032
+    },
+    {
+      "insee": "11172",
+      "nom": "Homps",
+      "lat": 43.2685,
+      "lon": 2.7247,
+      "population": 609
+    },
+    {
+      "insee": "11173",
+      "nom": "Hounoux",
+      "lat": 43.137,
+      "lon": 2.0065,
+      "population": 135
+    },
+    {
+      "insee": "11175",
+      "nom": "Issel",
+      "lat": 43.3681,
+      "lon": 2.0012,
+      "population": 483
+    },
+    {
+      "insee": "11176",
+      "nom": "Jonquières",
+      "lat": 43.0421,
+      "lon": 2.7265,
+      "population": 45
+    },
+    {
+      "insee": "11177",
+      "nom": "Joucou",
+      "lat": 42.8244,
+      "lon": 2.0854,
+      "population": 30
+    },
+    {
+      "insee": "11039",
+      "nom": "La Bezole",
+      "lat": 43.0249,
+      "lon": 2.0952,
+      "population": 44
+    },
+    {
+      "insee": "11072",
+      "nom": "La Cassaigne",
+      "lat": 43.1942,
+      "lon": 1.9914,
+      "population": 200
+    },
+    {
+      "insee": "11108",
+      "nom": "La Courtète",
+      "lat": 43.1425,
+      "lon": 2.0317,
+      "population": 50
+    },
+    {
+      "insee": "11119",
+      "nom": "La Digne-d'Amont",
+      "lat": 43.0387,
+      "lon": 2.1619,
+      "population": 286
+    },
+    {
+      "insee": "11120",
+      "nom": "La Digne-d'Aval",
+      "lat": 43.0456,
+      "lon": 2.1762,
+      "population": 522
+    },
+    {
+      "insee": "11135",
+      "nom": "La Fajolle",
+      "lat": 42.7548,
+      "lon": 1.9642,
+      "population": 13
+    },
+    {
+      "insee": "11153",
+      "nom": "La Force",
+      "lat": 43.1992,
+      "lon": 2.0864,
+      "population": 264
+    },
+    {
+      "insee": "11208",
+      "nom": "La Louvière-Lauragais",
+      "lat": 43.2684,
+      "lon": 1.7502,
+      "population": 80
+    },
+    {
+      "insee": "11188",
+      "nom": "La Palme",
+      "lat": 42.9672,
+      "lon": 2.9946,
+      "population": 1995
+    },
+    {
+      "insee": "11292",
+      "nom": "La Pomarède",
+      "lat": 43.4077,
+      "lon": 1.9426,
+      "population": 188
+    },
+    {
+      "insee": "11190",
+      "nom": "La Redorte",
+      "lat": 43.2422,
+      "lon": 2.6515,
+      "population": 1238
+    },
+    {
+      "insee": "11376",
+      "nom": "La Serpent",
+      "lat": 42.9651,
+      "lon": 2.1753,
+      "population": 92
+    },
+    {
+      "insee": "11391",
+      "nom": "La Tourette-Cabardès",
+      "lat": 43.3815,
+      "lon": 2.3277,
+      "population": 20
+    },
+    {
+      "insee": "11178",
+      "nom": "Labastide-d'Anjou",
+      "lat": 43.3462,
+      "lon": 1.8538,
+      "population": 1255
+    },
+    {
+      "insee": "11179",
+      "nom": "Labastide-en-Val",
+      "lat": 43.066,
+      "lon": 2.4668,
+      "population": 88
+    },
+    {
+      "insee": "11180",
+      "nom": "Labastide-Esparbairenque",
+      "lat": 43.3953,
+      "lon": 2.4085,
+      "population": 66
+    },
+    {
+      "insee": "11181",
+      "nom": "Labécède-Lauragais",
+      "lat": 43.398,
+      "lon": 2.0105,
+      "population": 420
+    },
+    {
+      "insee": "11182",
+      "nom": "Lacombe",
+      "lat": 43.4076,
+      "lon": 2.2415,
+      "population": 188
+    },
+    {
+      "insee": "11183",
+      "nom": "Ladern-sur-Lauquet",
+      "lat": 43.1021,
+      "lon": 2.3908,
+      "population": 248
+    },
+    {
+      "insee": "11184",
+      "nom": "Lafage",
+      "lat": 43.1651,
+      "lon": 1.8659,
+      "population": 90
+    },
+    {
+      "insee": "11185",
+      "nom": "Lagrasse",
+      "lat": 43.1048,
+      "lon": 2.5914,
+      "population": 554
+    },
+    {
+      "insee": "11186",
+      "nom": "Lairière",
+      "lat": 43.028,
+      "lon": 2.481,
+      "population": 52
+    },
+    {
+      "insee": "11187",
+      "nom": "Lanet",
+      "lat": 42.965,
+      "lon": 2.4868,
+      "population": 57
+    },
+    {
+      "insee": "11189",
+      "nom": "Laprade",
+      "lat": 43.4405,
+      "lon": 2.2522,
+      "population": 122
+    },
+    {
+      "insee": "11191",
+      "nom": "Laroque-de-Fa",
+      "lat": 42.9545,
+      "lon": 2.5547,
+      "population": 138
+    },
+    {
+      "insee": "11192",
+      "nom": "Lasbordes",
+      "lat": 43.3008,
+      "lon": 2.0616,
+      "population": 846
+    },
+    {
+      "insee": "11193",
+      "nom": "Lasserre-de-Prouille",
+      "lat": 43.1816,
+      "lon": 2.0837,
+      "population": 292
+    },
+    {
+      "insee": "11194",
+      "nom": "Lastours",
+      "lat": 43.3273,
+      "lon": 2.3794,
+      "population": 144
+    },
+    {
+      "insee": "11195",
+      "nom": "Laurabuc",
+      "lat": 43.2625,
+      "lon": 1.9919,
+      "population": 431
+    },
+    {
+      "insee": "11196",
+      "nom": "Laurac",
+      "lat": 43.2304,
+      "lon": 1.9681,
+      "population": 182
+    },
+    {
+      "insee": "11197",
+      "nom": "Lauraguel",
+      "lat": 43.0964,
+      "lon": 2.1698,
+      "population": 622
+    },
+    {
+      "insee": "11198",
+      "nom": "Laure-Minervois",
+      "lat": 43.2678,
+      "lon": 2.5144,
+      "population": 1061
+    },
+    {
+      "insee": "11199",
+      "nom": "Lavalette",
+      "lat": 43.1932,
+      "lon": 2.2717,
+      "population": 1612
+    },
+    {
+      "insee": "11047",
+      "nom": "Le Bousquet",
+      "lat": 42.7074,
+      "lon": 2.1771,
+      "population": 39
+    },
+    {
+      "insee": "11093",
+      "nom": "Le Clat",
+      "lat": 42.7877,
+      "lon": 2.1733,
+      "population": 28
+    },
+    {
+      "insee": "11054",
+      "nom": "Les Brunels",
+      "lat": 43.4109,
+      "lon": 2.0466,
+      "population": 268
+    },
+    {
+      "insee": "11074",
+      "nom": "Les Cassés",
+      "lat": 43.429,
+      "lon": 1.8701,
+      "population": 319
+    },
+    {
+      "insee": "11174",
+      "nom": "Les Ilhes",
+      "lat": 43.3557,
+      "lon": 2.3726,
+      "population": 64
+    },
+    {
+      "insee": "11221",
+      "nom": "Les Martys",
+      "lat": 43.4222,
+      "lon": 2.3106,
+      "population": 309
+    },
+    {
+      "insee": "11200",
+      "nom": "Lespinassière",
+      "lat": 43.4075,
+      "lon": 2.5533,
+      "population": 139
+    },
+    {
+      "insee": "11201",
+      "nom": "Leuc",
+      "lat": 43.1402,
+      "lon": 2.3394,
+      "population": 819
+    },
+    {
+      "insee": "11202",
+      "nom": "Leucate",
+      "lat": 42.9076,
+      "lon": 3.0232,
+      "population": 4562
+    },
+    {
+      "insee": "11203",
+      "nom": "Lézignan-Corbières",
+      "lat": 43.1983,
+      "lon": 2.7649,
+      "population": 10343
+    },
+    {
+      "insee": "11204",
+      "nom": "Lignairolles",
+      "lat": 43.0944,
+      "lon": 2.0037,
+      "population": 33
+    },
+    {
+      "insee": "11205",
+      "nom": "Limousis",
+      "lat": 43.3262,
+      "lon": 2.4074,
+      "population": 121
+    },
+    {
+      "insee": "11206",
+      "nom": "Limoux",
+      "lat": 43.0464,
+      "lon": 2.2452,
+      "population": 10532
+    },
+    {
+      "insee": "11207",
+      "nom": "Loupia",
+      "lat": 43.0621,
+      "lon": 2.1267,
+      "population": 259
+    },
+    {
+      "insee": "11209",
+      "nom": "Luc-sur-Aude",
+      "lat": 42.9636,
+      "lon": 2.285,
+      "population": 257
+    },
+    {
+      "insee": "11210",
+      "nom": "Luc-sur-Orbieu",
+      "lat": 43.1743,
+      "lon": 2.7886,
+      "population": 1173
+    },
+    {
+      "insee": "11211",
+      "nom": "Magrie",
+      "lat": 43.0271,
+      "lon": 2.2071,
+      "population": 547
+    },
+    {
+      "insee": "11212",
+      "nom": "Mailhac",
+      "lat": 43.3067,
+      "lon": 2.8283,
+      "population": 595
+    },
+    {
+      "insee": "11213",
+      "nom": "Maisons",
+      "lat": 42.9292,
+      "lon": 2.6406,
+      "population": 59
+    },
+    {
+      "insee": "11214",
+      "nom": "Malras",
+      "lat": 43.0611,
+      "lon": 2.1702,
+      "population": 444
+    },
+    {
+      "insee": "11215",
+      "nom": "Malves-en-Minervois",
+      "lat": 43.2496,
+      "lon": 2.4512,
+      "population": 888
+    },
+    {
+      "insee": "11216",
+      "nom": "Malviès",
+      "lat": 43.1178,
+      "lon": 2.188,
+      "population": 361
+    },
+    {
+      "insee": "11217",
+      "nom": "Marcorignan",
+      "lat": 43.2233,
+      "lon": 2.9141,
+      "population": 1333
+    },
+    {
+      "insee": "11218",
+      "nom": "Marquein",
+      "lat": 43.2978,
+      "lon": 1.7238,
+      "population": 78
+    },
+    {
+      "insee": "11219",
+      "nom": "Marsa",
+      "lat": 42.8211,
+      "lon": 2.1411,
+      "population": 24
+    },
+    {
+      "insee": "11220",
+      "nom": "Marseillette",
+      "lat": 43.2119,
+      "lon": 2.5438,
+      "population": 697
+    },
+    {
+      "insee": "11222",
+      "nom": "Mas-Cabardès",
+      "lat": 43.3973,
+      "lon": 2.3613,
+      "population": 166
+    },
+    {
+      "insee": "11223",
+      "nom": "Mas-des-Cours",
+      "lat": 43.13,
+      "lon": 2.4259,
+      "population": 22
+    },
+    {
+      "insee": "11225",
+      "nom": "Mas-Saintes-Puelles",
+      "lat": 43.3119,
+      "lon": 1.8808,
+      "population": 923
+    },
+    {
+      "insee": "11224",
+      "nom": "Massac",
+      "lat": 42.9174,
+      "lon": 2.5558,
+      "population": 30
+    },
+    {
+      "insee": "11226",
+      "nom": "Mayreville",
+      "lat": 43.2297,
+      "lon": 1.8473,
+      "population": 86
+    },
+    {
+      "insee": "11227",
+      "nom": "Mayronnes",
+      "lat": 43.0487,
+      "lon": 2.528,
+      "population": 42
+    },
+    {
+      "insee": "11228",
+      "nom": "Mazerolles-du-Razès",
+      "lat": 43.1371,
+      "lon": 2.0656,
+      "population": 157
+    },
+    {
+      "insee": "11229",
+      "nom": "Mazuby",
+      "lat": 42.7886,
+      "lon": 2.0346,
+      "population": 21
+    },
+    {
+      "insee": "11230",
+      "nom": "Mérial",
+      "lat": 42.7702,
+      "lon": 1.9528,
+      "population": 28
+    },
+    {
+      "insee": "11231",
+      "nom": "Mézerville",
+      "lat": 43.2513,
+      "lon": 1.7851,
+      "population": 96
+    },
+    {
+      "insee": "11232",
+      "nom": "Miraval-Cabardès",
+      "lat": 43.3848,
+      "lon": 2.3377,
+      "population": 59
+    },
+    {
+      "insee": "11233",
+      "nom": "Mirepeisset",
+      "lat": 43.2846,
+      "lon": 2.8966,
+      "population": 750
+    },
+    {
+      "insee": "11234",
+      "nom": "Mireval-Lauragais",
+      "lat": 43.2671,
+      "lon": 1.966,
+      "population": 193
+    },
+    {
+      "insee": "11235",
+      "nom": "Missègre",
+      "lat": 43.0036,
+      "lon": 2.3743,
+      "population": 72
+    },
+    {
+      "insee": "11236",
+      "nom": "Molandier",
+      "lat": 43.251,
+      "lon": 1.7248,
+      "population": 252
+    },
+    {
+      "insee": "11238",
+      "nom": "Molleville",
+      "lat": 43.3121,
+      "lon": 1.8354,
+      "population": 128
+    },
+    {
+      "insee": "11239",
+      "nom": "Montauriol",
+      "lat": 43.2755,
+      "lon": 1.834,
+      "population": 85
+    },
+    {
+      "insee": "11240",
+      "nom": "Montazels",
+      "lat": 42.9551,
+      "lon": 2.2435,
+      "population": 528
+    },
+    {
+      "insee": "11241",
+      "nom": "Montbrun-des-Corbières",
+      "lat": 43.2011,
+      "lon": 2.6843,
+      "population": 343
+    },
+    {
+      "insee": "11242",
+      "nom": "Montclar",
+      "lat": 43.1411,
+      "lon": 2.2456,
+      "population": 178
+    },
+    {
+      "insee": "11243",
+      "nom": "Montferrand",
+      "lat": 43.3665,
+      "lon": 1.833,
+      "population": 622
+    },
+    {
+      "insee": "11244",
+      "nom": "Montfort-sur-Boulzane",
+      "lat": 42.7288,
+      "lon": 2.3112,
+      "population": 87
+    },
+    {
+      "insee": "11245",
+      "nom": "Montgaillard",
+      "lat": 42.9018,
+      "lon": 2.6311,
+      "population": 38
+    },
+    {
+      "insee": "11246",
+      "nom": "Montgradail",
+      "lat": 43.1233,
+      "lon": 2.0307,
+      "population": 50
+    },
+    {
+      "insee": "11247",
+      "nom": "Monthaut",
+      "lat": 43.0849,
+      "lon": 2.0584,
+      "population": 37
+    },
+    {
+      "insee": "11248",
+      "nom": "Montirat",
+      "lat": 43.1703,
+      "lon": 2.4372,
+      "population": 70
+    },
+    {
+      "insee": "11249",
+      "nom": "Montjardin",
+      "lat": 42.9794,
+      "lon": 2.0489,
+      "population": 93
+    },
+    {
+      "insee": "11250",
+      "nom": "Montjoi",
+      "lat": 42.9941,
+      "lon": 2.4789,
+      "population": 43
+    },
+    {
+      "insee": "11252",
+      "nom": "Montmaur",
+      "lat": 43.3985,
+      "lon": 1.8437,
+      "population": 356
+    },
+    {
+      "insee": "11253",
+      "nom": "Montolieu",
+      "lat": 43.3139,
+      "lon": 2.2183,
+      "population": 829
+    },
+    {
+      "insee": "11254",
+      "nom": "Montréal",
+      "lat": 43.1967,
+      "lon": 2.1448,
+      "population": 2136
+    },
+    {
+      "insee": "11255",
+      "nom": "Montredon-des-Corbières",
+      "lat": 43.1817,
+      "lon": 2.9237,
+      "population": 1485
+    },
+    {
+      "insee": "11256",
+      "nom": "Montséret",
+      "lat": 43.1049,
+      "lon": 2.8101,
+      "population": 616
+    },
+    {
+      "insee": "11257",
+      "nom": "Monze",
+      "lat": 43.1539,
+      "lon": 2.4624,
+      "population": 243
+    },
+    {
+      "insee": "11258",
+      "nom": "Moussan",
+      "lat": 43.2303,
+      "lon": 2.9583,
+      "population": 2093
+    },
+    {
+      "insee": "11259",
+      "nom": "Moussoulens",
+      "lat": 43.2847,
+      "lon": 2.2343,
+      "population": 956
+    },
+    {
+      "insee": "11260",
+      "nom": "Mouthoumet",
+      "lat": 42.9631,
+      "lon": 2.5315,
+      "population": 116
+    },
+    {
+      "insee": "11261",
+      "nom": "Moux",
+      "lat": 43.1741,
+      "lon": 2.6475,
+      "population": 719
+    },
+    {
+      "insee": "11262",
+      "nom": "Narbonne",
+      "lat": 43.1493,
+      "lon": 3.0337,
+      "population": 57587
+    },
+    {
+      "insee": "11263",
+      "nom": "Nébias",
+      "lat": 42.8927,
+      "lon": 2.0964,
+      "population": 262
+    },
+    {
+      "insee": "11264",
+      "nom": "Névian",
+      "lat": 43.2059,
+      "lon": 2.8836,
+      "population": 1286
+    },
+    {
+      "insee": "11265",
+      "nom": "Niort-de-Sault",
+      "lat": 42.7731,
+      "lon": 1.9885,
+      "population": 34
+    },
+    {
+      "insee": "11267",
+      "nom": "Ornaisons",
+      "lat": 43.1735,
+      "lon": 2.8374,
+      "population": 1161
+    },
+    {
+      "insee": "11268",
+      "nom": "Orsans",
+      "lat": 43.1516,
+      "lon": 1.9792,
+      "population": 87
+    },
+    {
+      "insee": "11269",
+      "nom": "Ouveillan",
+      "lat": 43.2926,
+      "lon": 2.9687,
+      "population": 2713
+    },
+    {
+      "insee": "11270",
+      "nom": "Padern",
+      "lat": 42.8673,
+      "lon": 2.6493,
+      "population": 139
+    },
+    {
+      "insee": "11271",
+      "nom": "Palairac",
+      "lat": 42.9584,
+      "lon": 2.6574,
+      "population": 33
+    },
+    {
+      "insee": "11272",
+      "nom": "Palaja",
+      "lat": 43.169,
+      "lon": 2.3905,
+      "population": 2722
+    },
+    {
+      "insee": "11273",
+      "nom": "Paraza",
+      "lat": 43.2561,
+      "lon": 2.8133,
+      "population": 700
+    },
+    {
+      "insee": "11274",
+      "nom": "Pauligne",
+      "lat": 43.0767,
+      "lon": 2.1486,
+      "population": 357
+    },
+    {
+      "insee": "11275",
+      "nom": "Payra-sur-l'Hers",
+      "lat": 43.264,
+      "lon": 1.8692,
+      "population": 210
+    },
+    {
+      "insee": "11276",
+      "nom": "Paziols",
+      "lat": 42.8552,
+      "lon": 2.7135,
+      "population": 526
+    },
+    {
+      "insee": "11278",
+      "nom": "Pech-Luna",
+      "lat": 43.2105,
+      "lon": 1.8381,
+      "population": 76
+    },
+    {
+      "insee": "11277",
+      "nom": "Pécharic-et-le-Py",
+      "lat": 43.1923,
+      "lon": 1.8254,
+      "population": 30
+    },
+    {
+      "insee": "11279",
+      "nom": "Pennautier",
+      "lat": 43.2522,
+      "lon": 2.3083,
+      "population": 2895
+    },
+    {
+      "insee": "11280",
+      "nom": "Pépieux",
+      "lat": 43.2987,
+      "lon": 2.6829,
+      "population": 1118
+    },
+    {
+      "insee": "11281",
+      "nom": "Pexiora",
+      "lat": 43.2692,
+      "lon": 2.0407,
+      "population": 1266
+    },
+    {
+      "insee": "11282",
+      "nom": "Peyrefitte-du-Razès",
+      "lat": 43.0582,
+      "lon": 2.0243,
+      "population": 54
+    },
+    {
+      "insee": "11283",
+      "nom": "Peyrefitte-sur-l'Hers",
+      "lat": 43.2491,
+      "lon": 1.8156,
+      "population": 75
+    },
+    {
+      "insee": "11284",
+      "nom": "Peyrens",
+      "lat": 43.3612,
+      "lon": 1.9607,
+      "population": 454
+    },
+    {
+      "insee": "11285",
+      "nom": "Peyriac-de-Mer",
+      "lat": 43.0899,
+      "lon": 2.9547,
+      "population": 1187
+    },
+    {
+      "insee": "11286",
+      "nom": "Peyriac-Minervois",
+      "lat": 43.2951,
+      "lon": 2.5714,
+      "population": 1123
+    },
+    {
+      "insee": "11287",
+      "nom": "Peyrolles",
+      "lat": 42.9602,
+      "lon": 2.3363,
+      "population": 91
+    },
+    {
+      "insee": "11288",
+      "nom": "Pezens",
+      "lat": 43.2557,
+      "lon": 2.244,
+      "population": 1611
+    },
+    {
+      "insee": "11289",
+      "nom": "Pieusse",
+      "lat": 43.0812,
+      "lon": 2.2525,
+      "population": 970
+    },
+    {
+      "insee": "11290",
+      "nom": "Plaigne",
+      "lat": 43.1697,
+      "lon": 1.8059,
+      "population": 119
+    },
+    {
+      "insee": "11291",
+      "nom": "Plavilla",
+      "lat": 43.1378,
+      "lon": 1.9094,
+      "population": 146
+    },
+    {
+      "insee": "11293",
+      "nom": "Pomas",
+      "lat": 43.1054,
+      "lon": 2.2811,
+      "population": 1017
+    },
+    {
+      "insee": "11294",
+      "nom": "Pomy",
+      "lat": 43.0598,
+      "lon": 2.057,
+      "population": 51
+    },
+    {
+      "insee": "11266",
+      "nom": "Port-la-Nouvelle",
+      "lat": 43.0225,
+      "lon": 3.0363,
+      "population": 5852
+    },
+    {
+      "insee": "11295",
+      "nom": "Portel-des-Corbières",
+      "lat": 43.0515,
+      "lon": 2.9056,
+      "population": 1279
+    },
+    {
+      "insee": "11296",
+      "nom": "Pouzols-Minervois",
+      "lat": 43.2858,
+      "lon": 2.8158,
+      "population": 599
+    },
+    {
+      "insee": "11297",
+      "nom": "Pradelles-Cabardès",
+      "lat": 43.4077,
+      "lon": 2.4374,
+      "population": 160
+    },
+    {
+      "insee": "11299",
+      "nom": "Preixan",
+      "lat": 43.1437,
+      "lon": 2.2781,
+      "population": 637
+    },
+    {
+      "insee": "11300",
+      "nom": "Puginier",
+      "lat": 43.3811,
+      "lon": 1.9272,
+      "population": 153
+    },
+    {
+      "insee": "11301",
+      "nom": "Puichéric",
+      "lat": 43.2243,
+      "lon": 2.6078,
+      "population": 1198
+    },
+    {
+      "insee": "11302",
+      "nom": "Puilaurens",
+      "lat": 42.8119,
+      "lon": 2.2941,
+      "population": 277
+    },
+    {
+      "insee": "11303",
+      "nom": "Puivert",
+      "lat": 42.9074,
+      "lon": 2.0634,
+      "population": 491
+    },
+    {
+      "insee": "11304",
+      "nom": "Quillan",
+      "lat": 42.8833,
+      "lon": 2.1733,
+      "population": 2978
+    },
+    {
+      "insee": "11305",
+      "nom": "Quintillan",
+      "lat": 42.9585,
+      "lon": 2.6968,
+      "population": 62
+    },
+    {
+      "insee": "11306",
+      "nom": "Quirbajou",
+      "lat": 42.8374,
+      "lon": 2.1669,
+      "population": 49
+    },
+    {
+      "insee": "11307",
+      "nom": "Raissac-d'Aude",
+      "lat": 43.2292,
+      "lon": 2.878,
+      "population": 222
+    },
+    {
+      "insee": "11308",
+      "nom": "Raissac-sur-Lampy",
+      "lat": 43.2802,
+      "lon": 2.1614,
+      "population": 454
+    },
+    {
+      "insee": "11309",
+      "nom": "Rennes-le-Château",
+      "lat": 42.9154,
+      "lon": 2.2782,
+      "population": 89
+    },
+    {
+      "insee": "11310",
+      "nom": "Rennes-les-Bains",
+      "lat": 42.9227,
+      "lon": 2.3468,
+      "population": 238
+    },
+    {
+      "insee": "11311",
+      "nom": "Ribaute",
+      "lat": 43.1055,
+      "lon": 2.6434,
+      "population": 262
+    },
+    {
+      "insee": "11312",
+      "nom": "Ribouisse",
+      "lat": 43.1663,
+      "lon": 1.91,
+      "population": 97
+    },
+    {
+      "insee": "11313",
+      "nom": "Ricaud",
+      "lat": 43.3478,
+      "lon": 1.8958,
+      "population": 331
+    },
+    {
+      "insee": "11314",
+      "nom": "Rieux-en-Val",
+      "lat": 43.0805,
+      "lon": 2.5444,
+      "population": 84
+    },
+    {
+      "insee": "11315",
+      "nom": "Rieux-Minervois",
+      "lat": 43.2667,
+      "lon": 2.5906,
+      "population": 1957
+    },
+    {
+      "insee": "11316",
+      "nom": "Rivel",
+      "lat": 42.9188,
+      "lon": 2.0062,
+      "population": 219
+    },
+    {
+      "insee": "11317",
+      "nom": "Rodome",
+      "lat": 42.7981,
+      "lon": 2.0665,
+      "population": 96
+    },
+    {
+      "insee": "11318",
+      "nom": "Roquecourbe-Minervois",
+      "lat": 43.2124,
+      "lon": 2.6506,
+      "population": 150
+    },
+    {
+      "insee": "11319",
+      "nom": "Roquefère",
+      "lat": 43.3965,
+      "lon": 2.379,
+      "population": 69
+    },
+    {
+      "insee": "11320",
+      "nom": "Roquefeuil",
+      "lat": 42.8454,
+      "lon": 1.9895,
+      "population": 283
+    },
+    {
+      "insee": "11321",
+      "nom": "Roquefort-de-Sault",
+      "lat": 42.7375,
+      "lon": 2.2004,
+      "population": 85
+    },
+    {
+      "insee": "11322",
+      "nom": "Roquefort-des-Corbières",
+      "lat": 42.9963,
+      "lon": 2.9371,
+      "population": 1051
+    },
+    {
+      "insee": "11323",
+      "nom": "Roquetaillade-et-Conilhac",
+      "lat": 42.9904,
+      "lon": 2.2075,
+      "population": 265
+    },
+    {
+      "insee": "11324",
+      "nom": "Roubia",
+      "lat": 43.2507,
+      "lon": 2.7977,
+      "population": 520
+    },
+    {
+      "insee": "11325",
+      "nom": "Rouffiac-d'Aude",
+      "lat": 43.1249,
+      "lon": 2.283,
+      "population": 514
+    },
+    {
+      "insee": "11326",
+      "nom": "Rouffiac-des-Corbières",
+      "lat": 42.8881,
+      "lon": 2.5595,
+      "population": 75
+    },
+    {
+      "insee": "11327",
+      "nom": "Roullens",
+      "lat": 43.1666,
+      "lon": 2.2672,
+      "population": 588
+    },
+    {
+      "insee": "11328",
+      "nom": "Routier",
+      "lat": 43.1042,
+      "lon": 2.136,
+      "population": 231
+    },
+    {
+      "insee": "11330",
+      "nom": "Rustiques",
+      "lat": 43.2174,
+      "lon": 2.4784,
+      "population": 538
+    },
+    {
+      "insee": "11331",
+      "nom": "Saint-Amans",
+      "lat": 43.2306,
+      "lon": 1.8842,
+      "population": 63
+    },
+    {
+      "insee": "11332",
+      "nom": "Saint-André-de-Roquelongue",
+      "lat": 43.0929,
+      "lon": 2.8501,
+      "population": 1488
+    },
+    {
+      "insee": "11333",
+      "nom": "Saint-Benoît",
+      "lat": 43.0038,
+      "lon": 2.0619,
+      "population": 109
+    },
+    {
+      "insee": "11337",
+      "nom": "Saint-Couat-d'Aude",
+      "lat": 43.2108,
+      "lon": 2.6384,
+      "population": 387
+    },
+    {
+      "insee": "11338",
+      "nom": "Saint-Couat-du-Razès",
+      "lat": 42.9964,
+      "lon": 2.1105,
+      "population": 46
+    },
+    {
+      "insee": "11339",
+      "nom": "Saint-Denis",
+      "lat": 43.357,
+      "lon": 2.2181,
+      "population": 523
+    },
+    {
+      "insee": "11341",
+      "nom": "Saint-Ferriol",
+      "lat": 42.8965,
+      "lon": 2.2245,
+      "population": 118
+    },
+    {
+      "insee": "11342",
+      "nom": "Saint-Frichoux",
+      "lat": 43.245,
+      "lon": 2.5561,
+      "population": 224
+    },
+    {
+      "insee": "11343",
+      "nom": "Saint-Gaudéric",
+      "lat": 43.1278,
+      "lon": 1.9595,
+      "population": 108
+    },
+    {
+      "insee": "11344",
+      "nom": "Saint-Hilaire",
+      "lat": 43.0756,
+      "lon": 2.3371,
+      "population": 712
+    },
+    {
+      "insee": "11345",
+      "nom": "Saint-Jean-de-Barrou",
+      "lat": 42.9623,
+      "lon": 2.8262,
+      "population": 272
+    },
+    {
+      "insee": "11346",
+      "nom": "Saint-Jean-de-Paracol",
+      "lat": 42.937,
+      "lon": 2.1047,
+      "population": 139
+    },
+    {
+      "insee": "11347",
+      "nom": "Saint-Julia-de-Bec",
+      "lat": 42.8616,
+      "lon": 2.2556,
+      "population": 98
+    },
+    {
+      "insee": "11348",
+      "nom": "Saint-Julien-de-Briola",
+      "lat": 43.1628,
+      "lon": 1.941,
+      "population": 79
+    },
+    {
+      "insee": "11350",
+      "nom": "Saint-Just-et-le-Bézu",
+      "lat": 42.8796,
+      "lon": 2.2917,
+      "population": 50
+    },
+    {
+      "insee": "11351",
+      "nom": "Saint-Laurent-de-la-Cabrerisse",
+      "lat": 43.0851,
+      "lon": 2.7156,
+      "population": 753
+    },
+    {
+      "insee": "11352",
+      "nom": "Saint-Louis-et-Parahou",
+      "lat": 42.851,
+      "lon": 2.3253,
+      "population": 55
+    },
+    {
+      "insee": "11353",
+      "nom": "Saint-Marcel-sur-Aude",
+      "lat": 43.252,
+      "lon": 2.929,
+      "population": 2014
+    },
+    {
+      "insee": "11355",
+      "nom": "Saint-Martin-de-Villereglan",
+      "lat": 43.1034,
+      "lon": 2.2082,
+      "population": 403
+    },
+    {
+      "insee": "11354",
+      "nom": "Saint-Martin-des-Puits",
+      "lat": 43.036,
+      "lon": 2.5768,
+      "population": 30
+    },
+    {
+      "insee": "11356",
+      "nom": "Saint-Martin-Lalande",
+      "lat": 43.3022,
+      "lon": 2.0143,
+      "population": 1107
+    },
+    {
+      "insee": "11357",
+      "nom": "Saint-Martin-le-Vieil",
+      "lat": 43.2931,
+      "lon": 2.1556,
+      "population": 211
+    },
+    {
+      "insee": "11358",
+      "nom": "Saint-Martin-Lys",
+      "lat": 42.8242,
+      "lon": 2.2367,
+      "population": 23
+    },
+    {
+      "insee": "11359",
+      "nom": "Saint-Michel-de-Lanès",
+      "lat": 43.3269,
+      "lon": 1.7516,
+      "population": 484
+    },
+    {
+      "insee": "11360",
+      "nom": "Saint-Nazaire-d'Aude",
+      "lat": 43.2505,
+      "lon": 2.8898,
+      "population": 2118
+    },
+    {
+      "insee": "11361",
+      "nom": "Saint-Papoul",
+      "lat": 43.3376,
+      "lon": 2.0437,
+      "population": 835
+    },
+    {
+      "insee": "11362",
+      "nom": "Saint-Paulet",
+      "lat": 43.4028,
+      "lon": 1.8813,
+      "population": 205
+    },
+    {
+      "insee": "11363",
+      "nom": "Saint-Pierre-des-Champs",
+      "lat": 43.0477,
+      "lon": 2.6052,
+      "population": 213
+    },
+    {
+      "insee": "11364",
+      "nom": "Saint-Polycarpe",
+      "lat": 43.0311,
+      "lon": 2.3091,
+      "population": 169
+    },
+    {
+      "insee": "11365",
+      "nom": "Saint-Sernin",
+      "lat": 43.2276,
+      "lon": 1.8032,
+      "population": 38
+    },
+    {
+      "insee": "11334",
+      "nom": "Sainte-Camelle",
+      "lat": 43.2713,
+      "lon": 1.7885,
+      "population": 127
+    },
+    {
+      "insee": "11335",
+      "nom": "Sainte-Colombe-sur-Guette",
+      "lat": 42.7441,
+      "lon": 2.2494,
+      "population": 38
+    },
+    {
+      "insee": "11336",
+      "nom": "Sainte-Colombe-sur-l'Hers",
+      "lat": 42.947,
+      "lon": 1.9614,
+      "population": 441
+    },
+    {
+      "insee": "11340",
+      "nom": "Sainte-Eulalie",
+      "lat": 43.2439,
+      "lon": 2.2061,
+      "population": 595
+    },
+    {
+      "insee": "11366",
+      "nom": "Sainte-Valière",
+      "lat": 43.2772,
+      "lon": 2.8446,
+      "population": 534
+    },
+    {
+      "insee": "11367",
+      "nom": "Saissac",
+      "lat": 43.3622,
+      "lon": 2.1618,
+      "population": 904
+    },
+    {
+      "insee": "11368",
+      "nom": "Sallèles-Cabardès",
+      "lat": 43.3217,
+      "lon": 2.4109,
+      "population": 110
+    },
+    {
+      "insee": "11369",
+      "nom": "Sallèles-d'Aude",
+      "lat": 43.2712,
+      "lon": 2.9342,
+      "population": 3179
+    },
+    {
+      "insee": "11370",
+      "nom": "Salles-d'Aude",
+      "lat": 43.2349,
+      "lon": 3.1082,
+      "population": 3369
+    },
+    {
+      "insee": "11371",
+      "nom": "Salles-sur-l'Hers",
+      "lat": 43.2963,
+      "lon": 1.7803,
+      "population": 770
+    },
+    {
+      "insee": "11372",
+      "nom": "Salsigne",
+      "lat": 43.3243,
+      "lon": 2.3605,
+      "population": 400
+    },
+    {
+      "insee": "11373",
+      "nom": "Salvezines",
+      "lat": 42.7727,
+      "lon": 2.2799,
+      "population": 70
+    },
+    {
+      "insee": "11374",
+      "nom": "Salza",
+      "lat": 42.9877,
+      "lon": 2.5064,
+      "population": 29
+    },
+    {
+      "insee": "11375",
+      "nom": "Seignalens",
+      "lat": 43.098,
+      "lon": 1.9673,
+      "population": 30
+    },
+    {
+      "insee": "11377",
+      "nom": "Serres",
+      "lat": 42.9447,
+      "lon": 2.3277,
+      "population": 89
+    },
+    {
+      "insee": "11378",
+      "nom": "Serviès-en-Val",
+      "lat": 43.0955,
+      "lon": 2.5261,
+      "population": 221
+    },
+    {
+      "insee": "11379",
+      "nom": "Sigean",
+      "lat": 43.0344,
+      "lon": 2.9793,
+      "population": 5657
+    },
+    {
+      "insee": "11380",
+      "nom": "Sonnac-sur-l'Hers",
+      "lat": 43.0154,
+      "lon": 2.0013,
+      "population": 137
+    },
+    {
+      "insee": "11381",
+      "nom": "Sougraigne",
+      "lat": 42.906,
+      "lon": 2.3639,
+      "population": 125
+    },
+    {
+      "insee": "11382",
+      "nom": "Souilhanels",
+      "lat": 43.3552,
+      "lon": 1.9178,
+      "population": 356
+    },
+    {
+      "insee": "11383",
+      "nom": "Souilhe",
+      "lat": 43.3683,
+      "lon": 1.9185,
+      "population": 354
+    },
+    {
+      "insee": "11384",
+      "nom": "Soulatgé",
+      "lat": 42.8766,
+      "lon": 2.4993,
+      "population": 126
+    },
+    {
+      "insee": "11385",
+      "nom": "Soupex",
+      "lat": 43.3792,
+      "lon": 1.8871,
+      "population": 243
+    },
+    {
+      "insee": "11386",
+      "nom": "Talairan",
+      "lat": 43.0204,
+      "lon": 2.6654,
+      "population": 440
+    },
+    {
+      "insee": "11387",
+      "nom": "Taurize",
+      "lat": 43.0641,
+      "lon": 2.5102,
+      "population": 108
+    },
+    {
+      "insee": "11388",
+      "nom": "Termes",
+      "lat": 43.0052,
+      "lon": 2.5673,
+      "population": 48
+    },
+    {
+      "insee": "11389",
+      "nom": "Terroles",
+      "lat": 42.9927,
+      "lon": 2.3428,
+      "population": 14
+    },
+    {
+      "insee": "11390",
+      "nom": "Thézan-des-Corbières",
+      "lat": 43.0947,
+      "lon": 2.7918,
+      "population": 573
+    },
+    {
+      "insee": "11392",
+      "nom": "Tournissan",
+      "lat": 43.0847,
+      "lon": 2.6612,
+      "population": 292
+    },
+    {
+      "insee": "11393",
+      "nom": "Tourouzelle",
+      "lat": 43.2451,
+      "lon": 2.7241,
+      "population": 494
+    },
+    {
+      "insee": "11394",
+      "nom": "Tourreilles",
+      "lat": 43.0216,
+      "lon": 2.1677,
+      "population": 128
+    },
+    {
+      "insee": "11395",
+      "nom": "Trassanel",
+      "lat": 43.3474,
+      "lon": 2.4439,
+      "population": 25
+    },
+    {
+      "insee": "11396",
+      "nom": "Trausse",
+      "lat": 43.3202,
+      "lon": 2.5675,
+      "population": 614
+    },
+    {
+      "insee": "11397",
+      "nom": "Trèbes",
+      "lat": 43.209,
+      "lon": 2.4653,
+      "population": 5361
+    },
+    {
+      "insee": "11398",
+      "nom": "Treilles",
+      "lat": 42.9181,
+      "lon": 2.9492,
+      "population": 271
+    },
+    {
+      "insee": "11399",
+      "nom": "Tréville",
+      "lat": 43.3835,
+      "lon": 1.9533,
+      "population": 110
+    },
+    {
+      "insee": "11400",
+      "nom": "Tréziers",
+      "lat": 43.054,
+      "lon": 1.9628,
+      "population": 98
+    },
+    {
+      "insee": "11401",
+      "nom": "Tuchan",
+      "lat": 42.9114,
+      "lon": 2.7366,
+      "population": 791
+    },
+    {
+      "insee": "11080",
+      "nom": "Val de Lambronne",
+      "lat": 43.0747,
+      "lon": 1.9899,
+      "population": 180
+    },
+    {
+      "insee": "11251",
+      "nom": "Val-de-Dagne",
+      "lat": 43.1283,
+      "lon": 2.5498,
+      "population": 731
+    },
+    {
+      "insee": "11131",
+      "nom": "Val-du-Faby",
+      "lat": 42.9263,
+      "lon": 2.1573,
+      "population": 580
+    },
+    {
+      "insee": "11402",
+      "nom": "Valmigère",
+      "lat": 42.9823,
+      "lon": 2.3868,
+      "population": 28
+    },
+    {
+      "insee": "11404",
+      "nom": "Ventenac-Cabardès",
+      "lat": 43.2777,
+      "lon": 2.2787,
+      "population": 962
+    },
+    {
+      "insee": "11405",
+      "nom": "Ventenac-en-Minervois",
+      "lat": 43.2512,
+      "lon": 2.8544,
+      "population": 644
+    },
+    {
+      "insee": "11406",
+      "nom": "Véraza",
+      "lat": 42.9936,
+      "lon": 2.3047,
+      "population": 35
+    },
+    {
+      "insee": "11407",
+      "nom": "Verdun-en-Lauragais",
+      "lat": 43.3667,
+      "lon": 2.0785,
+      "population": 290
+    },
+    {
+      "insee": "11408",
+      "nom": "Verzeille",
+      "lat": 43.1209,
+      "lon": 2.3306,
+      "population": 456
+    },
+    {
+      "insee": "11409",
+      "nom": "Vignevieille",
+      "lat": 43.011,
+      "lon": 2.5339,
+      "population": 107
+    },
+    {
+      "insee": "11410",
+      "nom": "Villalier",
+      "lat": 43.2507,
+      "lon": 2.4191,
+      "population": 972
+    },
+    {
+      "insee": "11411",
+      "nom": "Villanière",
+      "lat": 43.3505,
+      "lon": 2.3392,
+      "population": 152
+    },
+    {
+      "insee": "11414",
+      "nom": "Villar-en-Val",
+      "lat": 43.0807,
+      "lon": 2.442,
+      "population": 23
+    },
+    {
+      "insee": "11415",
+      "nom": "Villar-Saint-Anselme",
+      "lat": 43.0572,
+      "lon": 2.2979,
+      "population": 113
+    },
+    {
+      "insee": "11412",
+      "nom": "Villardebelle",
+      "lat": 43.0124,
+      "lon": 2.4057,
+      "population": 66
+    },
+    {
+      "insee": "11413",
+      "nom": "Villardonnel",
+      "lat": 43.336,
+      "lon": 2.314,
+      "population": 515
+    },
+    {
+      "insee": "11416",
+      "nom": "Villarzel-Cabardès",
+      "lat": 43.2844,
+      "lon": 2.4686,
+      "population": 276
+    },
+    {
+      "insee": "11417",
+      "nom": "Villarzel-du-Razès",
+      "lat": 43.1447,
+      "lon": 2.2009,
+      "population": 100
+    },
+    {
+      "insee": "11418",
+      "nom": "Villasavary",
+      "lat": 43.2294,
+      "lon": 2.0341,
+      "population": 1220
+    },
+    {
+      "insee": "11419",
+      "nom": "Villautou",
+      "lat": 43.1635,
+      "lon": 1.8388,
+      "population": 68
+    },
+    {
+      "insee": "11420",
+      "nom": "Villebazy",
+      "lat": 43.058,
+      "lon": 2.3426,
+      "population": 140
+    },
+    {
+      "insee": "11421",
+      "nom": "Villedaigne",
+      "lat": 43.2108,
+      "lon": 2.8574,
+      "population": 599
+    },
+    {
+      "insee": "11422",
+      "nom": "Villedubert",
+      "lat": 43.2306,
+      "lon": 2.4175,
+      "population": 349
+    },
+    {
+      "insee": "11423",
+      "nom": "Villefloure",
+      "lat": 43.1281,
+      "lon": 2.3887,
+      "population": 156
+    },
+    {
+      "insee": "11424",
+      "nom": "Villefort",
+      "lat": 42.9517,
+      "lon": 2.0496,
+      "population": 88
+    },
+    {
+      "insee": "11425",
+      "nom": "Villegailhenc",
+      "lat": 43.2728,
+      "lon": 2.3484,
+      "population": 1718
+    },
+    {
+      "insee": "11426",
+      "nom": "Villegly",
+      "lat": 43.2929,
+      "lon": 2.4369,
+      "population": 1247
+    },
+    {
+      "insee": "11427",
+      "nom": "Villelongue-d'Aude",
+      "lat": 43.0619,
+      "lon": 2.0959,
+      "population": 321
+    },
+    {
+      "insee": "11428",
+      "nom": "Villemagne",
+      "lat": 43.3664,
+      "lon": 2.1088,
+      "population": 236
+    },
+    {
+      "insee": "11429",
+      "nom": "Villemoustaussou",
+      "lat": 43.2491,
+      "lon": 2.3712,
+      "population": 4401
+    },
+    {
+      "insee": "11430",
+      "nom": "Villeneuve-la-Comptal",
+      "lat": 43.284,
+      "lon": 1.9175,
+      "population": 1448
+    },
+    {
+      "insee": "11431",
+      "nom": "Villeneuve-les-Corbières",
+      "lat": 42.9624,
+      "lon": 2.765,
+      "population": 253
+    },
+    {
+      "insee": "11432",
+      "nom": "Villeneuve-lès-Montréal",
+      "lat": 43.1787,
+      "lon": 2.1139,
+      "population": 330
+    },
+    {
+      "insee": "11433",
+      "nom": "Villeneuve-Minervois",
+      "lat": 43.333,
+      "lon": 2.4702,
+      "population": 979
+    },
+    {
+      "insee": "11434",
+      "nom": "Villepinte",
+      "lat": 43.2809,
+      "lon": 2.0967,
+      "population": 1243
+    },
+    {
+      "insee": "11435",
+      "nom": "Villerouge-Termenès",
+      "lat": 43.0038,
+      "lon": 2.6344,
+      "population": 165
+    },
+    {
+      "insee": "11436",
+      "nom": "Villesèque-des-Corbières",
+      "lat": 43.0174,
+      "lon": 2.8585,
+      "population": 386
+    },
+    {
+      "insee": "11437",
+      "nom": "Villesèquelande",
+      "lat": 43.2317,
+      "lon": 2.2286,
+      "population": 882
+    },
+    {
+      "insee": "11438",
+      "nom": "Villesiscle",
+      "lat": 43.2284,
+      "lon": 2.0896,
+      "population": 362
+    },
+    {
+      "insee": "11439",
+      "nom": "Villespy",
+      "lat": 43.321,
+      "lon": 2.0974,
+      "population": 419
+    },
+    {
+      "insee": "11440",
+      "nom": "Villetritouls",
+      "lat": 43.0722,
+      "lon": 2.4913,
+      "population": 34
+    },
+    {
+      "insee": "11441",
+      "nom": "Vinassan",
+      "lat": 43.207,
+      "lon": 3.0969,
+      "population": 2662
+    }
+  ]
+}

@@ -1,0 +1,2548 @@
+{
+  "country": "FR",
+  "departmentCode": "28",
+  "label": "Departement 28",
+  "communes": [
+    {
+      "insee": "28001",
+      "nom": "Abondant",
+      "lat": 48.7983,
+      "lon": 1.4236,
+      "population": 2434
+    },
+    {
+      "insee": "28003",
+      "nom": "Allainville",
+      "lat": 48.7211,
+      "lon": 1.2907,
+      "population": 159
+    },
+    {
+      "insee": "28004",
+      "nom": "Allonnes",
+      "lat": 48.3312,
+      "lon": 1.6524,
+      "population": 321
+    },
+    {
+      "insee": "28005",
+      "nom": "Alluyes",
+      "lat": 48.2251,
+      "lon": 1.3666,
+      "population": 756
+    },
+    {
+      "insee": "28006",
+      "nom": "Amilly",
+      "lat": 48.4424,
+      "lon": 1.4073,
+      "population": 1855
+    },
+    {
+      "insee": "28007",
+      "nom": "Anet",
+      "lat": 48.851,
+      "lon": 1.4432,
+      "population": 2721
+    },
+    {
+      "insee": "28236",
+      "nom": "Arcisses",
+      "lat": 48.3365,
+      "lon": 0.89,
+      "population": 2197
+    },
+    {
+      "insee": "28008",
+      "nom": "Ardelles",
+      "lat": 48.5445,
+      "lon": 1.1768,
+      "population": 211
+    },
+    {
+      "insee": "28009",
+      "nom": "Ardelu",
+      "lat": 48.3544,
+      "lon": 1.9135,
+      "population": 72
+    },
+    {
+      "insee": "28010",
+      "nom": "Argenvilliers",
+      "lat": 48.2753,
+      "lon": 0.9724,
+      "population": 310
+    },
+    {
+      "insee": "28013",
+      "nom": "Aunay-sous-Auneau",
+      "lat": 48.4442,
+      "lon": 1.818,
+      "population": 1484
+    },
+    {
+      "insee": "28014",
+      "nom": "Aunay-sous-Crécy",
+      "lat": 48.6576,
+      "lon": 1.3054,
+      "population": 646
+    },
+    {
+      "insee": "28015",
+      "nom": "Auneau-Bleury-Saint-Symphorien",
+      "lat": 48.5,
+      "lon": 1.7642,
+      "population": 6419
+    },
+    {
+      "insee": "28018",
+      "nom": "Authon-du-Perche",
+      "lat": 48.185,
+      "lon": 0.8916,
+      "population": 1480
+    },
+    {
+      "insee": "28019",
+      "nom": "Baigneaux",
+      "lat": 48.1266,
+      "lon": 1.8201,
+      "population": 232
+    },
+    {
+      "insee": "28023",
+      "nom": "Bailleau-Armenonville",
+      "lat": 48.5308,
+      "lon": 1.6404,
+      "population": 1299
+    },
+    {
+      "insee": "28022",
+      "nom": "Bailleau-l'Évêque",
+      "lat": 48.488,
+      "lon": 1.3988,
+      "population": 1175
+    },
+    {
+      "insee": "28021",
+      "nom": "Bailleau-le-Pin",
+      "lat": 48.3567,
+      "lon": 1.3265,
+      "population": 1684
+    },
+    {
+      "insee": "28024",
+      "nom": "Barjouville",
+      "lat": 48.4044,
+      "lon": 1.4713,
+      "population": 1742
+    },
+    {
+      "insee": "28026",
+      "nom": "Baudreville",
+      "lat": 48.3241,
+      "lon": 1.8922,
+      "population": 247
+    },
+    {
+      "insee": "28028",
+      "nom": "Bazoches-en-Dunois",
+      "lat": 48.0911,
+      "lon": 1.5751,
+      "population": 263
+    },
+    {
+      "insee": "28029",
+      "nom": "Bazoches-les-Hautes",
+      "lat": 48.1622,
+      "lon": 1.825,
+      "population": 330
+    },
+    {
+      "insee": "28030",
+      "nom": "Beauche",
+      "lat": 48.6785,
+      "lon": 0.9818,
+      "population": 279
+    },
+    {
+      "insee": "28031",
+      "nom": "Beaumont-les-Autels",
+      "lat": 48.2416,
+      "lon": 0.9613,
+      "population": 438
+    },
+    {
+      "insee": "28032",
+      "nom": "Beauvilliers",
+      "lat": 48.2994,
+      "lon": 1.6561,
+      "population": 340
+    },
+    {
+      "insee": "28033",
+      "nom": "Belhomert-Guéhouville",
+      "lat": 48.501,
+      "lon": 1.0541,
+      "population": 810
+    },
+    {
+      "insee": "28035",
+      "nom": "Berchères-les-Pierres",
+      "lat": 48.3758,
+      "lon": 1.5595,
+      "population": 1000
+    },
+    {
+      "insee": "28034",
+      "nom": "Berchères-Saint-Germain",
+      "lat": 48.5365,
+      "lon": 1.4569,
+      "population": 905
+    },
+    {
+      "insee": "28036",
+      "nom": "Berchères-sur-Vesgre",
+      "lat": 48.8443,
+      "lon": 1.5511,
+      "population": 862
+    },
+    {
+      "insee": "28037",
+      "nom": "Bérou-la-Mulotière",
+      "lat": 48.742,
+      "lon": 1.0741,
+      "population": 345
+    },
+    {
+      "insee": "28038",
+      "nom": "Béthonvilliers",
+      "lat": 48.2304,
+      "lon": 0.9016,
+      "population": 132
+    },
+    {
+      "insee": "28039",
+      "nom": "Béville-le-Comte",
+      "lat": 48.4378,
+      "lon": 1.7032,
+      "population": 1705
+    },
+    {
+      "insee": "28040",
+      "nom": "Billancelles",
+      "lat": 48.4945,
+      "lon": 1.2131,
+      "population": 310
+    },
+    {
+      "insee": "28041",
+      "nom": "Blandainville",
+      "lat": 48.3119,
+      "lon": 1.294,
+      "population": 283
+    },
+    {
+      "insee": "28045",
+      "nom": "Boissy-en-Drouais",
+      "lat": 48.7297,
+      "lon": 1.251,
+      "population": 226
+    },
+    {
+      "insee": "28046",
+      "nom": "Boissy-lès-Perche",
+      "lat": 48.679,
+      "lon": 0.9006,
+      "population": 497
+    },
+    {
+      "insee": "28047",
+      "nom": "Boisville-la-Saint-Père",
+      "lat": 48.3331,
+      "lon": 1.7008,
+      "population": 719
+    },
+    {
+      "insee": "28049",
+      "nom": "Boncé",
+      "lat": 48.3062,
+      "lon": 1.5211,
+      "population": 212
+    },
+    {
+      "insee": "28050",
+      "nom": "Boncourt",
+      "lat": 48.8445,
+      "lon": 1.4645,
+      "population": 274
+    },
+    {
+      "insee": "28051",
+      "nom": "Bonneval",
+      "lat": 48.1787,
+      "lon": 1.3844,
+      "population": 4868
+    },
+    {
+      "insee": "28052",
+      "nom": "Bouglainval",
+      "lat": 48.5522,
+      "lon": 1.5091,
+      "population": 743
+    },
+    {
+      "insee": "28056",
+      "nom": "Boutigny-Prouais",
+      "lat": 48.7363,
+      "lon": 1.5674,
+      "population": 1704
+    },
+    {
+      "insee": "28057",
+      "nom": "Bouville",
+      "lat": 48.2631,
+      "lon": 1.3804,
+      "population": 530
+    },
+    {
+      "insee": "28058",
+      "nom": "Bréchamps",
+      "lat": 48.6713,
+      "lon": 1.5193,
+      "population": 362
+    },
+    {
+      "insee": "28059",
+      "nom": "Brezolles",
+      "lat": 48.6898,
+      "lon": 1.064,
+      "population": 1785
+    },
+    {
+      "insee": "28060",
+      "nom": "Briconville",
+      "lat": 48.5166,
+      "lon": 1.3901,
+      "population": 271
+    },
+    {
+      "insee": "28061",
+      "nom": "Brou",
+      "lat": 48.2189,
+      "lon": 1.1557,
+      "population": 3230
+    },
+    {
+      "insee": "28062",
+      "nom": "Broué",
+      "lat": 48.752,
+      "lon": 1.5251,
+      "population": 837
+    },
+    {
+      "insee": "28064",
+      "nom": "Bû",
+      "lat": 48.8041,
+      "lon": 1.4888,
+      "population": 2077
+    },
+    {
+      "insee": "28065",
+      "nom": "Bullainville",
+      "lat": 48.1717,
+      "lon": 1.5073,
+      "population": 115
+    },
+    {
+      "insee": "28067",
+      "nom": "Cernay",
+      "lat": 48.3871,
+      "lon": 1.2316,
+      "population": 80
+    },
+    {
+      "insee": "28068",
+      "nom": "Challet",
+      "lat": 48.5529,
+      "lon": 1.4276,
+      "population": 429
+    },
+    {
+      "insee": "28070",
+      "nom": "Champhol",
+      "lat": 48.4679,
+      "lon": 1.5129,
+      "population": 3643
+    },
+    {
+      "insee": "28071",
+      "nom": "Champrond-en-Gâtine",
+      "lat": 48.3993,
+      "lon": 1.073,
+      "population": 744
+    },
+    {
+      "insee": "28072",
+      "nom": "Champrond-en-Perchet",
+      "lat": 48.31,
+      "lon": 0.8878,
+      "population": 388
+    },
+    {
+      "insee": "28073",
+      "nom": "Champseru",
+      "lat": 48.489,
+      "lon": 1.6494,
+      "population": 345
+    },
+    {
+      "insee": "28078",
+      "nom": "Chapelle-Guillaume",
+      "lat": 48.1205,
+      "lon": 0.8963,
+      "population": 181
+    },
+    {
+      "insee": "28079",
+      "nom": "Chapelle-Royale",
+      "lat": 48.1528,
+      "lon": 1.0439,
+      "population": 333
+    },
+    {
+      "insee": "28080",
+      "nom": "Charbonnières",
+      "lat": 48.1891,
+      "lon": 0.9448,
+      "population": 263
+    },
+    {
+      "insee": "28081",
+      "nom": "Charonville",
+      "lat": 48.2796,
+      "lon": 1.3145,
+      "population": 293
+    },
+    {
+      "insee": "28082",
+      "nom": "Charpont",
+      "lat": 48.6945,
+      "lon": 1.4329,
+      "population": 622
+    },
+    {
+      "insee": "28084",
+      "nom": "Chartainvilliers",
+      "lat": 48.5453,
+      "lon": 1.5475,
+      "population": 654
+    },
+    {
+      "insee": "28085",
+      "nom": "Chartres",
+      "lat": 48.4481,
+      "lon": 1.5046,
+      "population": 38324
+    },
+    {
+      "insee": "28086",
+      "nom": "Chassant",
+      "lat": 48.2915,
+      "lon": 1.0652,
+      "population": 299
+    },
+    {
+      "insee": "28087",
+      "nom": "Châtaincourt",
+      "lat": 48.6906,
+      "lon": 1.237,
+      "population": 221
+    },
+    {
+      "insee": "28088",
+      "nom": "Châteaudun",
+      "lat": 48.0718,
+      "lon": 1.3207,
+      "population": 12830
+    },
+    {
+      "insee": "28089",
+      "nom": "Châteauneuf-en-Thymerais",
+      "lat": 48.5928,
+      "lon": 1.2391,
+      "population": 2641
+    },
+    {
+      "insee": "28092",
+      "nom": "Châtenay",
+      "lat": 48.3537,
+      "lon": 1.8841,
+      "population": 241
+    },
+    {
+      "insee": "28094",
+      "nom": "Chaudon",
+      "lat": 48.6561,
+      "lon": 1.496,
+      "population": 1688
+    },
+    {
+      "insee": "28095",
+      "nom": "Chauffours",
+      "lat": 48.3941,
+      "lon": 1.3387,
+      "population": 292
+    },
+    {
+      "insee": "28098",
+      "nom": "Cherisy",
+      "lat": 48.7573,
+      "lon": 1.4359,
+      "population": 1842
+    },
+    {
+      "insee": "28099",
+      "nom": "Chuisnes",
+      "lat": 48.4367,
+      "lon": 1.1881,
+      "population": 1126
+    },
+    {
+      "insee": "28100",
+      "nom": "Cintray",
+      "lat": 48.445,
+      "lon": 1.3643,
+      "population": 479
+    },
+    {
+      "insee": "28102",
+      "nom": "Clévilliers",
+      "lat": 48.5523,
+      "lon": 1.382,
+      "population": 765
+    },
+    {
+      "insee": "28103",
+      "nom": "Cloyes-les-Trois-Rivières",
+      "lat": 48.0069,
+      "lon": 1.2997,
+      "population": 5607
+    },
+    {
+      "insee": "28104",
+      "nom": "Coltainville",
+      "lat": 48.4941,
+      "lon": 1.5928,
+      "population": 915
+    },
+    {
+      "insee": "28105",
+      "nom": "Combres",
+      "lat": 48.3345,
+      "lon": 1.0572,
+      "population": 547
+    },
+    {
+      "insee": "28106",
+      "nom": "Conie-Molitard",
+      "lat": 48.1131,
+      "lon": 1.4448,
+      "population": 387
+    },
+    {
+      "insee": "28107",
+      "nom": "Corancez",
+      "lat": 48.3678,
+      "lon": 1.5149,
+      "population": 372
+    },
+    {
+      "insee": "28108",
+      "nom": "Cormainville",
+      "lat": 48.1308,
+      "lon": 1.6041,
+      "population": 213
+    },
+    {
+      "insee": "28111",
+      "nom": "Coudray-au-Perche",
+      "lat": 48.2361,
+      "lon": 0.8609,
+      "population": 364
+    },
+    {
+      "insee": "28113",
+      "nom": "Coulombs",
+      "lat": 48.6562,
+      "lon": 1.5527,
+      "population": 1363
+    },
+    {
+      "insee": "28114",
+      "nom": "Courbehaye",
+      "lat": 48.1474,
+      "lon": 1.6089,
+      "population": 138
+    },
+    {
+      "insee": "28116",
+      "nom": "Courville-sur-Eure",
+      "lat": 48.4533,
+      "lon": 1.2483,
+      "population": 2791
+    },
+    {
+      "insee": "28117",
+      "nom": "Crécy-Couvé",
+      "lat": 48.6776,
+      "lon": 1.2842,
+      "population": 255
+    },
+    {
+      "insee": "28118",
+      "nom": "Croisilles",
+      "lat": 48.6905,
+      "lon": 1.4984,
+      "population": 422
+    },
+    {
+      "insee": "28120",
+      "nom": "Crucey-Villages",
+      "lat": 48.6749,
+      "lon": 1.1036,
+      "population": 463
+    },
+    {
+      "insee": "28121",
+      "nom": "Dambron",
+      "lat": 48.1152,
+      "lon": 1.8734,
+      "population": 93
+    },
+    {
+      "insee": "28122",
+      "nom": "Dammarie",
+      "lat": 48.3384,
+      "lon": 1.4964,
+      "population": 1505
+    },
+    {
+      "insee": "28123",
+      "nom": "Dampierre-sous-Brou",
+      "lat": 48.2232,
+      "lon": 1.1103,
+      "population": 443
+    },
+    {
+      "insee": "28124",
+      "nom": "Dampierre-sur-Avre",
+      "lat": 48.7575,
+      "lon": 1.1437,
+      "population": 756
+    },
+    {
+      "insee": "28126",
+      "nom": "Dancy",
+      "lat": 48.1526,
+      "lon": 1.464,
+      "population": 202
+    },
+    {
+      "insee": "28127",
+      "nom": "Dangeau",
+      "lat": 48.2065,
+      "lon": 1.2712,
+      "population": 1259
+    },
+    {
+      "insee": "28128",
+      "nom": "Dangers",
+      "lat": 48.5082,
+      "lon": 1.3505,
+      "population": 433
+    },
+    {
+      "insee": "28129",
+      "nom": "Denonville",
+      "lat": 48.393,
+      "lon": 1.8022,
+      "population": 798
+    },
+    {
+      "insee": "28130",
+      "nom": "Digny",
+      "lat": 48.5338,
+      "lon": 1.1378,
+      "population": 1003
+    },
+    {
+      "insee": "28132",
+      "nom": "Donnemain-Saint-Mamès",
+      "lat": 48.1012,
+      "lon": 1.3669,
+      "population": 654
+    },
+    {
+      "insee": "28134",
+      "nom": "Dreux",
+      "lat": 48.7482,
+      "lon": 1.3578,
+      "population": 31543
+    },
+    {
+      "insee": "28135",
+      "nom": "Droue-sur-Drouette",
+      "lat": 48.5999,
+      "lon": 1.7012,
+      "population": 1212
+    },
+    {
+      "insee": "28136",
+      "nom": "Écluzelles",
+      "lat": 48.7088,
+      "lon": 1.4218,
+      "population": 162
+    },
+    {
+      "insee": "28137",
+      "nom": "Écrosnes",
+      "lat": 48.5525,
+      "lon": 1.7349,
+      "population": 869
+    },
+    {
+      "insee": "28406",
+      "nom": "Éole-en-Beauce",
+      "lat": 48.2108,
+      "lon": 1.6716,
+      "population": 1238
+    },
+    {
+      "insee": "28139",
+      "nom": "Épeautrolles",
+      "lat": 48.3135,
+      "lon": 1.3352,
+      "population": 165
+    },
+    {
+      "insee": "28140",
+      "nom": "Épernon",
+      "lat": 48.5947,
+      "lon": 1.6859,
+      "population": 5715
+    },
+    {
+      "insee": "28141",
+      "nom": "Ermenonville-la-Grande",
+      "lat": 48.337,
+      "lon": 1.3785,
+      "population": 311
+    },
+    {
+      "insee": "28142",
+      "nom": "Ermenonville-la-Petite",
+      "lat": 48.29,
+      "lon": 1.3448,
+      "population": 192
+    },
+    {
+      "insee": "28143",
+      "nom": "Escorpain",
+      "lat": 48.7205,
+      "lon": 1.2145,
+      "population": 223
+    },
+    {
+      "insee": "28146",
+      "nom": "Faverolles",
+      "lat": 48.6799,
+      "lon": 1.5818,
+      "population": 820
+    },
+    {
+      "insee": "28147",
+      "nom": "Favières",
+      "lat": 48.5317,
+      "lon": 1.2337,
+      "population": 637
+    },
+    {
+      "insee": "28151",
+      "nom": "Fessanvilliers-Mattanvilliers",
+      "lat": 48.7017,
+      "lon": 1.0376,
+      "population": 168
+    },
+    {
+      "insee": "28153",
+      "nom": "Flacey",
+      "lat": 48.1505,
+      "lon": 1.3319,
+      "population": 208
+    },
+    {
+      "insee": "28154",
+      "nom": "Fontaine-la-Guyon",
+      "lat": 48.4742,
+      "lon": 1.2986,
+      "population": 1684
+    },
+    {
+      "insee": "28155",
+      "nom": "Fontaine-les-Ribouts",
+      "lat": 48.657,
+      "lon": 1.2484,
+      "population": 186
+    },
+    {
+      "insee": "28156",
+      "nom": "Fontaine-Simon",
+      "lat": 48.513,
+      "lon": 0.9881,
+      "population": 888
+    },
+    {
+      "insee": "28157",
+      "nom": "Fontenay-sur-Conie",
+      "lat": 48.167,
+      "lon": 1.6855,
+      "population": 150
+    },
+    {
+      "insee": "28158",
+      "nom": "Fontenay-sur-Eure",
+      "lat": 48.4069,
+      "lon": 1.4217,
+      "population": 1206
+    },
+    {
+      "insee": "28160",
+      "nom": "Francourville",
+      "lat": 48.4008,
+      "lon": 1.6583,
+      "population": 941
+    },
+    {
+      "insee": "28161",
+      "nom": "Frazé",
+      "lat": 48.2629,
+      "lon": 1.0947,
+      "population": 482
+    },
+    {
+      "insee": "28164",
+      "nom": "Fresnay-l'Évêque",
+      "lat": 48.2618,
+      "lon": 1.8101,
+      "population": 739
+    },
+    {
+      "insee": "28162",
+      "nom": "Fresnay-le-Comte",
+      "lat": 48.3046,
+      "lon": 1.4833,
+      "population": 281
+    },
+    {
+      "insee": "28163",
+      "nom": "Fresnay-le-Gilmert",
+      "lat": 48.513,
+      "lon": 1.4196,
+      "population": 217
+    },
+    {
+      "insee": "28166",
+      "nom": "Friaize",
+      "lat": 48.4318,
+      "lon": 1.1217,
+      "population": 256
+    },
+    {
+      "insee": "28167",
+      "nom": "Fruncé",
+      "lat": 48.4069,
+      "lon": 1.1937,
+      "population": 376
+    },
+    {
+      "insee": "28168",
+      "nom": "Gallardon",
+      "lat": 48.5351,
+      "lon": 1.6865,
+      "population": 3530
+    },
+    {
+      "insee": "28169",
+      "nom": "Garancières-en-Beauce",
+      "lat": 48.4352,
+      "lon": 1.9106,
+      "population": 238
+    },
+    {
+      "insee": "28170",
+      "nom": "Garancières-en-Drouais",
+      "lat": 48.7041,
+      "lon": 1.2824,
+      "population": 272
+    },
+    {
+      "insee": "28171",
+      "nom": "Garnay",
+      "lat": 48.6983,
+      "lon": 1.3371,
+      "population": 1019
+    },
+    {
+      "insee": "28172",
+      "nom": "Gas",
+      "lat": 48.565,
+      "lon": 1.661,
+      "population": 718
+    },
+    {
+      "insee": "28173",
+      "nom": "Gasville-Oisème",
+      "lat": 48.4734,
+      "lon": 1.5536,
+      "population": 1467
+    },
+    {
+      "insee": "28177",
+      "nom": "Gellainville",
+      "lat": 48.414,
+      "lon": 1.5362,
+      "population": 765
+    },
+    {
+      "insee": "28178",
+      "nom": "Germainville",
+      "lat": 48.7462,
+      "lon": 1.4735,
+      "population": 338
+    },
+    {
+      "insee": "28180",
+      "nom": "Gilles",
+      "lat": 48.9088,
+      "lon": 1.5175,
+      "population": 498
+    },
+    {
+      "insee": "28182",
+      "nom": "Gohory",
+      "lat": 48.1647,
+      "lon": 1.2212,
+      "population": 319
+    },
+    {
+      "insee": "28183",
+      "nom": "Gommerville",
+      "lat": 48.3458,
+      "lon": 1.947,
+      "population": 663
+    },
+    {
+      "insee": "28184",
+      "nom": "Gouillons",
+      "lat": 48.3435,
+      "lon": 1.8374,
+      "population": 335
+    },
+    {
+      "insee": "28185",
+      "nom": "Goussainville",
+      "lat": 48.7831,
+      "lon": 1.5566,
+      "population": 1335
+    },
+    {
+      "insee": "28187",
+      "nom": "Guainville",
+      "lat": 48.9186,
+      "lon": 1.4811,
+      "population": 696
+    },
+    {
+      "insee": "28189",
+      "nom": "Guilleville",
+      "lat": 48.2244,
+      "lon": 1.8022,
+      "population": 156
+    },
+    {
+      "insee": "28190",
+      "nom": "Guillonville",
+      "lat": 48.094,
+      "lon": 1.6458,
+      "population": 459
+    },
+    {
+      "insee": "28191",
+      "nom": "Hanches",
+      "lat": 48.6048,
+      "lon": 1.6436,
+      "population": 2696
+    },
+    {
+      "insee": "28192",
+      "nom": "Happonvilliers",
+      "lat": 48.3344,
+      "lon": 1.1063,
+      "population": 296
+    },
+    {
+      "insee": "28193",
+      "nom": "Havelu",
+      "lat": 48.7873,
+      "lon": 1.5335,
+      "population": 127
+    },
+    {
+      "insee": "28194",
+      "nom": "Houville-la-Branche",
+      "lat": 48.4449,
+      "lon": 1.6383,
+      "population": 420
+    },
+    {
+      "insee": "28195",
+      "nom": "Houx",
+      "lat": 48.5686,
+      "lon": 1.6207,
+      "population": 746
+    },
+    {
+      "insee": "28196",
+      "nom": "Illiers-Combray",
+      "lat": 48.3018,
+      "lon": 1.2132,
+      "population": 3210
+    },
+    {
+      "insee": "28197",
+      "nom": "Intréville",
+      "lat": 48.2985,
+      "lon": 1.9366,
+      "population": 118
+    },
+    {
+      "insee": "28198",
+      "nom": "Jallans",
+      "lat": 48.0773,
+      "lon": 1.3872,
+      "population": 786
+    },
+    {
+      "insee": "28199",
+      "nom": "Janville-en-Beauce",
+      "lat": 48.1998,
+      "lon": 1.8474,
+      "population": 2464
+    },
+    {
+      "insee": "28200",
+      "nom": "Jaudrais",
+      "lat": 48.5752,
+      "lon": 1.1202,
+      "population": 396
+    },
+    {
+      "insee": "28201",
+      "nom": "Jouy",
+      "lat": 48.5138,
+      "lon": 1.544,
+      "population": 1988
+    },
+    {
+      "insee": "28027",
+      "nom": "La Bazoche-Gouet",
+      "lat": 48.1356,
+      "lon": 0.9803,
+      "population": 1234
+    },
+    {
+      "insee": "28048",
+      "nom": "La Bourdinière-Saint-Loup",
+      "lat": 48.3183,
+      "lon": 1.4272,
+      "population": 741
+    },
+    {
+      "insee": "28074",
+      "nom": "La Chapelle-d'Aunainville",
+      "lat": 48.4154,
+      "lon": 1.7952,
+      "population": 239
+    },
+    {
+      "insee": "28075",
+      "nom": "La Chapelle-du-Noyer",
+      "lat": 48.0402,
+      "lon": 1.3147,
+      "population": 1015
+    },
+    {
+      "insee": "28076",
+      "nom": "La Chapelle-Forainvilliers",
+      "lat": 48.7284,
+      "lon": 1.4916,
+      "population": 211
+    },
+    {
+      "insee": "28077",
+      "nom": "La Chapelle-Fortin",
+      "lat": 48.6486,
+      "lon": 0.8603,
+      "population": 167
+    },
+    {
+      "insee": "28096",
+      "nom": "La Chaussée-d'Ivry",
+      "lat": 48.8906,
+      "lon": 1.493,
+      "population": 1321
+    },
+    {
+      "insee": "28119",
+      "nom": "La Croix-du-Perche",
+      "lat": 48.2816,
+      "lon": 1.0427,
+      "population": 147
+    },
+    {
+      "insee": "28149",
+      "nom": "La Ferté-Vidame",
+      "lat": 48.5988,
+      "lon": 0.8929,
+      "population": 543
+    },
+    {
+      "insee": "28159",
+      "nom": "La Framboisière",
+      "lat": 48.5975,
+      "lon": 1.0157,
+      "population": 333
+    },
+    {
+      "insee": "28175",
+      "nom": "La Gaudaine",
+      "lat": 48.2978,
+      "lon": 0.9595,
+      "population": 178
+    },
+    {
+      "insee": "28214",
+      "nom": "La Loupe",
+      "lat": 48.4733,
+      "lon": 1.0261,
+      "population": 3191
+    },
+    {
+      "insee": "28231",
+      "nom": "La Mancelière",
+      "lat": 48.6413,
+      "lon": 0.9858,
+      "population": 150
+    },
+    {
+      "insee": "28310",
+      "nom": "La Puisaye",
+      "lat": 48.6127,
+      "lon": 0.9697,
+      "population": 248
+    },
+    {
+      "insee": "28368",
+      "nom": "La Saucelle",
+      "lat": 48.6279,
+      "lon": 1.0296,
+      "population": 198
+    },
+    {
+      "insee": "28202",
+      "nom": "Lamblore",
+      "lat": 48.6254,
+      "lon": 0.9188,
+      "population": 318
+    },
+    {
+      "insee": "28203",
+      "nom": "Landelles",
+      "lat": 48.4636,
+      "lon": 1.1906,
+      "population": 628
+    },
+    {
+      "insee": "28206",
+      "nom": "Laons",
+      "lat": 48.6991,
+      "lon": 1.192,
+      "population": 648
+    },
+    {
+      "insee": "28053",
+      "nom": "Le Boullay-les-Deux-Églises",
+      "lat": 48.6302,
+      "lon": 1.3275,
+      "population": 242
+    },
+    {
+      "insee": "28054",
+      "nom": "Le Boullay-Mivoye",
+      "lat": 48.6551,
+      "lon": 1.4082,
+      "population": 526
+    },
+    {
+      "insee": "28055",
+      "nom": "Le Boullay-Thierry",
+      "lat": 48.6352,
+      "lon": 1.4357,
+      "population": 594
+    },
+    {
+      "insee": "28110",
+      "nom": "Le Coudray",
+      "lat": 48.4188,
+      "lon": 1.5026,
+      "population": 4038
+    },
+    {
+      "insee": "28148",
+      "nom": "Le Favril",
+      "lat": 48.457,
+      "lon": 1.1171,
+      "population": 360
+    },
+    {
+      "insee": "28176",
+      "nom": "Le Gault-Saint-Denis",
+      "lat": 48.2413,
+      "lon": 1.4808,
+      "population": 666
+    },
+    {
+      "insee": "28188",
+      "nom": "Le Gué-de-Longroi",
+      "lat": 48.4916,
+      "lon": 1.7067,
+      "population": 860
+    },
+    {
+      "insee": "28247",
+      "nom": "Le Mesnil-Simon",
+      "lat": 48.8895,
+      "lon": 1.5315,
+      "population": 565
+    },
+    {
+      "insee": "28248",
+      "nom": "Le Mesnil-Thomas",
+      "lat": 48.588,
+      "lon": 1.0953,
+      "population": 335
+    },
+    {
+      "insee": "28385",
+      "nom": "Le Thieulin",
+      "lat": 48.4053,
+      "lon": 1.1384,
+      "population": 423
+    },
+    {
+      "insee": "28016",
+      "nom": "Les Autels-Villevillon",
+      "lat": 48.1778,
+      "lon": 0.9924,
+      "population": 106
+    },
+    {
+      "insee": "28090",
+      "nom": "Les Châtelets",
+      "lat": 48.6568,
+      "lon": 1.0201,
+      "population": 111
+    },
+    {
+      "insee": "28091",
+      "nom": "Les Châtelliers-Notre-Dame",
+      "lat": 48.347,
+      "lon": 1.2091,
+      "population": 148
+    },
+    {
+      "insee": "28109",
+      "nom": "Les Corvées-les-Yys",
+      "lat": 48.3666,
+      "lon": 1.1477,
+      "population": 326
+    },
+    {
+      "insee": "28144",
+      "nom": "Les Étilleux",
+      "lat": 48.2439,
+      "lon": 0.8151,
+      "population": 204
+    },
+    {
+      "insee": "28299",
+      "nom": "Les Pinthières",
+      "lat": 48.7044,
+      "lon": 1.5748,
+      "population": 165
+    },
+    {
+      "insee": "28314",
+      "nom": "Les Ressuintes",
+      "lat": 48.5947,
+      "lon": 0.9264,
+      "population": 152
+    },
+    {
+      "insee": "28422",
+      "nom": "Les Villages Vovéens",
+      "lat": 48.2714,
+      "lon": 1.5995,
+      "population": 4009
+    },
+    {
+      "insee": "28207",
+      "nom": "Léthuin",
+      "lat": 48.3772,
+      "lon": 1.8586,
+      "population": 240
+    },
+    {
+      "insee": "28208",
+      "nom": "Levainville",
+      "lat": 48.4925,
+      "lon": 1.7458,
+      "population": 379
+    },
+    {
+      "insee": "28209",
+      "nom": "Lèves",
+      "lat": 48.4801,
+      "lon": 1.4692,
+      "population": 5685
+    },
+    {
+      "insee": "28210",
+      "nom": "Levesville-la-Chenard",
+      "lat": 48.302,
+      "lon": 1.8306,
+      "population": 229
+    },
+    {
+      "insee": "28211",
+      "nom": "Logron",
+      "lat": 48.1382,
+      "lon": 1.2528,
+      "population": 577
+    },
+    {
+      "insee": "28212",
+      "nom": "Loigny-la-Bataille",
+      "lat": 48.1302,
+      "lon": 1.7243,
+      "population": 218
+    },
+    {
+      "insee": "28213",
+      "nom": "Lormaye",
+      "lat": 48.6393,
+      "lon": 1.5429,
+      "population": 686
+    },
+    {
+      "insee": "28215",
+      "nom": "Louville-la-Chenard",
+      "lat": 48.3268,
+      "lon": 1.7934,
+      "population": 245
+    },
+    {
+      "insee": "28216",
+      "nom": "Louvilliers-en-Drouais",
+      "lat": 48.7338,
+      "lon": 1.283,
+      "population": 230
+    },
+    {
+      "insee": "28217",
+      "nom": "Louvilliers-lès-Perche",
+      "lat": 48.6192,
+      "lon": 1.0624,
+      "population": 207
+    },
+    {
+      "insee": "28218",
+      "nom": "Lucé",
+      "lat": 48.4337,
+      "lon": 1.4525,
+      "population": 15921
+    },
+    {
+      "insee": "28219",
+      "nom": "Luigny",
+      "lat": 48.2393,
+      "lon": 1.0246,
+      "population": 430
+    },
+    {
+      "insee": "28220",
+      "nom": "Luisant",
+      "lat": 48.4239,
+      "lon": 1.4668,
+      "population": 6945
+    },
+    {
+      "insee": "28221",
+      "nom": "Lumeau",
+      "lat": 48.1047,
+      "lon": 1.7728,
+      "population": 138
+    },
+    {
+      "insee": "28222",
+      "nom": "Luplanté",
+      "lat": 48.2987,
+      "lon": 1.385,
+      "population": 384
+    },
+    {
+      "insee": "28223",
+      "nom": "Luray",
+      "lat": 48.7144,
+      "lon": 1.3985,
+      "population": 1566
+    },
+    {
+      "insee": "28225",
+      "nom": "Magny",
+      "lat": 48.3478,
+      "lon": 1.2665,
+      "population": 664
+    },
+    {
+      "insee": "28226",
+      "nom": "Maillebois",
+      "lat": 48.63,
+      "lon": 1.1527,
+      "population": 941
+    },
+    {
+      "insee": "28227",
+      "nom": "Maintenon",
+      "lat": 48.5828,
+      "lon": 1.5815,
+      "population": 4494
+    },
+    {
+      "insee": "28229",
+      "nom": "Mainvilliers",
+      "lat": 48.4651,
+      "lon": 1.4471,
+      "population": 10629
+    },
+    {
+      "insee": "28230",
+      "nom": "Maisons",
+      "lat": 48.4038,
+      "lon": 1.846,
+      "population": 408
+    },
+    {
+      "insee": "28232",
+      "nom": "Manou",
+      "lat": 48.5372,
+      "lon": 0.9614,
+      "population": 608
+    },
+    {
+      "insee": "28233",
+      "nom": "Marboué",
+      "lat": 48.1245,
+      "lon": 1.3056,
+      "population": 1108
+    },
+    {
+      "insee": "28234",
+      "nom": "Marchéville",
+      "lat": 48.3603,
+      "lon": 1.2401,
+      "population": 507
+    },
+    {
+      "insee": "28235",
+      "nom": "Marchezais",
+      "lat": 48.775,
+      "lon": 1.5135,
+      "population": 413
+    },
+    {
+      "insee": "28237",
+      "nom": "Marolles-les-Buis",
+      "lat": 48.3674,
+      "lon": 0.9437,
+      "population": 205
+    },
+    {
+      "insee": "28239",
+      "nom": "Marville-Moutiers-Brûlé",
+      "lat": 48.6742,
+      "lon": 1.3779,
+      "population": 1024
+    },
+    {
+      "insee": "28240",
+      "nom": "Meaucé",
+      "lat": 48.485,
+      "lon": 0.9826,
+      "population": 501
+    },
+    {
+      "insee": "28242",
+      "nom": "Méréglise",
+      "lat": 48.2931,
+      "lon": 1.1861,
+      "population": 105
+    },
+    {
+      "insee": "28243",
+      "nom": "Mérouville",
+      "lat": 48.3013,
+      "lon": 1.9014,
+      "population": 214
+    },
+    {
+      "insee": "28245",
+      "nom": "Meslay-le-Grenet",
+      "lat": 48.3704,
+      "lon": 1.3918,
+      "population": 379
+    },
+    {
+      "insee": "28246",
+      "nom": "Meslay-le-Vidame",
+      "lat": 48.2757,
+      "lon": 1.4824,
+      "population": 508
+    },
+    {
+      "insee": "28249",
+      "nom": "Mévoisins",
+      "lat": 48.5524,
+      "lon": 1.5997,
+      "population": 615
+    },
+    {
+      "insee": "28251",
+      "nom": "Mézières-en-Drouais",
+      "lat": 48.7257,
+      "lon": 1.4419,
+      "population": 1059
+    },
+    {
+      "insee": "28252",
+      "nom": "Miermaigne",
+      "lat": 48.2471,
+      "lon": 1.0006,
+      "population": 164
+    },
+    {
+      "insee": "28253",
+      "nom": "Mignières",
+      "lat": 48.3653,
+      "lon": 1.4244,
+      "population": 1163
+    },
+    {
+      "insee": "28254",
+      "nom": "Mittainvilliers-Vérigny",
+      "lat": 48.5137,
+      "lon": 1.3308,
+      "population": 801
+    },
+    {
+      "insee": "28255",
+      "nom": "Moinville-la-Jeulin",
+      "lat": 48.3752,
+      "lon": 1.7012,
+      "population": 159
+    },
+    {
+      "insee": "28256",
+      "nom": "Moléans",
+      "lat": 48.1143,
+      "lon": 1.4016,
+      "population": 433
+    },
+    {
+      "insee": "28257",
+      "nom": "Mondonville-Saint-Jean",
+      "lat": 48.3623,
+      "lon": 1.8251,
+      "population": 96
+    },
+    {
+      "insee": "28259",
+      "nom": "Montboissier",
+      "lat": 48.2292,
+      "lon": 1.412,
+      "population": 341
+    },
+    {
+      "insee": "28260",
+      "nom": "Montharville",
+      "lat": 48.1771,
+      "lon": 1.326,
+      "population": 105
+    },
+    {
+      "insee": "28261",
+      "nom": "Montigny-le-Chartif",
+      "lat": 48.2903,
+      "lon": 1.1255,
+      "population": 586
+    },
+    {
+      "insee": "28263",
+      "nom": "Montigny-sur-Avre",
+      "lat": 48.7207,
+      "lon": 1.0116,
+      "population": 256
+    },
+    {
+      "insee": "28264",
+      "nom": "Montireau",
+      "lat": 48.4146,
+      "lon": 1.0369,
+      "population": 136
+    },
+    {
+      "insee": "28265",
+      "nom": "Montlandon",
+      "lat": 48.3873,
+      "lon": 1.0258,
+      "population": 252
+    },
+    {
+      "insee": "28267",
+      "nom": "Montreuil",
+      "lat": 48.7791,
+      "lon": 1.3807,
+      "population": 538
+    },
+    {
+      "insee": "28268",
+      "nom": "Morainville",
+      "lat": 48.3794,
+      "lon": 1.8314,
+      "population": 18
+    },
+    {
+      "insee": "28269",
+      "nom": "Morancez",
+      "lat": 48.3998,
+      "lon": 1.5058,
+      "population": 1935
+    },
+    {
+      "insee": "28270",
+      "nom": "Moriers",
+      "lat": 48.2191,
+      "lon": 1.4408,
+      "population": 223
+    },
+    {
+      "insee": "28271",
+      "nom": "Morvilliers",
+      "lat": 48.6521,
+      "lon": 0.9452,
+      "population": 137
+    },
+    {
+      "insee": "28272",
+      "nom": "Mottereau",
+      "lat": 48.2499,
+      "lon": 1.1613,
+      "population": 152
+    },
+    {
+      "insee": "28273",
+      "nom": "Moulhard",
+      "lat": 48.2108,
+      "lon": 1.0077,
+      "population": 139
+    },
+    {
+      "insee": "28274",
+      "nom": "Moutiers",
+      "lat": 48.2974,
+      "lon": 1.7595,
+      "population": 246
+    },
+    {
+      "insee": "28275",
+      "nom": "Néron",
+      "lat": 48.5979,
+      "lon": 1.4987,
+      "population": 687
+    },
+    {
+      "insee": "28319",
+      "nom": "Neuville Saint Denis",
+      "lat": 48.2774,
+      "lon": 1.9222,
+      "population": 647
+    },
+    {
+      "insee": "28277",
+      "nom": "Neuvy-en-Dunois",
+      "lat": 48.1984,
+      "lon": 1.5429,
+      "population": 300
+    },
+    {
+      "insee": "28278",
+      "nom": "Nogent-le-Phaye",
+      "lat": 48.4497,
+      "lon": 1.5809,
+      "population": 1452
+    },
+    {
+      "insee": "28279",
+      "nom": "Nogent-le-Roi",
+      "lat": 48.6315,
+      "lon": 1.5206,
+      "population": 4021
+    },
+    {
+      "insee": "28280",
+      "nom": "Nogent-le-Rotrou",
+      "lat": 48.3197,
+      "lon": 0.8071,
+      "population": 9292
+    },
+    {
+      "insee": "28281",
+      "nom": "Nogent-sur-Eure",
+      "lat": 48.3896,
+      "lon": 1.3868,
+      "population": 510
+    },
+    {
+      "insee": "28282",
+      "nom": "Nonvilliers-Grandhoux",
+      "lat": 48.3399,
+      "lon": 1.1416,
+      "population": 429
+    },
+    {
+      "insee": "28283",
+      "nom": "Nottonville",
+      "lat": 48.1262,
+      "lon": 1.5232,
+      "population": 279
+    },
+    {
+      "insee": "28284",
+      "nom": "Oinville-Saint-Liphard",
+      "lat": 48.2359,
+      "lon": 1.9276,
+      "population": 279
+    },
+    {
+      "insee": "28285",
+      "nom": "Oinville-sous-Auneau",
+      "lat": 48.4704,
+      "lon": 1.7096,
+      "population": 313
+    },
+    {
+      "insee": "28286",
+      "nom": "Ollé",
+      "lat": 48.3874,
+      "lon": 1.2926,
+      "population": 625
+    },
+    {
+      "insee": "28287",
+      "nom": "Orgères-en-Beauce",
+      "lat": 48.1376,
+      "lon": 1.6865,
+      "population": 1007
+    },
+    {
+      "insee": "28289",
+      "nom": "Ormoy",
+      "lat": 48.6224,
+      "lon": 1.4724,
+      "population": 229
+    },
+    {
+      "insee": "28290",
+      "nom": "Orrouer",
+      "lat": 48.4049,
+      "lon": 1.2813,
+      "population": 282
+    },
+    {
+      "insee": "28291",
+      "nom": "Ouarville",
+      "lat": 48.361,
+      "lon": 1.765,
+      "population": 548
+    },
+    {
+      "insee": "28292",
+      "nom": "Ouerre",
+      "lat": 48.7081,
+      "lon": 1.4938,
+      "population": 785
+    },
+    {
+      "insee": "28293",
+      "nom": "Oulins",
+      "lat": 48.8661,
+      "lon": 1.4939,
+      "population": 1171
+    },
+    {
+      "insee": "28294",
+      "nom": "Oysonville",
+      "lat": 48.3918,
+      "lon": 1.9481,
+      "population": 517
+    },
+    {
+      "insee": "28296",
+      "nom": "Péronville",
+      "lat": 48.0611,
+      "lon": 1.5753,
+      "population": 254
+    },
+    {
+      "insee": "28298",
+      "nom": "Pierres",
+      "lat": 48.5883,
+      "lon": 1.5566,
+      "population": 2788
+    },
+    {
+      "insee": "28300",
+      "nom": "Poinville",
+      "lat": 48.1758,
+      "lon": 1.8994,
+      "population": 176
+    },
+    {
+      "insee": "28301",
+      "nom": "Poisvilliers",
+      "lat": 48.5072,
+      "lon": 1.46,
+      "population": 445
+    },
+    {
+      "insee": "28302",
+      "nom": "Pontgouin",
+      "lat": 48.4902,
+      "lon": 1.1372,
+      "population": 1110
+    },
+    {
+      "insee": "28303",
+      "nom": "Poupry",
+      "lat": 48.1005,
+      "lon": 1.8343,
+      "population": 96
+    },
+    {
+      "insee": "28304",
+      "nom": "Prasville",
+      "lat": 48.271,
+      "lon": 1.7145,
+      "population": 451
+    },
+    {
+      "insee": "28305",
+      "nom": "Pré-Saint-Évroult",
+      "lat": 48.1885,
+      "lon": 1.4526,
+      "population": 283
+    },
+    {
+      "insee": "28306",
+      "nom": "Pré-Saint-Martin",
+      "lat": 48.2222,
+      "lon": 1.4715,
+      "population": 174
+    },
+    {
+      "insee": "28308",
+      "nom": "Prudemanche",
+      "lat": 48.7202,
+      "lon": 1.1375,
+      "population": 262
+    },
+    {
+      "insee": "28309",
+      "nom": "Prunay-le-Gillon",
+      "lat": 48.3678,
+      "lon": 1.6381,
+      "population": 1164
+    },
+    {
+      "insee": "28312",
+      "nom": "Puiseux",
+      "lat": 48.6396,
+      "lon": 1.368,
+      "population": 136
+    },
+    {
+      "insee": "28313",
+      "nom": "Réclainville",
+      "lat": 48.3387,
+      "lon": 1.7423,
+      "population": 203
+    },
+    {
+      "insee": "28315",
+      "nom": "Revercourt",
+      "lat": 48.7217,
+      "lon": 1.0787,
+      "population": 26
+    },
+    {
+      "insee": "28316",
+      "nom": "Rohaire",
+      "lat": 48.6668,
+      "lon": 0.8404,
+      "population": 132
+    },
+    {
+      "insee": "28317",
+      "nom": "Roinville",
+      "lat": 48.4449,
+      "lon": 1.7584,
+      "population": 588
+    },
+    {
+      "insee": "28321",
+      "nom": "Rouvres",
+      "lat": 48.8327,
+      "lon": 1.4744,
+      "population": 802
+    },
+    {
+      "insee": "28322",
+      "nom": "Rueil-la-Gadelière",
+      "lat": 48.706,
+      "lon": 0.9628,
+      "population": 465
+    },
+    {
+      "insee": "28323",
+      "nom": "Saint-Ange-et-Torçay",
+      "lat": 48.6478,
+      "lon": 1.2095,
+      "population": 284
+    },
+    {
+      "insee": "28324",
+      "nom": "Saint-Arnoult-des-Bois",
+      "lat": 48.4919,
+      "lon": 1.2568,
+      "population": 897
+    },
+    {
+      "insee": "28325",
+      "nom": "Saint-Aubin-des-Bois",
+      "lat": 48.4666,
+      "lon": 1.345,
+      "population": 1159
+    },
+    {
+      "insee": "28326",
+      "nom": "Saint-Avit-les-Guespières",
+      "lat": 48.2673,
+      "lon": 1.2602,
+      "population": 342
+    },
+    {
+      "insee": "28327",
+      "nom": "Saint-Bomer",
+      "lat": 48.1957,
+      "lon": 0.8263,
+      "population": 194
+    },
+    {
+      "insee": "28329",
+      "nom": "Saint-Christophe",
+      "lat": 48.133,
+      "lon": 1.3709,
+      "population": 143
+    },
+    {
+      "insee": "28333",
+      "nom": "Saint-Denis-des-Puits",
+      "lat": 48.3812,
+      "lon": 1.1609,
+      "population": 150
+    },
+    {
+      "insee": "28334",
+      "nom": "Saint-Denis-Lanneray",
+      "lat": 48.0851,
+      "lon": 1.2465,
+      "population": 2086
+    },
+    {
+      "insee": "28335",
+      "nom": "Saint-Éliph",
+      "lat": 48.4534,
+      "lon": 1.0381,
+      "population": 828
+    },
+    {
+      "insee": "28336",
+      "nom": "Saint-Éman",
+      "lat": 48.3276,
+      "lon": 1.2028,
+      "population": 94
+    },
+    {
+      "insee": "28337",
+      "nom": "Saint-Georges-sur-Eure",
+      "lat": 48.4214,
+      "lon": 1.3583,
+      "population": 2797
+    },
+    {
+      "insee": "28339",
+      "nom": "Saint-Germain-le-Gaillard",
+      "lat": 48.4246,
+      "lon": 1.2569,
+      "population": 368
+    },
+    {
+      "insee": "28341",
+      "nom": "Saint-Jean-de-Rebervilliers",
+      "lat": 48.6204,
+      "lon": 1.2601,
+      "population": 235
+    },
+    {
+      "insee": "28342",
+      "nom": "Saint-Jean-Pierre-Fixte",
+      "lat": 48.2948,
+      "lon": 0.8333,
+      "population": 271
+    },
+    {
+      "insee": "28343",
+      "nom": "Saint-Laurent-la-Gâtine",
+      "lat": 48.6924,
+      "lon": 1.54,
+      "population": 470
+    },
+    {
+      "insee": "28344",
+      "nom": "Saint-Léger-des-Aubées",
+      "lat": 48.417,
+      "lon": 1.7504,
+      "population": 254
+    },
+    {
+      "insee": "28346",
+      "nom": "Saint-Lubin-de-Cravant",
+      "lat": 48.7076,
+      "lon": 1.0987,
+      "population": 54
+    },
+    {
+      "insee": "28347",
+      "nom": "Saint-Lubin-de-la-Haye",
+      "lat": 48.82,
+      "lon": 1.5622,
+      "population": 937
+    },
+    {
+      "insee": "28348",
+      "nom": "Saint-Lubin-des-Joncherets",
+      "lat": 48.7465,
+      "lon": 1.1923,
+      "population": 4116
+    },
+    {
+      "insee": "28349",
+      "nom": "Saint-Lucien",
+      "lat": 48.641,
+      "lon": 1.6235,
+      "population": 283
+    },
+    {
+      "insee": "28350",
+      "nom": "Saint-Luperce",
+      "lat": 48.4403,
+      "lon": 1.3079,
+      "population": 1005
+    },
+    {
+      "insee": "28351",
+      "nom": "Saint-Maixme-Hauterive",
+      "lat": 48.594,
+      "lon": 1.1914,
+      "population": 420
+    },
+    {
+      "insee": "28352",
+      "nom": "Saint-Martin-de-Nigelles",
+      "lat": 48.6134,
+      "lon": 1.6166,
+      "population": 1587
+    },
+    {
+      "insee": "28353",
+      "nom": "Saint-Maur-sur-le-Loir",
+      "lat": 48.152,
+      "lon": 1.4184,
+      "population": 411
+    },
+    {
+      "insee": "28354",
+      "nom": "Saint-Maurice-Saint-Germain",
+      "lat": 48.4941,
+      "lon": 1.0748,
+      "population": 528
+    },
+    {
+      "insee": "28355",
+      "nom": "Saint-Ouen-Marchefroy",
+      "lat": 48.8537,
+      "lon": 1.5347,
+      "population": 290
+    },
+    {
+      "insee": "28357",
+      "nom": "Saint-Piat",
+      "lat": 48.5477,
+      "lon": 1.585,
+      "population": 1120
+    },
+    {
+      "insee": "28358",
+      "nom": "Saint-Prest",
+      "lat": 48.4924,
+      "lon": 1.5156,
+      "population": 2115
+    },
+    {
+      "insee": "28359",
+      "nom": "Saint-Rémy-sur-Avre",
+      "lat": 48.7486,
+      "lon": 1.2381,
+      "population": 4058
+    },
+    {
+      "insee": "28360",
+      "nom": "Saint-Sauveur-Marville",
+      "lat": 48.6077,
+      "lon": 1.2811,
+      "population": 921
+    },
+    {
+      "insee": "28362",
+      "nom": "Saint-Victor-de-Buthon",
+      "lat": 48.4108,
+      "lon": 0.9756,
+      "population": 510
+    },
+    {
+      "insee": "28332",
+      "nom": "Sainte-Gemme-Moronval",
+      "lat": 48.7357,
+      "lon": 1.416,
+      "population": 1114
+    },
+    {
+      "insee": "28331",
+      "nom": "Saintigny",
+      "lat": 48.3506,
+      "lon": 1.0029,
+      "population": 922
+    },
+    {
+      "insee": "28363",
+      "nom": "Sainville",
+      "lat": 48.4149,
+      "lon": 1.8802,
+      "population": 1046
+    },
+    {
+      "insee": "28364",
+      "nom": "Sancheville",
+      "lat": 48.1806,
+      "lon": 1.579,
+      "population": 742
+    },
+    {
+      "insee": "28365",
+      "nom": "Sandarville",
+      "lat": 48.3448,
+      "lon": 1.3479,
+      "population": 423
+    },
+    {
+      "insee": "28366",
+      "nom": "Santeuil",
+      "lat": 48.3807,
+      "lon": 1.7399,
+      "population": 324
+    },
+    {
+      "insee": "28367",
+      "nom": "Santilly",
+      "lat": 48.151,
+      "lon": 1.8813,
+      "population": 303
+    },
+    {
+      "insee": "28369",
+      "nom": "Saulnières",
+      "lat": 48.6655,
+      "lon": 1.2657,
+      "population": 751
+    },
+    {
+      "insee": "28370",
+      "nom": "Saumeray",
+      "lat": 48.2552,
+      "lon": 1.3169,
+      "population": 465
+    },
+    {
+      "insee": "28371",
+      "nom": "Saussay",
+      "lat": 48.8503,
+      "lon": 1.4102,
+      "population": 1080
+    },
+    {
+      "insee": "28372",
+      "nom": "Senantes",
+      "lat": 48.6568,
+      "lon": 1.5818,
+      "population": 528
+    },
+    {
+      "insee": "28373",
+      "nom": "Senonches",
+      "lat": 48.5584,
+      "lon": 1.0144,
+      "population": 3045
+    },
+    {
+      "insee": "28374",
+      "nom": "Serazereux",
+      "lat": 48.5938,
+      "lon": 1.4382,
+      "population": 536
+    },
+    {
+      "insee": "28375",
+      "nom": "Serville",
+      "lat": 48.7698,
+      "lon": 1.4889,
+      "population": 359
+    },
+    {
+      "insee": "28377",
+      "nom": "Sorel-Moussel",
+      "lat": 48.8255,
+      "lon": 1.3989,
+      "population": 1758
+    },
+    {
+      "insee": "28378",
+      "nom": "Souancé-au-Perche",
+      "lat": 48.2697,
+      "lon": 0.8355,
+      "population": 486
+    },
+    {
+      "insee": "28379",
+      "nom": "Soulaires",
+      "lat": 48.5184,
+      "lon": 1.5905,
+      "population": 471
+    },
+    {
+      "insee": "28380",
+      "nom": "Sours",
+      "lat": 48.4126,
+      "lon": 1.5977,
+      "population": 1959
+    },
+    {
+      "insee": "28382",
+      "nom": "Terminiers",
+      "lat": 48.0923,
+      "lon": 1.7337,
+      "population": 881
+    },
+    {
+      "insee": "28383",
+      "nom": "Theuville",
+      "lat": 48.3281,
+      "lon": 1.5909,
+      "population": 729
+    },
+    {
+      "insee": "28386",
+      "nom": "Thimert-Gâtelles",
+      "lat": 48.5521,
+      "lon": 1.2549,
+      "population": 1231
+    },
+    {
+      "insee": "28387",
+      "nom": "Thiron-Gardais",
+      "lat": 48.3047,
+      "lon": 1.0137,
+      "population": 962
+    },
+    {
+      "insee": "28388",
+      "nom": "Thivars",
+      "lat": 48.3799,
+      "lon": 1.4469,
+      "population": 1119
+    },
+    {
+      "insee": "28389",
+      "nom": "Thiville",
+      "lat": 48.0177,
+      "lon": 1.3723,
+      "population": 334
+    },
+    {
+      "insee": "28390",
+      "nom": "Tillay-le-Péneux",
+      "lat": 48.1562,
+      "lon": 1.7592,
+      "population": 316
+    },
+    {
+      "insee": "28391",
+      "nom": "Toury",
+      "lat": 48.1954,
+      "lon": 1.9425,
+      "population": 2640
+    },
+    {
+      "insee": "28392",
+      "nom": "Trancrainville",
+      "lat": 48.2378,
+      "lon": 1.8631,
+      "population": 169
+    },
+    {
+      "insee": "28393",
+      "nom": "Tremblay-les-Villages",
+      "lat": 48.59,
+      "lon": 1.3871,
+      "population": 2206
+    },
+    {
+      "insee": "28394",
+      "nom": "Tréon",
+      "lat": 48.6714,
+      "lon": 1.3213,
+      "population": 1418
+    },
+    {
+      "insee": "28395",
+      "nom": "Trizay-Coutretot-Saint-Serge",
+      "lat": 48.2942,
+      "lon": 0.8826,
+      "population": 430
+    },
+    {
+      "insee": "28396",
+      "nom": "Trizay-lès-Bonneval",
+      "lat": 48.1993,
+      "lon": 1.3336,
+      "population": 323
+    },
+    {
+      "insee": "28397",
+      "nom": "Umpeau",
+      "lat": 48.4686,
+      "lon": 1.6658,
+      "population": 404
+    },
+    {
+      "insee": "28398",
+      "nom": "Unverre",
+      "lat": 48.1997,
+      "lon": 1.0586,
+      "population": 1203
+    },
+    {
+      "insee": "28012",
+      "nom": "Vald'Yerre",
+      "lat": 48.092,
+      "lon": 1.1128,
+      "population": 3609
+    },
+    {
+      "insee": "28400",
+      "nom": "Varize",
+      "lat": 48.0814,
+      "lon": 1.5262,
+      "population": 184
+    },
+    {
+      "insee": "28401",
+      "nom": "Vaupillon",
+      "lat": 48.4589,
+      "lon": 0.9705,
+      "population": 466
+    },
+    {
+      "insee": "28403",
+      "nom": "Ver-lès-Chartres",
+      "lat": 48.379,
+      "lon": 1.4841,
+      "population": 776
+    },
+    {
+      "insee": "28404",
+      "nom": "Vernouillet",
+      "lat": 48.7141,
+      "lon": 1.352,
+      "population": 12310
+    },
+    {
+      "insee": "28405",
+      "nom": "Vert-en-Drouais",
+      "lat": 48.7499,
+      "lon": 1.2924,
+      "population": 1123
+    },
+    {
+      "insee": "28407",
+      "nom": "Vichères",
+      "lat": 48.2636,
+      "lon": 0.9068,
+      "population": 289
+    },
+    {
+      "insee": "28408",
+      "nom": "Vierville",
+      "lat": 48.3848,
+      "lon": 1.9045,
+      "population": 107
+    },
+    {
+      "insee": "28409",
+      "nom": "Vieuvicq",
+      "lat": 48.261,
+      "lon": 1.2085,
+      "population": 442
+    },
+    {
+      "insee": "28410",
+      "nom": "Villampuy",
+      "lat": 48.0386,
+      "lon": 1.5137,
+      "population": 296
+    },
+    {
+      "insee": "28411",
+      "nom": "Villars",
+      "lat": 48.2317,
+      "lon": 1.5413,
+      "population": 179
+    },
+    {
+      "insee": "28414",
+      "nom": "Villebon",
+      "lat": 48.3875,
+      "lon": 1.1987,
+      "population": 53
+    },
+    {
+      "insee": "28330",
+      "nom": "Villemaury",
+      "lat": 48.0477,
+      "lon": 1.4492,
+      "population": 1283
+    },
+    {
+      "insee": "28415",
+      "nom": "Villemeux-sur-Eure",
+      "lat": 48.6678,
+      "lon": 1.4582,
+      "population": 1780
+    },
+    {
+      "insee": "28417",
+      "nom": "Villiers-le-Morhier",
+      "lat": 48.6212,
+      "lon": 1.577,
+      "population": 1351
+    },
+    {
+      "insee": "28418",
+      "nom": "Villiers-Saint-Orien",
+      "lat": 48.1424,
+      "lon": 1.4966,
+      "population": 162
+    },
+    {
+      "insee": "28419",
+      "nom": "Vitray-en-Beauce",
+      "lat": 48.2759,
+      "lon": 1.4181,
+      "population": 346
+    },
+    {
+      "insee": "28421",
+      "nom": "Voise",
+      "lat": 48.4032,
+      "lon": 1.7079,
+      "population": 245
+    },
+    {
+      "insee": "28423",
+      "nom": "Yermenonville",
+      "lat": 48.5484,
+      "lon": 1.6222,
+      "population": 621
+    },
+    {
+      "insee": "28424",
+      "nom": "Yèvres",
+      "lat": 48.1935,
+      "lon": 1.1877,
+      "population": 1677
+    },
+    {
+      "insee": "28425",
+      "nom": "Ymeray",
+      "lat": 48.508,
+      "lon": 1.7049,
+      "population": 615
+    },
+    {
+      "insee": "28426",
+      "nom": "Ymonville",
+      "lat": 48.2481,
+      "lon": 1.7505,
+      "population": 475
+    }
+  ]
+}

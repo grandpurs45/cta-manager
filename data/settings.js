@@ -2,7 +2,9 @@ const SETTINGS = {
   installation: {
     // Choix applique uniquement au premier lancement.
     // Valeurs supportees: "offline" | "online"
-    defaultMode: "offline"
+    defaultMode: "offline",
+    // Code departement FR par defaut (null => choix au premier lancement)
+    defaultDepartmentCode: null
   },
 
   simulation: {
@@ -56,6 +58,13 @@ const SETTINGS = {
     provider: "hybrid",
     matrixEnabled: true,
     jitterMinutes: 0
+  },
+
+  zoneInfluence: {
+    // Rayon de reference pour la zone d'influence autour des casernes.
+    radiusKm: 14,
+    // Plancher d'influence pour eviter qu'une commune tombe a 0.
+    minFactor: 0.2
   },
 
   staffing: {
@@ -150,6 +159,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.9.4"
+  version: "v0.11.2"
 };
 window.APP_META = APP_META;

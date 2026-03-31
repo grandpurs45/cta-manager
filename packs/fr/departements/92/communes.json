@@ -1,0 +1,259 @@
+{
+  "country": "FR",
+  "departmentCode": "92",
+  "label": "Departement 92",
+  "communes": [
+    {
+      "insee": "92002",
+      "nom": "Antony",
+      "lat": 48.7507,
+      "lon": 2.2976,
+      "population": 64263
+    },
+    {
+      "insee": "92004",
+      "nom": "Asnières-sur-Seine",
+      "lat": 48.9181,
+      "lon": 2.2935,
+      "population": 93941
+    },
+    {
+      "insee": "92007",
+      "nom": "Bagneux",
+      "lat": 48.798,
+      "lon": 2.3093,
+      "population": 44572
+    },
+    {
+      "insee": "92009",
+      "nom": "Bois-Colombes",
+      "lat": 48.9151,
+      "lon": 2.2688,
+      "population": 28909
+    },
+    {
+      "insee": "92012",
+      "nom": "Boulogne-Billancourt",
+      "lat": 48.8375,
+      "lon": 2.2429,
+      "population": 119019
+    },
+    {
+      "insee": "92014",
+      "nom": "Bourg-la-Reine",
+      "lat": 48.7801,
+      "lon": 2.3167,
+      "population": 21019
+    },
+    {
+      "insee": "92019",
+      "nom": "Châtenay-Malabry",
+      "lat": 48.7697,
+      "lon": 2.2603,
+      "population": 35825
+    },
+    {
+      "insee": "92020",
+      "nom": "Châtillon",
+      "lat": 48.8031,
+      "lon": 2.2887,
+      "population": 36705
+    },
+    {
+      "insee": "92022",
+      "nom": "Chaville",
+      "lat": 48.8091,
+      "lon": 2.191,
+      "population": 20594
+    },
+    {
+      "insee": "92023",
+      "nom": "Clamart",
+      "lat": 48.7957,
+      "lon": 2.2518,
+      "population": 58576
+    },
+    {
+      "insee": "92024",
+      "nom": "Clichy",
+      "lat": 48.9041,
+      "lon": 2.3041,
+      "population": 64410
+    },
+    {
+      "insee": "92025",
+      "nom": "Colombes",
+      "lat": 48.9218,
+      "lon": 2.2469,
+      "population": 91053
+    },
+    {
+      "insee": "92026",
+      "nom": "Courbevoie",
+      "lat": 48.8976,
+      "lon": 2.2574,
+      "population": 82902
+    },
+    {
+      "insee": "92032",
+      "nom": "Fontenay-aux-Roses",
+      "lat": 48.7895,
+      "lon": 2.2876,
+      "population": 24070
+    },
+    {
+      "insee": "92033",
+      "nom": "Garches",
+      "lat": 48.8469,
+      "lon": 2.1861,
+      "population": 17743
+    },
+    {
+      "insee": "92036",
+      "nom": "Gennevilliers",
+      "lat": 48.9319,
+      "lon": 2.288,
+      "population": 50979
+    },
+    {
+      "insee": "92040",
+      "nom": "Issy-les-Moulineaux",
+      "lat": 48.824,
+      "lon": 2.2628,
+      "population": 67669
+    },
+    {
+      "insee": "92035",
+      "nom": "La Garenne-Colombes",
+      "lat": 48.9071,
+      "lon": 2.2437,
+      "population": 30197
+    },
+    {
+      "insee": "92060",
+      "nom": "Le Plessis-Robinson",
+      "lat": 48.7815,
+      "lon": 2.2592,
+      "population": 28848
+    },
+    {
+      "insee": "92044",
+      "nom": "Levallois-Perret",
+      "lat": 48.8946,
+      "lon": 2.2874,
+      "population": 68092
+    },
+    {
+      "insee": "92046",
+      "nom": "Malakoff",
+      "lat": 48.817,
+      "lon": 2.2943,
+      "population": 30557
+    },
+    {
+      "insee": "92047",
+      "nom": "Marnes-la-Coquette",
+      "lat": 48.8286,
+      "lon": 2.1689,
+      "population": 1752
+    },
+    {
+      "insee": "92048",
+      "nom": "Meudon",
+      "lat": 48.8028,
+      "lon": 2.2288,
+      "population": 46334
+    },
+    {
+      "insee": "92049",
+      "nom": "Montrouge",
+      "lat": 48.8159,
+      "lon": 2.3163,
+      "population": 46324
+    },
+    {
+      "insee": "92050",
+      "nom": "Nanterre",
+      "lat": 48.8974,
+      "lon": 2.2018,
+      "population": 97783
+    },
+    {
+      "insee": "92051",
+      "nom": "Neuilly-sur-Seine",
+      "lat": 48.8862,
+      "lon": 2.2651,
+      "population": 59538
+    },
+    {
+      "insee": "92062",
+      "nom": "Puteaux",
+      "lat": 48.8824,
+      "lon": 2.2384,
+      "population": 44002
+    },
+    {
+      "insee": "92063",
+      "nom": "Rueil-Malmaison",
+      "lat": 48.8717,
+      "lon": 2.1806,
+      "population": 82874
+    },
+    {
+      "insee": "92064",
+      "nom": "Saint-Cloud",
+      "lat": 48.844,
+      "lon": 2.2032,
+      "population": 29855
+    },
+    {
+      "insee": "92071",
+      "nom": "Sceaux",
+      "lat": 48.776,
+      "lon": 2.2963,
+      "population": 20884
+    },
+    {
+      "insee": "92072",
+      "nom": "Sèvres",
+      "lat": 48.8223,
+      "lon": 2.2056,
+      "population": 22303
+    },
+    {
+      "insee": "92073",
+      "nom": "Suresnes",
+      "lat": 48.871,
+      "lon": 2.2183,
+      "population": 48956
+    },
+    {
+      "insee": "92075",
+      "nom": "Vanves",
+      "lat": 48.8214,
+      "lon": 2.2869,
+      "population": 28622
+    },
+    {
+      "insee": "92076",
+      "nom": "Vaucresson",
+      "lat": 48.8377,
+      "lon": 2.1628,
+      "population": 8432
+    },
+    {
+      "insee": "92077",
+      "nom": "Ville-d'Avray",
+      "lat": 48.8215,
+      "lon": 2.1759,
+      "population": 11089
+    },
+    {
+      "insee": "92078",
+      "nom": "Villeneuve-la-Garenne",
+      "lat": 48.9354,
+      "lon": 2.3231,
+      "population": 26021
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "country": "FR",
+  "departmentCode": "974",
+  "label": "Departement 974",
+  "communes": [
+    {
+      "insee": "97402",
+      "nom": "Bras-Panon",
+      "lat": -21.0316,
+      "lon": 55.6265,
+      "population": 13012
+    },
+    {
+      "insee": "97424",
+      "nom": "Cilaos",
+      "lat": -21.1403,
+      "lon": 55.4555,
+      "population": 5040
+    },
+    {
+      "insee": "97403",
+      "nom": "Entre-Deux",
+      "lat": -21.2108,
+      "lon": 55.4937,
+      "population": 7176
+    },
+    {
+      "insee": "97404",
+      "nom": "L'Étang-Salé",
+      "lat": -21.2348,
+      "lon": 55.358,
+      "population": 14464
+    },
+    {
+      "insee": "97406",
+      "nom": "La Plaine-des-Palmistes",
+      "lat": -21.153,
+      "lon": 55.6442,
+      "population": 6936
+    },
+    {
+      "insee": "97408",
+      "nom": "La Possession",
+      "lat": -20.9965,
+      "lon": 55.3918,
+      "population": 36568
+    },
+    {
+      "insee": "97407",
+      "nom": "Le Port",
+      "lat": -20.9459,
+      "lon": 55.3038,
+      "population": 33969
+    },
+    {
+      "insee": "97422",
+      "nom": "Le Tampon",
+      "lat": -21.225,
+      "lon": 55.5701,
+      "population": 82579
+    },
+    {
+      "insee": "97401",
+      "nom": "Les Avirons",
+      "lat": -21.2019,
+      "lon": 55.3629,
+      "population": 11536
+    },
+    {
+      "insee": "97423",
+      "nom": "Les Trois-Bassins",
+      "lat": -21.1138,
+      "lon": 55.3378,
+      "population": 7221
+    },
+    {
+      "insee": "97405",
+      "nom": "Petite-Île",
+      "lat": -21.333,
+      "lon": 55.5706,
+      "population": 13067
+    },
+    {
+      "insee": "97409",
+      "nom": "Saint-André",
+      "lat": -20.9568,
+      "lon": 55.6374,
+      "population": 58885
+    },
+    {
+      "insee": "97410",
+      "nom": "Saint-Benoît",
+      "lat": -21.0887,
+      "lon": 55.6313,
+      "population": 38604
+    },
+    {
+      "insee": "97411",
+      "nom": "Saint-Denis",
+      "lat": -20.9434,
+      "lon": 55.4444,
+      "population": 155634
+    },
+    {
+      "insee": "97412",
+      "nom": "Saint-Joseph",
+      "lat": -21.2921,
+      "lon": 55.644,
+      "population": 39207
+    },
+    {
+      "insee": "97413",
+      "nom": "Saint-Leu",
+      "lat": -21.1816,
+      "lon": 55.3432,
+      "population": 36163
+    },
+    {
+      "insee": "97414",
+      "nom": "Saint-Louis",
+      "lat": -21.2254,
+      "lon": 55.4224,
+      "population": 54941
+    },
+    {
+      "insee": "97415",
+      "nom": "Saint-Paul",
+      "lat": -21.0366,
+      "lon": 55.3402,
+      "population": 108088
+    },
+    {
+      "insee": "97417",
+      "nom": "Saint-Philippe",
+      "lat": -21.3084,
+      "lon": 55.7436,
+      "population": 5082
+    },
+    {
+      "insee": "97416",
+      "nom": "Saint-Pierre",
+      "lat": -21.309,
+      "lon": 55.5044,
+      "population": 85038
+    },
+    {
+      "insee": "97418",
+      "nom": "Sainte-Marie",
+      "lat": -20.9463,
+      "lon": 55.5234,
+      "population": 37093
+    },
+    {
+      "insee": "97419",
+      "nom": "Sainte-Rose",
+      "lat": -21.1778,
+      "lon": 55.7418,
+      "population": 6557
+    },
+    {
+      "insee": "97420",
+      "nom": "Sainte-Suzanne",
+      "lat": -20.9507,
+      "lon": 55.5936,
+      "population": 25551
+    },
+    {
+      "insee": "97421",
+      "nom": "Salazie",
+      "lat": -21.0524,
+      "lon": 55.5145,
+      "population": 7268
+    }
+  ]
+}

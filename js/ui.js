@@ -131,6 +131,14 @@ function renderTopbar() {
     simStatus.textContent = state.isPaused ? "PAUSE" : "EN COURS";
     simStatus.className = state.isPaused ? "sim-status paused" : "sim-status running";
   }
+
+  const modeBadge = document.getElementById("installationModeBadge");
+  if (modeBadge) {
+    const mode = state?.installation?.mode || "offline";
+    const isOnline = mode === "online";
+    modeBadge.textContent = isOnline ? "Mode online (profil cloud)" : "Mode offline (sauvegarde locale)";
+    modeBadge.className = `mode-badge ${isOnline ? "mode-online" : "mode-offline"}`;
+  }
 }
 
 function renderInterventions() {
@@ -276,6 +284,9 @@ function renderDetail() {
                   <strong>${mission.vehicleLabel}</strong><br>
                   <span class="muted">${mission.profilCode} / ${mission.spRequired} SP / ${mission.profilMode} / ${mission.caserneLabel}</span><br>
                   <span class="muted">Phase : ${getMissionPhaseLabel(mission.phase)}</span>
+                </div>
+                <div class="panel-actions">
+                  <button onclick="removeEngagedVehicleFromIntervention('${intervention.id}', '${mission.vehicleId}')">Retirer</button>
                 </div>
               </div>
             `).join("")}
@@ -587,6 +598,12 @@ function renderCasernes() {
     const spUsed = calculateUsedSP(caserne.id);
     const spPosteAvailable = Math.max(0, caserne.sp_poste - spUsed);
     const spTotalAvailable = Math.max(0, (caserne.sp_poste + caserne.sp_astreinte) - spUsed);
+    const influencePopulation = typeof getInfluencePopulationByCaserneId === "function"
+      ? getInfluencePopulationByCaserneId(caserne.id)
+      : 0;
+    const influenceZoneCount = typeof getInfluenceZoneCountByCaserneId === "function"
+      ? getInfluenceZoneCountByCaserneId(caserne.id)
+      : 0;
 
     const vehicules = state.vehicules.filter(vehicle =>
       vehicle.caserneId === caserne.id && isVehicleOwned(vehicle.id)
@@ -600,6 +617,8 @@ function renderCasernes() {
         <p><strong>SP utilises :</strong> ${spUsed}</p>
         <p><strong>SP disponibles poste :</strong> ${spPosteAvailable}</p>
         <p><strong>SP disponibles total :</strong> ${spTotalAvailable}</p>
+        <p><strong>Zone d'influence:</strong> ${influenceZoneCount} commune(s)</p>
+        <p><strong>Population couverte:</strong> ${Math.floor(influencePopulation).toLocaleString("fr-FR")} hab.</p>
 
         <div class="vehicle-list">
           ${vehicules.map(vehicle => {
@@ -661,6 +680,22 @@ function showAdminPanel() {
 
 function openProgressionPanel() {
   state.currentCenterPanel = "progression";
+  state.currentAdminPanel = null;
+  state.isPaused = true;
+  saveState();
+  renderAll();
+}
+
+function openAboutPanel() {
+  state.currentCenterPanel = "about";
+  state.currentAdminPanel = null;
+  state.isPaused = true;
+  saveState();
+  renderAll();
+}
+
+function openTerritorySetupPanel() {
+  state.currentCenterPanel = "territorySetup";
   state.currentAdminPanel = null;
   state.isPaused = true;
   saveState();
@@ -753,9 +788,58 @@ function showDetailPanel() {
   renderAll();
 }
 
+async function submitTerritorySelection(selectId = "territoryDepartmentSelect") {
+  const select = document.getElementById(selectId);
+  const code = select?.value;
+  if (!code) {
+    alert("Choisis un departement.");
+    return;
+  }
+
+  await applyDepartmentSelection(code);
+}
+
 function renderCenterPanel() {
   const container = document.getElementById("detailPanel");
   if (!container) return;
+
+  if (state.currentCenterPanel === "territorySetup") {
+    const catalog = typeof getTerritoryCatalog === "function" ? getTerritoryCatalog() : [];
+    const territoryLabel = typeof getCurrentTerritoryLabel === "function"
+      ? getCurrentTerritoryLabel()
+      : "Territoire non configure";
+
+    container.innerHTML = `
+      <div class="card">
+        <div class="panel-header">
+          <h3>Configuration territoire</h3>
+          <div class="panel-actions">
+            <button class="secondary" onclick="reloadTerritoryCatalog().then(() => renderAll())">Rafraichir</button>
+          </div>
+        </div>
+
+        <p><strong>Etat actuel:</strong> ${territoryLabel}</p>
+        <p class="muted">Choisis un departement. Le jeu calculera automatiquement les zones d'influence a partir des communes.</p>
+
+        ${catalog.length === 0 ? `
+          <p class="empty">Aucun pack detecte. Verifie le dossier packs/fr.</p>
+        ` : `
+          <label for="territoryDepartmentSelect"><strong>Departement</strong></label>
+          <select id="territoryDepartmentSelect" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;">
+            ${catalog.map(item => `
+              <option value="${item.code}">
+                ${item.code} - ${item.label}${typeof item.count === "number" ? ` (${item.count} communes)` : ""}
+              </option>
+            `).join("")}
+          </select>
+          <div class="panel-actions">
+            <button onclick="submitTerritorySelection('territoryDepartmentSelect')">Appliquer ce departement</button>
+          </div>
+        `}
+      </div>
+    `;
+    return;
+  }
 
   if (state.currentCenterPanel === "admin") {
     if (isProgressionEnabled() && !hasFeatureUnlocked("adminFleet")) {
@@ -800,6 +884,55 @@ function renderCenterPanel() {
         </div>
 
         <div id="adminContent">${adminContentHtml}</div>
+      </div>
+    `;
+    return;
+  }
+
+  if (state.currentCenterPanel === "about") {
+    const mode = state?.installation?.mode || "offline";
+    const modeLabel = mode === "online"
+      ? "online (API / cloud)"
+      : "offline local (localStorage)";
+    const territoryLabel = typeof getCurrentTerritoryLabel === "function"
+      ? getCurrentTerritoryLabel()
+      : "Territoire non configure";
+
+    container.innerHTML = `
+      <div class="card">
+        <div class="panel-header">
+          <h3>A propos</h3>
+          <div class="panel-actions">
+            <button onclick="showDetailPanel()">Retour</button>
+          </div>
+        </div>
+
+        <p><strong>Jeu:</strong> ${APP_META?.name || "CTA-Manager Lite"}</p>
+        <p><strong>Version:</strong> ${APP_META?.version || "v0"}</p>
+        <p><strong>Mode courant:</strong> ${modeLabel}</p>
+        <p><strong>Territoire:</strong> ${territoryLabel}</p>
+      </div>
+
+      <div class="card">
+        <h4>Changelog rapide</h4>
+        <ul class="about-list">
+          <li>v0.11.1: corrections reengagement retour + actions retirer/modifier.</li>
+          <li>v0.11.0: choix departement + packs territoires + zones dynamiques.</li>
+          <li>v0.10.1: zones d'influence des casernes basees sur population + distance.</li>
+          <li>v0.10.0: panneau A propos, badge de mode visible, checklist release.</li>
+          <li>v0.9.4: correction globale des textes UTF-8.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h4>Checklist release</h4>
+        <ol class="about-list">
+          <li>Version + changelog a jour.</li>
+          <li>Smoke tests gameplay (generation, engagement, fin mission).</li>
+          <li>Tests progression (achats, debloquages, administration flotte).</li>
+          <li>Test sauvegarde export/import JSON.</li>
+          <li>Push main + verification du deploiement GitHub Pages.</li>
+        </ol>
       </div>
     `;
     return;

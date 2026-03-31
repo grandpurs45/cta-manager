@@ -1,0 +1,1456 @@
+{
+  "country": "FR",
+  "departmentCode": "44",
+  "label": "Departement 44",
+  "communes": [
+    {
+      "insee": "44001",
+      "nom": "Abbaretz",
+      "lat": 47.5546,
+      "lon": -1.4929,
+      "population": 2073
+    },
+    {
+      "insee": "44002",
+      "nom": "Aigrefeuille-sur-Maine",
+      "lat": 47.0735,
+      "lon": -1.4121,
+      "population": 4156
+    },
+    {
+      "insee": "44003",
+      "nom": "Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
+      "population": 11600
+    },
+    {
+      "insee": "44006",
+      "nom": "Assérac",
+      "lat": 47.442,
+      "lon": -2.4127,
+      "population": 1890
+    },
+    {
+      "insee": "44007",
+      "nom": "Avessac",
+      "lat": 47.645,
+      "lon": -1.9724,
+      "population": 2452
+    },
+    {
+      "insee": "44009",
+      "nom": "Basse-Goulaine",
+      "lat": 47.2134,
+      "lon": -1.4628,
+      "population": 9679
+    },
+    {
+      "insee": "44010",
+      "nom": "Batz-sur-Mer",
+      "lat": 47.2789,
+      "lon": -2.4701,
+      "population": 2892
+    },
+    {
+      "insee": "44013",
+      "nom": "Besné",
+      "lat": 47.3828,
+      "lon": -2.0703,
+      "population": 3322
+    },
+    {
+      "insee": "44015",
+      "nom": "Blain",
+      "lat": 47.4562,
+      "lon": -1.7817,
+      "population": 10376
+    },
+    {
+      "insee": "44018",
+      "nom": "Bouaye",
+      "lat": 47.1478,
+      "lon": -1.6687,
+      "population": 8343
+    },
+    {
+      "insee": "44019",
+      "nom": "Bouée",
+      "lat": 47.3072,
+      "lon": -1.9182,
+      "population": 1097
+    },
+    {
+      "insee": "44020",
+      "nom": "Bouguenais",
+      "lat": 47.171,
+      "lon": -1.6181,
+      "population": 20530
+    },
+    {
+      "insee": "44022",
+      "nom": "Boussay",
+      "lat": 47.0546,
+      "lon": -1.1659,
+      "population": 2884
+    },
+    {
+      "insee": "44023",
+      "nom": "Bouvron",
+      "lat": 47.42,
+      "lon": -1.8691,
+      "population": 3153
+    },
+    {
+      "insee": "44024",
+      "nom": "Brains",
+      "lat": 47.1699,
+      "lon": -1.7238,
+      "population": 2709
+    },
+    {
+      "insee": "44025",
+      "nom": "Campbon",
+      "lat": 47.4155,
+      "lon": -1.988,
+      "population": 4058
+    },
+    {
+      "insee": "44026",
+      "nom": "Carquefou",
+      "lat": 47.2968,
+      "lon": -1.4687,
+      "population": 20921
+    },
+    {
+      "insee": "44027",
+      "nom": "Casson",
+      "lat": 47.3925,
+      "lon": -1.548,
+      "population": 2605
+    },
+    {
+      "insee": "44037",
+      "nom": "Château-Thébaud",
+      "lat": 47.1169,
+      "lon": -1.4467,
+      "population": 3129
+    },
+    {
+      "insee": "44036",
+      "nom": "Châteaubriant",
+      "lat": 47.7199,
+      "lon": -1.3912,
+      "population": 12260
+    },
+    {
+      "insee": "44005",
+      "nom": "Chaumes-en-Retz",
+      "lat": 47.1561,
+      "lon": -1.9153,
+      "population": 7440
+    },
+    {
+      "insee": "44038",
+      "nom": "Chauvé",
+      "lat": 47.1602,
+      "lon": -2.0132,
+      "population": 3070
+    },
+    {
+      "insee": "44039",
+      "nom": "Cheix-en-Retz",
+      "lat": 47.1819,
+      "lon": -1.8003,
+      "population": 1182
+    },
+    {
+      "insee": "44043",
+      "nom": "Clisson",
+      "lat": 47.0936,
+      "lon": -1.2654,
+      "population": 7452
+    },
+    {
+      "insee": "44044",
+      "nom": "Conquereuil",
+      "lat": 47.6467,
+      "lon": -1.7672,
+      "population": 1061
+    },
+    {
+      "insee": "44156",
+      "nom": "Corcoué-sur-Logne",
+      "lat": 46.958,
+      "lon": -1.6033,
+      "population": 3265
+    },
+    {
+      "insee": "44045",
+      "nom": "Cordemais",
+      "lat": 47.2918,
+      "lon": -1.8349,
+      "population": 4012
+    },
+    {
+      "insee": "44046",
+      "nom": "Corsept",
+      "lat": 47.2672,
+      "lon": -2.0894,
+      "population": 2594
+    },
+    {
+      "insee": "44047",
+      "nom": "Couëron",
+      "lat": 47.2391,
+      "lon": -1.7472,
+      "population": 24103
+    },
+    {
+      "insee": "44048",
+      "nom": "Couffé",
+      "lat": 47.3873,
+      "lon": -1.2853,
+      "population": 2535
+    },
+    {
+      "insee": "44050",
+      "nom": "Crossac",
+      "lat": 47.4055,
+      "lon": -2.1528,
+      "population": 2974
+    },
+    {
+      "insee": "44051",
+      "nom": "Derval",
+      "lat": 47.6546,
+      "lon": -1.6732,
+      "population": 3601
+    },
+    {
+      "insee": "44029",
+      "nom": "Divatte-sur-Loire",
+      "lat": 47.2789,
+      "lon": -1.3386,
+      "population": 7252
+    },
+    {
+      "insee": "44052",
+      "nom": "Donges",
+      "lat": 47.3398,
+      "lon": -2.0731,
+      "population": 8219
+    },
+    {
+      "insee": "44053",
+      "nom": "Drefféac",
+      "lat": 47.4676,
+      "lon": -2.0611,
+      "population": 2288
+    },
+    {
+      "insee": "44054",
+      "nom": "Erbray",
+      "lat": 47.6681,
+      "lon": -1.3269,
+      "population": 3072
+    },
+    {
+      "insee": "44056",
+      "nom": "Fay-de-Bretagne",
+      "lat": 47.3881,
+      "lon": -1.8076,
+      "population": 4023
+    },
+    {
+      "insee": "44057",
+      "nom": "Fégréac",
+      "lat": 47.5762,
+      "lon": -2.029,
+      "population": 2243
+    },
+    {
+      "insee": "44058",
+      "nom": "Fercé",
+      "lat": 47.8034,
+      "lon": -1.381,
+      "population": 517
+    },
+    {
+      "insee": "44061",
+      "nom": "Frossay",
+      "lat": 47.2514,
+      "lon": -1.9371,
+      "population": 3307
+    },
+    {
+      "insee": "44223",
+      "nom": "Geneston",
+      "lat": 47.0579,
+      "lon": -1.5312,
+      "population": 3685
+    },
+    {
+      "insee": "44063",
+      "nom": "Gétigné",
+      "lat": 47.0771,
+      "lon": -1.2196,
+      "population": 3883
+    },
+    {
+      "insee": "44064",
+      "nom": "Gorges",
+      "lat": 47.1032,
+      "lon": -1.3134,
+      "population": 5203
+    },
+    {
+      "insee": "44065",
+      "nom": "Grand-Auverné",
+      "lat": 47.5797,
+      "lon": -1.3106,
+      "population": 774
+    },
+    {
+      "insee": "44066",
+      "nom": "Grandchamp-des-Fontaines",
+      "lat": 47.3629,
+      "lon": -1.6234,
+      "population": 7062
+    },
+    {
+      "insee": "44067",
+      "nom": "Guémené-Penfao",
+      "lat": 47.6412,
+      "lon": -1.8223,
+      "population": 5243
+    },
+    {
+      "insee": "44068",
+      "nom": "Guenrouet",
+      "lat": 47.5133,
+      "lon": -1.947,
+      "population": 3673
+    },
+    {
+      "insee": "44069",
+      "nom": "Guérande",
+      "lat": 47.3358,
+      "lon": -2.4133,
+      "population": 16804
+    },
+    {
+      "insee": "44071",
+      "nom": "Haute-Goulaine",
+      "lat": 47.1951,
+      "lon": -1.4097,
+      "population": 6095
+    },
+    {
+      "insee": "44072",
+      "nom": "Herbignac",
+      "lat": 47.451,
+      "lon": -2.3149,
+      "population": 7224
+    },
+    {
+      "insee": "44073",
+      "nom": "Héric",
+      "lat": 47.4208,
+      "lon": -1.6404,
+      "population": 6585
+    },
+    {
+      "insee": "44074",
+      "nom": "Indre",
+      "lat": 47.1993,
+      "lon": -1.6701,
+      "population": 4160
+    },
+    {
+      "insee": "44075",
+      "nom": "Issé",
+      "lat": 47.6219,
+      "lon": -1.4537,
+      "population": 1856
+    },
+    {
+      "insee": "44076",
+      "nom": "Jans",
+      "lat": 47.6254,
+      "lon": -1.6023,
+      "population": 1364
+    },
+    {
+      "insee": "44077",
+      "nom": "Joué-sur-Erdre",
+      "lat": 47.5084,
+      "lon": -1.4312,
+      "population": 2797
+    },
+    {
+      "insee": "44078",
+      "nom": "Juigné-des-Moutiers",
+      "lat": 47.688,
+      "lon": -1.2267,
+      "population": 334
+    },
+    {
+      "insee": "44055",
+      "nom": "La Baule-Escoublac",
+      "lat": 47.2925,
+      "lon": -2.3622,
+      "population": 16912
+    },
+    {
+      "insee": "44012",
+      "nom": "La Bernerie-en-Retz",
+      "lat": 47.0862,
+      "lon": -2.0318,
+      "population": 3536
+    },
+    {
+      "insee": "44016",
+      "nom": "La Boissière-du-Doré",
+      "lat": 47.2347,
+      "lon": -1.2063,
+      "population": 1106
+    },
+    {
+      "insee": "44030",
+      "nom": "La Chapelle-des-Marais",
+      "lat": 47.4362,
+      "lon": -2.2477,
+      "population": 4492
+    },
+    {
+      "insee": "44031",
+      "nom": "La Chapelle-Glain",
+      "lat": 47.6243,
+      "lon": -1.1919,
+      "population": 809
+    },
+    {
+      "insee": "44032",
+      "nom": "La Chapelle-Heulin",
+      "lat": 47.1745,
+      "lon": -1.3468,
+      "population": 3467
+    },
+    {
+      "insee": "44033",
+      "nom": "La Chapelle-Launay",
+      "lat": 47.3474,
+      "lon": -1.9786,
+      "population": 3270
+    },
+    {
+      "insee": "44035",
+      "nom": "La Chapelle-sur-Erdre",
+      "lat": 47.3041,
+      "lon": -1.5621,
+      "population": 20690
+    },
+    {
+      "insee": "44221",
+      "nom": "La Chevallerais",
+      "lat": 47.4774,
+      "lon": -1.6658,
+      "population": 1569
+    },
+    {
+      "insee": "44041",
+      "nom": "La Chevrolière",
+      "lat": 47.0908,
+      "lon": -1.5965,
+      "population": 6539
+    },
+    {
+      "insee": "44224",
+      "nom": "La Grigonnais",
+      "lat": 47.5208,
+      "lon": -1.687,
+      "population": 1828
+    },
+    {
+      "insee": "44070",
+      "nom": "La Haie-Fouassière",
+      "lat": 47.1612,
+      "lon": -1.4033,
+      "population": 4775
+    },
+    {
+      "insee": "44083",
+      "nom": "La Limouzinière",
+      "lat": 46.9872,
+      "lon": -1.637,
+      "population": 2459
+    },
+    {
+      "insee": "44090",
+      "nom": "La Marne",
+      "lat": 46.9886,
+      "lon": -1.7251,
+      "population": 1586
+    },
+    {
+      "insee": "44095",
+      "nom": "La Meilleraye-de-Bretagne",
+      "lat": 47.5651,
+      "lon": -1.3918,
+      "population": 1606
+    },
+    {
+      "insee": "44101",
+      "nom": "La Montagne",
+      "lat": 47.1858,
+      "lon": -1.6826,
+      "population": 6505
+    },
+    {
+      "insee": "44126",
+      "nom": "La Plaine-sur-Mer",
+      "lat": 47.144,
+      "lon": -2.1813,
+      "population": 4760
+    },
+    {
+      "insee": "44127",
+      "nom": "La Planche",
+      "lat": 47.0244,
+      "lon": -1.4382,
+      "population": 2810
+    },
+    {
+      "insee": "44140",
+      "nom": "La Regrippière",
+      "lat": 47.1837,
+      "lon": -1.1931,
+      "population": 1609
+    },
+    {
+      "insee": "44141",
+      "nom": "La Remaudière",
+      "lat": 47.2286,
+      "lon": -1.2249,
+      "population": 1303
+    },
+    {
+      "insee": "44222",
+      "nom": "La Roche-Blanche",
+      "lat": 47.435,
+      "lon": -1.1413,
+      "population": 1261
+    },
+    {
+      "insee": "44211",
+      "nom": "La Turballe",
+      "lat": 47.3402,
+      "lon": -2.4906,
+      "population": 4850
+    },
+    {
+      "insee": "44080",
+      "nom": "Lavau-sur-Loire",
+      "lat": 47.3202,
+      "lon": -1.9571,
+      "population": 773
+    },
+    {
+      "insee": "44014",
+      "nom": "Le Bignon",
+      "lat": 47.1,
+      "lon": -1.5048,
+      "population": 3976
+    },
+    {
+      "insee": "44028",
+      "nom": "Le Cellier",
+      "lat": 47.3375,
+      "lon": -1.3553,
+      "population": 4051
+    },
+    {
+      "insee": "44049",
+      "nom": "Le Croisic",
+      "lat": 47.2942,
+      "lon": -2.5245,
+      "population": 4056
+    },
+    {
+      "insee": "44062",
+      "nom": "Le Gâvre",
+      "lat": 47.5328,
+      "lon": -1.8046,
+      "population": 1890
+    },
+    {
+      "insee": "44079",
+      "nom": "Le Landreau",
+      "lat": 47.2089,
+      "lon": -1.3006,
+      "population": 3267
+    },
+    {
+      "insee": "44084",
+      "nom": "Le Loroux-Bottereau",
+      "lat": 47.2325,
+      "lon": -1.3272,
+      "population": 8552
+    },
+    {
+      "insee": "44117",
+      "nom": "Le Pallet",
+      "lat": 47.1424,
+      "lon": -1.3464,
+      "population": 3413
+    },
+    {
+      "insee": "44120",
+      "nom": "Le Pellerin",
+      "lat": 47.2341,
+      "lon": -1.8377,
+      "population": 5319
+    },
+    {
+      "insee": "44124",
+      "nom": "Le Pin",
+      "lat": 47.5924,
+      "lon": -1.1456,
+      "population": 868
+    },
+    {
+      "insee": "44135",
+      "nom": "Le Pouliguen",
+      "lat": 47.2733,
+      "lon": -2.4333,
+      "population": 4173
+    },
+    {
+      "insee": "44203",
+      "nom": "Le Temple-de-Bretagne",
+      "lat": 47.3299,
+      "lon": -1.7892,
+      "population": 1975
+    },
+    {
+      "insee": "44081",
+      "nom": "Legé",
+      "lat": 46.9026,
+      "lon": -1.5713,
+      "population": 4817
+    },
+    {
+      "insee": "44106",
+      "nom": "Les Moutiers-en-Retz",
+      "lat": 47.0552,
+      "lon": -1.9883,
+      "population": 1939
+    },
+    {
+      "insee": "44198",
+      "nom": "Les Sorinières",
+      "lat": 47.142,
+      "lon": -1.5195,
+      "population": 9275
+    },
+    {
+      "insee": "44205",
+      "nom": "Les Touches",
+      "lat": 47.4552,
+      "lon": -1.4166,
+      "population": 2638
+    },
+    {
+      "insee": "44082",
+      "nom": "Ligné",
+      "lat": 47.4035,
+      "lon": -1.3792,
+      "population": 5693
+    },
+    {
+      "insee": "44213",
+      "nom": "Loireauxence",
+      "lat": 47.4352,
+      "lon": -1.0319,
+      "population": 7587
+    },
+    {
+      "insee": "44085",
+      "nom": "Louisfert",
+      "lat": 47.67,
+      "lon": -1.4281,
+      "population": 945
+    },
+    {
+      "insee": "44086",
+      "nom": "Lusanger",
+      "lat": 47.6752,
+      "lon": -1.5844,
+      "population": 1074
+    },
+    {
+      "insee": "44087",
+      "nom": "Machecoul-Saint-Même",
+      "lat": 47.0057,
+      "lon": -1.8063,
+      "population": 7689
+    },
+    {
+      "insee": "44088",
+      "nom": "Maisdon-sur-Sèvre",
+      "lat": 47.1181,
+      "lon": -1.3884,
+      "population": 3095
+    },
+    {
+      "insee": "44089",
+      "nom": "Malville",
+      "lat": 47.3441,
+      "lon": -1.8451,
+      "population": 3752
+    },
+    {
+      "insee": "44091",
+      "nom": "Marsac-sur-Don",
+      "lat": 47.5948,
+      "lon": -1.6967,
+      "population": 1524
+    },
+    {
+      "insee": "44092",
+      "nom": "Massérac",
+      "lat": 47.675,
+      "lon": -1.9099,
+      "population": 665
+    },
+    {
+      "insee": "44094",
+      "nom": "Mauves-sur-Loire",
+      "lat": 47.3146,
+      "lon": -1.4019,
+      "population": 3409
+    },
+    {
+      "insee": "44096",
+      "nom": "Mésanger",
+      "lat": 47.4307,
+      "lon": -1.2324,
+      "population": 4724
+    },
+    {
+      "insee": "44097",
+      "nom": "Mesquer",
+      "lat": 47.3991,
+      "lon": -2.4693,
+      "population": 2171
+    },
+    {
+      "insee": "44098",
+      "nom": "Missillac",
+      "lat": 47.489,
+      "lon": -2.1765,
+      "population": 5709
+    },
+    {
+      "insee": "44099",
+      "nom": "Moisdon-la-Rivière",
+      "lat": 47.6269,
+      "lon": -1.3661,
+      "population": 1990
+    },
+    {
+      "insee": "44100",
+      "nom": "Monnières",
+      "lat": 47.1202,
+      "lon": -1.35,
+      "population": 2388
+    },
+    {
+      "insee": "44102",
+      "nom": "Montbert",
+      "lat": 47.0669,
+      "lon": -1.4723,
+      "population": 3388
+    },
+    {
+      "insee": "44103",
+      "nom": "Montoir-de-Bretagne",
+      "lat": 47.3238,
+      "lon": -2.1539,
+      "population": 7282
+    },
+    {
+      "insee": "44104",
+      "nom": "Montrelais",
+      "lat": 47.4019,
+      "lon": -0.973,
+      "population": 859
+    },
+    {
+      "insee": "44105",
+      "nom": "Mouais",
+      "lat": 47.7044,
+      "lon": -1.6695,
+      "population": 352
+    },
+    {
+      "insee": "44107",
+      "nom": "Mouzeil",
+      "lat": 47.4414,
+      "lon": -1.3272,
+      "population": 2017
+    },
+    {
+      "insee": "44108",
+      "nom": "Mouzillon",
+      "lat": 47.1291,
+      "lon": -1.274,
+      "population": 2893
+    },
+    {
+      "insee": "44109",
+      "nom": "Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
+      "population": 327734
+    },
+    {
+      "insee": "44110",
+      "nom": "Nort-sur-Erdre",
+      "lat": 47.4454,
+      "lon": -1.5239,
+      "population": 9570
+    },
+    {
+      "insee": "44111",
+      "nom": "Notre-Dame-des-Landes",
+      "lat": 47.3812,
+      "lon": -1.7188,
+      "population": 2360
+    },
+    {
+      "insee": "44112",
+      "nom": "Noyal-sur-Brutz",
+      "lat": 47.7756,
+      "lon": -1.3438,
+      "population": 575
+    },
+    {
+      "insee": "44113",
+      "nom": "Nozay",
+      "lat": 47.5727,
+      "lon": -1.6027,
+      "population": 4292
+    },
+    {
+      "insee": "44114",
+      "nom": "Orvault",
+      "lat": 47.2745,
+      "lon": -1.6195,
+      "population": 28534
+    },
+    {
+      "insee": "44115",
+      "nom": "Oudon",
+      "lat": 47.3532,
+      "lon": -1.2676,
+      "population": 3904
+    },
+    {
+      "insee": "44116",
+      "nom": "Paimbœuf",
+      "lat": 47.2912,
+      "lon": -2.028,
+      "population": 3045
+    },
+    {
+      "insee": "44118",
+      "nom": "Pannecé",
+      "lat": 47.482,
+      "lon": -1.2148,
+      "population": 1439
+    },
+    {
+      "insee": "44119",
+      "nom": "Paulx",
+      "lat": 46.9612,
+      "lon": -1.7835,
+      "population": 2054
+    },
+    {
+      "insee": "44121",
+      "nom": "Petit-Auverné",
+      "lat": 47.6091,
+      "lon": -1.2833,
+      "population": 434
+    },
+    {
+      "insee": "44122",
+      "nom": "Petit-Mars",
+      "lat": 47.4063,
+      "lon": -1.457,
+      "population": 3888
+    },
+    {
+      "insee": "44123",
+      "nom": "Pierric",
+      "lat": 47.689,
+      "lon": -1.7816,
+      "population": 1010
+    },
+    {
+      "insee": "44125",
+      "nom": "Piriac-sur-Mer",
+      "lat": 47.3838,
+      "lon": -2.5449,
+      "population": 2685
+    },
+    {
+      "insee": "44128",
+      "nom": "Plessé",
+      "lat": 47.5578,
+      "lon": -1.8831,
+      "population": 5335
+    },
+    {
+      "insee": "44130",
+      "nom": "Pont-Saint-Martin",
+      "lat": 47.1266,
+      "lon": -1.5683,
+      "population": 7093
+    },
+    {
+      "insee": "44129",
+      "nom": "Pontchâteau",
+      "lat": 47.4365,
+      "lon": -2.092,
+      "population": 11474
+    },
+    {
+      "insee": "44131",
+      "nom": "Pornic",
+      "lat": 47.1302,
+      "lon": -2.0569,
+      "population": 18745
+    },
+    {
+      "insee": "44132",
+      "nom": "Pornichet",
+      "lat": 47.2599,
+      "lon": -2.3225,
+      "population": 12800
+    },
+    {
+      "insee": "44133",
+      "nom": "Port-Saint-Père",
+      "lat": 47.1383,
+      "lon": -1.7674,
+      "population": 3059
+    },
+    {
+      "insee": "44134",
+      "nom": "Pouillé-les-Côteaux",
+      "lat": 47.4666,
+      "lon": -1.184,
+      "population": 1033
+    },
+    {
+      "insee": "44136",
+      "nom": "Préfailles",
+      "lat": 47.133,
+      "lon": -2.2106,
+      "population": 1321
+    },
+    {
+      "insee": "44137",
+      "nom": "Prinquiau",
+      "lat": 47.3784,
+      "lon": -2.0239,
+      "population": 3591
+    },
+    {
+      "insee": "44138",
+      "nom": "Puceul",
+      "lat": 47.5142,
+      "lon": -1.6119,
+      "population": 1142
+    },
+    {
+      "insee": "44139",
+      "nom": "Quilly",
+      "lat": 47.4624,
+      "lon": -1.9438,
+      "population": 1565
+    },
+    {
+      "insee": "44142",
+      "nom": "Remouillé",
+      "lat": 47.0362,
+      "lon": -1.3877,
+      "population": 1932
+    },
+    {
+      "insee": "44143",
+      "nom": "Rezé",
+      "lat": 47.1733,
+      "lon": -1.5573,
+      "population": 43556
+    },
+    {
+      "insee": "44144",
+      "nom": "Riaillé",
+      "lat": 47.5209,
+      "lon": -1.3095,
+      "population": 2365
+    },
+    {
+      "insee": "44145",
+      "nom": "Rouans",
+      "lat": 47.18,
+      "lon": -1.8462,
+      "population": 3301
+    },
+    {
+      "insee": "44146",
+      "nom": "Rougé",
+      "lat": 47.7673,
+      "lon": -1.4342,
+      "population": 2146
+    },
+    {
+      "insee": "44148",
+      "nom": "Ruffigné",
+      "lat": 47.7662,
+      "lon": -1.5205,
+      "population": 702
+    },
+    {
+      "insee": "44149",
+      "nom": "Saffré",
+      "lat": 47.4924,
+      "lon": -1.5807,
+      "population": 4115
+    },
+    {
+      "insee": "44150",
+      "nom": "Saint-Aignan-Grandlieu",
+      "lat": 47.1296,
+      "lon": -1.6191,
+      "population": 3996
+    },
+    {
+      "insee": "44151",
+      "nom": "Saint-André-des-Eaux",
+      "lat": 47.3272,
+      "lon": -2.3116,
+      "population": 7013
+    },
+    {
+      "insee": "44153",
+      "nom": "Saint-Aubin-des-Châteaux",
+      "lat": 47.7118,
+      "lon": -1.4674,
+      "population": 1744
+    },
+    {
+      "insee": "44154",
+      "nom": "Saint-Brevin-les-Pins",
+      "lat": 47.2441,
+      "lon": -2.154,
+      "population": 14541
+    },
+    {
+      "insee": "44155",
+      "nom": "Saint-Colomban",
+      "lat": 47.0175,
+      "lon": -1.5526,
+      "population": 3500
+    },
+    {
+      "insee": "44157",
+      "nom": "Saint-Étienne-de-Mer-Morte",
+      "lat": 46.9464,
+      "lon": -1.7172,
+      "population": 1782
+    },
+    {
+      "insee": "44158",
+      "nom": "Saint-Étienne-de-Montluc",
+      "lat": 47.2694,
+      "lon": -1.7902,
+      "population": 7780
+    },
+    {
+      "insee": "44159",
+      "nom": "Saint-Fiacre-sur-Maine",
+      "lat": 47.1419,
+      "lon": -1.4198,
+      "population": 1251
+    },
+    {
+      "insee": "44161",
+      "nom": "Saint-Gildas-des-Bois",
+      "lat": 47.5099,
+      "lon": -2.0639,
+      "population": 3860
+    },
+    {
+      "insee": "44162",
+      "nom": "Saint-Herblain",
+      "lat": 47.2246,
+      "lon": -1.6306,
+      "population": 50973
+    },
+    {
+      "insee": "44164",
+      "nom": "Saint-Hilaire-de-Chaléons",
+      "lat": 47.0999,
+      "lon": -1.874,
+      "population": 2422
+    },
+    {
+      "insee": "44165",
+      "nom": "Saint-Hilaire-de-Clisson",
+      "lat": 47.06,
+      "lon": -1.3182,
+      "population": 2423
+    },
+    {
+      "insee": "44166",
+      "nom": "Saint-Jean-de-Boiseau",
+      "lat": 47.1919,
+      "lon": -1.7198,
+      "population": 6067
+    },
+    {
+      "insee": "44168",
+      "nom": "Saint-Joachim",
+      "lat": 47.3731,
+      "lon": -2.2429,
+      "population": 4112
+    },
+    {
+      "insee": "44169",
+      "nom": "Saint-Julien-de-Concelles",
+      "lat": 47.2469,
+      "lon": -1.4036,
+      "population": 7883
+    },
+    {
+      "insee": "44170",
+      "nom": "Saint-Julien-de-Vouvantes",
+      "lat": 47.6544,
+      "lon": -1.2269,
+      "population": 961
+    },
+    {
+      "insee": "44171",
+      "nom": "Saint-Léger-les-Vignes",
+      "lat": 47.1443,
+      "lon": -1.7118,
+      "population": 2171
+    },
+    {
+      "insee": "44173",
+      "nom": "Saint-Lumine-de-Clisson",
+      "lat": 47.0795,
+      "lon": -1.3647,
+      "population": 2100
+    },
+    {
+      "insee": "44174",
+      "nom": "Saint-Lumine-de-Coutais",
+      "lat": 47.0578,
+      "lon": -1.7235,
+      "population": 2396
+    },
+    {
+      "insee": "44175",
+      "nom": "Saint-Lyphard",
+      "lat": 47.3788,
+      "lon": -2.3437,
+      "population": 5304
+    },
+    {
+      "insee": "44176",
+      "nom": "Saint-Malo-de-Guersac",
+      "lat": 47.3608,
+      "lon": -2.173,
+      "population": 3203
+    },
+    {
+      "insee": "44178",
+      "nom": "Saint-Mars-de-Coutais",
+      "lat": 47.0779,
+      "lon": -1.7457,
+      "population": 2698
+    },
+    {
+      "insee": "44179",
+      "nom": "Saint-Mars-du-Désert",
+      "lat": 47.3537,
+      "lon": -1.4369,
+      "population": 5523
+    },
+    {
+      "insee": "44182",
+      "nom": "Saint-Michel-Chef-Chef",
+      "lat": 47.1705,
+      "lon": -2.1238,
+      "population": 5714
+    },
+    {
+      "insee": "44183",
+      "nom": "Saint-Molf",
+      "lat": 47.3862,
+      "lon": -2.4139,
+      "population": 2870
+    },
+    {
+      "insee": "44184",
+      "nom": "Saint-Nazaire",
+      "lat": 47.2768,
+      "lon": -2.2392,
+      "population": 74568
+    },
+    {
+      "insee": "44185",
+      "nom": "Saint-Nicolas-de-Redon",
+      "lat": 47.6364,
+      "lon": -2.0522,
+      "population": 3311
+    },
+    {
+      "insee": "44187",
+      "nom": "Saint-Père-en-Retz",
+      "lat": 47.2379,
+      "lon": -2.0714,
+      "population": 4894
+    },
+    {
+      "insee": "44188",
+      "nom": "Saint-Philbert-de-Grand-Lieu",
+      "lat": 47.0689,
+      "lon": -1.6443,
+      "population": 9400
+    },
+    {
+      "insee": "44190",
+      "nom": "Saint-Sébastien-sur-Loire",
+      "lat": 47.2065,
+      "lon": -1.5023,
+      "population": 28596
+    },
+    {
+      "insee": "44192",
+      "nom": "Saint-Viaud",
+      "lat": 47.2418,
+      "lon": -1.987,
+      "population": 2929
+    },
+    {
+      "insee": "44193",
+      "nom": "Saint-Vincent-des-Landes",
+      "lat": 47.6606,
+      "lon": -1.5026,
+      "population": 1525
+    },
+    {
+      "insee": "44152",
+      "nom": "Sainte-Anne-sur-Brivet",
+      "lat": 47.4541,
+      "lon": -2.0288,
+      "population": 3063
+    },
+    {
+      "insee": "44172",
+      "nom": "Sainte-Luce-sur-Loire",
+      "lat": 47.2529,
+      "lon": -1.4704,
+      "population": 16400
+    },
+    {
+      "insee": "44186",
+      "nom": "Sainte-Pazanne",
+      "lat": 47.0864,
+      "lon": -1.8184,
+      "population": 7201
+    },
+    {
+      "insee": "44189",
+      "nom": "Sainte-Reine-de-Bretagne",
+      "lat": 47.4421,
+      "lon": -2.1838,
+      "population": 2484
+    },
+    {
+      "insee": "44194",
+      "nom": "Sautron",
+      "lat": 47.275,
+      "lon": -1.6839,
+      "population": 8555
+    },
+    {
+      "insee": "44195",
+      "nom": "Savenay",
+      "lat": 47.3542,
+      "lon": -1.9203,
+      "population": 9543
+    },
+    {
+      "insee": "44196",
+      "nom": "Sévérac",
+      "lat": 47.5534,
+      "lon": -2.0656,
+      "population": 1690
+    },
+    {
+      "insee": "44197",
+      "nom": "Sion-les-Mines",
+      "lat": 47.7274,
+      "lon": -1.5762,
+      "population": 1658
+    },
+    {
+      "insee": "44199",
+      "nom": "Soudan",
+      "lat": 47.7262,
+      "lon": -1.2871,
+      "population": 1959
+    },
+    {
+      "insee": "44200",
+      "nom": "Soulvache",
+      "lat": 47.8205,
+      "lon": -1.4482,
+      "population": 338
+    },
+    {
+      "insee": "44201",
+      "nom": "Sucé-sur-Erdre",
+      "lat": 47.35,
+      "lon": -1.5237,
+      "population": 7539
+    },
+    {
+      "insee": "44202",
+      "nom": "Teillé",
+      "lat": 47.4654,
+      "lon": -1.2838,
+      "population": 1824
+    },
+    {
+      "insee": "44204",
+      "nom": "Thouaré-sur-Loire",
+      "lat": 47.2755,
+      "lon": -1.4294,
+      "population": 11004
+    },
+    {
+      "insee": "44206",
+      "nom": "Touvois",
+      "lat": 46.9098,
+      "lon": -1.685,
+      "population": 1970
+    },
+    {
+      "insee": "44207",
+      "nom": "Trans-sur-Erdre",
+      "lat": 47.4854,
+      "lon": -1.3597,
+      "population": 1156
+    },
+    {
+      "insee": "44208",
+      "nom": "Treffieux",
+      "lat": 47.614,
+      "lon": -1.5281,
+      "population": 996
+    },
+    {
+      "insee": "44209",
+      "nom": "Treillières",
+      "lat": 47.3146,
+      "lon": -1.6312,
+      "population": 10600
+    },
+    {
+      "insee": "44210",
+      "nom": "Trignac",
+      "lat": 47.3116,
+      "lon": -2.2052,
+      "population": 8397
+    },
+    {
+      "insee": "44163",
+      "nom": "Vair-sur-Loire",
+      "lat": 47.4019,
+      "lon": -1.1095,
+      "population": 4944
+    },
+    {
+      "insee": "44212",
+      "nom": "Vallet",
+      "lat": 47.1763,
+      "lon": -1.2645,
+      "population": 9495
+    },
+    {
+      "insee": "44180",
+      "nom": "Vallons-de-l'Erdre",
+      "lat": 47.5349,
+      "lon": -1.1414,
+      "population": 6692
+    },
+    {
+      "insee": "44214",
+      "nom": "Vay",
+      "lat": 47.5381,
+      "lon": -1.7031,
+      "population": 2120
+    },
+    {
+      "insee": "44215",
+      "nom": "Vertou",
+      "lat": 47.1532,
+      "lon": -1.4679,
+      "population": 26227
+    },
+    {
+      "insee": "44216",
+      "nom": "Vieillevigne",
+      "lat": 46.9702,
+      "lon": -1.4172,
+      "population": 4150
+    },
+    {
+      "insee": "44217",
+      "nom": "Vigneux-de-Bretagne",
+      "lat": 47.317,
+      "lon": -1.7198,
+      "population": 6692
+    },
+    {
+      "insee": "44021",
+      "nom": "Villeneuve-en-Retz",
+      "lat": 47.035,
+      "lon": -1.9019,
+      "population": 5120
+    },
+    {
+      "insee": "44218",
+      "nom": "Villepot",
+      "lat": 47.7686,
+      "lon": -1.2856,
+      "population": 680
+    },
+    {
+      "insee": "44220",
+      "nom": "Vue",
+      "lat": 47.1996,
+      "lon": -1.8968,
+      "population": 1753
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "country": "FR",
+  "departmentCode": "05",
+  "label": "Departement 05",
+  "communes": [
+    {
+      "insee": "05001",
+      "nom": "Abriès-Ristolas",
+      "lat": 44.7717,
+      "lon": 6.9717,
+      "population": 374
+    },
+    {
+      "insee": "05003",
+      "nom": "Aiguilles",
+      "lat": 44.7826,
+      "lon": 6.8768,
+      "population": 369
+    },
+    {
+      "insee": "05004",
+      "nom": "Ancelle",
+      "lat": 44.6195,
+      "lon": 6.2288,
+      "population": 1017
+    },
+    {
+      "insee": "05007",
+      "nom": "Arvieux",
+      "lat": 44.7623,
+      "lon": 6.7181,
+      "population": 340
+    },
+    {
+      "insee": "05008",
+      "nom": "Aspremont",
+      "lat": 44.4934,
+      "lon": 5.7154,
+      "population": 364
+    },
+    {
+      "insee": "05009",
+      "nom": "Aspres-lès-Corps",
+      "lat": 44.8145,
+      "lon": 6.003,
+      "population": 102
+    },
+    {
+      "insee": "05010",
+      "nom": "Aspres-sur-Buëch",
+      "lat": 44.5565,
+      "lon": 5.7695,
+      "population": 828
+    },
+    {
+      "insee": "05039",
+      "nom": "Aubessagne",
+      "lat": 44.739,
+      "lon": 6.0311,
+      "population": 740
+    },
+    {
+      "insee": "05011",
+      "nom": "Avançon",
+      "lat": 44.5359,
+      "lon": 6.191,
+      "population": 415
+    },
+    {
+      "insee": "05012",
+      "nom": "Baratier",
+      "lat": 44.5051,
+      "lon": 6.504,
+      "population": 648
+    },
+    {
+      "insee": "05013",
+      "nom": "Barcillonnette",
+      "lat": 44.4333,
+      "lon": 5.8973,
+      "population": 148
+    },
+    {
+      "insee": "05014",
+      "nom": "Barret-sur-Méouge",
+      "lat": 44.2591,
+      "lon": 5.7244,
+      "population": 193
+    },
+    {
+      "insee": "05022",
+      "nom": "Bréziers",
+      "lat": 44.4163,
+      "lon": 6.2184,
+      "population": 229
+    },
+    {
+      "insee": "05023",
+      "nom": "Briançon",
+      "lat": 44.8995,
+      "lon": 6.6536,
+      "population": 11411
+    },
+    {
+      "insee": "05025",
+      "nom": "Buissard",
+      "lat": 44.6587,
+      "lon": 6.1457,
+      "population": 187
+    },
+    {
+      "insee": "05026",
+      "nom": "Ceillac",
+      "lat": 44.6544,
+      "lon": 6.8072,
+      "population": 265
+    },
+    {
+      "insee": "05027",
+      "nom": "Cervières",
+      "lat": 44.8586,
+      "lon": 6.7746,
+      "population": 205
+    },
+    {
+      "insee": "05028",
+      "nom": "Chabestan",
+      "lat": 44.4793,
+      "lon": 5.7832,
+      "population": 173
+    },
+    {
+      "insee": "05029",
+      "nom": "Chabottes",
+      "lat": 44.6485,
+      "lon": 6.1663,
+      "population": 964
+    },
+    {
+      "insee": "05031",
+      "nom": "Champcella",
+      "lat": 44.7247,
+      "lon": 6.5236,
+      "population": 181
+    },
+    {
+      "insee": "05032",
+      "nom": "Champoléon",
+      "lat": 44.7416,
+      "lon": 6.2741,
+      "population": 144
+    },
+    {
+      "insee": "05033",
+      "nom": "Chanousse",
+      "lat": 44.3648,
+      "lon": 5.6592,
+      "population": 39
+    },
+    {
+      "insee": "05038",
+      "nom": "Château-Ville-Vieille",
+      "lat": 44.7617,
+      "lon": 6.811,
+      "population": 298
+    },
+    {
+      "insee": "05035",
+      "nom": "Châteauneuf-d'Oze",
+      "lat": 44.503,
+      "lon": 5.9028,
+      "population": 30
+    },
+    {
+      "insee": "05036",
+      "nom": "Châteauroux-les-Alpes",
+      "lat": 44.6424,
+      "lon": 6.4834,
+      "population": 1234
+    },
+    {
+      "insee": "05037",
+      "nom": "Châteauvieux",
+      "lat": 44.4838,
+      "lon": 6.0527,
+      "population": 545
+    },
+    {
+      "insee": "05040",
+      "nom": "Chorges",
+      "lat": 44.5473,
+      "lon": 6.287,
+      "population": 3146
+    },
+    {
+      "insee": "05044",
+      "nom": "Crévoux",
+      "lat": 44.5302,
+      "lon": 6.6191,
+      "population": 122
+    },
+    {
+      "insee": "05045",
+      "nom": "Crots",
+      "lat": 44.4985,
+      "lon": 6.4571,
+      "population": 1195
+    },
+    {
+      "insee": "05139",
+      "nom": "Dévoluy",
+      "lat": 44.6847,
+      "lon": 5.8917,
+      "population": 932
+    },
+    {
+      "insee": "05046",
+      "nom": "Embrun",
+      "lat": 44.5806,
+      "lon": 6.475,
+      "population": 6412
+    },
+    {
+      "insee": "05047",
+      "nom": "Éourres",
+      "lat": 44.2113,
+      "lon": 5.7349,
+      "population": 151
+    },
+    {
+      "insee": "05049",
+      "nom": "Esparron",
+      "lat": 44.4597,
+      "lon": 5.8875,
+      "population": 53
+    },
+    {
+      "insee": "05050",
+      "nom": "Espinasses",
+      "lat": 44.4902,
+      "lon": 6.2371,
+      "population": 777
+    },
+    {
+      "insee": "05051",
+      "nom": "Étoile-Saint-Cyrice",
+      "lat": 44.3217,
+      "lon": 5.6426,
+      "population": 23
+    },
+    {
+      "insee": "05052",
+      "nom": "Eygliers",
+      "lat": 44.6962,
+      "lon": 6.6621,
+      "population": 882
+    },
+    {
+      "insee": "05056",
+      "nom": "Forest-Saint-Julien",
+      "lat": 44.6316,
+      "lon": 6.1433,
+      "population": 353
+    },
+    {
+      "insee": "05057",
+      "nom": "Fouillouse",
+      "lat": 44.45,
+      "lon": 5.9992,
+      "population": 276
+    },
+    {
+      "insee": "05058",
+      "nom": "Freissinières",
+      "lat": 44.7283,
+      "lon": 6.4595,
+      "population": 186
+    },
+    {
+      "insee": "05060",
+      "nom": "Furmeyer",
+      "lat": 44.5379,
+      "lon": 5.8751,
+      "population": 169
+    },
+    {
+      "insee": "05061",
+      "nom": "Gap",
+      "lat": 44.5797,
+      "lon": 6.0616,
+      "population": 41293
+    },
+    {
+      "insee": "05053",
+      "nom": "Garde-Colombe",
+      "lat": 44.3602,
+      "lon": 5.7865,
+      "population": 539
+    },
+    {
+      "insee": "05065",
+      "nom": "Guillestre",
+      "lat": 44.6596,
+      "lon": 6.6983,
+      "population": 2295
+    },
+    {
+      "insee": "05068",
+      "nom": "Jarjayes",
+      "lat": 44.5038,
+      "lon": 6.1132,
+      "population": 465
+    },
+    {
+      "insee": "05006",
+      "nom": "L'Argentière-la-Bessée",
+      "lat": 44.7835,
+      "lon": 6.4716,
+      "population": 2288
+    },
+    {
+      "insee": "05048",
+      "nom": "L'Épine",
+      "lat": 44.4319,
+      "lon": 5.6095,
+      "population": 200
+    },
+    {
+      "insee": "05016",
+      "nom": "La Bâtie-Montsaléon",
+      "lat": 44.4565,
+      "lon": 5.7483,
+      "population": 304
+    },
+    {
+      "insee": "05017",
+      "nom": "La Bâtie-Neuve",
+      "lat": 44.5817,
+      "lon": 6.2151,
+      "population": 2628
+    },
+    {
+      "insee": "05018",
+      "nom": "La Bâtie-Vieille",
+      "lat": 44.5519,
+      "lon": 6.1523,
+      "population": 340
+    },
+    {
+      "insee": "05019",
+      "nom": "La Beaume",
+      "lat": 44.5477,
+      "lon": 5.6518,
+      "population": 153
+    },
+    {
+      "insee": "05064",
+      "nom": "La Chapelle-en-Valgaudémar",
+      "lat": 44.8069,
+      "lon": 6.244,
+      "population": 120
+    },
+    {
+      "insee": "05054",
+      "nom": "La Fare-en-Champsaur",
+      "lat": 44.6666,
+      "lon": 6.06,
+      "population": 482
+    },
+    {
+      "insee": "05055",
+      "nom": "La Faurie",
+      "lat": 44.5751,
+      "lon": 5.7378,
+      "population": 287
+    },
+    {
+      "insee": "05059",
+      "nom": "La Freissinouse",
+      "lat": 44.5361,
+      "lon": 6.0054,
+      "population": 972
+    },
+    {
+      "insee": "05063",
+      "nom": "La Grave",
+      "lat": 45.061,
+      "lon": 6.2886,
+      "population": 479
+    },
+    {
+      "insee": "05066",
+      "nom": "La Haute-Beaume",
+      "lat": 44.5707,
+      "lon": 5.6299,
+      "population": 7
+    },
+    {
+      "insee": "05090",
+      "nom": "La Motte-en-Champsaur",
+      "lat": 44.74,
+      "lon": 6.1211,
+      "population": 207
+    },
+    {
+      "insee": "05102",
+      "nom": "La Piarre",
+      "lat": 44.4809,
+      "lon": 5.6458,
+      "population": 82
+    },
+    {
+      "insee": "05122",
+      "nom": "La Roche-de-Rame",
+      "lat": 44.7557,
+      "lon": 6.6215,
+      "population": 904
+    },
+    {
+      "insee": "05123",
+      "nom": "La Roche-des-Arnauds",
+      "lat": 44.59,
+      "lon": 5.9596,
+      "population": 1685
+    },
+    {
+      "insee": "05124",
+      "nom": "La Rochette",
+      "lat": 44.5945,
+      "lon": 6.1473,
+      "population": 471
+    },
+    {
+      "insee": "05161",
+      "nom": "La Salle-les-Alpes",
+      "lat": 44.9571,
+      "lon": 6.5664,
+      "population": 892
+    },
+    {
+      "insee": "05162",
+      "nom": "La Saulce",
+      "lat": 44.4318,
+      "lon": 6.0108,
+      "population": 1369
+    },
+    {
+      "insee": "05070",
+      "nom": "Laragne-Montéglin",
+      "lat": 44.3372,
+      "lon": 5.8197,
+      "population": 3549
+    },
+    {
+      "insee": "05071",
+      "nom": "Lardier-et-Valença",
+      "lat": 44.4372,
+      "lon": 5.9721,
+      "population": 391
+    },
+    {
+      "insee": "05072",
+      "nom": "Laye",
+      "lat": 44.6445,
+      "lon": 6.0692,
+      "population": 256
+    },
+    {
+      "insee": "05073",
+      "nom": "Lazer",
+      "lat": 44.3488,
+      "lon": 5.851,
+      "population": 345
+    },
+    {
+      "insee": "05021",
+      "nom": "Le Bersac",
+      "lat": 44.4078,
+      "lon": 5.7537,
+      "population": 146
+    },
+    {
+      "insee": "05062",
+      "nom": "Le Glaizil",
+      "lat": 44.7483,
+      "lon": 5.9766,
+      "population": 178
+    },
+    {
+      "insee": "05079",
+      "nom": "Le Monêtier-les-Bains",
+      "lat": 44.9992,
+      "lon": 6.4709,
+      "population": 923
+    },
+    {
+      "insee": "05095",
+      "nom": "Le Noyer",
+      "lat": 44.7002,
+      "lon": 5.9995,
+      "population": 310
+    },
+    {
+      "insee": "05103",
+      "nom": "Le Poët",
+      "lat": 44.2756,
+      "lon": 5.9008,
+      "population": 790
+    },
+    {
+      "insee": "05158",
+      "nom": "Le Saix",
+      "lat": 44.4655,
+      "lon": 5.8402,
+      "population": 126
+    },
+    {
+      "insee": "05163",
+      "nom": "Le Sauze-du-Lac",
+      "lat": 44.4869,
+      "lon": 6.3209,
+      "population": 159
+    },
+    {
+      "insee": "05098",
+      "nom": "Les Orres",
+      "lat": 44.4883,
+      "lon": 6.5774,
+      "population": 510
+    },
+    {
+      "insee": "05180",
+      "nom": "Les Vigneaux",
+      "lat": 44.8246,
+      "lon": 6.5305,
+      "population": 510
+    },
+    {
+      "insee": "05074",
+      "nom": "Lettret",
+      "lat": 44.4833,
+      "lon": 6.0712,
+      "population": 196
+    },
+    {
+      "insee": "05075",
+      "nom": "Manteyer",
+      "lat": 44.5317,
+      "lon": 5.9553,
+      "population": 500
+    },
+    {
+      "insee": "05076",
+      "nom": "Méreuil",
+      "lat": 44.385,
+      "lon": 5.7133,
+      "population": 108
+    },
+    {
+      "insee": "05077",
+      "nom": "Molines-en-Queyras",
+      "lat": 44.7123,
+      "lon": 6.8975,
+      "population": 307
+    },
+    {
+      "insee": "05078",
+      "nom": "Monêtier-Allemont",
+      "lat": 44.3917,
+      "lon": 5.9317,
+      "population": 302
+    },
+    {
+      "insee": "05082",
+      "nom": "Mont-Dauphin",
+      "lat": 44.6685,
+      "lon": 6.625,
+      "population": 162
+    },
+    {
+      "insee": "05080",
+      "nom": "Montbrand",
+      "lat": 44.5952,
+      "lon": 5.6699,
+      "population": 75
+    },
+    {
+      "insee": "05081",
+      "nom": "Montclus",
+      "lat": 44.4119,
+      "lon": 5.6673,
+      "population": 54
+    },
+    {
+      "insee": "05084",
+      "nom": "Montgardin",
+      "lat": 44.5419,
+      "lon": 6.2345,
+      "population": 481
+    },
+    {
+      "insee": "05085",
+      "nom": "Montgenèvre",
+      "lat": 44.9403,
+      "lon": 6.7216,
+      "population": 461
+    },
+    {
+      "insee": "05086",
+      "nom": "Montjay",
+      "lat": 44.3668,
+      "lon": 5.6194,
+      "population": 104
+    },
+    {
+      "insee": "05087",
+      "nom": "Montmaur",
+      "lat": 44.5774,
+      "lon": 5.8707,
+      "population": 532
+    },
+    {
+      "insee": "05089",
+      "nom": "Montrond",
+      "lat": 44.3878,
+      "lon": 5.7453,
+      "population": 90
+    },
+    {
+      "insee": "05091",
+      "nom": "Moydans",
+      "lat": 44.4084,
+      "lon": 5.5083,
+      "population": 38
+    },
+    {
+      "insee": "05092",
+      "nom": "Neffes",
+      "lat": 44.499,
+      "lon": 6.0238,
+      "population": 804
+    },
+    {
+      "insee": "05093",
+      "nom": "Névache",
+      "lat": 45.0487,
+      "lon": 6.616,
+      "population": 362
+    },
+    {
+      "insee": "05094",
+      "nom": "Nossage-et-Bénévent",
+      "lat": 44.3103,
+      "lon": 5.7554,
+      "population": 10
+    },
+    {
+      "insee": "05096",
+      "nom": "Orcières",
+      "lat": 44.6849,
+      "lon": 6.3532,
+      "population": 651
+    },
+    {
+      "insee": "05097",
+      "nom": "Orpierre",
+      "lat": 44.316,
+      "lon": 5.7071,
+      "population": 316
+    },
+    {
+      "insee": "05099",
+      "nom": "Oze",
+      "lat": 44.5057,
+      "lon": 5.798,
+      "population": 103
+    },
+    {
+      "insee": "05100",
+      "nom": "Pelleautier",
+      "lat": 44.5052,
+      "lon": 5.9977,
+      "population": 863
+    },
+    {
+      "insee": "05104",
+      "nom": "Poligny",
+      "lat": 44.6858,
+      "lon": 6.0335,
+      "population": 338
+    },
+    {
+      "insee": "05106",
+      "nom": "Prunières",
+      "lat": 44.5456,
+      "lon": 6.3413,
+      "population": 318
+    },
+    {
+      "insee": "05107",
+      "nom": "Puy-Saint-André",
+      "lat": 44.8868,
+      "lon": 6.5637,
+      "population": 476
+    },
+    {
+      "insee": "05108",
+      "nom": "Puy-Saint-Eusèbe",
+      "lat": 44.5667,
+      "lon": 6.4129,
+      "population": 191
+    },
+    {
+      "insee": "05109",
+      "nom": "Puy-Saint-Pierre",
+      "lat": 44.8974,
+      "lon": 6.6047,
+      "population": 518
+    },
+    {
+      "insee": "05110",
+      "nom": "Puy-Saint-Vincent",
+      "lat": 44.8158,
+      "lon": 6.4617,
+      "population": 270
+    },
+    {
+      "insee": "05111",
+      "nom": "Puy-Sanières",
+      "lat": 44.5596,
+      "lon": 6.4389,
+      "population": 288
+    },
+    {
+      "insee": "05112",
+      "nom": "Rabou",
+      "lat": 44.6065,
+      "lon": 6.0067,
+      "population": 89
+    },
+    {
+      "insee": "05113",
+      "nom": "Rambaud",
+      "lat": 44.5496,
+      "lon": 6.1292,
+      "population": 423
+    },
+    {
+      "insee": "05114",
+      "nom": "Réallon",
+      "lat": 44.6163,
+      "lon": 6.3622,
+      "population": 242
+    },
+    {
+      "insee": "05115",
+      "nom": "Remollon",
+      "lat": 44.4739,
+      "lon": 6.1567,
+      "population": 469
+    },
+    {
+      "insee": "05116",
+      "nom": "Réotier",
+      "lat": 44.6788,
+      "lon": 6.5468,
+      "population": 226
+    },
+    {
+      "insee": "05117",
+      "nom": "Ribeyret",
+      "lat": 44.4123,
+      "lon": 5.5552,
+      "population": 106
+    },
+    {
+      "insee": "05119",
+      "nom": "Risoul",
+      "lat": 44.6202,
+      "lon": 6.6242,
+      "population": 664
+    },
+    {
+      "insee": "05121",
+      "nom": "Rochebrune",
+      "lat": 44.4506,
+      "lon": 6.1962,
+      "population": 195
+    },
+    {
+      "insee": "05126",
+      "nom": "Rosans",
+      "lat": 44.4005,
+      "lon": 5.4581,
+      "population": 511
+    },
+    {
+      "insee": "05127",
+      "nom": "Rousset-Serre-Ponçon",
+      "lat": 44.4856,
+      "lon": 6.2684,
+      "population": 167
+    },
+    {
+      "insee": "05128",
+      "nom": "Saint-André-d'Embrun",
+      "lat": 44.5955,
+      "lon": 6.5792,
+      "population": 705
+    },
+    {
+      "insee": "05129",
+      "nom": "Saint-André-de-Rosans",
+      "lat": 44.3658,
+      "lon": 5.5168,
+      "population": 153
+    },
+    {
+      "insee": "05130",
+      "nom": "Saint-Apollinaire",
+      "lat": 44.5583,
+      "lon": 6.3559,
+      "population": 209
+    },
+    {
+      "insee": "05131",
+      "nom": "Saint-Auban-d'Oze",
+      "lat": 44.4874,
+      "lon": 5.8458,
+      "population": 75
+    },
+    {
+      "insee": "05132",
+      "nom": "Saint-Bonnet-en-Champsaur",
+      "lat": 44.692,
+      "lon": 6.0988,
+      "population": 2086
+    },
+    {
+      "insee": "05133",
+      "nom": "Saint-Chaffrey",
+      "lat": 44.9373,
+      "lon": 6.5989,
+      "population": 1494
+    },
+    {
+      "insee": "05134",
+      "nom": "Saint-Clément-sur-Durance",
+      "lat": 44.6523,
+      "lon": 6.554,
+      "population": 343
+    },
+    {
+      "insee": "05136",
+      "nom": "Saint-Crépin",
+      "lat": 44.7259,
+      "lon": 6.6291,
+      "population": 718
+    },
+    {
+      "insee": "05140",
+      "nom": "Saint-Étienne-le-Laus",
+      "lat": 44.5075,
+      "lon": 6.1616,
+      "population": 346
+    },
+    {
+      "insee": "05142",
+      "nom": "Saint-Firmin",
+      "lat": 44.7962,
+      "lon": 6.0204,
+      "population": 468
+    },
+    {
+      "insee": "05144",
+      "nom": "Saint-Jacques-en-Valgodemard",
+      "lat": 44.7773,
+      "lon": 6.0649,
+      "population": 113
+    },
+    {
+      "insee": "05145",
+      "nom": "Saint-Jean-Saint-Nicolas",
+      "lat": 44.6757,
+      "lon": 6.2301,
+      "population": 1110
+    },
+    {
+      "insee": "05146",
+      "nom": "Saint-Julien-en-Beauchêne",
+      "lat": 44.6205,
+      "lon": 5.7214,
+      "population": 140
+    },
+    {
+      "insee": "05147",
+      "nom": "Saint-Julien-en-Champsaur",
+      "lat": 44.6726,
+      "lon": 6.1289,
+      "population": 382
+    },
+    {
+      "insee": "05148",
+      "nom": "Saint-Laurent-du-Cros",
+      "lat": 44.6371,
+      "lon": 6.1117,
+      "population": 580
+    },
+    {
+      "insee": "05149",
+      "nom": "Saint-Léger-les-Mélèzes",
+      "lat": 44.6476,
+      "lon": 6.2144,
+      "population": 373
+    },
+    {
+      "insee": "05151",
+      "nom": "Saint-Martin-de-Queyrières",
+      "lat": 44.8382,
+      "lon": 6.5843,
+      "population": 1114
+    },
+    {
+      "insee": "05152",
+      "nom": "Saint-Maurice-en-Valgodemard",
+      "lat": 44.8034,
+      "lon": 6.1159,
+      "population": 118
+    },
+    {
+      "insee": "05153",
+      "nom": "Saint-Michel-de-Chaillol",
+      "lat": 44.6892,
+      "lon": 6.1683,
+      "population": 373
+    },
+    {
+      "insee": "05155",
+      "nom": "Saint-Pierre-Avez",
+      "lat": 44.2488,
+      "lon": 5.7672,
+      "population": 35
+    },
+    {
+      "insee": "05154",
+      "nom": "Saint-Pierre-d'Argençon",
+      "lat": 44.5204,
+      "lon": 5.6868,
+      "population": 150
+    },
+    {
+      "insee": "05156",
+      "nom": "Saint-Sauveur",
+      "lat": 44.5312,
+      "lon": 6.5321,
+      "population": 481
+    },
+    {
+      "insee": "05157",
+      "nom": "Saint-Véran",
+      "lat": 44.6843,
+      "lon": 6.8924,
+      "population": 160
+    },
+    {
+      "insee": "05135",
+      "nom": "Sainte-Colombe",
+      "lat": 44.2887,
+      "lon": 5.675,
+      "population": 65
+    },
+    {
+      "insee": "05159",
+      "nom": "Saléon",
+      "lat": 44.3212,
+      "lon": 5.7769,
+      "population": 79
+    },
+    {
+      "insee": "05160",
+      "nom": "Salérans",
+      "lat": 44.2459,
+      "lon": 5.7041,
+      "population": 78
+    },
+    {
+      "insee": "05164",
+      "nom": "Savines-le-Lac",
+      "lat": 44.53,
+      "lon": 6.395,
+      "population": 1102
+    },
+    {
+      "insee": "05165",
+      "nom": "Savournon",
+      "lat": 44.4234,
+      "lon": 5.7965,
+      "population": 242
+    },
+    {
+      "insee": "05166",
+      "nom": "Serres",
+      "lat": 44.4224,
+      "lon": 5.7142,
+      "population": 1298
+    },
+    {
+      "insee": "05167",
+      "nom": "Sigottier",
+      "lat": 44.4601,
+      "lon": 5.6808,
+      "population": 82
+    },
+    {
+      "insee": "05168",
+      "nom": "Sigoyer",
+      "lat": 44.4801,
+      "lon": 5.9716,
+      "population": 741
+    },
+    {
+      "insee": "05169",
+      "nom": "Sorbiers",
+      "lat": 44.3615,
+      "lon": 5.57,
+      "population": 50
+    },
+    {
+      "insee": "05170",
+      "nom": "Tallard",
+      "lat": 44.4599,
+      "lon": 6.0485,
+      "population": 2292
+    },
+    {
+      "insee": "05171",
+      "nom": "Théus",
+      "lat": 44.4863,
+      "lon": 6.1951,
+      "population": 232
+    },
+    {
+      "insee": "05172",
+      "nom": "Trescléoux",
+      "lat": 44.3522,
+      "lon": 5.7249,
+      "population": 296
+    },
+    {
+      "insee": "05173",
+      "nom": "Upaix",
+      "lat": 44.3208,
+      "lon": 5.8869,
+      "population": 494
+    },
+    {
+      "insee": "05118",
+      "nom": "Val Buëch-Méouge",
+      "lat": 44.2516,
+      "lon": 5.8338,
+      "population": 1354
+    },
+    {
+      "insee": "05174",
+      "nom": "Val-des-Prés",
+      "lat": 44.9399,
+      "lon": 6.657,
+      "population": 593
+    },
+    {
+      "insee": "05024",
+      "nom": "Valdoule",
+      "lat": 44.4627,
+      "lon": 5.5309,
+      "population": 204
+    },
+    {
+      "insee": "05101",
+      "nom": "Vallouise-Pelvoux",
+      "lat": 44.8646,
+      "lon": 6.4333,
+      "population": 1138
+    },
+    {
+      "insee": "05176",
+      "nom": "Valserres",
+      "lat": 44.4921,
+      "lon": 6.1354,
+      "population": 289
+    },
+    {
+      "insee": "05177",
+      "nom": "Vars",
+      "lat": 44.5907,
+      "lon": 6.7211,
+      "population": 588
+    },
+    {
+      "insee": "05178",
+      "nom": "Ventavon",
+      "lat": 44.3819,
+      "lon": 5.889,
+      "population": 540
+    },
+    {
+      "insee": "05179",
+      "nom": "Veynes",
+      "lat": 44.5599,
+      "lon": 5.8227,
+      "population": 3214
+    },
+    {
+      "insee": "05181",
+      "nom": "Villar-d'Arêne",
+      "lat": 45.0031,
+      "lon": 6.3642,
+      "population": 300
+    },
+    {
+      "insee": "05182",
+      "nom": "Villar-Loubière",
+      "lat": 44.8364,
+      "lon": 6.1335,
+      "population": 31
+    },
+    {
+      "insee": "05183",
+      "nom": "Villar-Saint-Pancrace",
+      "lat": 44.8378,
+      "lon": 6.6483,
+      "population": 1433
+    },
+    {
+      "insee": "05184",
+      "nom": "Vitrolles",
+      "lat": 44.4296,
+      "lon": 5.9485,
+      "population": 221
+    }
+  ]
+}

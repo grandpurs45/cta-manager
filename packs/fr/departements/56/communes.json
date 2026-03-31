@@ -1,0 +1,1750 @@
+{
+  "country": "FR",
+  "departmentCode": "56",
+  "label": "Departement 56",
+  "communes": [
+    {
+      "insee": "56001",
+      "nom": "Allaire",
+      "lat": 47.6312,
+      "lon": -2.1816,
+      "population": 3955
+    },
+    {
+      "insee": "56002",
+      "nom": "Ambon",
+      "lat": 47.5599,
+      "lon": -2.5365,
+      "population": 2101
+    },
+    {
+      "insee": "56003",
+      "nom": "Arradon",
+      "lat": 47.6331,
+      "lon": -2.8239,
+      "population": 5835
+    },
+    {
+      "insee": "56004",
+      "nom": "Arzal",
+      "lat": 47.526,
+      "lon": -2.4021,
+      "population": 1846
+    },
+    {
+      "insee": "56005",
+      "nom": "Arzon",
+      "lat": 47.5499,
+      "lon": -2.9031,
+      "population": 2271
+    },
+    {
+      "insee": "56006",
+      "nom": "Augan",
+      "lat": 47.9109,
+      "lon": -2.2722,
+      "population": 1569
+    },
+    {
+      "insee": "56007",
+      "nom": "Auray",
+      "lat": 47.6684,
+      "lon": -2.9901,
+      "population": 14207
+    },
+    {
+      "insee": "56008",
+      "nom": "Baden",
+      "lat": 47.6061,
+      "lon": -2.9036,
+      "population": 5086
+    },
+    {
+      "insee": "56009",
+      "nom": "Bangor",
+      "lat": 47.3149,
+      "lon": -3.1938,
+      "population": 994
+    },
+    {
+      "insee": "56010",
+      "nom": "Baud",
+      "lat": 47.8693,
+      "lon": -3.0287,
+      "population": 6367
+    },
+    {
+      "insee": "56011",
+      "nom": "Béganne",
+      "lat": 47.6028,
+      "lon": -2.2433,
+      "population": 1493
+    },
+    {
+      "insee": "56012",
+      "nom": "Beignon",
+      "lat": 47.9672,
+      "lon": -2.1703,
+      "population": 1944
+    },
+    {
+      "insee": "56013",
+      "nom": "Belz",
+      "lat": 47.6742,
+      "lon": -3.1646,
+      "population": 3893
+    },
+    {
+      "insee": "56014",
+      "nom": "Berné",
+      "lat": 47.9847,
+      "lon": -3.3694,
+      "population": 1551
+    },
+    {
+      "insee": "56015",
+      "nom": "Berric",
+      "lat": 47.6392,
+      "lon": -2.5324,
+      "population": 2129
+    },
+    {
+      "insee": "56017",
+      "nom": "Bignan",
+      "lat": 47.8737,
+      "lon": -2.7498,
+      "population": 2757
+    },
+    {
+      "insee": "56018",
+      "nom": "Billiers",
+      "lat": 47.5251,
+      "lon": -2.4804,
+      "population": 1066
+    },
+    {
+      "insee": "56019",
+      "nom": "Billio",
+      "lat": 47.8687,
+      "lon": -2.6463,
+      "population": 335
+    },
+    {
+      "insee": "56020",
+      "nom": "Bohal",
+      "lat": 47.7841,
+      "lon": -2.4452,
+      "population": 873
+    },
+    {
+      "insee": "56021",
+      "nom": "Brandérion",
+      "lat": 47.7933,
+      "lon": -3.1932,
+      "population": 1494
+    },
+    {
+      "insee": "56022",
+      "nom": "Brandivy",
+      "lat": 47.7828,
+      "lon": -2.9164,
+      "population": 1466
+    },
+    {
+      "insee": "56023",
+      "nom": "Brech",
+      "lat": 47.7069,
+      "lon": -3.0264,
+      "population": 7052
+    },
+    {
+      "insee": "56024",
+      "nom": "Bréhan",
+      "lat": 48.0705,
+      "lon": -2.694,
+      "population": 2306
+    },
+    {
+      "insee": "56025",
+      "nom": "Brignac",
+      "lat": 48.1129,
+      "lon": -2.3932,
+      "population": 200
+    },
+    {
+      "insee": "56026",
+      "nom": "Bubry",
+      "lat": 47.9706,
+      "lon": -3.1743,
+      "population": 2242
+    },
+    {
+      "insee": "56027",
+      "nom": "Buléon",
+      "lat": 47.9216,
+      "lon": -2.6757,
+      "population": 547
+    },
+    {
+      "insee": "56028",
+      "nom": "Caden",
+      "lat": 47.6353,
+      "lon": -2.2963,
+      "population": 1641
+    },
+    {
+      "insee": "56029",
+      "nom": "Calan",
+      "lat": 47.8779,
+      "lon": -3.3076,
+      "population": 1277
+    },
+    {
+      "insee": "56030",
+      "nom": "Camoël",
+      "lat": 47.4787,
+      "lon": -2.3996,
+      "population": 1183
+    },
+    {
+      "insee": "56031",
+      "nom": "Camors",
+      "lat": 47.8293,
+      "lon": -3.0016,
+      "population": 3260
+    },
+    {
+      "insee": "56032",
+      "nom": "Campénéac",
+      "lat": 47.9608,
+      "lon": -2.279,
+      "population": 1991
+    },
+    {
+      "insee": "56033",
+      "nom": "Carentoir",
+      "lat": 47.8239,
+      "lon": -2.1227,
+      "population": 3232
+    },
+    {
+      "insee": "56034",
+      "nom": "Carnac",
+      "lat": 47.6034,
+      "lon": -3.0664,
+      "population": 4194
+    },
+    {
+      "insee": "56035",
+      "nom": "Caro",
+      "lat": 47.8652,
+      "lon": -2.3349,
+      "population": 1126
+    },
+    {
+      "insee": "56036",
+      "nom": "Caudan",
+      "lat": 47.8099,
+      "lon": -3.3383,
+      "population": 7206
+    },
+    {
+      "insee": "56040",
+      "nom": "Cléguer",
+      "lat": 47.8624,
+      "lon": -3.36,
+      "population": 3460
+    },
+    {
+      "insee": "56041",
+      "nom": "Cléguérec",
+      "lat": 48.1275,
+      "lon": -3.0649,
+      "population": 2885
+    },
+    {
+      "insee": "56042",
+      "nom": "Colpo",
+      "lat": 47.8169,
+      "lon": -2.8108,
+      "population": 2296
+    },
+    {
+      "insee": "56043",
+      "nom": "Concoret",
+      "lat": 48.0655,
+      "lon": -2.2133,
+      "population": 758
+    },
+    {
+      "insee": "56044",
+      "nom": "Cournon",
+      "lat": 47.7494,
+      "lon": -2.0991,
+      "population": 812
+    },
+    {
+      "insee": "56046",
+      "nom": "Crach",
+      "lat": 47.6307,
+      "lon": -2.9949,
+      "population": 3423
+    },
+    {
+      "insee": "56047",
+      "nom": "Crédin",
+      "lat": 48.0356,
+      "lon": -2.7586,
+      "population": 1483
+    },
+    {
+      "insee": "56051",
+      "nom": "Cruguel",
+      "lat": 47.8829,
+      "lon": -2.5891,
+      "population": 664
+    },
+    {
+      "insee": "56052",
+      "nom": "Damgan",
+      "lat": 47.521,
+      "lon": -2.589,
+      "population": 1943
+    },
+    {
+      "insee": "56053",
+      "nom": "Elven",
+      "lat": 47.7319,
+      "lon": -2.5955,
+      "population": 6651
+    },
+    {
+      "insee": "56054",
+      "nom": "Erdeven",
+      "lat": 47.6358,
+      "lon": -3.1568,
+      "population": 4008
+    },
+    {
+      "insee": "56055",
+      "nom": "Étel",
+      "lat": 47.6569,
+      "lon": -3.1961,
+      "population": 2074
+    },
+    {
+      "insee": "56144",
+      "nom": "Évellys",
+      "lat": 47.9714,
+      "lon": -2.8675,
+      "population": 3379
+    },
+    {
+      "insee": "56056",
+      "nom": "Évriguet",
+      "lat": 48.0824,
+      "lon": -2.4039,
+      "population": 210
+    },
+    {
+      "insee": "56058",
+      "nom": "Férel",
+      "lat": 47.4865,
+      "lon": -2.3385,
+      "population": 3499
+    },
+    {
+      "insee": "56102",
+      "nom": "Forges de Lanouée",
+      "lat": 48.0144,
+      "lon": -2.5781,
+      "population": 2253
+    },
+    {
+      "insee": "56062",
+      "nom": "Gâvres",
+      "lat": 47.6948,
+      "lon": -3.3305,
+      "population": 696
+    },
+    {
+      "insee": "56063",
+      "nom": "Gestel",
+      "lat": 47.8092,
+      "lon": -3.4368,
+      "population": 2601
+    },
+    {
+      "insee": "56065",
+      "nom": "Gourhel",
+      "lat": 47.9393,
+      "lon": -2.3579,
+      "population": 711
+    },
+    {
+      "insee": "56066",
+      "nom": "Gourin",
+      "lat": 48.1311,
+      "lon": -3.5996,
+      "population": 3960
+    },
+    {
+      "insee": "56067",
+      "nom": "Grand-Champ",
+      "lat": 47.762,
+      "lon": -2.8509,
+      "population": 5929
+    },
+    {
+      "insee": "56069",
+      "nom": "Groix",
+      "lat": 47.6369,
+      "lon": -3.4654,
+      "population": 2310
+    },
+    {
+      "insee": "56070",
+      "nom": "Guégon",
+      "lat": 47.925,
+      "lon": -2.5903,
+      "population": 2365
+    },
+    {
+      "insee": "56071",
+      "nom": "Guéhenno",
+      "lat": 47.8868,
+      "lon": -2.6534,
+      "population": 814
+    },
+    {
+      "insee": "56072",
+      "nom": "Gueltas",
+      "lat": 48.0874,
+      "lon": -2.8129,
+      "population": 551
+    },
+    {
+      "insee": "56073",
+      "nom": "Guémené-sur-Scorff",
+      "lat": 48.0665,
+      "lon": -3.2051,
+      "population": 1175
+    },
+    {
+      "insee": "56074",
+      "nom": "Guénin",
+      "lat": 47.9007,
+      "lon": -2.9669,
+      "population": 1921
+    },
+    {
+      "insee": "56075",
+      "nom": "Guer",
+      "lat": 47.905,
+      "lon": -2.1281,
+      "population": 6208
+    },
+    {
+      "insee": "56076",
+      "nom": "Guern",
+      "lat": 48.0383,
+      "lon": -3.0947,
+      "population": 1411
+    },
+    {
+      "insee": "56078",
+      "nom": "Guidel",
+      "lat": 47.7938,
+      "lon": -3.4906,
+      "population": 12338
+    },
+    {
+      "insee": "56079",
+      "nom": "Guillac",
+      "lat": 47.9188,
+      "lon": -2.4861,
+      "population": 1396
+    },
+    {
+      "insee": "56080",
+      "nom": "Guilliers",
+      "lat": 48.049,
+      "lon": -2.4143,
+      "population": 1368
+    },
+    {
+      "insee": "56081",
+      "nom": "Guiscriff",
+      "lat": 48.0391,
+      "lon": -3.62,
+      "population": 2037
+    },
+    {
+      "insee": "56082",
+      "nom": "Helléan",
+      "lat": 47.9676,
+      "lon": -2.4808,
+      "population": 395
+    },
+    {
+      "insee": "56083",
+      "nom": "Hennebont",
+      "lat": 47.8053,
+      "lon": -3.2694,
+      "population": 15910
+    },
+    {
+      "insee": "56085",
+      "nom": "Hœdic",
+      "lat": 47.3364,
+      "lon": -2.862,
+      "population": 104
+    },
+    {
+      "insee": "56087",
+      "nom": "Île-aux-Moines",
+      "lat": 47.5842,
+      "lon": -2.8511,
+      "population": 630
+    },
+    {
+      "insee": "56088",
+      "nom": "Île-d'Arz",
+      "lat": 47.5879,
+      "lon": -2.799,
+      "population": 321
+    },
+    {
+      "insee": "56086",
+      "nom": "Île-d'Houat",
+      "lat": 47.3865,
+      "lon": -2.9762,
+      "population": 219
+    },
+    {
+      "insee": "56089",
+      "nom": "Inguiniel",
+      "lat": 47.9514,
+      "lon": -3.2712,
+      "population": 2188
+    },
+    {
+      "insee": "56090",
+      "nom": "Inzinzac-Lochrist",
+      "lat": 47.8599,
+      "lon": -3.2568,
+      "population": 6691
+    },
+    {
+      "insee": "56091",
+      "nom": "Josselin",
+      "lat": 47.9548,
+      "lon": -2.5517,
+      "population": 2584
+    },
+    {
+      "insee": "56092",
+      "nom": "Kerfourn",
+      "lat": 48.0466,
+      "lon": -2.8402,
+      "population": 852
+    },
+    {
+      "insee": "56093",
+      "nom": "Kergrist",
+      "lat": 48.1454,
+      "lon": -2.9292,
+      "population": 714
+    },
+    {
+      "insee": "56264",
+      "nom": "Kernascléden",
+      "lat": 48.0125,
+      "lon": -3.3329,
+      "population": 418
+    },
+    {
+      "insee": "56094",
+      "nom": "Kervignac",
+      "lat": 47.7722,
+      "lon": -3.2573,
+      "population": 7204
+    },
+    {
+      "insee": "56039",
+      "nom": "La Chapelle-Neuve",
+      "lat": 47.855,
+      "lon": -2.9351,
+      "population": 1001
+    },
+    {
+      "insee": "56050",
+      "nom": "La Croix-Helléan",
+      "lat": 47.9652,
+      "lon": -2.5123,
+      "population": 892
+    },
+    {
+      "insee": "56061",
+      "nom": "La Gacilly",
+      "lat": 47.7609,
+      "lon": -2.136,
+      "population": 3995
+    },
+    {
+      "insee": "56068",
+      "nom": "La Grée-Saint-Laurent",
+      "lat": 48.0023,
+      "lon": -2.5041,
+      "population": 304
+    },
+    {
+      "insee": "56195",
+      "nom": "La Roche-Bernard",
+      "lat": 47.5196,
+      "lon": -2.3025,
+      "population": 746
+    },
+    {
+      "insee": "56257",
+      "nom": "La Trinité-Porhoët",
+      "lat": 48.0992,
+      "lon": -2.524,
+      "population": 663
+    },
+    {
+      "insee": "56258",
+      "nom": "La Trinité-sur-Mer",
+      "lat": 47.5877,
+      "lon": -3.0369,
+      "population": 1845
+    },
+    {
+      "insee": "56259",
+      "nom": "La Trinité-Surzur",
+      "lat": 47.6046,
+      "lon": -2.5924,
+      "population": 1678
+    },
+    {
+      "insee": "56261",
+      "nom": "La Vraie-Croix",
+      "lat": 47.688,
+      "lon": -2.5202,
+      "population": 1495
+    },
+    {
+      "insee": "56096",
+      "nom": "Landaul",
+      "lat": 47.7408,
+      "lon": -3.1038,
+      "population": 2516
+    },
+    {
+      "insee": "56097",
+      "nom": "Landévant",
+      "lat": 47.7715,
+      "lon": -3.1161,
+      "population": 4056
+    },
+    {
+      "insee": "56098",
+      "nom": "Lanester",
+      "lat": 47.7686,
+      "lon": -3.326,
+      "population": 23263
+    },
+    {
+      "insee": "56099",
+      "nom": "Langoëlan",
+      "lat": 48.1175,
+      "lon": -3.2354,
+      "population": 403
+    },
+    {
+      "insee": "56100",
+      "nom": "Langonnet",
+      "lat": 48.1291,
+      "lon": -3.4823,
+      "population": 1930
+    },
+    {
+      "insee": "56101",
+      "nom": "Languidic",
+      "lat": 47.8295,
+      "lon": -3.1485,
+      "population": 8042
+    },
+    {
+      "insee": "56103",
+      "nom": "Lantillac",
+      "lat": 47.9513,
+      "lon": -2.6576,
+      "population": 296
+    },
+    {
+      "insee": "56104",
+      "nom": "Lanvaudan",
+      "lat": 47.8903,
+      "lon": -3.2479,
+      "population": 808
+    },
+    {
+      "insee": "56105",
+      "nom": "Lanvénégen",
+      "lat": 48.0048,
+      "lon": -3.5334,
+      "population": 1145
+    },
+    {
+      "insee": "56106",
+      "nom": "Larmor-Baden",
+      "lat": 47.5863,
+      "lon": -2.8995,
+      "population": 917
+    },
+    {
+      "insee": "56107",
+      "nom": "Larmor-Plage",
+      "lat": 47.7161,
+      "lon": -3.3913,
+      "population": 8418
+    },
+    {
+      "insee": "56108",
+      "nom": "Larré",
+      "lat": 47.7124,
+      "lon": -2.4897,
+      "population": 1104
+    },
+    {
+      "insee": "56109",
+      "nom": "Lauzach",
+      "lat": 47.6131,
+      "lon": -2.5553,
+      "population": 1264
+    },
+    {
+      "insee": "56262",
+      "nom": "Le Bono",
+      "lat": 47.6381,
+      "lon": -2.938,
+      "population": 2608
+    },
+    {
+      "insee": "56045",
+      "nom": "Le Cours",
+      "lat": 47.749,
+      "lon": -2.5074,
+      "population": 697
+    },
+    {
+      "insee": "56048",
+      "nom": "Le Croisty",
+      "lat": 48.0592,
+      "lon": -3.3735,
+      "population": 739
+    },
+    {
+      "insee": "56057",
+      "nom": "Le Faouët",
+      "lat": 48.0425,
+      "lon": -3.5111,
+      "population": 2814
+    },
+    {
+      "insee": "56077",
+      "nom": "Le Guerno",
+      "lat": 47.5935,
+      "lon": -2.4006,
+      "population": 989
+    },
+    {
+      "insee": "56084",
+      "nom": "Le Hézo",
+      "lat": 47.5789,
+      "lon": -2.6859,
+      "population": 930
+    },
+    {
+      "insee": "56152",
+      "nom": "Le Palais",
+      "lat": 47.3407,
+      "lon": -3.1664,
+      "population": 2599
+    },
+    {
+      "insee": "56201",
+      "nom": "Le Saint",
+      "lat": 48.09,
+      "lon": -3.5652,
+      "population": 612
+    },
+    {
+      "insee": "56246",
+      "nom": "Le Sourn",
+      "lat": 48.0375,
+      "lon": -2.9944,
+      "population": 2121
+    },
+    {
+      "insee": "56252",
+      "nom": "Le Tour-du-Parc",
+      "lat": 47.5334,
+      "lon": -2.6529,
+      "population": 1343
+    },
+    {
+      "insee": "56060",
+      "nom": "Les Fougerêts",
+      "lat": 47.75,
+      "lon": -2.1945,
+      "population": 970
+    },
+    {
+      "insee": "56110",
+      "nom": "Lignol",
+      "lat": 48.0248,
+      "lon": -3.2697,
+      "population": 861
+    },
+    {
+      "insee": "56111",
+      "nom": "Limerzel",
+      "lat": 47.6391,
+      "lon": -2.36,
+      "population": 1370
+    },
+    {
+      "insee": "56112",
+      "nom": "Lizio",
+      "lat": 47.8662,
+      "lon": -2.525,
+      "population": 840
+    },
+    {
+      "insee": "56113",
+      "nom": "Locmalo",
+      "lat": 48.0626,
+      "lon": -3.1824,
+      "population": 890
+    },
+    {
+      "insee": "56114",
+      "nom": "Locmaria",
+      "lat": 47.3012,
+      "lon": -3.1071,
+      "population": 978
+    },
+    {
+      "insee": "56115",
+      "nom": "Locmaria-Grand-Champ",
+      "lat": 47.76,
+      "lon": -2.7899,
+      "population": 1855
+    },
+    {
+      "insee": "56116",
+      "nom": "Locmariaquer",
+      "lat": 47.5802,
+      "lon": -2.9592,
+      "population": 1577
+    },
+    {
+      "insee": "56117",
+      "nom": "Locminé",
+      "lat": 47.8803,
+      "lon": -2.8384,
+      "population": 4773
+    },
+    {
+      "insee": "56118",
+      "nom": "Locmiquélic",
+      "lat": 47.7303,
+      "lon": -3.326,
+      "population": 4093
+    },
+    {
+      "insee": "56119",
+      "nom": "Locoal-Mendon",
+      "lat": 47.6972,
+      "lon": -3.1084,
+      "population": 3530
+    },
+    {
+      "insee": "56120",
+      "nom": "Locqueltas",
+      "lat": 47.7654,
+      "lon": -2.7616,
+      "population": 2031
+    },
+    {
+      "insee": "56121",
+      "nom": "Lorient",
+      "lat": 47.7494,
+      "lon": -3.3799,
+      "population": 58329
+    },
+    {
+      "insee": "56122",
+      "nom": "Loyat",
+      "lat": 47.994,
+      "lon": -2.3746,
+      "population": 1750
+    },
+    {
+      "insee": "56123",
+      "nom": "Malansac",
+      "lat": 47.6887,
+      "lon": -2.3091,
+      "population": 2339
+    },
+    {
+      "insee": "56124",
+      "nom": "Malestroit",
+      "lat": 47.8076,
+      "lon": -2.3867,
+      "population": 2558
+    },
+    {
+      "insee": "56125",
+      "nom": "Malguénac",
+      "lat": 48.0669,
+      "lon": -3.0593,
+      "population": 1857
+    },
+    {
+      "insee": "56126",
+      "nom": "Marzan",
+      "lat": 47.5441,
+      "lon": -2.3599,
+      "population": 2684
+    },
+    {
+      "insee": "56127",
+      "nom": "Mauron",
+      "lat": 48.0839,
+      "lon": -2.3094,
+      "population": 3163
+    },
+    {
+      "insee": "56128",
+      "nom": "Melrand",
+      "lat": 47.9732,
+      "lon": -3.1005,
+      "population": 1598
+    },
+    {
+      "insee": "56129",
+      "nom": "Ménéac",
+      "lat": 48.1247,
+      "lon": -2.4546,
+      "population": 1476
+    },
+    {
+      "insee": "56130",
+      "nom": "Merlevenez",
+      "lat": 47.7302,
+      "lon": -3.2429,
+      "population": 3174
+    },
+    {
+      "insee": "56131",
+      "nom": "Meslan",
+      "lat": 47.9859,
+      "lon": -3.4492,
+      "population": 1479
+    },
+    {
+      "insee": "56132",
+      "nom": "Meucon",
+      "lat": 47.7242,
+      "lon": -2.7731,
+      "population": 2280
+    },
+    {
+      "insee": "56133",
+      "nom": "Missiriac",
+      "lat": 47.821,
+      "lon": -2.3598,
+      "population": 1195
+    },
+    {
+      "insee": "56134",
+      "nom": "Mohon",
+      "lat": 48.0643,
+      "lon": -2.495,
+      "population": 991
+    },
+    {
+      "insee": "56135",
+      "nom": "Molac",
+      "lat": 47.7354,
+      "lon": -2.4406,
+      "population": 1633
+    },
+    {
+      "insee": "56136",
+      "nom": "Monteneuf",
+      "lat": 47.881,
+      "lon": -2.1919,
+      "population": 763
+    },
+    {
+      "insee": "56137",
+      "nom": "Monterblanc",
+      "lat": 47.7345,
+      "lon": -2.7034,
+      "population": 3356
+    },
+    {
+      "insee": "56139",
+      "nom": "Montertelot",
+      "lat": 47.8847,
+      "lon": -2.4111,
+      "population": 375
+    },
+    {
+      "insee": "56140",
+      "nom": "Moréac",
+      "lat": 47.9306,
+      "lon": -2.8001,
+      "population": 3704
+    },
+    {
+      "insee": "56141",
+      "nom": "Moustoir-Ac",
+      "lat": 47.844,
+      "lon": -2.8571,
+      "population": 1775
+    },
+    {
+      "insee": "56143",
+      "nom": "Muzillac",
+      "lat": 47.5484,
+      "lon": -2.4741,
+      "population": 5089
+    },
+    {
+      "insee": "56145",
+      "nom": "Néant-sur-Yvel",
+      "lat": 48.0208,
+      "lon": -2.331,
+      "population": 1045
+    },
+    {
+      "insee": "56146",
+      "nom": "Neulliac",
+      "lat": 48.1247,
+      "lon": -2.9614,
+      "population": 1482
+    },
+    {
+      "insee": "56147",
+      "nom": "Nivillac",
+      "lat": 47.5404,
+      "lon": -2.2527,
+      "population": 4951
+    },
+    {
+      "insee": "56148",
+      "nom": "Nostang",
+      "lat": 47.7509,
+      "lon": -3.1755,
+      "population": 1676
+    },
+    {
+      "insee": "56149",
+      "nom": "Noyal-Muzillac",
+      "lat": 47.5946,
+      "lon": -2.4614,
+      "population": 2548
+    },
+    {
+      "insee": "56151",
+      "nom": "Noyal-Pontivy",
+      "lat": 48.0544,
+      "lon": -2.8786,
+      "population": 3606
+    },
+    {
+      "insee": "56153",
+      "nom": "Péaule",
+      "lat": 47.5843,
+      "lon": -2.3376,
+      "population": 2929
+    },
+    {
+      "insee": "56154",
+      "nom": "Peillac",
+      "lat": 47.7169,
+      "lon": -2.2174,
+      "population": 1873
+    },
+    {
+      "insee": "56155",
+      "nom": "Pénestin",
+      "lat": 47.468,
+      "lon": -2.4619,
+      "population": 2085
+    },
+    {
+      "insee": "56156",
+      "nom": "Persquen",
+      "lat": 48.0131,
+      "lon": -3.2174,
+      "population": 365
+    },
+    {
+      "insee": "56157",
+      "nom": "Plaudren",
+      "lat": 47.7856,
+      "lon": -2.6894,
+      "population": 1978
+    },
+    {
+      "insee": "56158",
+      "nom": "Plescop",
+      "lat": 47.6972,
+      "lon": -2.8318,
+      "population": 6362
+    },
+    {
+      "insee": "56159",
+      "nom": "Pleucadeuc",
+      "lat": 47.7722,
+      "lon": -2.3918,
+      "population": 1866
+    },
+    {
+      "insee": "56160",
+      "nom": "Pleugriffet",
+      "lat": 47.9924,
+      "lon": -2.6896,
+      "population": 1281
+    },
+    {
+      "insee": "56161",
+      "nom": "Ploemel",
+      "lat": 47.6629,
+      "lon": -3.0754,
+      "population": 3175
+    },
+    {
+      "insee": "56162",
+      "nom": "Ploemeur",
+      "lat": 47.7312,
+      "lon": -3.4486,
+      "population": 18872
+    },
+    {
+      "insee": "56163",
+      "nom": "Ploërdut",
+      "lat": 48.0979,
+      "lon": -3.2802,
+      "population": 1255
+    },
+    {
+      "insee": "56164",
+      "nom": "Ploeren",
+      "lat": 47.6585,
+      "lon": -2.8394,
+      "population": 6790
+    },
+    {
+      "insee": "56165",
+      "nom": "Ploërmel",
+      "lat": 47.9167,
+      "lon": -2.3769,
+      "population": 10163
+    },
+    {
+      "insee": "56166",
+      "nom": "Plouay",
+      "lat": 47.9296,
+      "lon": -3.3455,
+      "population": 5755
+    },
+    {
+      "insee": "56167",
+      "nom": "Plougoumelen",
+      "lat": 47.6589,
+      "lon": -2.8932,
+      "population": 2664
+    },
+    {
+      "insee": "56168",
+      "nom": "Plouharnel",
+      "lat": 47.5934,
+      "lon": -3.1272,
+      "population": 2285
+    },
+    {
+      "insee": "56169",
+      "nom": "Plouhinec",
+      "lat": 47.6909,
+      "lon": -3.2399,
+      "population": 5400
+    },
+    {
+      "insee": "56170",
+      "nom": "Plouray",
+      "lat": 48.1333,
+      "lon": -3.3753,
+      "population": 1060
+    },
+    {
+      "insee": "56171",
+      "nom": "Pluherlin",
+      "lat": 47.711,
+      "lon": -2.3668,
+      "population": 1542
+    },
+    {
+      "insee": "56172",
+      "nom": "Plumelec",
+      "lat": 47.8237,
+      "lon": -2.6227,
+      "population": 2754
+    },
+    {
+      "insee": "56173",
+      "nom": "Pluméliau-Bieuzy",
+      "lat": 47.9726,
+      "lon": -2.9896,
+      "population": 4632
+    },
+    {
+      "insee": "56174",
+      "nom": "Plumelin",
+      "lat": 47.8711,
+      "lon": -2.8843,
+      "population": 2885
+    },
+    {
+      "insee": "56175",
+      "nom": "Plumergat",
+      "lat": 47.7264,
+      "lon": -2.9318,
+      "population": 4207
+    },
+    {
+      "insee": "56176",
+      "nom": "Pluneret",
+      "lat": 47.6756,
+      "lon": -2.9373,
+      "population": 6262
+    },
+    {
+      "insee": "56177",
+      "nom": "Pluvigner",
+      "lat": 47.7821,
+      "lon": -3.0204,
+      "population": 7682
+    },
+    {
+      "insee": "56179",
+      "nom": "Pont-Scorff",
+      "lat": 47.8385,
+      "lon": -3.422,
+      "population": 4037
+    },
+    {
+      "insee": "56178",
+      "nom": "Pontivy",
+      "lat": 48.0663,
+      "lon": -2.9697,
+      "population": 14640
+    },
+    {
+      "insee": "56180",
+      "nom": "Porcaro",
+      "lat": 47.9204,
+      "lon": -2.1917,
+      "population": 743
+    },
+    {
+      "insee": "56181",
+      "nom": "Port-Louis",
+      "lat": 47.7091,
+      "lon": -3.3517,
+      "population": 2608
+    },
+    {
+      "insee": "56182",
+      "nom": "Priziac",
+      "lat": 48.0593,
+      "lon": -3.4305,
+      "population": 1037
+    },
+    {
+      "insee": "56184",
+      "nom": "Questembert",
+      "lat": 47.6643,
+      "lon": -2.4348,
+      "population": 8133
+    },
+    {
+      "insee": "56185",
+      "nom": "Quéven",
+      "lat": 47.7871,
+      "lon": -3.4172,
+      "population": 8991
+    },
+    {
+      "insee": "56186",
+      "nom": "Quiberon",
+      "lat": 47.4848,
+      "lon": -3.109,
+      "population": 4876
+    },
+    {
+      "insee": "56188",
+      "nom": "Quistinic",
+      "lat": 47.9123,
+      "lon": -3.1374,
+      "population": 1444
+    },
+    {
+      "insee": "56189",
+      "nom": "Radenac",
+      "lat": 47.9485,
+      "lon": -2.7095,
+      "population": 1066
+    },
+    {
+      "insee": "56190",
+      "nom": "Réguiny",
+      "lat": 47.9879,
+      "lon": -2.7661,
+      "population": 1955
+    },
+    {
+      "insee": "56191",
+      "nom": "Réminiac",
+      "lat": 47.8648,
+      "lon": -2.2466,
+      "population": 438
+    },
+    {
+      "insee": "56193",
+      "nom": "Riantec",
+      "lat": 47.7208,
+      "lon": -3.3029,
+      "population": 5865
+    },
+    {
+      "insee": "56194",
+      "nom": "Rieux",
+      "lat": 47.6063,
+      "lon": -2.1288,
+      "population": 2856
+    },
+    {
+      "insee": "56196",
+      "nom": "Rochefort-en-Terre",
+      "lat": 47.698,
+      "lon": -2.3415,
+      "population": 647
+    },
+    {
+      "insee": "56198",
+      "nom": "Rohan",
+      "lat": 48.0891,
+      "lon": -2.7475,
+      "population": 1526
+    },
+    {
+      "insee": "56199",
+      "nom": "Roudouallec",
+      "lat": 48.1208,
+      "lon": -3.6968,
+      "population": 722
+    },
+    {
+      "insee": "56200",
+      "nom": "Ruffiac",
+      "lat": 47.8122,
+      "lon": -2.2869,
+      "population": 1422
+    },
+    {
+      "insee": "56202",
+      "nom": "Saint-Abraham",
+      "lat": 47.8476,
+      "lon": -2.4081,
+      "population": 552
+    },
+    {
+      "insee": "56203",
+      "nom": "Saint-Aignan",
+      "lat": 48.1801,
+      "lon": -3.0493,
+      "population": 637
+    },
+    {
+      "insee": "56204",
+      "nom": "Saint-Allouestre",
+      "lat": 47.9092,
+      "lon": -2.7349,
+      "population": 675
+    },
+    {
+      "insee": "56205",
+      "nom": "Saint-Armel",
+      "lat": 47.5667,
+      "lon": -2.7221,
+      "population": 903
+    },
+    {
+      "insee": "56206",
+      "nom": "Saint-Avé",
+      "lat": 47.7008,
+      "lon": -2.7434,
+      "population": 12470
+    },
+    {
+      "insee": "56207",
+      "nom": "Saint-Barthélemy",
+      "lat": 47.9277,
+      "lon": -3.0413,
+      "population": 1197
+    },
+    {
+      "insee": "56208",
+      "nom": "Saint-Brieuc-de-Mauron",
+      "lat": 48.09,
+      "lon": -2.3562,
+      "population": 308
+    },
+    {
+      "insee": "56210",
+      "nom": "Saint-Caradec-Trégomel",
+      "lat": 48.0338,
+      "lon": -3.3458,
+      "population": 467
+    },
+    {
+      "insee": "56211",
+      "nom": "Saint-Congard",
+      "lat": 47.7705,
+      "lon": -2.3281,
+      "population": 792
+    },
+    {
+      "insee": "56212",
+      "nom": "Saint-Dolay",
+      "lat": 47.5402,
+      "lon": -2.1695,
+      "population": 2645
+    },
+    {
+      "insee": "56213",
+      "nom": "Saint-Gérand-Croixanvec",
+      "lat": 48.119,
+      "lon": -2.8825,
+      "population": 1312
+    },
+    {
+      "insee": "56214",
+      "nom": "Saint-Gildas-de-Rhuys",
+      "lat": 47.5138,
+      "lon": -2.835,
+      "population": 2004
+    },
+    {
+      "insee": "56215",
+      "nom": "Saint-Gonnery",
+      "lat": 48.1248,
+      "lon": -2.8208,
+      "population": 1087
+    },
+    {
+      "insee": "56216",
+      "nom": "Saint-Gorgon",
+      "lat": 47.6424,
+      "lon": -2.2371,
+      "population": 443
+    },
+    {
+      "insee": "56218",
+      "nom": "Saint-Gravé",
+      "lat": 47.7254,
+      "lon": -2.2906,
+      "population": 763
+    },
+    {
+      "insee": "56219",
+      "nom": "Saint-Guyomard",
+      "lat": 47.779,
+      "lon": -2.5006,
+      "population": 1468
+    },
+    {
+      "insee": "56221",
+      "nom": "Saint-Jacut-les-Pins",
+      "lat": 47.6765,
+      "lon": -2.2041,
+      "population": 1745
+    },
+    {
+      "insee": "56222",
+      "nom": "Saint-Jean-Brévelay",
+      "lat": 47.8314,
+      "lon": -2.7243,
+      "population": 2869
+    },
+    {
+      "insee": "56223",
+      "nom": "Saint-Jean-la-Poterie",
+      "lat": 47.645,
+      "lon": -2.1192,
+      "population": 1429
+    },
+    {
+      "insee": "56224",
+      "nom": "Saint-Laurent-sur-Oust",
+      "lat": 47.7921,
+      "lon": -2.313,
+      "population": 396
+    },
+    {
+      "insee": "56225",
+      "nom": "Saint-Léry",
+      "lat": 48.0905,
+      "lon": -2.2636,
+      "population": 210
+    },
+    {
+      "insee": "56226",
+      "nom": "Saint-Malo-de-Beignon",
+      "lat": 47.9545,
+      "lon": -2.1397,
+      "population": 537
+    },
+    {
+      "insee": "56227",
+      "nom": "Saint-Malo-des-Trois-Fontaines",
+      "lat": 48.0145,
+      "lon": -2.4741,
+      "population": 545
+    },
+    {
+      "insee": "56228",
+      "nom": "Saint-Marcel",
+      "lat": 47.8116,
+      "lon": -2.4181,
+      "population": 1155
+    },
+    {
+      "insee": "56229",
+      "nom": "Saint-Martin-sur-Oust",
+      "lat": 47.7619,
+      "lon": -2.2664,
+      "population": 1312
+    },
+    {
+      "insee": "56230",
+      "nom": "Saint-Nicolas-du-Tertre",
+      "lat": 47.7943,
+      "lon": -2.2163,
+      "population": 469
+    },
+    {
+      "insee": "56231",
+      "nom": "Saint-Nolff",
+      "lat": 47.7066,
+      "lon": -2.6681,
+      "population": 3990
+    },
+    {
+      "insee": "56232",
+      "nom": "Saint-Perreux",
+      "lat": 47.6708,
+      "lon": -2.1249,
+      "population": 1086
+    },
+    {
+      "insee": "56233",
+      "nom": "Saint-Philibert",
+      "lat": 47.585,
+      "lon": -3.0014,
+      "population": 1575
+    },
+    {
+      "insee": "56234",
+      "nom": "Saint-Pierre-Quiberon",
+      "lat": 47.5334,
+      "lon": -3.1464,
+      "population": 2344
+    },
+    {
+      "insee": "56236",
+      "nom": "Saint-Servant",
+      "lat": 47.8968,
+      "lon": -2.508,
+      "population": 806
+    },
+    {
+      "insee": "56237",
+      "nom": "Saint-Thuriau",
+      "lat": 48.02,
+      "lon": -2.9438,
+      "population": 1885
+    },
+    {
+      "insee": "56238",
+      "nom": "Saint-Tugdual",
+      "lat": 48.0955,
+      "lon": -3.3672,
+      "population": 376
+    },
+    {
+      "insee": "56239",
+      "nom": "Saint-Vincent-sur-Oust",
+      "lat": 47.702,
+      "lon": -2.149,
+      "population": 1679
+    },
+    {
+      "insee": "56263",
+      "nom": "Sainte-Anne-d'Auray",
+      "lat": 47.7007,
+      "lon": -2.9497,
+      "population": 2889
+    },
+    {
+      "insee": "56209",
+      "nom": "Sainte-Brigitte",
+      "lat": 48.1777,
+      "lon": -3.1048,
+      "population": 178
+    },
+    {
+      "insee": "56220",
+      "nom": "Sainte-Hélène",
+      "lat": 47.7158,
+      "lon": -3.1879,
+      "population": 1303
+    },
+    {
+      "insee": "56240",
+      "nom": "Sarzeau",
+      "lat": 47.5253,
+      "lon": -2.7584,
+      "population": 9212
+    },
+    {
+      "insee": "56241",
+      "nom": "Sauzon",
+      "lat": 47.356,
+      "lon": -3.2295,
+      "population": 1036
+    },
+    {
+      "insee": "56242",
+      "nom": "Séglien",
+      "lat": 48.102,
+      "lon": -3.1481,
+      "population": 673
+    },
+    {
+      "insee": "56243",
+      "nom": "Séné",
+      "lat": 47.6227,
+      "lon": -2.7394,
+      "population": 9554
+    },
+    {
+      "insee": "56244",
+      "nom": "Sérent",
+      "lat": 47.8246,
+      "lon": -2.4993,
+      "population": 3429
+    },
+    {
+      "insee": "56245",
+      "nom": "Silfiac",
+      "lat": 48.1475,
+      "lon": -3.171,
+      "population": 491
+    },
+    {
+      "insee": "56247",
+      "nom": "Sulniac",
+      "lat": 47.6539,
+      "lon": -2.5538,
+      "population": 3852
+    },
+    {
+      "insee": "56248",
+      "nom": "Surzur",
+      "lat": 47.5698,
+      "lon": -2.6246,
+      "population": 5211
+    },
+    {
+      "insee": "56249",
+      "nom": "Taupont",
+      "lat": 47.9605,
+      "lon": -2.4416,
+      "population": 2428
+    },
+    {
+      "insee": "56250",
+      "nom": "Théhillac",
+      "lat": 47.552,
+      "lon": -2.1208,
+      "population": 611
+    },
+    {
+      "insee": "56251",
+      "nom": "Theix-Noyalo",
+      "lat": 47.6304,
+      "lon": -2.6472,
+      "population": 8500
+    },
+    {
+      "insee": "56253",
+      "nom": "Tréal",
+      "lat": 47.83,
+      "lon": -2.2332,
+      "population": 699
+    },
+    {
+      "insee": "56254",
+      "nom": "Trédion",
+      "lat": 47.7812,
+      "lon": -2.5857,
+      "population": 1400
+    },
+    {
+      "insee": "56255",
+      "nom": "Treffléan",
+      "lat": 47.6771,
+      "lon": -2.6263,
+      "population": 2572
+    },
+    {
+      "insee": "56256",
+      "nom": "Tréhorenteuc",
+      "lat": 48.0059,
+      "lon": -2.2957,
+      "population": 111
+    },
+    {
+      "insee": "56197",
+      "nom": "Val d'Oust",
+      "lat": 47.8694,
+      "lon": -2.425,
+      "population": 2807
+    },
+    {
+      "insee": "56260",
+      "nom": "Vannes",
+      "lat": 47.6577,
+      "lon": -2.7485,
+      "population": 55790
+    }
+  ]
+}

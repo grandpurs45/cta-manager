@@ -22,6 +22,8 @@ dist/
 build/
 tmp/
 temp/
+tools/sources/*.generated.json
+~$*.xlsx
 
 # Docker local overrides
 docker-compose.override.yml

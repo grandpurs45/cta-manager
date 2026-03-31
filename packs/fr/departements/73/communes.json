@@ -1,0 +1,1918 @@
+{
+  "country": "FR",
+  "departmentCode": "73",
+  "label": "Departement 73",
+  "communes": [
+    {
+      "insee": "73001",
+      "nom": "Aiguebelette-le-Lac",
+      "lat": 45.5446,
+      "lon": 5.8111,
+      "population": 255
+    },
+    {
+      "insee": "73004",
+      "nom": "Aillon-le-Jeune",
+      "lat": 45.6032,
+      "lon": 6.0863,
+      "population": 430
+    },
+    {
+      "insee": "73005",
+      "nom": "Aillon-le-Vieux",
+      "lat": 45.6529,
+      "lon": 6.0797,
+      "population": 221
+    },
+    {
+      "insee": "73006",
+      "nom": "Aime-la-Plagne",
+      "lat": 45.5661,
+      "lon": 6.6119,
+      "population": 4385
+    },
+    {
+      "insee": "73007",
+      "nom": "Aiton",
+      "lat": 45.5758,
+      "lon": 6.2543,
+      "population": 1874
+    },
+    {
+      "insee": "73008",
+      "nom": "Aix-les-Bains",
+      "lat": 45.6943,
+      "lon": 5.9035,
+      "population": 32406
+    },
+    {
+      "insee": "73011",
+      "nom": "Albertville",
+      "lat": 45.6647,
+      "lon": 6.41,
+      "population": 19978
+    },
+    {
+      "insee": "73012",
+      "nom": "Albiez-le-Jeune",
+      "lat": 45.2399,
+      "lon": 6.3586,
+      "population": 139
+    },
+    {
+      "insee": "73013",
+      "nom": "Albiez-Montrond",
+      "lat": 45.1895,
+      "lon": 6.3428,
+      "population": 350
+    },
+    {
+      "insee": "73014",
+      "nom": "Allondaz",
+      "lat": 45.7103,
+      "lon": 6.3713,
+      "population": 298
+    },
+    {
+      "insee": "73017",
+      "nom": "Apremont",
+      "lat": 45.4998,
+      "lon": 5.9375,
+      "population": 979
+    },
+    {
+      "insee": "73018",
+      "nom": "Arbin",
+      "lat": 45.5114,
+      "lon": 6.0735,
+      "population": 841
+    },
+    {
+      "insee": "73019",
+      "nom": "Argentine",
+      "lat": 45.4939,
+      "lon": 6.3341,
+      "population": 959
+    },
+    {
+      "insee": "73020",
+      "nom": "Arith",
+      "lat": 45.7238,
+      "lon": 6.0613,
+      "population": 456
+    },
+    {
+      "insee": "73021",
+      "nom": "Arvillard",
+      "lat": 45.4052,
+      "lon": 6.16,
+      "population": 861
+    },
+    {
+      "insee": "73022",
+      "nom": "Attignat-Oncin",
+      "lat": 45.5151,
+      "lon": 5.7825,
+      "population": 574
+    },
+    {
+      "insee": "73023",
+      "nom": "Aussois",
+      "lat": 45.248,
+      "lon": 6.7266,
+      "population": 676
+    },
+    {
+      "insee": "73025",
+      "nom": "Avressieux",
+      "lat": 45.5739,
+      "lon": 5.6968,
+      "population": 544
+    },
+    {
+      "insee": "73026",
+      "nom": "Avrieux",
+      "lat": 45.186,
+      "lon": 6.7526,
+      "population": 386
+    },
+    {
+      "insee": "73027",
+      "nom": "Ayn",
+      "lat": 45.5724,
+      "lon": 5.7517,
+      "population": 392
+    },
+    {
+      "insee": "73029",
+      "nom": "Barberaz",
+      "lat": 45.5528,
+      "lon": 5.9388,
+      "population": 5306
+    },
+    {
+      "insee": "73030",
+      "nom": "Barby",
+      "lat": 45.5705,
+      "lon": 5.9815,
+      "population": 3772
+    },
+    {
+      "insee": "73031",
+      "nom": "Bassens",
+      "lat": 45.582,
+      "lon": 5.9387,
+      "population": 5175
+    },
+    {
+      "insee": "73034",
+      "nom": "Beaufort",
+      "lat": 45.6871,
+      "lon": 6.6024,
+      "population": 1989
+    },
+    {
+      "insee": "73036",
+      "nom": "Bellecombe-en-Bauges",
+      "lat": 45.7368,
+      "lon": 6.1452,
+      "population": 793
+    },
+    {
+      "insee": "73039",
+      "nom": "Belmont-Tramonet",
+      "lat": 45.5656,
+      "lon": 5.6752,
+      "population": 505
+    },
+    {
+      "insee": "73040",
+      "nom": "Bessans",
+      "lat": 45.2885,
+      "lon": 7.0472,
+      "population": 341
+    },
+    {
+      "insee": "73041",
+      "nom": "Betton-Bettonet",
+      "lat": 45.5289,
+      "lon": 6.1844,
+      "population": 306
+    },
+    {
+      "insee": "73042",
+      "nom": "Billième",
+      "lat": 45.718,
+      "lon": 5.8153,
+      "population": 273
+    },
+    {
+      "insee": "73047",
+      "nom": "Bonneval-sur-Arc",
+      "lat": 45.3805,
+      "lon": 7.0918,
+      "population": 285
+    },
+    {
+      "insee": "73048",
+      "nom": "Bonvillard",
+      "lat": 45.5848,
+      "lon": 6.3288,
+      "population": 351
+    },
+    {
+      "insee": "73049",
+      "nom": "Bonvillaret",
+      "lat": 45.5623,
+      "lon": 6.3183,
+      "population": 154
+    },
+    {
+      "insee": "73050",
+      "nom": "Bourdeau",
+      "lat": 45.6764,
+      "lon": 5.8493,
+      "population": 572
+    },
+    {
+      "insee": "73054",
+      "nom": "Bourg-Saint-Maurice",
+      "lat": 45.6638,
+      "lon": 6.7614,
+      "population": 7270
+    },
+    {
+      "insee": "73052",
+      "nom": "Bourget-en-Huile",
+      "lat": 45.4811,
+      "lon": 6.212,
+      "population": 142
+    },
+    {
+      "insee": "73053",
+      "nom": "Bourgneuf",
+      "lat": 45.5528,
+      "lon": 6.252,
+      "population": 656
+    },
+    {
+      "insee": "73055",
+      "nom": "Bozel",
+      "lat": 45.4576,
+      "lon": 6.6537,
+      "population": 2098
+    },
+    {
+      "insee": "73057",
+      "nom": "Brides-les-Bains",
+      "lat": 45.4546,
+      "lon": 6.5714,
+      "population": 442
+    },
+    {
+      "insee": "73059",
+      "nom": "Brison-Saint-Innocent",
+      "lat": 45.7376,
+      "lon": 5.8842,
+      "population": 2445
+    },
+    {
+      "insee": "73061",
+      "nom": "Césarches",
+      "lat": 45.7027,
+      "lon": 6.4136,
+      "population": 441
+    },
+    {
+      "insee": "73063",
+      "nom": "Cevins",
+      "lat": 45.6105,
+      "lon": 6.497,
+      "population": 706
+    },
+    {
+      "insee": "73064",
+      "nom": "Challes-les-Eaux",
+      "lat": 45.5498,
+      "lon": 5.9829,
+      "population": 5630
+    },
+    {
+      "insee": "73065",
+      "nom": "Chambéry",
+      "lat": 45.5822,
+      "lon": 5.9064,
+      "population": 59964
+    },
+    {
+      "insee": "73068",
+      "nom": "Chamousset",
+      "lat": 45.5655,
+      "lon": 6.211,
+      "population": 621
+    },
+    {
+      "insee": "73069",
+      "nom": "Chamoux-sur-Gelon",
+      "lat": 45.5321,
+      "lon": 6.2218,
+      "population": 966
+    },
+    {
+      "insee": "73072",
+      "nom": "Champ-Laurent",
+      "lat": 45.5082,
+      "lon": 6.2136,
+      "population": 31
+    },
+    {
+      "insee": "73070",
+      "nom": "Champagneux",
+      "lat": 45.6296,
+      "lon": 5.6709,
+      "population": 675
+    },
+    {
+      "insee": "73071",
+      "nom": "Champagny-en-Vanoise",
+      "lat": 45.4517,
+      "lon": 6.7812,
+      "population": 540
+    },
+    {
+      "insee": "73073",
+      "nom": "Chanaz",
+      "lat": 45.8052,
+      "lon": 5.7996,
+      "population": 551
+    },
+    {
+      "insee": "73079",
+      "nom": "Châteauneuf",
+      "lat": 45.5495,
+      "lon": 6.1799,
+      "population": 901
+    },
+    {
+      "insee": "73084",
+      "nom": "Chignin",
+      "lat": 45.5237,
+      "lon": 6.0122,
+      "population": 923
+    },
+    {
+      "insee": "73085",
+      "nom": "Chindrieux",
+      "lat": 45.8118,
+      "lon": 5.8387,
+      "population": 1531
+    },
+    {
+      "insee": "73086",
+      "nom": "Cléry",
+      "lat": 45.6476,
+      "lon": 6.2723,
+      "population": 367
+    },
+    {
+      "insee": "73087",
+      "nom": "Cognin",
+      "lat": 45.5602,
+      "lon": 5.8915,
+      "population": 6954
+    },
+    {
+      "insee": "73088",
+      "nom": "Cohennoz",
+      "lat": 45.7631,
+      "lon": 6.4943,
+      "population": 137
+    },
+    {
+      "insee": "73089",
+      "nom": "Coise-Saint-Jean-Pied-Gauthier",
+      "lat": 45.5199,
+      "lon": 6.1303,
+      "population": 1305
+    },
+    {
+      "insee": "73091",
+      "nom": "Conjux",
+      "lat": 45.7934,
+      "lon": 5.8239,
+      "population": 218
+    },
+    {
+      "insee": "73092",
+      "nom": "Corbel",
+      "lat": 45.4388,
+      "lon": 5.8306,
+      "population": 161
+    },
+    {
+      "insee": "73227",
+      "nom": "Courchevel",
+      "lat": 45.3895,
+      "lon": 6.6267,
+      "population": 2290
+    },
+    {
+      "insee": "73094",
+      "nom": "Crest-Voland",
+      "lat": 45.7851,
+      "lon": 6.5123,
+      "population": 346
+    },
+    {
+      "insee": "73096",
+      "nom": "Cruet",
+      "lat": 45.5324,
+      "lon": 6.093,
+      "population": 1056
+    },
+    {
+      "insee": "73097",
+      "nom": "Curienne",
+      "lat": 45.5574,
+      "lon": 6.0102,
+      "population": 704
+    },
+    {
+      "insee": "73099",
+      "nom": "Détrier",
+      "lat": 45.4467,
+      "lon": 6.1001,
+      "population": 427
+    },
+    {
+      "insee": "73100",
+      "nom": "Domessin",
+      "lat": 45.5354,
+      "lon": 5.6988,
+      "population": 2005
+    },
+    {
+      "insee": "73101",
+      "nom": "Doucy-en-Bauges",
+      "lat": 45.6971,
+      "lon": 6.1761,
+      "population": 94
+    },
+    {
+      "insee": "73103",
+      "nom": "Drumettaz-Clarafond",
+      "lat": 45.661,
+      "lon": 5.9377,
+      "population": 3012
+    },
+    {
+      "insee": "73104",
+      "nom": "Dullin",
+      "lat": 45.5482,
+      "lon": 5.7519,
+      "population": 497
+    },
+    {
+      "insee": "73106",
+      "nom": "École",
+      "lat": 45.6276,
+      "lon": 6.1816,
+      "population": 305
+    },
+    {
+      "insee": "73010",
+      "nom": "Entrelacs",
+      "lat": 45.7865,
+      "lon": 5.9149,
+      "population": 6461
+    },
+    {
+      "insee": "73107",
+      "nom": "Entremont-le-Vieux",
+      "lat": 45.4634,
+      "lon": 5.8808,
+      "population": 648
+    },
+    {
+      "insee": "73109",
+      "nom": "Épierre",
+      "lat": 45.4479,
+      "lon": 6.3274,
+      "population": 757
+    },
+    {
+      "insee": "73110",
+      "nom": "Esserts-Blay",
+      "lat": 45.63,
+      "lon": 6.4198,
+      "population": 755
+    },
+    {
+      "insee": "73113",
+      "nom": "Feissons-sur-Salins",
+      "lat": 45.4716,
+      "lon": 6.5666,
+      "population": 175
+    },
+    {
+      "insee": "73114",
+      "nom": "Flumet",
+      "lat": 45.8361,
+      "lon": 6.5325,
+      "population": 799
+    },
+    {
+      "insee": "73116",
+      "nom": "Fontcouverte-la-Toussuire",
+      "lat": 45.2516,
+      "lon": 6.2771,
+      "population": 473
+    },
+    {
+      "insee": "73117",
+      "nom": "Fourneaux",
+      "lat": 45.1778,
+      "lon": 6.6369,
+      "population": 701
+    },
+    {
+      "insee": "73119",
+      "nom": "Freney",
+      "lat": 45.1822,
+      "lon": 6.6115,
+      "population": 116
+    },
+    {
+      "insee": "73120",
+      "nom": "Fréterive",
+      "lat": 45.5925,
+      "lon": 6.2088,
+      "population": 640
+    },
+    {
+      "insee": "73121",
+      "nom": "Frontenex",
+      "lat": 45.6327,
+      "lon": 6.3117,
+      "population": 1912
+    },
+    {
+      "insee": "73122",
+      "nom": "Gerbaix",
+      "lat": 45.6069,
+      "lon": 5.7378,
+      "population": 461
+    },
+    {
+      "insee": "73124",
+      "nom": "Gilly-sur-Isère",
+      "lat": 45.6549,
+      "lon": 6.3487,
+      "population": 3149
+    },
+    {
+      "insee": "73003",
+      "nom": "Grand-Aigueblanche",
+      "lat": 45.5151,
+      "lon": 6.5162,
+      "population": 3780
+    },
+    {
+      "insee": "73128",
+      "nom": "Grésy-sur-Aix",
+      "lat": 45.7259,
+      "lon": 5.936,
+      "population": 4740
+    },
+    {
+      "insee": "73129",
+      "nom": "Grésy-sur-Isère",
+      "lat": 45.6025,
+      "lon": 6.245,
+      "population": 1195
+    },
+    {
+      "insee": "73130",
+      "nom": "Grignon",
+      "lat": 45.6427,
+      "lon": 6.38,
+      "population": 2099
+    },
+    {
+      "insee": "73131",
+      "nom": "Hautecour",
+      "lat": 45.5267,
+      "lon": 6.5439,
+      "population": 298
+    },
+    {
+      "insee": "73132",
+      "nom": "Hauteluce",
+      "lat": 45.766,
+      "lon": 6.6042,
+      "population": 734
+    },
+    {
+      "insee": "73133",
+      "nom": "Hauteville",
+      "lat": 45.5259,
+      "lon": 6.1688,
+      "population": 350
+    },
+    {
+      "insee": "73137",
+      "nom": "Jacob-Bellecombette",
+      "lat": 45.5515,
+      "lon": 5.9167,
+      "population": 4499
+    },
+    {
+      "insee": "73138",
+      "nom": "Jarrier",
+      "lat": 45.2885,
+      "lon": 6.3052,
+      "population": 506
+    },
+    {
+      "insee": "73139",
+      "nom": "Jarsy",
+      "lat": 45.6728,
+      "lon": 6.2106,
+      "population": 255
+    },
+    {
+      "insee": "73140",
+      "nom": "Jongieux",
+      "lat": 45.7358,
+      "lon": 5.8017,
+      "population": 289
+    },
+    {
+      "insee": "73028",
+      "nom": "La Balme",
+      "lat": 45.6765,
+      "lon": 5.7066,
+      "population": 360
+    },
+    {
+      "insee": "73032",
+      "nom": "La Bâthie",
+      "lat": 45.6324,
+      "lon": 6.481,
+      "population": 2176
+    },
+    {
+      "insee": "73033",
+      "nom": "La Bauche",
+      "lat": 45.4813,
+      "lon": 5.7711,
+      "population": 542
+    },
+    {
+      "insee": "73043",
+      "nom": "La Biolle",
+      "lat": 45.7561,
+      "lon": 5.9175,
+      "population": 2948
+    },
+    {
+      "insee": "73058",
+      "nom": "La Bridoire",
+      "lat": 45.5303,
+      "lon": 5.7402,
+      "population": 1202
+    },
+    {
+      "insee": "73067",
+      "nom": "La Chambre",
+      "lat": 45.3687,
+      "lon": 6.293,
+      "population": 1221
+    },
+    {
+      "insee": "73074",
+      "nom": "La Chapelle",
+      "lat": 45.4226,
+      "lon": 6.2967,
+      "population": 326
+    },
+    {
+      "insee": "73075",
+      "nom": "La Chapelle-Blanche",
+      "lat": 45.4499,
+      "lon": 6.0731,
+      "population": 596
+    },
+    {
+      "insee": "73076",
+      "nom": "La Chapelle-du-Mont-du-Chat",
+      "lat": 45.7176,
+      "lon": 5.8504,
+      "population": 269
+    },
+    {
+      "insee": "73078",
+      "nom": "La Chapelle-Saint-Martin",
+      "lat": 45.6516,
+      "lon": 5.7535,
+      "population": 150
+    },
+    {
+      "insee": "73082",
+      "nom": "La Chavanne",
+      "lat": 45.4934,
+      "lon": 6.0646,
+      "population": 720
+    },
+    {
+      "insee": "73090",
+      "nom": "La Compôte",
+      "lat": 45.6604,
+      "lon": 6.1453,
+      "population": 273
+    },
+    {
+      "insee": "73095",
+      "nom": "La Croix-de-la-Rochette",
+      "lat": 45.4752,
+      "lon": 6.117,
+      "population": 380
+    },
+    {
+      "insee": "73123",
+      "nom": "La Giettaz",
+      "lat": 45.8769,
+      "lon": 6.5088,
+      "population": 381
+    },
+    {
+      "insee": "73187",
+      "nom": "La Léchère",
+      "lat": 45.5261,
+      "lon": 6.4666,
+      "population": 2538
+    },
+    {
+      "insee": "73178",
+      "nom": "La Motte-en-Bauges",
+      "lat": 45.7113,
+      "lon": 6.1304,
+      "population": 539
+    },
+    {
+      "insee": "73179",
+      "nom": "La Motte-Servolex",
+      "lat": 45.6037,
+      "lon": 5.854,
+      "population": 12067
+    },
+    {
+      "insee": "73150",
+      "nom": "La Plagne Tarentaise",
+      "lat": 45.5684,
+      "lon": 6.703,
+      "population": 3836
+    },
+    {
+      "insee": "73213",
+      "nom": "La Ravoire",
+      "lat": 45.5552,
+      "lon": 5.9579,
+      "population": 9332
+    },
+    {
+      "insee": "73289",
+      "nom": "La Table",
+      "lat": 45.472,
+      "lon": 6.1817,
+      "population": 445
+    },
+    {
+      "insee": "73294",
+      "nom": "La Thuile",
+      "lat": 45.5407,
+      "lon": 6.0598,
+      "population": 353
+    },
+    {
+      "insee": "73135",
+      "nom": "La Tour-en-Maurienne",
+      "lat": 45.3113,
+      "lon": 6.3636,
+      "population": 1087
+    },
+    {
+      "insee": "73302",
+      "nom": "La Trinité",
+      "lat": 45.504,
+      "lon": 6.1515,
+      "population": 381
+    },
+    {
+      "insee": "73141",
+      "nom": "Laissaud",
+      "lat": 45.4549,
+      "lon": 6.0319,
+      "population": 778
+    },
+    {
+      "insee": "73142",
+      "nom": "Landry",
+      "lat": 45.5655,
+      "lon": 6.7649,
+      "population": 813
+    },
+    {
+      "insee": "73051",
+      "nom": "Le Bourget-du-Lac",
+      "lat": 45.642,
+      "lon": 5.8536,
+      "population": 5216
+    },
+    {
+      "insee": "73081",
+      "nom": "Le Châtelard",
+      "lat": 45.6839,
+      "lon": 6.1252,
+      "population": 686
+    },
+    {
+      "insee": "73192",
+      "nom": "Le Noyer",
+      "lat": 45.6681,
+      "lon": 6.0541,
+      "population": 230
+    },
+    {
+      "insee": "73204",
+      "nom": "Le Pont-de-Beauvoisin",
+      "lat": 45.5358,
+      "lon": 5.6807,
+      "population": 2124
+    },
+    {
+      "insee": "73205",
+      "nom": "Le Pontet",
+      "lat": 45.4946,
+      "lon": 6.2359,
+      "population": 133
+    },
+    {
+      "insee": "73311",
+      "nom": "Le Verneil",
+      "lat": 45.4517,
+      "lon": 6.1857,
+      "population": 88
+    },
+    {
+      "insee": "73145",
+      "nom": "Lépin-le-Lac",
+      "lat": 45.5331,
+      "lon": 5.7895,
+      "population": 466
+    },
+    {
+      "insee": "73015",
+      "nom": "Les Allues",
+      "lat": 45.3644,
+      "lon": 6.5929,
+      "population": 1736
+    },
+    {
+      "insee": "73024",
+      "nom": "Les Avanchers-Valmorel",
+      "lat": 45.4631,
+      "lon": 6.443,
+      "population": 724
+    },
+    {
+      "insee": "73257",
+      "nom": "Les Belleville",
+      "lat": 45.3628,
+      "lon": 6.506,
+      "population": 3498
+    },
+    {
+      "insee": "73077",
+      "nom": "Les Chapelles",
+      "lat": 45.6199,
+      "lon": 6.7072,
+      "population": 568
+    },
+    {
+      "insee": "73083",
+      "nom": "Les Chavannes-en-Maurienne",
+      "lat": 45.3876,
+      "lon": 6.2876,
+      "population": 220
+    },
+    {
+      "insee": "73098",
+      "nom": "Les Déserts",
+      "lat": 45.6439,
+      "lon": 5.9987,
+      "population": 845
+    },
+    {
+      "insee": "73105",
+      "nom": "Les Échelles",
+      "lat": 45.4523,
+      "lon": 5.7437,
+      "population": 1286
+    },
+    {
+      "insee": "73159",
+      "nom": "Les Mollettes",
+      "lat": 45.4666,
+      "lon": 6.0575,
+      "population": 870
+    },
+    {
+      "insee": "73146",
+      "nom": "Lescheraines",
+      "lat": 45.7082,
+      "lon": 6.1069,
+      "population": 803
+    },
+    {
+      "insee": "73147",
+      "nom": "Loisieux",
+      "lat": 45.6478,
+      "lon": 5.7276,
+      "population": 236
+    },
+    {
+      "insee": "73149",
+      "nom": "Lucey",
+      "lat": 45.7626,
+      "lon": 5.799,
+      "population": 286
+    },
+    {
+      "insee": "73152",
+      "nom": "Marcieux",
+      "lat": 45.6163,
+      "lon": 5.7859,
+      "population": 240
+    },
+    {
+      "insee": "73153",
+      "nom": "Marthod",
+      "lat": 45.732,
+      "lon": 6.3928,
+      "population": 1346
+    },
+    {
+      "insee": "73154",
+      "nom": "Mercury",
+      "lat": 45.6929,
+      "lon": 6.3434,
+      "population": 3495
+    },
+    {
+      "insee": "73155",
+      "nom": "Méry",
+      "lat": 45.6336,
+      "lon": 5.9348,
+      "population": 2150
+    },
+    {
+      "insee": "73156",
+      "nom": "Meyrieux-Trouet",
+      "lat": 45.646,
+      "lon": 5.7865,
+      "population": 354
+    },
+    {
+      "insee": "73157",
+      "nom": "Modane",
+      "lat": 45.1963,
+      "lon": 6.6462,
+      "population": 2849
+    },
+    {
+      "insee": "73160",
+      "nom": "Montagnole",
+      "lat": 45.5239,
+      "lon": 5.9101,
+      "population": 1038
+    },
+    {
+      "insee": "73161",
+      "nom": "Montagny",
+      "lat": 45.4674,
+      "lon": 6.5941,
+      "population": 658
+    },
+    {
+      "insee": "73162",
+      "nom": "Montailleur",
+      "lat": 45.614,
+      "lon": 6.2671,
+      "population": 671
+    },
+    {
+      "insee": "73164",
+      "nom": "Montcel",
+      "lat": 45.7086,
+      "lon": 5.9895,
+      "population": 1111
+    },
+    {
+      "insee": "73166",
+      "nom": "Montendry",
+      "lat": 45.524,
+      "lon": 6.2402,
+      "population": 49
+    },
+    {
+      "insee": "73168",
+      "nom": "Montgilbert",
+      "lat": 45.5341,
+      "lon": 6.2765,
+      "population": 114
+    },
+    {
+      "insee": "73170",
+      "nom": "Monthion",
+      "lat": 45.6218,
+      "lon": 6.3711,
+      "population": 520
+    },
+    {
+      "insee": "73171",
+      "nom": "Montmélian",
+      "lat": 45.5071,
+      "lon": 6.0564,
+      "population": 4024
+    },
+    {
+      "insee": "73173",
+      "nom": "Montricher-Albanne",
+      "lat": 45.2151,
+      "lon": 6.4069,
+      "population": 476
+    },
+    {
+      "insee": "73175",
+      "nom": "Montsapey",
+      "lat": 45.5316,
+      "lon": 6.3599,
+      "population": 85
+    },
+    {
+      "insee": "73176",
+      "nom": "Montvalezan",
+      "lat": 45.6337,
+      "lon": 6.8729,
+      "population": 734
+    },
+    {
+      "insee": "73177",
+      "nom": "Montvernier",
+      "lat": 45.3338,
+      "lon": 6.3381,
+      "population": 240
+    },
+    {
+      "insee": "73180",
+      "nom": "Motz",
+      "lat": 45.9205,
+      "lon": 5.8442,
+      "population": 482
+    },
+    {
+      "insee": "73181",
+      "nom": "Moûtiers",
+      "lat": 45.4866,
+      "lon": 6.538,
+      "population": 3487
+    },
+    {
+      "insee": "73182",
+      "nom": "Mouxy",
+      "lat": 45.6806,
+      "lon": 5.9481,
+      "population": 2311
+    },
+    {
+      "insee": "73183",
+      "nom": "Myans",
+      "lat": 45.5196,
+      "lon": 5.9812,
+      "population": 1318
+    },
+    {
+      "insee": "73184",
+      "nom": "Nances",
+      "lat": 45.5852,
+      "lon": 5.7992,
+      "population": 554
+    },
+    {
+      "insee": "73186",
+      "nom": "Notre-Dame-de-Bellecombe",
+      "lat": 45.7918,
+      "lon": 6.5524,
+      "population": 463
+    },
+    {
+      "insee": "73188",
+      "nom": "Notre-Dame-des-Millières",
+      "lat": 45.6147,
+      "lon": 6.3576,
+      "population": 988
+    },
+    {
+      "insee": "73189",
+      "nom": "Notre-Dame-du-Cruet",
+      "lat": 45.3782,
+      "lon": 6.3103,
+      "population": 222
+    },
+    {
+      "insee": "73190",
+      "nom": "Notre-Dame-du-Pré",
+      "lat": 45.5043,
+      "lon": 6.6033,
+      "population": 258
+    },
+    {
+      "insee": "73191",
+      "nom": "Novalaise",
+      "lat": 45.5864,
+      "lon": 5.7672,
+      "population": 2261
+    },
+    {
+      "insee": "73193",
+      "nom": "Ontex",
+      "lat": 45.7505,
+      "lon": 5.8233,
+      "population": 84
+    },
+    {
+      "insee": "73194",
+      "nom": "Orelle",
+      "lat": 45.1903,
+      "lon": 6.5609,
+      "population": 324
+    },
+    {
+      "insee": "73196",
+      "nom": "Pallud",
+      "lat": 45.6919,
+      "lon": 6.3909,
+      "population": 784
+    },
+    {
+      "insee": "73197",
+      "nom": "Peisey-Nancroix",
+      "lat": 45.5048,
+      "lon": 6.8064,
+      "population": 632
+    },
+    {
+      "insee": "73200",
+      "nom": "Planaise",
+      "lat": 45.5072,
+      "lon": 6.0953,
+      "population": 560
+    },
+    {
+      "insee": "73201",
+      "nom": "Planay",
+      "lat": 45.424,
+      "lon": 6.714,
+      "population": 442
+    },
+    {
+      "insee": "73202",
+      "nom": "Plancherine",
+      "lat": 45.6764,
+      "lon": 6.2936,
+      "population": 471
+    },
+    {
+      "insee": "73151",
+      "nom": "Porte-de-Savoie",
+      "lat": 45.4874,
+      "lon": 5.9812,
+      "population": 3974
+    },
+    {
+      "insee": "73206",
+      "nom": "Pralognan-la-Vanoise",
+      "lat": 45.3431,
+      "lon": 6.7305,
+      "population": 689
+    },
+    {
+      "insee": "73207",
+      "nom": "Presle",
+      "lat": 45.4386,
+      "lon": 6.1707,
+      "population": 424
+    },
+    {
+      "insee": "73208",
+      "nom": "Pugny-Chatenod",
+      "lat": 45.6928,
+      "lon": 5.9577,
+      "population": 1071
+    },
+    {
+      "insee": "73210",
+      "nom": "Puygros",
+      "lat": 45.5683,
+      "lon": 6.0371,
+      "population": 406
+    },
+    {
+      "insee": "73211",
+      "nom": "Queige",
+      "lat": 45.7091,
+      "lon": 6.4657,
+      "population": 904
+    },
+    {
+      "insee": "73214",
+      "nom": "Rochefort",
+      "lat": 45.5802,
+      "lon": 5.7088,
+      "population": 253
+    },
+    {
+      "insee": "73216",
+      "nom": "Rognaix",
+      "lat": 45.5699,
+      "lon": 6.4224,
+      "population": 479
+    },
+    {
+      "insee": "73217",
+      "nom": "Rotherens",
+      "lat": 45.4725,
+      "lon": 6.1366,
+      "population": 371
+    },
+    {
+      "insee": "73218",
+      "nom": "Ruffieux",
+      "lat": 45.8514,
+      "lon": 5.8401,
+      "population": 819
+    },
+    {
+      "insee": "73235",
+      "nom": "Saint François Longchamp",
+      "lat": 45.3959,
+      "lon": 6.3554,
+      "population": 433
+    },
+    {
+      "insee": "73220",
+      "nom": "Saint-Alban-d'Hurtières",
+      "lat": 45.4624,
+      "lon": 6.2524,
+      "population": 404
+    },
+    {
+      "insee": "73219",
+      "nom": "Saint-Alban-de-Montbel",
+      "lat": 45.5524,
+      "lon": 5.7765,
+      "population": 688
+    },
+    {
+      "insee": "73221",
+      "nom": "Saint-Alban-des-Villards",
+      "lat": 45.3091,
+      "lon": 6.2327,
+      "population": 92
+    },
+    {
+      "insee": "73222",
+      "nom": "Saint-Alban-Leysse",
+      "lat": 45.59,
+      "lon": 5.9585,
+      "population": 6734
+    },
+    {
+      "insee": "73223",
+      "nom": "Saint-André",
+      "lat": 45.229,
+      "lon": 6.614,
+      "population": 449
+    },
+    {
+      "insee": "73224",
+      "nom": "Saint-Avre",
+      "lat": 45.3472,
+      "lon": 6.3179,
+      "population": 925
+    },
+    {
+      "insee": "73225",
+      "nom": "Saint-Baldoph",
+      "lat": 45.5303,
+      "lon": 5.9459,
+      "population": 2949
+    },
+    {
+      "insee": "73226",
+      "nom": "Saint-Béron",
+      "lat": 45.502,
+      "lon": 5.7254,
+      "population": 1713
+    },
+    {
+      "insee": "73228",
+      "nom": "Saint-Cassin",
+      "lat": 45.5217,
+      "lon": 5.8792,
+      "population": 1046
+    },
+    {
+      "insee": "73229",
+      "nom": "Saint-Christophe",
+      "lat": 45.4504,
+      "lon": 5.7836,
+      "population": 545
+    },
+    {
+      "insee": "73230",
+      "nom": "Saint-Colomban-des-Villards",
+      "lat": 45.2542,
+      "lon": 6.1911,
+      "population": 143
+    },
+    {
+      "insee": "73231",
+      "nom": "Saint-Étienne-de-Cuines",
+      "lat": 45.3471,
+      "lon": 6.2469,
+      "population": 1186
+    },
+    {
+      "insee": "73233",
+      "nom": "Saint-Franc",
+      "lat": 45.4919,
+      "lon": 5.7391,
+      "population": 155
+    },
+    {
+      "insee": "73234",
+      "nom": "Saint-François-de-Sales",
+      "lat": 45.6765,
+      "lon": 6.0411,
+      "population": 190
+    },
+    {
+      "insee": "73236",
+      "nom": "Saint-Genix-les-Villages",
+      "lat": 45.6102,
+      "lon": 5.6703,
+      "population": 3095
+    },
+    {
+      "insee": "73237",
+      "nom": "Saint-Georges-d'Hurtières",
+      "lat": 45.509,
+      "lon": 6.2832,
+      "population": 410
+    },
+    {
+      "insee": "73242",
+      "nom": "Saint-Jean-d'Arves",
+      "lat": 45.1709,
+      "lon": 6.2609,
+      "population": 273
+    },
+    {
+      "insee": "73243",
+      "nom": "Saint-Jean-d'Arvey",
+      "lat": 45.605,
+      "lon": 5.991,
+      "population": 1721
+    },
+    {
+      "insee": "73245",
+      "nom": "Saint-Jean-de-Chevelu",
+      "lat": 45.6953,
+      "lon": 5.8245,
+      "population": 834
+    },
+    {
+      "insee": "73246",
+      "nom": "Saint-Jean-de-Couz",
+      "lat": 45.4657,
+      "lon": 5.8154,
+      "population": 304
+    },
+    {
+      "insee": "73247",
+      "nom": "Saint-Jean-de-la-Porte",
+      "lat": 45.5641,
+      "lon": 6.1214,
+      "population": 989
+    },
+    {
+      "insee": "73248",
+      "nom": "Saint-Jean-de-Maurienne",
+      "lat": 45.2731,
+      "lon": 6.3465,
+      "population": 7524
+    },
+    {
+      "insee": "73249",
+      "nom": "Saint-Jeoire-Prieuré",
+      "lat": 45.5345,
+      "lon": 5.9931,
+      "population": 1999
+    },
+    {
+      "insee": "73250",
+      "nom": "Saint-Julien-Mont-Denis",
+      "lat": 45.2818,
+      "lon": 6.4141,
+      "population": 1506
+    },
+    {
+      "insee": "73252",
+      "nom": "Saint-Léger",
+      "lat": 45.4415,
+      "lon": 6.2591,
+      "population": 257
+    },
+    {
+      "insee": "73253",
+      "nom": "Saint-Marcel",
+      "lat": 45.5002,
+      "lon": 6.567,
+      "population": 611
+    },
+    {
+      "insee": "73256",
+      "nom": "Saint-Martin-d'Arc",
+      "lat": 45.2065,
+      "lon": 6.4596,
+      "population": 298
+    },
+    {
+      "insee": "73258",
+      "nom": "Saint-Martin-de-la-Porte",
+      "lat": 45.2595,
+      "lon": 6.4643,
+      "population": 698
+    },
+    {
+      "insee": "73259",
+      "nom": "Saint-Martin-sur-la-Chambre",
+      "lat": 45.3736,
+      "lon": 6.3218,
+      "population": 525
+    },
+    {
+      "insee": "73261",
+      "nom": "Saint-Michel-de-Maurienne",
+      "lat": 45.2401,
+      "lon": 6.4951,
+      "population": 2395
+    },
+    {
+      "insee": "73262",
+      "nom": "Saint-Nicolas-la-Chapelle",
+      "lat": 45.8238,
+      "lon": 6.4782,
+      "population": 502
+    },
+    {
+      "insee": "73263",
+      "nom": "Saint-Offenge",
+      "lat": 45.7132,
+      "lon": 6.0075,
+      "population": 1179
+    },
+    {
+      "insee": "73265",
+      "nom": "Saint-Ours",
+      "lat": 45.7561,
+      "lon": 5.9824,
+      "population": 775
+    },
+    {
+      "insee": "73267",
+      "nom": "Saint-Pancrace",
+      "lat": 45.2662,
+      "lon": 6.2978,
+      "population": 307
+    },
+    {
+      "insee": "73268",
+      "nom": "Saint-Paul-sur-Isère",
+      "lat": 45.5862,
+      "lon": 6.4074,
+      "population": 543
+    },
+    {
+      "insee": "73269",
+      "nom": "Saint-Paul-sur-Yenne",
+      "lat": 45.6721,
+      "lon": 5.7935,
+      "population": 747
+    },
+    {
+      "insee": "73270",
+      "nom": "Saint-Pierre-d'Albigny",
+      "lat": 45.5769,
+      "lon": 6.1591,
+      "population": 4217
+    },
+    {
+      "insee": "73271",
+      "nom": "Saint-Pierre-d'Alvey",
+      "lat": 45.6265,
+      "lon": 5.7378,
+      "population": 305
+    },
+    {
+      "insee": "73274",
+      "nom": "Saint-Pierre-d'Entremont",
+      "lat": 45.4173,
+      "lon": 5.8813,
+      "population": 383
+    },
+    {
+      "insee": "73272",
+      "nom": "Saint-Pierre-de-Belleville",
+      "lat": 45.4505,
+      "lon": 6.2517,
+      "population": 184
+    },
+    {
+      "insee": "73273",
+      "nom": "Saint-Pierre-de-Curtille",
+      "lat": 45.7634,
+      "lon": 5.8318,
+      "population": 472
+    },
+    {
+      "insee": "73275",
+      "nom": "Saint-Pierre-de-Genebroz",
+      "lat": 45.4618,
+      "lon": 5.7671,
+      "population": 334
+    },
+    {
+      "insee": "73276",
+      "nom": "Saint-Pierre-de-Soucy",
+      "lat": 45.4883,
+      "lon": 6.1061,
+      "population": 437
+    },
+    {
+      "insee": "73278",
+      "nom": "Saint-Rémy-de-Maurienne",
+      "lat": 45.3872,
+      "lon": 6.2417,
+      "population": 1289
+    },
+    {
+      "insee": "73280",
+      "nom": "Saint-Sorlin-d'Arves",
+      "lat": 45.1994,
+      "lon": 6.2005,
+      "population": 347
+    },
+    {
+      "insee": "73281",
+      "nom": "Saint-Sulpice",
+      "lat": 45.5645,
+      "lon": 5.8478,
+      "population": 821
+    },
+    {
+      "insee": "73282",
+      "nom": "Saint-Thibaud-de-Couz",
+      "lat": 45.493,
+      "lon": 5.8321,
+      "population": 1107
+    },
+    {
+      "insee": "73283",
+      "nom": "Saint-Vital",
+      "lat": 45.6271,
+      "lon": 6.3016,
+      "population": 767
+    },
+    {
+      "insee": "73232",
+      "nom": "Sainte-Foy-Tarentaise",
+      "lat": 45.58,
+      "lon": 6.9248,
+      "population": 686
+    },
+    {
+      "insee": "73240",
+      "nom": "Sainte-Hélène-du-Lac",
+      "lat": 45.4804,
+      "lon": 6.0568,
+      "population": 855
+    },
+    {
+      "insee": "73241",
+      "nom": "Sainte-Hélène-sur-Isère",
+      "lat": 45.6023,
+      "lon": 6.3315,
+      "population": 1248
+    },
+    {
+      "insee": "73254",
+      "nom": "Sainte-Marie-d'Alvey",
+      "lat": 45.5954,
+      "lon": 5.7133,
+      "population": 133
+    },
+    {
+      "insee": "73255",
+      "nom": "Sainte-Marie-de-Cuines",
+      "lat": 45.3227,
+      "lon": 6.2919,
+      "population": 847
+    },
+    {
+      "insee": "73277",
+      "nom": "Sainte-Reine",
+      "lat": 45.6085,
+      "lon": 6.1444,
+      "population": 177
+    },
+    {
+      "insee": "73284",
+      "nom": "Salins-Fontaine",
+      "lat": 45.4675,
+      "lon": 6.5262,
+      "population": 941
+    },
+    {
+      "insee": "73285",
+      "nom": "Séez",
+      "lat": 45.643,
+      "lon": 6.8457,
+      "population": 2459
+    },
+    {
+      "insee": "73286",
+      "nom": "Serrières-en-Chautagne",
+      "lat": 45.8809,
+      "lon": 5.842,
+      "population": 1156
+    },
+    {
+      "insee": "73288",
+      "nom": "Sonnaz",
+      "lat": 45.621,
+      "lon": 5.9184,
+      "population": 2130
+    },
+    {
+      "insee": "73292",
+      "nom": "Thénésol",
+      "lat": 45.7169,
+      "lon": 6.3844,
+      "population": 326
+    },
+    {
+      "insee": "73293",
+      "nom": "Thoiry",
+      "lat": 45.5983,
+      "lon": 6.0466,
+      "population": 456
+    },
+    {
+      "insee": "73296",
+      "nom": "Tignes",
+      "lat": 45.4744,
+      "lon": 6.9612,
+      "population": 1919
+    },
+    {
+      "insee": "73297",
+      "nom": "Tournon",
+      "lat": 45.6381,
+      "lon": 6.3281,
+      "population": 569
+    },
+    {
+      "insee": "73298",
+      "nom": "Tours-en-Savoie",
+      "lat": 45.6647,
+      "lon": 6.4626,
+      "population": 945
+    },
+    {
+      "insee": "73299",
+      "nom": "Traize",
+      "lat": 45.6739,
+      "lon": 5.7384,
+      "population": 335
+    },
+    {
+      "insee": "73300",
+      "nom": "Tresserve",
+      "lat": 45.6765,
+      "lon": 5.8888,
+      "population": 2909
+    },
+    {
+      "insee": "73301",
+      "nom": "Trévignin",
+      "lat": 45.7053,
+      "lon": 5.9683,
+      "population": 870
+    },
+    {
+      "insee": "73303",
+      "nom": "Ugine",
+      "lat": 45.7796,
+      "lon": 6.425,
+      "population": 7154
+    },
+    {
+      "insee": "73290",
+      "nom": "Val-Cenis",
+      "lat": 45.2764,
+      "lon": 6.8916,
+      "population": 2112
+    },
+    {
+      "insee": "73212",
+      "nom": "Val-d'Arc",
+      "lat": 45.539,
+      "lon": 6.3231,
+      "population": 2026
+    },
+    {
+      "insee": "73304",
+      "nom": "Val-d'Isère",
+      "lat": 45.4232,
+      "lon": 7.0151,
+      "population": 1567
+    },
+    {
+      "insee": "73215",
+      "nom": "Valgelon-La Rochette",
+      "lat": 45.462,
+      "lon": 6.1253,
+      "population": 4207
+    },
+    {
+      "insee": "73306",
+      "nom": "Valloire",
+      "lat": 45.1381,
+      "lon": 6.4223,
+      "population": 1064
+    },
+    {
+      "insee": "73307",
+      "nom": "Valmeinier",
+      "lat": 45.1509,
+      "lon": 6.5088,
+      "population": 593
+    },
+    {
+      "insee": "73308",
+      "nom": "Venthon",
+      "lat": 45.6873,
+      "lon": 6.4201,
+      "population": 606
+    },
+    {
+      "insee": "73309",
+      "nom": "Verel-de-Montbel",
+      "lat": 45.5547,
+      "lon": 5.7225,
+      "population": 341
+    },
+    {
+      "insee": "73310",
+      "nom": "Verel-Pragondran",
+      "lat": 45.6225,
+      "lon": 5.9514,
+      "population": 640
+    },
+    {
+      "insee": "73312",
+      "nom": "Verrens-Arvey",
+      "lat": 45.6612,
+      "lon": 6.292,
+      "population": 959
+    },
+    {
+      "insee": "73313",
+      "nom": "Verthemex",
+      "lat": 45.6285,
+      "lon": 5.7923,
+      "population": 244
+    },
+    {
+      "insee": "73314",
+      "nom": "Villard-d'Héry",
+      "lat": 45.5141,
+      "lon": 6.1401,
+      "population": 270
+    },
+    {
+      "insee": "73315",
+      "nom": "Villard-Léger",
+      "lat": 45.502,
+      "lon": 6.1735,
+      "population": 433
+    },
+    {
+      "insee": "73316",
+      "nom": "Villard-Sallet",
+      "lat": 45.4861,
+      "lon": 6.1346,
+      "population": 310
+    },
+    {
+      "insee": "73317",
+      "nom": "Villard-sur-Doron",
+      "lat": 45.7216,
+      "lon": 6.5182,
+      "population": 702
+    },
+    {
+      "insee": "73318",
+      "nom": "Villarembert",
+      "lat": 45.2397,
+      "lon": 6.2599,
+      "population": 253
+    },
+    {
+      "insee": "73320",
+      "nom": "Villargondran",
+      "lat": 45.2525,
+      "lon": 6.3773,
+      "population": 790
+    },
+    {
+      "insee": "73322",
+      "nom": "Villarodin-Bourget",
+      "lat": 45.2169,
+      "lon": 6.6923,
+      "population": 499
+    },
+    {
+      "insee": "73323",
+      "nom": "Villaroger",
+      "lat": 45.5586,
+      "lon": 6.8665,
+      "population": 355
+    },
+    {
+      "insee": "73324",
+      "nom": "Villaroux",
+      "lat": 45.4613,
+      "lon": 6.0791,
+      "population": 192
+    },
+    {
+      "insee": "73326",
+      "nom": "Vimines",
+      "lat": 45.5366,
+      "lon": 5.8518,
+      "population": 2372
+    },
+    {
+      "insee": "73327",
+      "nom": "Vions",
+      "lat": 45.8281,
+      "lon": 5.8077,
+      "population": 425
+    },
+    {
+      "insee": "73328",
+      "nom": "Viviers-du-Lac",
+      "lat": 45.6503,
+      "lon": 5.8926,
+      "population": 2355
+    },
+    {
+      "insee": "73329",
+      "nom": "Voglans",
+      "lat": 45.6287,
+      "lon": 5.8892,
+      "population": 2021
+    },
+    {
+      "insee": "73330",
+      "nom": "Yenne",
+      "lat": 45.708,
+      "lon": 5.7612,
+      "population": 3026
+    }
+  ]
+}

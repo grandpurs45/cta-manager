@@ -1,0 +1,14 @@
+{
+  "country": "FR",
+  "departmentCode": "75",
+  "label": "Departement 75",
+  "communes": [
+    {
+      "insee": "75056",
+      "nom": "Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
+      "population": 2103778
+    }
+  ]
+}

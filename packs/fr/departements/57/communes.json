@@ -1,0 +1,5082 @@
+{
+  "country": "FR",
+  "departmentCode": "57",
+  "label": "Departement 57",
+  "communes": [
+    {
+      "insee": "57001",
+      "nom": "Aboncourt",
+      "lat": 49.2544,
+      "lon": 6.3558,
+      "population": 320
+    },
+    {
+      "insee": "57002",
+      "nom": "Aboncourt-sur-Seille",
+      "lat": 48.8186,
+      "lon": 6.3576,
+      "population": 67
+    },
+    {
+      "insee": "57003",
+      "nom": "Abreschviller",
+      "lat": 48.6032,
+      "lon": 7.1451,
+      "population": 1428
+    },
+    {
+      "insee": "57004",
+      "nom": "Achain",
+      "lat": 48.9171,
+      "lon": 6.5894,
+      "population": 76
+    },
+    {
+      "insee": "57006",
+      "nom": "Achen",
+      "lat": 49.0483,
+      "lon": 7.1833,
+      "population": 963
+    },
+    {
+      "insee": "57007",
+      "nom": "Adaincourt",
+      "lat": 49.0064,
+      "lon": 6.4445,
+      "population": 135
+    },
+    {
+      "insee": "57008",
+      "nom": "Adelange",
+      "lat": 49.0077,
+      "lon": 6.6077,
+      "population": 222
+    },
+    {
+      "insee": "57009",
+      "nom": "Ajoncourt",
+      "lat": 48.8446,
+      "lon": 6.3012,
+      "population": 102
+    },
+    {
+      "insee": "57010",
+      "nom": "Alaincourt-la-Côte",
+      "lat": 48.8973,
+      "lon": 6.3433,
+      "population": 176
+    },
+    {
+      "insee": "57011",
+      "nom": "Albestroff",
+      "lat": 48.93,
+      "lon": 6.8723,
+      "population": 606
+    },
+    {
+      "insee": "57012",
+      "nom": "Algrange",
+      "lat": 49.3653,
+      "lon": 6.0493,
+      "population": 5802
+    },
+    {
+      "insee": "57013",
+      "nom": "Alsting",
+      "lat": 49.1796,
+      "lon": 7.0002,
+      "population": 2480
+    },
+    {
+      "insee": "57014",
+      "nom": "Altrippe",
+      "lat": 49.0274,
+      "lon": 6.8167,
+      "population": 365
+    },
+    {
+      "insee": "57015",
+      "nom": "Altviller",
+      "lat": 49.0706,
+      "lon": 6.7309,
+      "population": 524
+    },
+    {
+      "insee": "57016",
+      "nom": "Alzing",
+      "lat": 49.2745,
+      "lon": 6.5531,
+      "population": 405
+    },
+    {
+      "insee": "57017",
+      "nom": "Amanvillers",
+      "lat": 49.1615,
+      "lon": 6.0429,
+      "population": 2188
+    },
+    {
+      "insee": "57018",
+      "nom": "Amelécourt",
+      "lat": 48.8392,
+      "lon": 6.4888,
+      "population": 118
+    },
+    {
+      "insee": "57019",
+      "nom": "Amnéville",
+      "lat": 49.2469,
+      "lon": 6.1179,
+      "population": 10875
+    },
+    {
+      "insee": "57020",
+      "nom": "Ancerville",
+      "lat": 49.0318,
+      "lon": 6.3988,
+      "population": 300
+    },
+    {
+      "insee": "57021",
+      "nom": "Ancy-Dornot",
+      "lat": 49.0645,
+      "lon": 6.0474,
+      "population": 1490
+    },
+    {
+      "insee": "57022",
+      "nom": "Angevillers",
+      "lat": 49.3902,
+      "lon": 6.0475,
+      "population": 1404
+    },
+    {
+      "insee": "57024",
+      "nom": "Antilly",
+      "lat": 49.1995,
+      "lon": 6.2481,
+      "population": 198
+    },
+    {
+      "insee": "57025",
+      "nom": "Anzeling",
+      "lat": 49.2704,
+      "lon": 6.463,
+      "population": 480
+    },
+    {
+      "insee": "57026",
+      "nom": "Apach",
+      "lat": 49.4606,
+      "lon": 6.3878,
+      "population": 1072
+    },
+    {
+      "insee": "57028",
+      "nom": "Argancy",
+      "lat": 49.2003,
+      "lon": 6.2141,
+      "population": 1381
+    },
+    {
+      "insee": "57027",
+      "nom": "Arraincourt",
+      "lat": 48.9758,
+      "lon": 6.5307,
+      "population": 126
+    },
+    {
+      "insee": "57029",
+      "nom": "Arriance",
+      "lat": 49.0162,
+      "lon": 6.5041,
+      "population": 213
+    },
+    {
+      "insee": "57030",
+      "nom": "Arry",
+      "lat": 48.993,
+      "lon": 6.0553,
+      "population": 517
+    },
+    {
+      "insee": "57031",
+      "nom": "Ars-Laquenexy",
+      "lat": 49.0855,
+      "lon": 6.268,
+      "population": 934
+    },
+    {
+      "insee": "57032",
+      "nom": "Ars-sur-Moselle",
+      "lat": 49.0853,
+      "lon": 6.0483,
+      "population": 4616
+    },
+    {
+      "insee": "57033",
+      "nom": "Arzviller",
+      "lat": 48.722,
+      "lon": 7.1634,
+      "population": 516
+    },
+    {
+      "insee": "57034",
+      "nom": "Aspach",
+      "lat": 48.6539,
+      "lon": 6.9676,
+      "population": 40
+    },
+    {
+      "insee": "57035",
+      "nom": "Assenoncourt",
+      "lat": 48.766,
+      "lon": 6.7969,
+      "population": 115
+    },
+    {
+      "insee": "57036",
+      "nom": "Attilloncourt",
+      "lat": 48.8002,
+      "lon": 6.385,
+      "population": 98
+    },
+    {
+      "insee": "57037",
+      "nom": "Aube",
+      "lat": 49.0264,
+      "lon": 6.3369,
+      "population": 268
+    },
+    {
+      "insee": "57038",
+      "nom": "Audun-le-Tiche",
+      "lat": 49.4619,
+      "lon": 5.9593,
+      "population": 7356
+    },
+    {
+      "insee": "57039",
+      "nom": "Augny",
+      "lat": 49.0538,
+      "lon": 6.1097,
+      "population": 2207
+    },
+    {
+      "insee": "57040",
+      "nom": "Aulnois-sur-Seille",
+      "lat": 48.8636,
+      "lon": 6.3361,
+      "population": 313
+    },
+    {
+      "insee": "57041",
+      "nom": "Aumetz",
+      "lat": 49.4179,
+      "lon": 5.9487,
+      "population": 2418
+    },
+    {
+      "insee": "57042",
+      "nom": "Avricourt",
+      "lat": 48.6573,
+      "lon": 6.8028,
+      "population": 574
+    },
+    {
+      "insee": "57043",
+      "nom": "Ay-sur-Moselle",
+      "lat": 49.2471,
+      "lon": 6.1935,
+      "population": 1601
+    },
+    {
+      "insee": "57044",
+      "nom": "Azoudange",
+      "lat": 48.7297,
+      "lon": 6.8176,
+      "population": 89
+    },
+    {
+      "insee": "57045",
+      "nom": "Bacourt",
+      "lat": 48.9292,
+      "lon": 6.4044,
+      "population": 114
+    },
+    {
+      "insee": "57046",
+      "nom": "Baerenthal",
+      "lat": 48.9665,
+      "lon": 7.5164,
+      "population": 734
+    },
+    {
+      "insee": "57047",
+      "nom": "Bambiderstroff",
+      "lat": 49.1017,
+      "lon": 6.6003,
+      "population": 1016
+    },
+    {
+      "insee": "57048",
+      "nom": "Bannay",
+      "lat": 49.1195,
+      "lon": 6.4659,
+      "population": 78
+    },
+    {
+      "insee": "57050",
+      "nom": "Barchain",
+      "lat": 48.7078,
+      "lon": 6.9578,
+      "population": 94
+    },
+    {
+      "insee": "57051",
+      "nom": "Baronville",
+      "lat": 48.9375,
+      "lon": 6.6172,
+      "population": 369
+    },
+    {
+      "insee": "57052",
+      "nom": "Barst",
+      "lat": 49.0723,
+      "lon": 6.8253,
+      "population": 570
+    },
+    {
+      "insee": "57287",
+      "nom": "Basse-Ham",
+      "lat": 49.3748,
+      "lon": 6.2382,
+      "population": 2349
+    },
+    {
+      "insee": "57574",
+      "nom": "Basse-Rentgen",
+      "lat": 49.4913,
+      "lon": 6.2007,
+      "population": 524
+    },
+    {
+      "insee": "57053",
+      "nom": "Bassing",
+      "lat": 48.8737,
+      "lon": 6.802,
+      "population": 106
+    },
+    {
+      "insee": "57054",
+      "nom": "Baudrecourt",
+      "lat": 48.9609,
+      "lon": 6.4585,
+      "population": 173
+    },
+    {
+      "insee": "57055",
+      "nom": "Bazoncourt",
+      "lat": 49.0575,
+      "lon": 6.3826,
+      "population": 526
+    },
+    {
+      "insee": "57056",
+      "nom": "Bébing",
+      "lat": 48.7217,
+      "lon": 6.988,
+      "population": 189
+    },
+    {
+      "insee": "57057",
+      "nom": "Béchy",
+      "lat": 48.9836,
+      "lon": 6.3905,
+      "population": 615
+    },
+    {
+      "insee": "57058",
+      "nom": "Behren-lès-Forbach",
+      "lat": 49.1671,
+      "lon": 6.9451,
+      "population": 6166
+    },
+    {
+      "insee": "57059",
+      "nom": "Bellange",
+      "lat": 48.901,
+      "lon": 6.5744,
+      "population": 58
+    },
+    {
+      "insee": "57086",
+      "nom": "Belles-Forêts",
+      "lat": 48.812,
+      "lon": 6.896,
+      "population": 224
+    },
+    {
+      "insee": "57060",
+      "nom": "Bénestroff",
+      "lat": 48.9084,
+      "lon": 6.7561,
+      "population": 516
+    },
+    {
+      "insee": "57061",
+      "nom": "Béning-lès-Saint-Avold",
+      "lat": 49.1343,
+      "lon": 6.8368,
+      "population": 1095
+    },
+    {
+      "insee": "57062",
+      "nom": "Berg-sur-Moselle",
+      "lat": 49.4335,
+      "lon": 6.3102,
+      "population": 461
+    },
+    {
+      "insee": "57063",
+      "nom": "Bérig-Vintrange",
+      "lat": 48.9729,
+      "lon": 6.6942,
+      "population": 210
+    },
+    {
+      "insee": "57064",
+      "nom": "Berling",
+      "lat": 48.7996,
+      "lon": 7.2424,
+      "population": 313
+    },
+    {
+      "insee": "57065",
+      "nom": "Bermering",
+      "lat": 48.9337,
+      "lon": 6.7127,
+      "population": 199
+    },
+    {
+      "insee": "57066",
+      "nom": "Berthelming",
+      "lat": 48.8208,
+      "lon": 6.9781,
+      "population": 509
+    },
+    {
+      "insee": "57067",
+      "nom": "Bertrange",
+      "lat": 49.3154,
+      "lon": 6.1929,
+      "population": 2941
+    },
+    {
+      "insee": "57069",
+      "nom": "Berviller-en-Moselle",
+      "lat": 49.2684,
+      "lon": 6.6514,
+      "population": 464
+    },
+    {
+      "insee": "57070",
+      "nom": "Bettange",
+      "lat": 49.2397,
+      "lon": 6.49,
+      "population": 242
+    },
+    {
+      "insee": "57071",
+      "nom": "Bettborn",
+      "lat": 48.8055,
+      "lon": 7.0282,
+      "population": 406
+    },
+    {
+      "insee": "57072",
+      "nom": "Bettelainville",
+      "lat": 49.2456,
+      "lon": 6.3122,
+      "population": 626
+    },
+    {
+      "insee": "57073",
+      "nom": "Betting",
+      "lat": 49.1296,
+      "lon": 6.8119,
+      "population": 858
+    },
+    {
+      "insee": "57074",
+      "nom": "Bettviller",
+      "lat": 49.0778,
+      "lon": 7.2935,
+      "population": 815
+    },
+    {
+      "insee": "57075",
+      "nom": "Beux",
+      "lat": 49.0008,
+      "lon": 6.3126,
+      "population": 296
+    },
+    {
+      "insee": "57076",
+      "nom": "Beyren-lès-Sierck",
+      "lat": 49.4699,
+      "lon": 6.2993,
+      "population": 551
+    },
+    {
+      "insee": "57077",
+      "nom": "Bezange-la-Petite",
+      "lat": 48.7335,
+      "lon": 6.6128,
+      "population": 92
+    },
+    {
+      "insee": "57079",
+      "nom": "Bibiche",
+      "lat": 49.3316,
+      "lon": 6.4786,
+      "population": 425
+    },
+    {
+      "insee": "57080",
+      "nom": "Bickenholtz",
+      "lat": 48.8077,
+      "lon": 7.1716,
+      "population": 86
+    },
+    {
+      "insee": "57081",
+      "nom": "Bidestroff",
+      "lat": 48.8423,
+      "lon": 6.7918,
+      "population": 115
+    },
+    {
+      "insee": "57082",
+      "nom": "Biding",
+      "lat": 49.0629,
+      "lon": 6.7914,
+      "population": 338
+    },
+    {
+      "insee": "57083",
+      "nom": "Bining",
+      "lat": 49.0272,
+      "lon": 7.2495,
+      "population": 1162
+    },
+    {
+      "insee": "57084",
+      "nom": "Bioncourt",
+      "lat": 48.7995,
+      "lon": 6.3696,
+      "population": 300
+    },
+    {
+      "insee": "57085",
+      "nom": "Bionville-sur-Nied",
+      "lat": 49.1135,
+      "lon": 6.4768,
+      "population": 393
+    },
+    {
+      "insee": "57087",
+      "nom": "Bisten-en-Lorraine",
+      "lat": 49.1641,
+      "lon": 6.6022,
+      "population": 245
+    },
+    {
+      "insee": "57088",
+      "nom": "Bistroff",
+      "lat": 49.0075,
+      "lon": 6.6993,
+      "population": 319
+    },
+    {
+      "insee": "57089",
+      "nom": "Bitche",
+      "lat": 49.0544,
+      "lon": 7.4735,
+      "population": 4966
+    },
+    {
+      "insee": "57090",
+      "nom": "Blanche-Église",
+      "lat": 48.7907,
+      "lon": 6.6753,
+      "population": 102
+    },
+    {
+      "insee": "57092",
+      "nom": "Blies-Ébersing",
+      "lat": 49.1136,
+      "lon": 7.1442,
+      "population": 617
+    },
+    {
+      "insee": "57093",
+      "nom": "Blies-Guersviller",
+      "lat": 49.1438,
+      "lon": 7.0969,
+      "population": 651
+    },
+    {
+      "insee": "57091",
+      "nom": "Bliesbruck",
+      "lat": 49.113,
+      "lon": 7.1794,
+      "population": 961
+    },
+    {
+      "insee": "57095",
+      "nom": "Boucheporn",
+      "lat": 49.1512,
+      "lon": 6.6178,
+      "population": 561
+    },
+    {
+      "insee": "57096",
+      "nom": "Boulange",
+      "lat": 49.3848,
+      "lon": 5.9553,
+      "population": 2427
+    },
+    {
+      "insee": "57097",
+      "nom": "Boulay-Moselle",
+      "lat": 49.1749,
+      "lon": 6.4965,
+      "population": 5434
+    },
+    {
+      "insee": "57099",
+      "nom": "Bourdonnay",
+      "lat": 48.7224,
+      "lon": 6.731,
+      "population": 248
+    },
+    {
+      "insee": "57098",
+      "nom": "Bourgaltroff",
+      "lat": 48.8739,
+      "lon": 6.7626,
+      "population": 221
+    },
+    {
+      "insee": "57100",
+      "nom": "Bourscheid",
+      "lat": 48.7691,
+      "lon": 7.1983,
+      "population": 173
+    },
+    {
+      "insee": "57101",
+      "nom": "Bousbach",
+      "lat": 49.1458,
+      "lon": 6.9439,
+      "population": 1179
+    },
+    {
+      "insee": "57102",
+      "nom": "Bousse",
+      "lat": 49.2755,
+      "lon": 6.2052,
+      "population": 3236
+    },
+    {
+      "insee": "57103",
+      "nom": "Bousseviller",
+      "lat": 49.1217,
+      "lon": 7.461,
+      "population": 114
+    },
+    {
+      "insee": "57104",
+      "nom": "Boust",
+      "lat": 49.434,
+      "lon": 6.1936,
+      "population": 1157
+    },
+    {
+      "insee": "57105",
+      "nom": "Boustroff",
+      "lat": 49.0035,
+      "lon": 6.6299,
+      "population": 152
+    },
+    {
+      "insee": "57106",
+      "nom": "Bouzonville",
+      "lat": 49.297,
+      "lon": 6.5399,
+      "population": 3721
+    },
+    {
+      "insee": "57107",
+      "nom": "Bréhain",
+      "lat": 48.9073,
+      "lon": 6.5431,
+      "population": 97
+    },
+    {
+      "insee": "57108",
+      "nom": "Breidenbach",
+      "lat": 49.1325,
+      "lon": 7.4166,
+      "population": 309
+    },
+    {
+      "insee": "57109",
+      "nom": "Breistroff-la-Grande",
+      "lat": 49.4541,
+      "lon": 6.2243,
+      "population": 876
+    },
+    {
+      "insee": "57110",
+      "nom": "Brettnach",
+      "lat": 49.2582,
+      "lon": 6.5594,
+      "population": 429
+    },
+    {
+      "insee": "57111",
+      "nom": "Bronvaux",
+      "lat": 49.1925,
+      "lon": 6.0821,
+      "population": 503
+    },
+    {
+      "insee": "57112",
+      "nom": "Brouck",
+      "lat": 49.1276,
+      "lon": 6.5086,
+      "population": 80
+    },
+    {
+      "insee": "57113",
+      "nom": "Brouderdorff",
+      "lat": 48.695,
+      "lon": 7.1095,
+      "population": 987
+    },
+    {
+      "insee": "57114",
+      "nom": "Brouviller",
+      "lat": 48.7556,
+      "lon": 7.1626,
+      "population": 412
+    },
+    {
+      "insee": "57115",
+      "nom": "Brulange",
+      "lat": 48.9598,
+      "lon": 6.5496,
+      "population": 99
+    },
+    {
+      "insee": "57116",
+      "nom": "Buchy",
+      "lat": 48.9794,
+      "lon": 6.2873,
+      "population": 101
+    },
+    {
+      "insee": "57117",
+      "nom": "Buding",
+      "lat": 49.327,
+      "lon": 6.3245,
+      "population": 562
+    },
+    {
+      "insee": "57118",
+      "nom": "Budling",
+      "lat": 49.3466,
+      "lon": 6.3442,
+      "population": 165
+    },
+    {
+      "insee": "57119",
+      "nom": "Buhl-Lorraine",
+      "lat": 48.7145,
+      "lon": 7.0764,
+      "population": 1204
+    },
+    {
+      "insee": "57120",
+      "nom": "Burlioncourt",
+      "lat": 48.8606,
+      "lon": 6.5853,
+      "population": 130
+    },
+    {
+      "insee": "57121",
+      "nom": "Burtoncourt",
+      "lat": 49.2242,
+      "lon": 6.4052,
+      "population": 228
+    },
+    {
+      "insee": "57122",
+      "nom": "Cappel",
+      "lat": 49.0755,
+      "lon": 6.8472,
+      "population": 676
+    },
+    {
+      "insee": "57123",
+      "nom": "Carling",
+      "lat": 49.1675,
+      "lon": 6.7139,
+      "population": 3291
+    },
+    {
+      "insee": "57124",
+      "nom": "Cattenom",
+      "lat": 49.4138,
+      "lon": 6.2345,
+      "population": 2580
+    },
+    {
+      "insee": "57125",
+      "nom": "Chailly-lès-Ennery",
+      "lat": 49.2149,
+      "lon": 6.254,
+      "population": 394
+    },
+    {
+      "insee": "57126",
+      "nom": "Chambrey",
+      "lat": 48.7923,
+      "lon": 6.4543,
+      "population": 317
+    },
+    {
+      "insee": "57127",
+      "nom": "Chanville",
+      "lat": 49.0413,
+      "lon": 6.4365,
+      "population": 147
+    },
+    {
+      "insee": "57128",
+      "nom": "Charleville-sous-Bois",
+      "lat": 49.1929,
+      "lon": 6.4058,
+      "population": 284
+    },
+    {
+      "insee": "57129",
+      "nom": "Charly-Oradour",
+      "lat": 49.1744,
+      "lon": 6.249,
+      "population": 810
+    },
+    {
+      "insee": "57130",
+      "nom": "Château-Bréhain",
+      "lat": 48.8992,
+      "lon": 6.5212,
+      "population": 69
+    },
+    {
+      "insee": "57131",
+      "nom": "Château-Rouge",
+      "lat": 49.2854,
+      "lon": 6.6,
+      "population": 296
+    },
+    {
+      "insee": "57132",
+      "nom": "Château-Salins",
+      "lat": 48.8201,
+      "lon": 6.4928,
+      "population": 2296
+    },
+    {
+      "insee": "57133",
+      "nom": "Château-Voué",
+      "lat": 48.8499,
+      "lon": 6.6317,
+      "population": 113
+    },
+    {
+      "insee": "57134",
+      "nom": "Châtel-Saint-Germain",
+      "lat": 49.1297,
+      "lon": 6.0642,
+      "population": 1880
+    },
+    {
+      "insee": "57136",
+      "nom": "Chémery-les-Deux",
+      "lat": 49.2992,
+      "lon": 6.4466,
+      "population": 597
+    },
+    {
+      "insee": "57137",
+      "nom": "Cheminot",
+      "lat": 48.9573,
+      "lon": 6.1316,
+      "population": 833
+    },
+    {
+      "insee": "57138",
+      "nom": "Chenois",
+      "lat": 48.958,
+      "lon": 6.4912,
+      "population": 79
+    },
+    {
+      "insee": "57139",
+      "nom": "Chérisey",
+      "lat": 49.0109,
+      "lon": 6.2494,
+      "population": 280
+    },
+    {
+      "insee": "57140",
+      "nom": "Chesny",
+      "lat": 49.053,
+      "lon": 6.2434,
+      "population": 553
+    },
+    {
+      "insee": "57141",
+      "nom": "Chicourt",
+      "lat": 48.9198,
+      "lon": 6.507,
+      "population": 88
+    },
+    {
+      "insee": "57142",
+      "nom": "Chieulles",
+      "lat": 49.1577,
+      "lon": 6.2187,
+      "population": 408
+    },
+    {
+      "insee": "57143",
+      "nom": "Clouange",
+      "lat": 49.2636,
+      "lon": 6.0856,
+      "population": 3824
+    },
+    {
+      "insee": "57144",
+      "nom": "Cocheren",
+      "lat": 49.1412,
+      "lon": 6.8491,
+      "population": 3358
+    },
+    {
+      "insee": "57146",
+      "nom": "Coin-lès-Cuvry",
+      "lat": 49.0244,
+      "lon": 6.1374,
+      "population": 824
+    },
+    {
+      "insee": "57147",
+      "nom": "Coin-sur-Seille",
+      "lat": 49.01,
+      "lon": 6.1516,
+      "population": 338
+    },
+    {
+      "insee": "57145",
+      "nom": "Coincy",
+      "lat": 49.1073,
+      "lon": 6.2708,
+      "population": 334
+    },
+    {
+      "insee": "57148",
+      "nom": "Colligny-Maizery",
+      "lat": 49.104,
+      "lon": 6.3384,
+      "population": 564
+    },
+    {
+      "insee": "57149",
+      "nom": "Colmen",
+      "lat": 49.3518,
+      "lon": 6.536,
+      "population": 207
+    },
+    {
+      "insee": "57150",
+      "nom": "Condé-Northen",
+      "lat": 49.1598,
+      "lon": 6.4283,
+      "population": 737
+    },
+    {
+      "insee": "57151",
+      "nom": "Conthil",
+      "lat": 48.8914,
+      "lon": 6.667,
+      "population": 148
+    },
+    {
+      "insee": "57152",
+      "nom": "Contz-les-Bains",
+      "lat": 49.4569,
+      "lon": 6.3503,
+      "population": 548
+    },
+    {
+      "insee": "57153",
+      "nom": "Corny-sur-Moselle",
+      "lat": 49.0304,
+      "lon": 6.0724,
+      "population": 2168
+    },
+    {
+      "insee": "57154",
+      "nom": "Coume",
+      "lat": 49.1967,
+      "lon": 6.5857,
+      "population": 593
+    },
+    {
+      "insee": "57155",
+      "nom": "Courcelles-Chaussy",
+      "lat": 49.1206,
+      "lon": 6.3946,
+      "population": 3006
+    },
+    {
+      "insee": "57156",
+      "nom": "Courcelles-sur-Nied",
+      "lat": 49.0571,
+      "lon": 6.3102,
+      "population": 1194
+    },
+    {
+      "insee": "57158",
+      "nom": "Craincourt",
+      "lat": 48.8785,
+      "lon": 6.3348,
+      "population": 226
+    },
+    {
+      "insee": "57159",
+      "nom": "Créhange",
+      "lat": 49.0557,
+      "lon": 6.5753,
+      "population": 3691
+    },
+    {
+      "insee": "57160",
+      "nom": "Creutzwald",
+      "lat": 49.2113,
+      "lon": 6.6785,
+      "population": 12254
+    },
+    {
+      "insee": "57161",
+      "nom": "Cutting",
+      "lat": 48.8454,
+      "lon": 6.835,
+      "population": 96
+    },
+    {
+      "insee": "57162",
+      "nom": "Cuvry",
+      "lat": 49.0381,
+      "lon": 6.1577,
+      "population": 1096
+    },
+    {
+      "insee": "57163",
+      "nom": "Dabo",
+      "lat": 48.6394,
+      "lon": 7.2406,
+      "population": 2361
+    },
+    {
+      "insee": "57165",
+      "nom": "Dalem",
+      "lat": 49.2405,
+      "lon": 6.6152,
+      "population": 695
+    },
+    {
+      "insee": "57166",
+      "nom": "Dalhain",
+      "lat": 48.888,
+      "lon": 6.5637,
+      "population": 97
+    },
+    {
+      "insee": "57167",
+      "nom": "Dalstein",
+      "lat": 49.3067,
+      "lon": 6.4024,
+      "population": 376
+    },
+    {
+      "insee": "57168",
+      "nom": "Danne-et-Quatre-Vents",
+      "lat": 48.7587,
+      "lon": 7.2934,
+      "population": 670
+    },
+    {
+      "insee": "57169",
+      "nom": "Dannelbourg",
+      "lat": 48.7434,
+      "lon": 7.2375,
+      "population": 505
+    },
+    {
+      "insee": "57171",
+      "nom": "Delme",
+      "lat": 48.8844,
+      "lon": 6.383,
+      "population": 1166
+    },
+    {
+      "insee": "57172",
+      "nom": "Denting",
+      "lat": 49.1805,
+      "lon": 6.5406,
+      "population": 268
+    },
+    {
+      "insee": "57173",
+      "nom": "Desseling",
+      "lat": 48.7838,
+      "lon": 6.8499,
+      "population": 97
+    },
+    {
+      "insee": "57174",
+      "nom": "Destry",
+      "lat": 48.9472,
+      "lon": 6.5846,
+      "population": 115
+    },
+    {
+      "insee": "57175",
+      "nom": "Diane-Capelle",
+      "lat": 48.7321,
+      "lon": 6.936,
+      "population": 253
+    },
+    {
+      "insee": "57176",
+      "nom": "Diebling",
+      "lat": 49.1028,
+      "lon": 6.9339,
+      "population": 1658
+    },
+    {
+      "insee": "57765",
+      "nom": "Diesen",
+      "lat": 49.1715,
+      "lon": 6.6925,
+      "population": 1015
+    },
+    {
+      "insee": "57177",
+      "nom": "Dieuze",
+      "lat": 48.8078,
+      "lon": 6.7175,
+      "population": 2770
+    },
+    {
+      "insee": "57178",
+      "nom": "Diffembach-lès-Hellimer",
+      "lat": 49.007,
+      "lon": 6.8557,
+      "population": 359
+    },
+    {
+      "insee": "57179",
+      "nom": "Distroff",
+      "lat": 49.3366,
+      "lon": 6.2593,
+      "population": 1828
+    },
+    {
+      "insee": "57180",
+      "nom": "Dolving",
+      "lat": 48.767,
+      "lon": 7.0179,
+      "population": 344
+    },
+    {
+      "insee": "57181",
+      "nom": "Domnom-lès-Dieuze",
+      "lat": 48.8605,
+      "lon": 6.823,
+      "population": 100
+    },
+    {
+      "insee": "57182",
+      "nom": "Donjeux",
+      "lat": 48.8792,
+      "lon": 6.4116,
+      "population": 92
+    },
+    {
+      "insee": "57183",
+      "nom": "Donnelay",
+      "lat": 48.7503,
+      "lon": 6.6895,
+      "population": 193
+    },
+    {
+      "insee": "57186",
+      "nom": "Ébersviller",
+      "lat": 49.2797,
+      "lon": 6.4005,
+      "population": 963
+    },
+    {
+      "insee": "57187",
+      "nom": "Éblange",
+      "lat": 49.2211,
+      "lon": 6.4885,
+      "population": 360
+    },
+    {
+      "insee": "57188",
+      "nom": "Éguelshardt",
+      "lat": 49.0205,
+      "lon": 7.525,
+      "population": 440
+    },
+    {
+      "insee": "57189",
+      "nom": "Eincheville",
+      "lat": 48.9835,
+      "lon": 6.6016,
+      "population": 216
+    },
+    {
+      "insee": "57190",
+      "nom": "Elvange",
+      "lat": 49.0513,
+      "lon": 6.5474,
+      "population": 419
+    },
+    {
+      "insee": "57191",
+      "nom": "Elzange",
+      "lat": 49.3574,
+      "lon": 6.2985,
+      "population": 666
+    },
+    {
+      "insee": "57192",
+      "nom": "Enchenberg",
+      "lat": 49.0172,
+      "lon": 7.3268,
+      "population": 1206
+    },
+    {
+      "insee": "57193",
+      "nom": "Ennery",
+      "lat": 49.2273,
+      "lon": 6.2251,
+      "population": 2322
+    },
+    {
+      "insee": "57194",
+      "nom": "Entrange",
+      "lat": 49.4145,
+      "lon": 6.1136,
+      "population": 1218
+    },
+    {
+      "insee": "57195",
+      "nom": "Epping",
+      "lat": 49.1046,
+      "lon": 7.3185,
+      "population": 572
+    },
+    {
+      "insee": "57196",
+      "nom": "Erching",
+      "lat": 49.115,
+      "lon": 7.2672,
+      "population": 418
+    },
+    {
+      "insee": "57197",
+      "nom": "Ernestviller",
+      "lat": 49.0652,
+      "lon": 6.977,
+      "population": 503
+    },
+    {
+      "insee": "57198",
+      "nom": "Erstroff",
+      "lat": 48.9803,
+      "lon": 6.7762,
+      "population": 187
+    },
+    {
+      "insee": "57199",
+      "nom": "Escherange",
+      "lat": 49.4157,
+      "lon": 6.0656,
+      "population": 693
+    },
+    {
+      "insee": "57201",
+      "nom": "Etting",
+      "lat": 49.026,
+      "lon": 7.189,
+      "population": 714
+    },
+    {
+      "insee": "57202",
+      "nom": "Etzling",
+      "lat": 49.1804,
+      "lon": 6.9576,
+      "population": 1136
+    },
+    {
+      "insee": "57203",
+      "nom": "Évrange",
+      "lat": 49.5013,
+      "lon": 6.1978,
+      "population": 246
+    },
+    {
+      "insee": "57204",
+      "nom": "Failly",
+      "lat": 49.1604,
+      "lon": 6.2748,
+      "population": 532
+    },
+    {
+      "insee": "57205",
+      "nom": "Falck",
+      "lat": 49.2257,
+      "lon": 6.6385,
+      "population": 2482
+    },
+    {
+      "insee": "57206",
+      "nom": "Fameck",
+      "lat": 49.2978,
+      "lon": 6.1059,
+      "population": 14788
+    },
+    {
+      "insee": "57207",
+      "nom": "Farébersviller",
+      "lat": 49.1164,
+      "lon": 6.8677,
+      "population": 5224
+    },
+    {
+      "insee": "57208",
+      "nom": "Farschviller",
+      "lat": 49.0932,
+      "lon": 6.8801,
+      "population": 1318
+    },
+    {
+      "insee": "57209",
+      "nom": "Faulquemont",
+      "lat": 49.0409,
+      "lon": 6.5918,
+      "population": 5109
+    },
+    {
+      "insee": "57210",
+      "nom": "Fénétrange",
+      "lat": 48.8529,
+      "lon": 7.0097,
+      "population": 639
+    },
+    {
+      "insee": "57211",
+      "nom": "Fèves",
+      "lat": 49.1903,
+      "lon": 6.1028,
+      "population": 1193
+    },
+    {
+      "insee": "57212",
+      "nom": "Féy",
+      "lat": 49.0286,
+      "lon": 6.1029,
+      "population": 754
+    },
+    {
+      "insee": "57213",
+      "nom": "Filstroff",
+      "lat": 49.3252,
+      "lon": 6.5238,
+      "population": 778
+    },
+    {
+      "insee": "57214",
+      "nom": "Fixem",
+      "lat": 49.443,
+      "lon": 6.271,
+      "population": 397
+    },
+    {
+      "insee": "57215",
+      "nom": "Flastroff",
+      "lat": 49.3743,
+      "lon": 6.5309,
+      "population": 373
+    },
+    {
+      "insee": "57216",
+      "nom": "Fleisheim",
+      "lat": 48.7944,
+      "lon": 7.165,
+      "population": 135
+    },
+    {
+      "insee": "57217",
+      "nom": "Flétrange",
+      "lat": 49.0736,
+      "lon": 6.5652,
+      "population": 875
+    },
+    {
+      "insee": "57218",
+      "nom": "Fleury",
+      "lat": 49.0389,
+      "lon": 6.2029,
+      "population": 1276
+    },
+    {
+      "insee": "57219",
+      "nom": "Flévy",
+      "lat": 49.2409,
+      "lon": 6.2591,
+      "population": 602
+    },
+    {
+      "insee": "57220",
+      "nom": "Flocourt",
+      "lat": 48.9719,
+      "lon": 6.412,
+      "population": 135
+    },
+    {
+      "insee": "57221",
+      "nom": "Florange",
+      "lat": 49.3284,
+      "lon": 6.1233,
+      "population": 12035
+    },
+    {
+      "insee": "57222",
+      "nom": "Folkling",
+      "lat": 49.151,
+      "lon": 6.9012,
+      "population": 1411
+    },
+    {
+      "insee": "57224",
+      "nom": "Folschviller",
+      "lat": 49.0696,
+      "lon": 6.6897,
+      "population": 3916
+    },
+    {
+      "insee": "57225",
+      "nom": "Fonteny",
+      "lat": 48.8777,
+      "lon": 6.4799,
+      "population": 143
+    },
+    {
+      "insee": "57226",
+      "nom": "Fontoy",
+      "lat": 49.3583,
+      "lon": 5.996,
+      "population": 3184
+    },
+    {
+      "insee": "57227",
+      "nom": "Forbach",
+      "lat": 49.1916,
+      "lon": 6.8985,
+      "population": 20493
+    },
+    {
+      "insee": "57228",
+      "nom": "Fossieux",
+      "lat": 48.8495,
+      "lon": 6.3311,
+      "population": 186
+    },
+    {
+      "insee": "57229",
+      "nom": "Foulcrey",
+      "lat": 48.6422,
+      "lon": 6.868,
+      "population": 162
+    },
+    {
+      "insee": "57230",
+      "nom": "Fouligny",
+      "lat": 49.0953,
+      "lon": 6.5154,
+      "population": 192
+    },
+    {
+      "insee": "57231",
+      "nom": "Foville",
+      "lat": 48.9175,
+      "lon": 6.3263,
+      "population": 102
+    },
+    {
+      "insee": "57232",
+      "nom": "Francaltroff",
+      "lat": 48.963,
+      "lon": 6.7959,
+      "population": 750
+    },
+    {
+      "insee": "57233",
+      "nom": "Fraquelfing",
+      "lat": 48.6305,
+      "lon": 6.9884,
+      "population": 82
+    },
+    {
+      "insee": "57234",
+      "nom": "Frauenberg",
+      "lat": 49.1343,
+      "lon": 7.1145,
+      "population": 603
+    },
+    {
+      "insee": "57235",
+      "nom": "Freistroff",
+      "lat": 49.288,
+      "lon": 6.4842,
+      "population": 1000
+    },
+    {
+      "insee": "57236",
+      "nom": "Frémery",
+      "lat": 48.9217,
+      "lon": 6.4693,
+      "population": 87
+    },
+    {
+      "insee": "57237",
+      "nom": "Frémestroff",
+      "lat": 49.0161,
+      "lon": 6.7809,
+      "population": 304
+    },
+    {
+      "insee": "57238",
+      "nom": "Fresnes-en-Saulnois",
+      "lat": 48.8399,
+      "lon": 6.4428,
+      "population": 191
+    },
+    {
+      "insee": "57239",
+      "nom": "Freybouse",
+      "lat": 48.9988,
+      "lon": 6.7804,
+      "population": 422
+    },
+    {
+      "insee": "57240",
+      "nom": "Freyming-Merlebach",
+      "lat": 49.1537,
+      "lon": 6.7997,
+      "population": 13266
+    },
+    {
+      "insee": "57241",
+      "nom": "Fribourg",
+      "lat": 48.7672,
+      "lon": 6.8817,
+      "population": 159
+    },
+    {
+      "insee": "57242",
+      "nom": "Gandrange",
+      "lat": 49.2723,
+      "lon": 6.1353,
+      "population": 3031
+    },
+    {
+      "insee": "57244",
+      "nom": "Garrebourg",
+      "lat": 48.7103,
+      "lon": 7.2397,
+      "population": 485
+    },
+    {
+      "insee": "57245",
+      "nom": "Gavisse",
+      "lat": 49.4369,
+      "lon": 6.2862,
+      "population": 602
+    },
+    {
+      "insee": "57246",
+      "nom": "Gelucourt",
+      "lat": 48.7638,
+      "lon": 6.7398,
+      "population": 204
+    },
+    {
+      "insee": "57247",
+      "nom": "Gerbécourt",
+      "lat": 48.8524,
+      "lon": 6.5181,
+      "population": 85
+    },
+    {
+      "insee": "57248",
+      "nom": "Givrycourt",
+      "lat": 48.9286,
+      "lon": 6.9161,
+      "population": 95
+    },
+    {
+      "insee": "57249",
+      "nom": "Glatigny",
+      "lat": 49.141,
+      "lon": 6.3488,
+      "population": 256
+    },
+    {
+      "insee": "57250",
+      "nom": "Goetzenbruck",
+      "lat": 48.9753,
+      "lon": 7.3821,
+      "population": 1484
+    },
+    {
+      "insee": "57251",
+      "nom": "Goin",
+      "lat": 48.9867,
+      "lon": 6.2243,
+      "population": 356
+    },
+    {
+      "insee": "57252",
+      "nom": "Gomelange",
+      "lat": 49.2366,
+      "lon": 6.4591,
+      "population": 476
+    },
+    {
+      "insee": "57253",
+      "nom": "Gondrexange",
+      "lat": 48.6916,
+      "lon": 6.9054,
+      "population": 503
+    },
+    {
+      "insee": "57254",
+      "nom": "Gorze",
+      "lat": 49.0597,
+      "lon": 5.9918,
+      "population": 1120
+    },
+    {
+      "insee": "57255",
+      "nom": "Gosselming",
+      "lat": 48.7904,
+      "lon": 6.9806,
+      "population": 572
+    },
+    {
+      "insee": "57256",
+      "nom": "Gravelotte",
+      "lat": 49.1114,
+      "lon": 6.0251,
+      "population": 817
+    },
+    {
+      "insee": "57257",
+      "nom": "Grémecey",
+      "lat": 48.8097,
+      "lon": 6.4227,
+      "population": 100
+    },
+    {
+      "insee": "57258",
+      "nom": "Gréning",
+      "lat": 48.9725,
+      "lon": 6.8416,
+      "population": 113
+    },
+    {
+      "insee": "57259",
+      "nom": "Grindorff-Bizing",
+      "lat": 49.383,
+      "lon": 6.5128,
+      "population": 314
+    },
+    {
+      "insee": "57261",
+      "nom": "Gros-Réderching",
+      "lat": 49.0686,
+      "lon": 7.2198,
+      "population": 1266
+    },
+    {
+      "insee": "57260",
+      "nom": "Grosbliederstroff",
+      "lat": 49.1584,
+      "lon": 7.0214,
+      "population": 3346
+    },
+    {
+      "insee": "57262",
+      "nom": "Grostenquin",
+      "lat": 48.9843,
+      "lon": 6.7439,
+      "population": 604
+    },
+    {
+      "insee": "57263",
+      "nom": "Grundviller",
+      "lat": 49.0484,
+      "lon": 6.9825,
+      "population": 674
+    },
+    {
+      "insee": "57264",
+      "nom": "Guebenhouse",
+      "lat": 49.0783,
+      "lon": 6.9522,
+      "population": 417
+    },
+    {
+      "insee": "57265",
+      "nom": "Guébestroff",
+      "lat": 48.842,
+      "lon": 6.714,
+      "population": 58
+    },
+    {
+      "insee": "57266",
+      "nom": "Guéblange-lès-Dieuze",
+      "lat": 48.778,
+      "lon": 6.6995,
+      "population": 150
+    },
+    {
+      "insee": "57268",
+      "nom": "Guébling",
+      "lat": 48.8664,
+      "lon": 6.7346,
+      "population": 125
+    },
+    {
+      "insee": "57269",
+      "nom": "Guénange",
+      "lat": 49.2985,
+      "lon": 6.2029,
+      "population": 8083
+    },
+    {
+      "insee": "57271",
+      "nom": "Guenviller",
+      "lat": 49.1071,
+      "lon": 6.8081,
+      "population": 680
+    },
+    {
+      "insee": "57272",
+      "nom": "Guermange",
+      "lat": 48.8012,
+      "lon": 6.8208,
+      "population": 95
+    },
+    {
+      "insee": "57273",
+      "nom": "Guerstling",
+      "lat": 49.3227,
+      "lon": 6.576,
+      "population": 360
+    },
+    {
+      "insee": "57274",
+      "nom": "Guerting",
+      "lat": 49.1967,
+      "lon": 6.6236,
+      "population": 866
+    },
+    {
+      "insee": "57275",
+      "nom": "Guessling-Hémering",
+      "lat": 49.0211,
+      "lon": 6.6696,
+      "population": 925
+    },
+    {
+      "insee": "57276",
+      "nom": "Guinglange",
+      "lat": 49.0686,
+      "lon": 6.5136,
+      "population": 322
+    },
+    {
+      "insee": "57277",
+      "nom": "Guinkirchen",
+      "lat": 49.2075,
+      "lon": 6.4372,
+      "population": 141
+    },
+    {
+      "insee": "57278",
+      "nom": "Guinzeling",
+      "lat": 48.8812,
+      "lon": 6.8434,
+      "population": 61
+    },
+    {
+      "insee": "57280",
+      "nom": "Guntzviller",
+      "lat": 48.7077,
+      "lon": 7.165,
+      "population": 353
+    },
+    {
+      "insee": "57281",
+      "nom": "Haboudange",
+      "lat": 48.8864,
+      "lon": 6.6029,
+      "population": 225
+    },
+    {
+      "insee": "57282",
+      "nom": "Hagen",
+      "lat": 49.4972,
+      "lon": 6.1648,
+      "population": 387
+    },
+    {
+      "insee": "57283",
+      "nom": "Hagondange",
+      "lat": 49.242,
+      "lon": 6.161,
+      "population": 9278
+    },
+    {
+      "insee": "57284",
+      "nom": "Hallering",
+      "lat": 49.1245,
+      "lon": 6.5527,
+      "population": 99
+    },
+    {
+      "insee": "57286",
+      "nom": "Halstroff",
+      "lat": 49.3865,
+      "lon": 6.4814,
+      "population": 288
+    },
+    {
+      "insee": "57288",
+      "nom": "Ham-sous-Varsberg",
+      "lat": 49.1806,
+      "lon": 6.6529,
+      "population": 2888
+    },
+    {
+      "insee": "57289",
+      "nom": "Hambach",
+      "lat": 49.0618,
+      "lon": 7.0404,
+      "population": 2766
+    },
+    {
+      "insee": "57290",
+      "nom": "Hampont",
+      "lat": 48.8283,
+      "lon": 6.5876,
+      "population": 167
+    },
+    {
+      "insee": "57293",
+      "nom": "Han-sur-Nied",
+      "lat": 48.9888,
+      "lon": 6.4449,
+      "population": 249
+    },
+    {
+      "insee": "57291",
+      "nom": "Hangviller",
+      "lat": 48.8158,
+      "lon": 7.2402,
+      "population": 253
+    },
+    {
+      "insee": "57292",
+      "nom": "Hannocourt",
+      "lat": 48.915,
+      "lon": 6.4521,
+      "population": 15
+    },
+    {
+      "insee": "57294",
+      "nom": "Hanviller",
+      "lat": 49.102,
+      "lon": 7.444,
+      "population": 186
+    },
+    {
+      "insee": "57295",
+      "nom": "Haraucourt-sur-Seille",
+      "lat": 48.8095,
+      "lon": 6.6037,
+      "population": 111
+    },
+    {
+      "insee": "57296",
+      "nom": "Hargarten-aux-Mines",
+      "lat": 49.2205,
+      "lon": 6.6044,
+      "population": 1073
+    },
+    {
+      "insee": "57297",
+      "nom": "Harprich",
+      "lat": 48.9697,
+      "lon": 6.6525,
+      "population": 183
+    },
+    {
+      "insee": "57298",
+      "nom": "Harreberg",
+      "lat": 48.6623,
+      "lon": 7.1672,
+      "population": 369
+    },
+    {
+      "insee": "57299",
+      "nom": "Hartzviller",
+      "lat": 48.6725,
+      "lon": 7.0851,
+      "population": 934
+    },
+    {
+      "insee": "57300",
+      "nom": "Haselbourg",
+      "lat": 48.6891,
+      "lon": 7.227,
+      "population": 295
+    },
+    {
+      "insee": "57301",
+      "nom": "Haspelschiedt",
+      "lat": 49.0831,
+      "lon": 7.5043,
+      "population": 281
+    },
+    {
+      "insee": "57302",
+      "nom": "Hattigny",
+      "lat": 48.6286,
+      "lon": 6.9611,
+      "population": 235
+    },
+    {
+      "insee": "57303",
+      "nom": "Hauconcourt",
+      "lat": 49.2094,
+      "lon": 6.1844,
+      "population": 579
+    },
+    {
+      "insee": "57304",
+      "nom": "Haut-Clocher",
+      "lat": 48.7646,
+      "lon": 6.9859,
+      "population": 340
+    },
+    {
+      "insee": "57371",
+      "nom": "Haute-Kontz",
+      "lat": 49.4553,
+      "lon": 6.3186,
+      "population": 532
+    },
+    {
+      "insee": "57714",
+      "nom": "Haute-Vigneulles",
+      "lat": 49.0967,
+      "lon": 6.5568,
+      "population": 438
+    },
+    {
+      "insee": "57305",
+      "nom": "Havange",
+      "lat": 49.3884,
+      "lon": 5.999,
+      "population": 456
+    },
+    {
+      "insee": "57306",
+      "nom": "Hayange",
+      "lat": 49.334,
+      "lon": 6.0641,
+      "population": 15806
+    },
+    {
+      "insee": "57307",
+      "nom": "Hayes",
+      "lat": 49.1712,
+      "lon": 6.3789,
+      "population": 251
+    },
+    {
+      "insee": "57308",
+      "nom": "Hazembourg",
+      "lat": 48.9633,
+      "lon": 6.9452,
+      "population": 152
+    },
+    {
+      "insee": "57309",
+      "nom": "Heining-lès-Bouzonville",
+      "lat": 49.3061,
+      "lon": 6.6012,
+      "population": 487
+    },
+    {
+      "insee": "57310",
+      "nom": "Hellering-lès-Fénétrange",
+      "lat": 48.8075,
+      "lon": 7.0669,
+      "population": 186
+    },
+    {
+      "insee": "57311",
+      "nom": "Hellimer",
+      "lat": 48.9931,
+      "lon": 6.8348,
+      "population": 523
+    },
+    {
+      "insee": "57312",
+      "nom": "Helstroff",
+      "lat": 49.1549,
+      "lon": 6.4857,
+      "population": 481
+    },
+    {
+      "insee": "57313",
+      "nom": "Hémilly",
+      "lat": 49.0525,
+      "lon": 6.4891,
+      "population": 136
+    },
+    {
+      "insee": "57314",
+      "nom": "Héming",
+      "lat": 48.6984,
+      "lon": 6.9721,
+      "population": 490
+    },
+    {
+      "insee": "57315",
+      "nom": "Henridorff",
+      "lat": 48.7333,
+      "lon": 7.2101,
+      "population": 706
+    },
+    {
+      "insee": "57316",
+      "nom": "Henriville",
+      "lat": 49.0985,
+      "lon": 6.8564,
+      "population": 742
+    },
+    {
+      "insee": "57317",
+      "nom": "Hérange",
+      "lat": 48.7776,
+      "lon": 7.1729,
+      "population": 104
+    },
+    {
+      "insee": "57318",
+      "nom": "Hermelange",
+      "lat": 48.6816,
+      "lon": 7.0151,
+      "population": 227
+    },
+    {
+      "insee": "57319",
+      "nom": "Herny",
+      "lat": 49.0109,
+      "lon": 6.4793,
+      "population": 515
+    },
+    {
+      "insee": "57320",
+      "nom": "Hertzing",
+      "lat": 48.6922,
+      "lon": 6.9549,
+      "population": 173
+    },
+    {
+      "insee": "57321",
+      "nom": "Hesse",
+      "lat": 48.6866,
+      "lon": 7.0509,
+      "population": 549
+    },
+    {
+      "insee": "57322",
+      "nom": "Hestroff",
+      "lat": 49.2648,
+      "lon": 6.4233,
+      "population": 482
+    },
+    {
+      "insee": "57323",
+      "nom": "Hettange-Grande",
+      "lat": 49.4196,
+      "lon": 6.154,
+      "population": 7772
+    },
+    {
+      "insee": "57324",
+      "nom": "Hilbesheim",
+      "lat": 48.7802,
+      "lon": 7.1,
+      "population": 617
+    },
+    {
+      "insee": "57325",
+      "nom": "Hilsprich",
+      "lat": 49.0054,
+      "lon": 6.9094,
+      "population": 847
+    },
+    {
+      "insee": "57326",
+      "nom": "Hinckange",
+      "lat": 49.1851,
+      "lon": 6.446,
+      "population": 321
+    },
+    {
+      "insee": "57328",
+      "nom": "Holacourt",
+      "lat": 48.9788,
+      "lon": 6.5055,
+      "population": 87
+    },
+    {
+      "insee": "57329",
+      "nom": "Holling",
+      "lat": 49.259,
+      "lon": 6.5047,
+      "population": 444
+    },
+    {
+      "insee": "57330",
+      "nom": "Holving",
+      "lat": 49.0149,
+      "lon": 6.9711,
+      "population": 1268
+    },
+    {
+      "insee": "57331",
+      "nom": "Hombourg-Budange",
+      "lat": 49.2869,
+      "lon": 6.3577,
+      "population": 562
+    },
+    {
+      "insee": "57332",
+      "nom": "Hombourg-Haut",
+      "lat": 49.1262,
+      "lon": 6.7703,
+      "population": 5976
+    },
+    {
+      "insee": "57333",
+      "nom": "Hommarting",
+      "lat": 48.7388,
+      "lon": 7.146,
+      "population": 847
+    },
+    {
+      "insee": "57334",
+      "nom": "Hommert",
+      "lat": 48.6763,
+      "lon": 7.1763,
+      "population": 305
+    },
+    {
+      "insee": "57335",
+      "nom": "Honskirch",
+      "lat": 48.9387,
+      "lon": 6.9628,
+      "population": 213
+    },
+    {
+      "insee": "57337",
+      "nom": "Hoste",
+      "lat": 49.0579,
+      "lon": 6.8667,
+      "population": 562
+    },
+    {
+      "insee": "57338",
+      "nom": "Hottviller",
+      "lat": 49.0789,
+      "lon": 7.3562,
+      "population": 504
+    },
+    {
+      "insee": "57339",
+      "nom": "Hultehouse",
+      "lat": 48.7175,
+      "lon": 7.2656,
+      "population": 360
+    },
+    {
+      "insee": "57340",
+      "nom": "Hundling",
+      "lat": 49.0999,
+      "lon": 6.9847,
+      "population": 1339
+    },
+    {
+      "insee": "57341",
+      "nom": "Hunting",
+      "lat": 49.4137,
+      "lon": 6.3283,
+      "population": 673
+    },
+    {
+      "insee": "57342",
+      "nom": "Ibigny",
+      "lat": 48.6464,
+      "lon": 6.9022,
+      "population": 90
+    },
+    {
+      "insee": "57343",
+      "nom": "Illange",
+      "lat": 49.3294,
+      "lon": 6.1839,
+      "population": 1770
+    },
+    {
+      "insee": "57344",
+      "nom": "Imling",
+      "lat": 48.7115,
+      "lon": 7.0169,
+      "population": 685
+    },
+    {
+      "insee": "57345",
+      "nom": "Inglange",
+      "lat": 49.3448,
+      "lon": 6.3011,
+      "population": 386
+    },
+    {
+      "insee": "57346",
+      "nom": "Insming",
+      "lat": 48.9562,
+      "lon": 6.8831,
+      "population": 605
+    },
+    {
+      "insee": "57347",
+      "nom": "Insviller",
+      "lat": 48.8904,
+      "lon": 6.9157,
+      "population": 168
+    },
+    {
+      "insee": "57348",
+      "nom": "Ippling",
+      "lat": 49.1053,
+      "lon": 7.0037,
+      "population": 787
+    },
+    {
+      "insee": "57349",
+      "nom": "Jallaucourt",
+      "lat": 48.8365,
+      "lon": 6.3952,
+      "population": 137
+    },
+    {
+      "insee": "57350",
+      "nom": "Jouy-aux-Arches",
+      "lat": 49.0667,
+      "lon": 6.084,
+      "population": 1430
+    },
+    {
+      "insee": "57351",
+      "nom": "Jury",
+      "lat": 49.0726,
+      "lon": 6.256,
+      "population": 1408
+    },
+    {
+      "insee": "57352",
+      "nom": "Jussy",
+      "lat": 49.1018,
+      "lon": 6.0761,
+      "population": 466
+    },
+    {
+      "insee": "57353",
+      "nom": "Juvelize",
+      "lat": 48.7657,
+      "lon": 6.6614,
+      "population": 72
+    },
+    {
+      "insee": "57354",
+      "nom": "Juville",
+      "lat": 48.9295,
+      "lon": 6.3589,
+      "population": 146
+    },
+    {
+      "insee": "57355",
+      "nom": "Kalhausen",
+      "lat": 49.026,
+      "lon": 7.1457,
+      "population": 774
+    },
+    {
+      "insee": "57356",
+      "nom": "Kanfen",
+      "lat": 49.435,
+      "lon": 6.1141,
+      "population": 1235
+    },
+    {
+      "insee": "57357",
+      "nom": "Kappelkinger",
+      "lat": 48.9768,
+      "lon": 6.9088,
+      "population": 425
+    },
+    {
+      "insee": "57358",
+      "nom": "Kédange-sur-Canner",
+      "lat": 49.3104,
+      "lon": 6.3454,
+      "population": 1121
+    },
+    {
+      "insee": "57359",
+      "nom": "Kemplich",
+      "lat": 49.3239,
+      "lon": 6.3983,
+      "population": 181
+    },
+    {
+      "insee": "57360",
+      "nom": "Kerbach",
+      "lat": 49.162,
+      "lon": 6.9735,
+      "population": 1224
+    },
+    {
+      "insee": "57361",
+      "nom": "Kerling-lès-Sierck",
+      "lat": 49.3919,
+      "lon": 6.3732,
+      "population": 599
+    },
+    {
+      "insee": "57362",
+      "nom": "Kerprich-aux-Bois",
+      "lat": 48.7348,
+      "lon": 6.9611,
+      "population": 197
+    },
+    {
+      "insee": "57364",
+      "nom": "Kirsch-lès-Sierck",
+      "lat": 49.4377,
+      "lon": 6.4122,
+      "population": 328
+    },
+    {
+      "insee": "57365",
+      "nom": "Kirschnaumen",
+      "lat": 49.4028,
+      "lon": 6.4396,
+      "population": 481
+    },
+    {
+      "insee": "57366",
+      "nom": "Kirviller",
+      "lat": 48.9599,
+      "lon": 6.9783,
+      "population": 142
+    },
+    {
+      "insee": "57367",
+      "nom": "Klang",
+      "lat": 49.3173,
+      "lon": 6.3674,
+      "population": 208
+    },
+    {
+      "insee": "57368",
+      "nom": "Knutange",
+      "lat": 49.3373,
+      "lon": 6.0319,
+      "population": 3199
+    },
+    {
+      "insee": "57370",
+      "nom": "Kœnigsmacker",
+      "lat": 49.3911,
+      "lon": 6.2842,
+      "population": 2224
+    },
+    {
+      "insee": "57372",
+      "nom": "Kuntzig",
+      "lat": 49.3485,
+      "lon": 6.2386,
+      "population": 1359
+    },
+    {
+      "insee": "57336",
+      "nom": "L'Hôpital",
+      "lat": 49.1548,
+      "lon": 6.732,
+      "population": 5183
+    },
+    {
+      "insee": "57452",
+      "nom": "La Maxe",
+      "lat": 49.1604,
+      "lon": 6.1901,
+      "population": 1056
+    },
+    {
+      "insee": "57373",
+      "nom": "Lachambre",
+      "lat": 49.079,
+      "lon": 6.752,
+      "population": 906
+    },
+    {
+      "insee": "57374",
+      "nom": "Lafrimbolle",
+      "lat": 48.6037,
+      "lon": 7.0203,
+      "population": 211
+    },
+    {
+      "insee": "57375",
+      "nom": "Lagarde",
+      "lat": 48.6865,
+      "lon": 6.7099,
+      "population": 179
+    },
+    {
+      "insee": "57376",
+      "nom": "Lambach",
+      "lat": 49.0301,
+      "lon": 7.3641,
+      "population": 463
+    },
+    {
+      "insee": "57377",
+      "nom": "Landange",
+      "lat": 48.6697,
+      "lon": 6.9582,
+      "population": 239
+    },
+    {
+      "insee": "57379",
+      "nom": "Landroff",
+      "lat": 48.9656,
+      "lon": 6.6164,
+      "population": 259
+    },
+    {
+      "insee": "57381",
+      "nom": "Laneuveville-en-Saulnois",
+      "lat": 48.8649,
+      "lon": 6.4456,
+      "population": 285
+    },
+    {
+      "insee": "57380",
+      "nom": "Laneuveville-lès-Lorquin",
+      "lat": 48.6529,
+      "lon": 7.0078,
+      "population": 104
+    },
+    {
+      "insee": "57382",
+      "nom": "Langatte",
+      "lat": 48.7622,
+      "lon": 6.959,
+      "population": 627
+    },
+    {
+      "insee": "57383",
+      "nom": "Languimberg",
+      "lat": 48.7312,
+      "lon": 6.8849,
+      "population": 155
+    },
+    {
+      "insee": "57384",
+      "nom": "Laning",
+      "lat": 49.0305,
+      "lon": 6.7743,
+      "population": 579
+    },
+    {
+      "insee": "57385",
+      "nom": "Laquenexy",
+      "lat": 49.0766,
+      "lon": 6.3126,
+      "population": 1255
+    },
+    {
+      "insee": "57386",
+      "nom": "Laudrefang",
+      "lat": 49.083,
+      "lon": 6.6438,
+      "population": 335
+    },
+    {
+      "insee": "57387",
+      "nom": "Laumesfeld",
+      "lat": 49.3696,
+      "lon": 6.4484,
+      "population": 278
+    },
+    {
+      "insee": "57388",
+      "nom": "Launstroff",
+      "lat": 49.4363,
+      "lon": 6.505,
+      "population": 238
+    },
+    {
+      "insee": "57049",
+      "nom": "Le Ban-Saint-Martin",
+      "lat": 49.1232,
+      "lon": 6.1434,
+      "population": 4684
+    },
+    {
+      "insee": "57267",
+      "nom": "Le Val-de-Guéblange",
+      "lat": 48.979,
+      "lon": 6.9595,
+      "population": 789
+    },
+    {
+      "insee": "57389",
+      "nom": "Lelling",
+      "lat": 49.0414,
+      "lon": 6.7119,
+      "population": 458
+    },
+    {
+      "insee": "57390",
+      "nom": "Lemberg",
+      "lat": 49.0076,
+      "lon": 7.3864,
+      "population": 1428
+    },
+    {
+      "insee": "57391",
+      "nom": "Lemoncourt",
+      "lat": 48.8636,
+      "lon": 6.3837,
+      "population": 57
+    },
+    {
+      "insee": "57392",
+      "nom": "Lemud",
+      "lat": 49.0336,
+      "lon": 6.3655,
+      "population": 516
+    },
+    {
+      "insee": "57393",
+      "nom": "Lengelsheim",
+      "lat": 49.106,
+      "lon": 7.4076,
+      "population": 186
+    },
+    {
+      "insee": "57394",
+      "nom": "Léning",
+      "lat": 48.9547,
+      "lon": 6.8188,
+      "population": 321
+    },
+    {
+      "insee": "57200",
+      "nom": "Les Étangs",
+      "lat": 49.1455,
+      "lon": 6.3738,
+      "population": 421
+    },
+    {
+      "insee": "57395",
+      "nom": "Lesse",
+      "lat": 48.9506,
+      "lon": 6.5124,
+      "population": 206
+    },
+    {
+      "insee": "57396",
+      "nom": "Lessy",
+      "lat": 49.1261,
+      "lon": 6.1017,
+      "population": 794
+    },
+    {
+      "insee": "57397",
+      "nom": "Ley",
+      "lat": 48.7346,
+      "lon": 6.6578,
+      "population": 109
+    },
+    {
+      "insee": "57398",
+      "nom": "Leyviller",
+      "lat": 49.0299,
+      "lon": 6.8387,
+      "population": 502
+    },
+    {
+      "insee": "57399",
+      "nom": "Lezey",
+      "lat": 48.7542,
+      "lon": 6.6161,
+      "population": 90
+    },
+    {
+      "insee": "57410",
+      "nom": "Lhor",
+      "lat": 48.8851,
+      "lon": 6.8715,
+      "population": 138
+    },
+    {
+      "insee": "57401",
+      "nom": "Lidrezing",
+      "lat": 48.8804,
+      "lon": 6.7129,
+      "population": 80
+    },
+    {
+      "insee": "57402",
+      "nom": "Liederschiedt",
+      "lat": 49.1206,
+      "lon": 7.4976,
+      "population": 116
+    },
+    {
+      "insee": "57403",
+      "nom": "Liéhon",
+      "lat": 48.9924,
+      "lon": 6.262,
+      "population": 130
+    },
+    {
+      "insee": "57404",
+      "nom": "Lindre-Basse",
+      "lat": 48.7998,
+      "lon": 6.7498,
+      "population": 234
+    },
+    {
+      "insee": "57405",
+      "nom": "Lindre-Haute",
+      "lat": 48.819,
+      "lon": 6.7596,
+      "population": 47
+    },
+    {
+      "insee": "57406",
+      "nom": "Liocourt",
+      "lat": 48.9102,
+      "lon": 6.342,
+      "population": 138
+    },
+    {
+      "insee": "57407",
+      "nom": "Lixheim",
+      "lat": 48.7874,
+      "lon": 7.1457,
+      "population": 552
+    },
+    {
+      "insee": "57408",
+      "nom": "Lixing-lès-Rouhling",
+      "lat": 49.1528,
+      "lon": 6.9904,
+      "population": 799
+    },
+    {
+      "insee": "57409",
+      "nom": "Lixing-lès-Saint-Avold",
+      "lat": 49.0347,
+      "lon": 6.7416,
+      "population": 673
+    },
+    {
+      "insee": "57411",
+      "nom": "Lommerange",
+      "lat": 49.3252,
+      "lon": 5.969,
+      "population": 380
+    },
+    {
+      "insee": "57412",
+      "nom": "Longeville-lès-Metz",
+      "lat": 49.1144,
+      "lon": 6.1464,
+      "population": 4102
+    },
+    {
+      "insee": "57413",
+      "nom": "Longeville-lès-Saint-Avold",
+      "lat": 49.119,
+      "lon": 6.6509,
+      "population": 3572
+    },
+    {
+      "insee": "57414",
+      "nom": "Lorquin",
+      "lat": 48.6669,
+      "lon": 7.0047,
+      "population": 1150
+    },
+    {
+      "insee": "57415",
+      "nom": "Lorry-lès-Metz",
+      "lat": 49.1445,
+      "lon": 6.1043,
+      "population": 1720
+    },
+    {
+      "insee": "57416",
+      "nom": "Lorry-Mardigny",
+      "lat": 48.9837,
+      "lon": 6.0973,
+      "population": 683
+    },
+    {
+      "insee": "57417",
+      "nom": "Lostroff",
+      "lat": 48.8638,
+      "lon": 6.8688,
+      "population": 71
+    },
+    {
+      "insee": "57418",
+      "nom": "Loudrefing",
+      "lat": 48.8545,
+      "lon": 6.9006,
+      "population": 290
+    },
+    {
+      "insee": "57419",
+      "nom": "Loupershouse",
+      "lat": 49.0823,
+      "lon": 6.909,
+      "population": 904
+    },
+    {
+      "insee": "57421",
+      "nom": "Loutzviller",
+      "lat": 49.1438,
+      "lon": 7.3851,
+      "population": 149
+    },
+    {
+      "insee": "57422",
+      "nom": "Louvigny",
+      "lat": 48.9618,
+      "lon": 6.178,
+      "population": 880
+    },
+    {
+      "insee": "57423",
+      "nom": "Lubécourt",
+      "lat": 48.8438,
+      "lon": 6.51,
+      "population": 66
+    },
+    {
+      "insee": "57424",
+      "nom": "Lucy",
+      "lat": 48.9412,
+      "lon": 6.4781,
+      "population": 224
+    },
+    {
+      "insee": "57425",
+      "nom": "Luppy",
+      "lat": 48.9802,
+      "lon": 6.3361,
+      "population": 595
+    },
+    {
+      "insee": "57426",
+      "nom": "Luttange",
+      "lat": 49.2779,
+      "lon": 6.2928,
+      "population": 983
+    },
+    {
+      "insee": "57427",
+      "nom": "Lutzelbourg",
+      "lat": 48.7361,
+      "lon": 7.2565,
+      "population": 551
+    },
+    {
+      "insee": "57428",
+      "nom": "Macheren",
+      "lat": 49.0948,
+      "lon": 6.7675,
+      "population": 2814
+    },
+    {
+      "insee": "57430",
+      "nom": "Mainvillers",
+      "lat": 49.0212,
+      "lon": 6.5431,
+      "population": 318
+    },
+    {
+      "insee": "57431",
+      "nom": "Maizeroy",
+      "lat": 49.083,
+      "lon": 6.3912,
+      "population": 410
+    },
+    {
+      "insee": "57433",
+      "nom": "Maizières-lès-Metz",
+      "lat": 49.21,
+      "lon": 6.1543,
+      "population": 11580
+    },
+    {
+      "insee": "57434",
+      "nom": "Maizières-lès-Vic",
+      "lat": 48.7108,
+      "lon": 6.7869,
+      "population": 464
+    },
+    {
+      "insee": "57436",
+      "nom": "Malaucourt-sur-Seille",
+      "lat": 48.8437,
+      "lon": 6.356,
+      "population": 130
+    },
+    {
+      "insee": "57437",
+      "nom": "Malling",
+      "lat": 49.4146,
+      "lon": 6.3084,
+      "population": 681
+    },
+    {
+      "insee": "57438",
+      "nom": "Malroy",
+      "lat": 49.1716,
+      "lon": 6.217,
+      "population": 353
+    },
+    {
+      "insee": "57439",
+      "nom": "Manderen-Ritzing",
+      "lat": 49.4451,
+      "lon": 6.453,
+      "population": 613
+    },
+    {
+      "insee": "57440",
+      "nom": "Manhoué",
+      "lat": 48.8275,
+      "lon": 6.3386,
+      "population": 143
+    },
+    {
+      "insee": "57441",
+      "nom": "Manom",
+      "lat": 49.3793,
+      "lon": 6.1726,
+      "population": 3137
+    },
+    {
+      "insee": "57442",
+      "nom": "Many",
+      "lat": 49.0007,
+      "lon": 6.5306,
+      "population": 257
+    },
+    {
+      "insee": "57443",
+      "nom": "Marange-Silvange",
+      "lat": 49.2187,
+      "lon": 6.106,
+      "population": 6539
+    },
+    {
+      "insee": "57444",
+      "nom": "Marange-Zondrange",
+      "lat": 49.1195,
+      "lon": 6.5321,
+      "population": 372
+    },
+    {
+      "insee": "57445",
+      "nom": "Marieulles",
+      "lat": 49.0065,
+      "lon": 6.1115,
+      "population": 700
+    },
+    {
+      "insee": "57446",
+      "nom": "Marimont-lès-Bénestroff",
+      "lat": 48.8872,
+      "lon": 6.7884,
+      "population": 56
+    },
+    {
+      "insee": "57447",
+      "nom": "Marly",
+      "lat": 49.068,
+      "lon": 6.154,
+      "population": 10286
+    },
+    {
+      "insee": "57448",
+      "nom": "Marsal",
+      "lat": 48.7825,
+      "lon": 6.6198,
+      "population": 229
+    },
+    {
+      "insee": "57449",
+      "nom": "Marsilly",
+      "lat": 49.0945,
+      "lon": 6.3057,
+      "population": 582
+    },
+    {
+      "insee": "57451",
+      "nom": "Marthille",
+      "lat": 48.9306,
+      "lon": 6.5595,
+      "population": 167
+    },
+    {
+      "insee": "57453",
+      "nom": "Maxstadt",
+      "lat": 49.0453,
+      "lon": 6.8051,
+      "population": 297
+    },
+    {
+      "insee": "57454",
+      "nom": "Mécleuves",
+      "lat": 49.0531,
+      "lon": 6.279,
+      "population": 1196
+    },
+    {
+      "insee": "57455",
+      "nom": "Mégange",
+      "lat": 49.2256,
+      "lon": 6.4365,
+      "population": 138
+    },
+    {
+      "insee": "57456",
+      "nom": "Meisenthal",
+      "lat": 48.9704,
+      "lon": 7.346,
+      "population": 635
+    },
+    {
+      "insee": "57457",
+      "nom": "Menskirch",
+      "lat": 49.3193,
+      "lon": 6.4302,
+      "population": 141
+    },
+    {
+      "insee": "57459",
+      "nom": "Merschweiller",
+      "lat": 49.462,
+      "lon": 6.4148,
+      "population": 290
+    },
+    {
+      "insee": "57460",
+      "nom": "Merten",
+      "lat": 49.2447,
+      "lon": 6.6665,
+      "population": 1444
+    },
+    {
+      "insee": "57461",
+      "nom": "Métairies-Saint-Quirin",
+      "lat": 48.6418,
+      "lon": 7.0384,
+      "population": 271
+    },
+    {
+      "insee": "57462",
+      "nom": "Metting",
+      "lat": 48.8135,
+      "lon": 7.2041,
+      "population": 410
+    },
+    {
+      "insee": "57463",
+      "nom": "Metz",
+      "lat": 49.1048,
+      "lon": 6.1962,
+      "population": 122572
+    },
+    {
+      "insee": "57464",
+      "nom": "Metzeresche",
+      "lat": 49.2953,
+      "lon": 6.3021,
+      "population": 1020
+    },
+    {
+      "insee": "57465",
+      "nom": "Metzervisse",
+      "lat": 49.3154,
+      "lon": 6.2845,
+      "population": 2277
+    },
+    {
+      "insee": "57466",
+      "nom": "Metzing",
+      "lat": 49.1008,
+      "lon": 6.9605,
+      "population": 702
+    },
+    {
+      "insee": "57467",
+      "nom": "Mey",
+      "lat": 49.1367,
+      "lon": 6.2378,
+      "population": 309
+    },
+    {
+      "insee": "57468",
+      "nom": "Mittelbronn",
+      "lat": 48.7648,
+      "lon": 7.226,
+      "population": 636
+    },
+    {
+      "insee": "57469",
+      "nom": "Mittersheim",
+      "lat": 48.8574,
+      "lon": 6.9422,
+      "population": 583
+    },
+    {
+      "insee": "57470",
+      "nom": "Molring",
+      "lat": 48.8906,
+      "lon": 6.8225,
+      "population": 12
+    },
+    {
+      "insee": "57471",
+      "nom": "Momerstroff",
+      "lat": 49.1557,
+      "lon": 6.5313,
+      "population": 298
+    },
+    {
+      "insee": "57472",
+      "nom": "Moncheux",
+      "lat": 48.946,
+      "lon": 6.3393,
+      "population": 146
+    },
+    {
+      "insee": "57473",
+      "nom": "Moncourt",
+      "lat": 48.7189,
+      "lon": 6.6412,
+      "population": 63
+    },
+    {
+      "insee": "57474",
+      "nom": "Mondelange",
+      "lat": 49.2649,
+      "lon": 6.1731,
+      "population": 5699
+    },
+    {
+      "insee": "57475",
+      "nom": "Mondorff",
+      "lat": 49.504,
+      "lon": 6.2571,
+      "population": 609
+    },
+    {
+      "insee": "57476",
+      "nom": "Monneren",
+      "lat": 49.3487,
+      "lon": 6.4163,
+      "population": 398
+    },
+    {
+      "insee": "57477",
+      "nom": "Montbronn",
+      "lat": 48.9965,
+      "lon": 7.3016,
+      "population": 1578
+    },
+    {
+      "insee": "57478",
+      "nom": "Montdidier",
+      "lat": 48.9339,
+      "lon": 6.8153,
+      "population": 81
+    },
+    {
+      "insee": "57479",
+      "nom": "Montenach",
+      "lat": 49.4137,
+      "lon": 6.3869,
+      "population": 495
+    },
+    {
+      "insee": "57480",
+      "nom": "Montigny-lès-Metz",
+      "lat": 49.0966,
+      "lon": 6.1548,
+      "population": 21718
+    },
+    {
+      "insee": "57481",
+      "nom": "Montois-la-Montagne",
+      "lat": 49.2267,
+      "lon": 6.0248,
+      "population": 2711
+    },
+    {
+      "insee": "57483",
+      "nom": "Morhange",
+      "lat": 48.928,
+      "lon": 6.6388,
+      "population": 3308
+    },
+    {
+      "insee": "57484",
+      "nom": "Morsbach",
+      "lat": 49.1657,
+      "lon": 6.8675,
+      "population": 2635
+    },
+    {
+      "insee": "57485",
+      "nom": "Morville-lès-Vic",
+      "lat": 48.8144,
+      "lon": 6.5466,
+      "population": 105
+    },
+    {
+      "insee": "57486",
+      "nom": "Morville-sur-Nied",
+      "lat": 48.9482,
+      "lon": 6.4283,
+      "population": 121
+    },
+    {
+      "insee": "57487",
+      "nom": "Moulins-lès-Metz",
+      "lat": 49.0929,
+      "lon": 6.1192,
+      "population": 5265
+    },
+    {
+      "insee": "57488",
+      "nom": "Moussey",
+      "lat": 48.6738,
+      "lon": 6.7816,
+      "population": 559
+    },
+    {
+      "insee": "57489",
+      "nom": "Mouterhouse",
+      "lat": 48.9889,
+      "lon": 7.4347,
+      "population": 270
+    },
+    {
+      "insee": "57490",
+      "nom": "Moyenvic",
+      "lat": 48.7847,
+      "lon": 6.568,
+      "population": 311
+    },
+    {
+      "insee": "57491",
+      "nom": "Moyeuvre-Grande",
+      "lat": 49.2507,
+      "lon": 6.0333,
+      "population": 7311
+    },
+    {
+      "insee": "57492",
+      "nom": "Moyeuvre-Petite",
+      "lat": 49.2776,
+      "lon": 6.0207,
+      "population": 442
+    },
+    {
+      "insee": "57493",
+      "nom": "Mulcey",
+      "lat": 48.8093,
+      "lon": 6.6641,
+      "population": 209
+    },
+    {
+      "insee": "57494",
+      "nom": "Munster",
+      "lat": 48.9086,
+      "lon": 6.8963,
+      "population": 237
+    },
+    {
+      "insee": "57495",
+      "nom": "Narbéfontaine",
+      "lat": 49.134,
+      "lon": 6.5461,
+      "population": 115
+    },
+    {
+      "insee": "57496",
+      "nom": "Nébing",
+      "lat": 48.9095,
+      "lon": 6.8136,
+      "population": 328
+    },
+    {
+      "insee": "57497",
+      "nom": "Nelling",
+      "lat": 48.9695,
+      "lon": 6.8601,
+      "population": 266
+    },
+    {
+      "insee": "57498",
+      "nom": "Neufchef",
+      "lat": 49.3149,
+      "lon": 6.0139,
+      "population": 2650
+    },
+    {
+      "insee": "57499",
+      "nom": "Neufgrange",
+      "lat": 49.0719,
+      "lon": 7.0633,
+      "population": 1364
+    },
+    {
+      "insee": "57500",
+      "nom": "Neufmoulins",
+      "lat": 48.6796,
+      "lon": 6.9714,
+      "population": 34
+    },
+    {
+      "insee": "57501",
+      "nom": "Neufvillage",
+      "lat": 48.9343,
+      "lon": 6.7801,
+      "population": 49
+    },
+    {
+      "insee": "57502",
+      "nom": "Neunkirchen-lès-Bouzonville",
+      "lat": 49.3497,
+      "lon": 6.5614,
+      "population": 325
+    },
+    {
+      "insee": "57504",
+      "nom": "Niderhoff",
+      "lat": 48.6276,
+      "lon": 7.0138,
+      "population": 279
+    },
+    {
+      "insee": "57505",
+      "nom": "Niderviller",
+      "lat": 48.7111,
+      "lon": 7.1178,
+      "population": 1138
+    },
+    {
+      "insee": "57506",
+      "nom": "Niederstinzel",
+      "lat": 48.8704,
+      "lon": 7.0124,
+      "population": 235
+    },
+    {
+      "insee": "57507",
+      "nom": "Niedervisse",
+      "lat": 49.1616,
+      "lon": 6.5629,
+      "population": 279
+    },
+    {
+      "insee": "57508",
+      "nom": "Nilvange",
+      "lat": 49.3453,
+      "lon": 6.0498,
+      "population": 4341
+    },
+    {
+      "insee": "57509",
+      "nom": "Nitting",
+      "lat": 48.6601,
+      "lon": 7.0482,
+      "population": 529
+    },
+    {
+      "insee": "57510",
+      "nom": "Noisseville",
+      "lat": 49.1343,
+      "lon": 6.2696,
+      "population": 1109
+    },
+    {
+      "insee": "57511",
+      "nom": "Norroy-le-Veneur",
+      "lat": 49.1801,
+      "lon": 6.1041,
+      "population": 993
+    },
+    {
+      "insee": "57512",
+      "nom": "Nouilly",
+      "lat": 49.1335,
+      "lon": 6.2569,
+      "population": 719
+    },
+    {
+      "insee": "57513",
+      "nom": "Nousseviller-lès-Bitche",
+      "lat": 49.099,
+      "lon": 7.3723,
+      "population": 150
+    },
+    {
+      "insee": "57514",
+      "nom": "Nousseviller-Saint-Nabor",
+      "lat": 49.13,
+      "lon": 6.9709,
+      "population": 1182
+    },
+    {
+      "insee": "57515",
+      "nom": "Novéant-sur-Moselle",
+      "lat": 49.0365,
+      "lon": 6.0393,
+      "population": 1844
+    },
+    {
+      "insee": "57516",
+      "nom": "Oberdorff",
+      "lat": 49.2761,
+      "lon": 6.5848,
+      "population": 329
+    },
+    {
+      "insee": "57517",
+      "nom": "Obergailbach",
+      "lat": 49.1128,
+      "lon": 7.2243,
+      "population": 268
+    },
+    {
+      "insee": "57518",
+      "nom": "Oberstinzel",
+      "lat": 48.7929,
+      "lon": 7.0377,
+      "population": 316
+    },
+    {
+      "insee": "57519",
+      "nom": "Obervisse",
+      "lat": 49.1537,
+      "lon": 6.5774,
+      "population": 154
+    },
+    {
+      "insee": "57520",
+      "nom": "Obreck",
+      "lat": 48.8521,
+      "lon": 6.5973,
+      "population": 40
+    },
+    {
+      "insee": "57521",
+      "nom": "Œting",
+      "lat": 49.1735,
+      "lon": 6.908,
+      "population": 2599
+    },
+    {
+      "insee": "57482",
+      "nom": "Ogy-Montoy-Flanville",
+      "lat": 49.116,
+      "lon": 6.2953,
+      "population": 1806
+    },
+    {
+      "insee": "57524",
+      "nom": "Ommeray",
+      "lat": 48.7193,
+      "lon": 6.6932,
+      "population": 127
+    },
+    {
+      "insee": "57525",
+      "nom": "Oriocourt",
+      "lat": 48.8569,
+      "lon": 6.4123,
+      "population": 55
+    },
+    {
+      "insee": "57526",
+      "nom": "Ormersviller",
+      "lat": 49.1333,
+      "lon": 7.3345,
+      "population": 385
+    },
+    {
+      "insee": "57527",
+      "nom": "Orny",
+      "lat": 49.0309,
+      "lon": 6.2508,
+      "population": 448
+    },
+    {
+      "insee": "57528",
+      "nom": "Oron",
+      "lat": 48.9013,
+      "lon": 6.4832,
+      "population": 111
+    },
+    {
+      "insee": "57529",
+      "nom": "Ottange",
+      "lat": 49.4364,
+      "lon": 6.0031,
+      "population": 2960
+    },
+    {
+      "insee": "57530",
+      "nom": "Ottonville",
+      "lat": 49.2188,
+      "lon": 6.5234,
+      "population": 464
+    },
+    {
+      "insee": "57531",
+      "nom": "Oudrenne",
+      "lat": 49.3749,
+      "lon": 6.3519,
+      "population": 724
+    },
+    {
+      "insee": "57532",
+      "nom": "Pagny-lès-Goin",
+      "lat": 48.9664,
+      "lon": 6.2198,
+      "population": 225
+    },
+    {
+      "insee": "57533",
+      "nom": "Pange",
+      "lat": 49.0829,
+      "lon": 6.3542,
+      "population": 869
+    },
+    {
+      "insee": "57534",
+      "nom": "Peltre",
+      "lat": 49.0731,
+      "lon": 6.2236,
+      "population": 1790
+    },
+    {
+      "insee": "57535",
+      "nom": "Petit-Réderching",
+      "lat": 49.053,
+      "lon": 7.3161,
+      "population": 1417
+    },
+    {
+      "insee": "57536",
+      "nom": "Petit-Tenquin",
+      "lat": 48.9883,
+      "lon": 6.8698,
+      "population": 217
+    },
+    {
+      "insee": "57537",
+      "nom": "Petite-Rosselle",
+      "lat": 49.2079,
+      "lon": 6.8606,
+      "population": 6171
+    },
+    {
+      "insee": "57538",
+      "nom": "Pettoncourt",
+      "lat": 48.7893,
+      "lon": 6.4097,
+      "population": 296
+    },
+    {
+      "insee": "57539",
+      "nom": "Pévange",
+      "lat": 48.9078,
+      "lon": 6.624,
+      "population": 40
+    },
+    {
+      "insee": "57540",
+      "nom": "Phalsbourg",
+      "lat": 48.7673,
+      "lon": 7.2636,
+      "population": 4688
+    },
+    {
+      "insee": "57541",
+      "nom": "Philippsbourg",
+      "lat": 48.9947,
+      "lon": 7.5572,
+      "population": 613
+    },
+    {
+      "insee": "57542",
+      "nom": "Piblange",
+      "lat": 49.2454,
+      "lon": 6.4129,
+      "population": 943
+    },
+    {
+      "insee": "57543",
+      "nom": "Pierrevillers",
+      "lat": 49.2254,
+      "lon": 6.0937,
+      "population": 1443
+    },
+    {
+      "insee": "57544",
+      "nom": "Plaine-de-Walsch",
+      "lat": 48.691,
+      "lon": 7.153,
+      "population": 601
+    },
+    {
+      "insee": "57545",
+      "nom": "Plappeville",
+      "lat": 49.1311,
+      "lon": 6.1236,
+      "population": 2027
+    },
+    {
+      "insee": "57546",
+      "nom": "Plesnois",
+      "lat": 49.1715,
+      "lon": 6.1095,
+      "population": 772
+    },
+    {
+      "insee": "57547",
+      "nom": "Pommérieux",
+      "lat": 48.9952,
+      "lon": 6.1819,
+      "population": 755
+    },
+    {
+      "insee": "57548",
+      "nom": "Pontoy",
+      "lat": 49.0147,
+      "lon": 6.2955,
+      "population": 613
+    },
+    {
+      "insee": "57549",
+      "nom": "Pontpierre",
+      "lat": 49.0494,
+      "lon": 6.64,
+      "population": 735
+    },
+    {
+      "insee": "57550",
+      "nom": "Porcelette",
+      "lat": 49.1637,
+      "lon": 6.6662,
+      "population": 2397
+    },
+    {
+      "insee": "57551",
+      "nom": "Postroff",
+      "lat": 48.8547,
+      "lon": 7.0751,
+      "population": 196
+    },
+    {
+      "insee": "57552",
+      "nom": "Pouilly",
+      "lat": 49.0547,
+      "lon": 6.1996,
+      "population": 963
+    },
+    {
+      "insee": "57553",
+      "nom": "Pournoy-la-Chétive",
+      "lat": 49.0181,
+      "lon": 6.1555,
+      "population": 610
+    },
+    {
+      "insee": "57554",
+      "nom": "Pournoy-la-Grasse",
+      "lat": 49.0153,
+      "lon": 6.2024,
+      "population": 767
+    },
+    {
+      "insee": "57555",
+      "nom": "Prévocourt",
+      "lat": 48.9253,
+      "lon": 6.4358,
+      "population": 105
+    },
+    {
+      "insee": "57556",
+      "nom": "Puttelange-aux-Lacs",
+      "lat": 49.0537,
+      "lon": 6.9178,
+      "population": 3016
+    },
+    {
+      "insee": "57557",
+      "nom": "Puttelange-lès-Thionville",
+      "lat": 49.4862,
+      "lon": 6.2603,
+      "population": 1029
+    },
+    {
+      "insee": "57558",
+      "nom": "Puttigny",
+      "lat": 48.845,
+      "lon": 6.5468,
+      "population": 75
+    },
+    {
+      "insee": "57559",
+      "nom": "Puzieux",
+      "lat": 48.8917,
+      "lon": 6.3644,
+      "population": 167
+    },
+    {
+      "insee": "57560",
+      "nom": "Racrange",
+      "lat": 48.924,
+      "lon": 6.6814,
+      "population": 621
+    },
+    {
+      "insee": "57561",
+      "nom": "Rahling",
+      "lat": 48.9965,
+      "lon": 7.2409,
+      "population": 707
+    },
+    {
+      "insee": "57562",
+      "nom": "Ranguevaux",
+      "lat": 49.2935,
+      "lon": 6.0548,
+      "population": 907
+    },
+    {
+      "insee": "57563",
+      "nom": "Raville",
+      "lat": 49.0892,
+      "lon": 6.4733,
+      "population": 330
+    },
+    {
+      "insee": "57564",
+      "nom": "Réchicourt-le-Château",
+      "lat": 48.6768,
+      "lon": 6.8447,
+      "population": 550
+    },
+    {
+      "insee": "57565",
+      "nom": "Rédange",
+      "lat": 49.4914,
+      "lon": 5.9182,
+      "population": 1014
+    },
+    {
+      "insee": "57566",
+      "nom": "Réding",
+      "lat": 48.7487,
+      "lon": 7.1025,
+      "population": 2280
+    },
+    {
+      "insee": "57567",
+      "nom": "Rémelfang",
+      "lat": 49.2692,
+      "lon": 6.5125,
+      "population": 147
+    },
+    {
+      "insee": "57568",
+      "nom": "Rémelfing",
+      "lat": 49.0903,
+      "lon": 7.087,
+      "population": 1305
+    },
+    {
+      "insee": "57569",
+      "nom": "Rémeling",
+      "lat": 49.4108,
+      "lon": 6.4819,
+      "population": 329
+    },
+    {
+      "insee": "57570",
+      "nom": "Rémering",
+      "lat": 49.2599,
+      "lon": 6.6268,
+      "population": 421
+    },
+    {
+      "insee": "57571",
+      "nom": "Rémering-lès-Puttelange",
+      "lat": 49.0332,
+      "lon": 6.9294,
+      "population": 1050
+    },
+    {
+      "insee": "57572",
+      "nom": "Rémilly",
+      "lat": 49.0063,
+      "lon": 6.3856,
+      "population": 2070
+    },
+    {
+      "insee": "57573",
+      "nom": "Réning",
+      "lat": 48.9489,
+      "lon": 6.8436,
+      "population": 127
+    },
+    {
+      "insee": "57575",
+      "nom": "Retonfey",
+      "lat": 49.1342,
+      "lon": 6.3171,
+      "population": 1327
+    },
+    {
+      "insee": "57576",
+      "nom": "Rettel",
+      "lat": 49.4323,
+      "lon": 6.34,
+      "population": 869
+    },
+    {
+      "insee": "57577",
+      "nom": "Reyersviller",
+      "lat": 49.0402,
+      "lon": 7.3973,
+      "population": 380
+    },
+    {
+      "insee": "57578",
+      "nom": "Rezonville-Vionville",
+      "lat": 49.0877,
+      "lon": 5.9684,
+      "population": 517
+    },
+    {
+      "insee": "57579",
+      "nom": "Rhodes",
+      "lat": 48.7529,
+      "lon": 6.9039,
+      "population": 126
+    },
+    {
+      "insee": "57580",
+      "nom": "Riche",
+      "lat": 48.8898,
+      "lon": 6.6338,
+      "population": 180
+    },
+    {
+      "insee": "57581",
+      "nom": "Richeling",
+      "lat": 49.0329,
+      "lon": 6.9742,
+      "population": 347
+    },
+    {
+      "insee": "57582",
+      "nom": "Richemont",
+      "lat": 49.2831,
+      "lon": 6.1613,
+      "population": 2175
+    },
+    {
+      "insee": "57583",
+      "nom": "Richeval",
+      "lat": 48.6331,
+      "lon": 6.9141,
+      "population": 111
+    },
+    {
+      "insee": "57584",
+      "nom": "Rimling",
+      "lat": 49.091,
+      "lon": 7.264,
+      "population": 618
+    },
+    {
+      "insee": "57586",
+      "nom": "Rochonvillers",
+      "lat": 49.4103,
+      "lon": 6.0263,
+      "population": 215
+    },
+    {
+      "insee": "57587",
+      "nom": "Rodalbe",
+      "lat": 48.9094,
+      "lon": 6.7136,
+      "population": 246
+    },
+    {
+      "insee": "57588",
+      "nom": "Rodemack",
+      "lat": 49.4606,
+      "lon": 6.2459,
+      "population": 1277
+    },
+    {
+      "insee": "57589",
+      "nom": "Rohrbach-lès-Bitche",
+      "lat": 49.0382,
+      "lon": 7.2721,
+      "population": 2301
+    },
+    {
+      "insee": "57590",
+      "nom": "Rolbing",
+      "lat": 49.1724,
+      "lon": 7.4194,
+      "population": 259
+    },
+    {
+      "insee": "57591",
+      "nom": "Rombas",
+      "lat": 49.2442,
+      "lon": 6.0881,
+      "population": 9371
+    },
+    {
+      "insee": "57592",
+      "nom": "Romelfing",
+      "lat": 48.8356,
+      "lon": 7.0085,
+      "population": 328
+    },
+    {
+      "insee": "57593",
+      "nom": "Roncourt",
+      "lat": 49.1977,
+      "lon": 6.0519,
+      "population": 1058
+    },
+    {
+      "insee": "57594",
+      "nom": "Roppeviller",
+      "lat": 49.0857,
+      "lon": 7.5219,
+      "population": 97
+    },
+    {
+      "insee": "57595",
+      "nom": "Rorbach-lès-Dieuze",
+      "lat": 48.8299,
+      "lon": 6.8393,
+      "population": 48
+    },
+    {
+      "insee": "57596",
+      "nom": "Rosbruck",
+      "lat": 49.1601,
+      "lon": 6.8548,
+      "population": 740
+    },
+    {
+      "insee": "57597",
+      "nom": "Rosselange",
+      "lat": 49.2673,
+      "lon": 6.0637,
+      "population": 2384
+    },
+    {
+      "insee": "57598",
+      "nom": "Rouhling",
+      "lat": 49.1319,
+      "lon": 7.0045,
+      "population": 1981
+    },
+    {
+      "insee": "57599",
+      "nom": "Roupeldange",
+      "lat": 49.2085,
+      "lon": 6.4756,
+      "population": 326
+    },
+    {
+      "insee": "57600",
+      "nom": "Roussy-le-Village",
+      "lat": 49.4606,
+      "lon": 6.1778,
+      "population": 1592
+    },
+    {
+      "insee": "57601",
+      "nom": "Rozérieulles",
+      "lat": 49.1203,
+      "lon": 6.0558,
+      "population": 1334
+    },
+    {
+      "insee": "57602",
+      "nom": "Rurange-lès-Thionville",
+      "lat": 49.2713,
+      "lon": 6.232,
+      "population": 2327
+    },
+    {
+      "insee": "57603",
+      "nom": "Russange",
+      "lat": 49.4888,
+      "lon": 5.947,
+      "population": 1263
+    },
+    {
+      "insee": "57604",
+      "nom": "Rustroff",
+      "lat": 49.4406,
+      "lon": 6.3766,
+      "population": 641
+    },
+    {
+      "insee": "57605",
+      "nom": "Sailly-Achâtel",
+      "lat": 48.9438,
+      "lon": 6.2985,
+      "population": 324
+    },
+    {
+      "insee": "57606",
+      "nom": "Saint-Avold",
+      "lat": 49.1279,
+      "lon": 6.7088,
+      "population": 14755
+    },
+    {
+      "insee": "57609",
+      "nom": "Saint-Epvre",
+      "lat": 48.9703,
+      "lon": 6.4302,
+      "population": 177
+    },
+    {
+      "insee": "57610",
+      "nom": "Saint-François-Lacroix",
+      "lat": 49.3453,
+      "lon": 6.4474,
+      "population": 317
+    },
+    {
+      "insee": "57611",
+      "nom": "Saint-Georges",
+      "lat": 48.6566,
+      "lon": 6.9247,
+      "population": 196
+    },
+    {
+      "insee": "57612",
+      "nom": "Saint-Hubert",
+      "lat": 49.2338,
+      "lon": 6.363,
+      "population": 229
+    },
+    {
+      "insee": "57613",
+      "nom": "Saint-Jean-de-Bassel",
+      "lat": 48.8118,
+      "lon": 6.9675,
+      "population": 322
+    },
+    {
+      "insee": "57614",
+      "nom": "Saint-Jean-Kourtzerode",
+      "lat": 48.7571,
+      "lon": 7.1956,
+      "population": 647
+    },
+    {
+      "insee": "57615",
+      "nom": "Saint-Jean-Rohrbach",
+      "lat": 49.0274,
+      "lon": 6.8801,
+      "population": 960
+    },
+    {
+      "insee": "57616",
+      "nom": "Saint-Julien-lès-Metz",
+      "lat": 49.1375,
+      "lon": 6.2101,
+      "population": 3554
+    },
+    {
+      "insee": "57617",
+      "nom": "Saint-Jure",
+      "lat": 48.9416,
+      "lon": 6.2329,
+      "population": 283
+    },
+    {
+      "insee": "57618",
+      "nom": "Saint-Louis",
+      "lat": 48.7092,
+      "lon": 7.1978,
+      "population": 617
+    },
+    {
+      "insee": "57619",
+      "nom": "Saint-Louis-lès-Bitche",
+      "lat": 48.9866,
+      "lon": 7.351,
+      "population": 445
+    },
+    {
+      "insee": "57621",
+      "nom": "Saint-Médard",
+      "lat": 48.813,
+      "lon": 6.6399,
+      "population": 107
+    },
+    {
+      "insee": "57622",
+      "nom": "Saint-Privat-la-Montagne",
+      "lat": 49.1853,
+      "lon": 6.0393,
+      "population": 1878
+    },
+    {
+      "insee": "57623",
+      "nom": "Saint-Quirin",
+      "lat": 48.5828,
+      "lon": 7.1233,
+      "population": 692
+    },
+    {
+      "insee": "57607",
+      "nom": "Sainte-Barbe",
+      "lat": 49.1639,
+      "lon": 6.322,
+      "population": 786
+    },
+    {
+      "insee": "57620",
+      "nom": "Sainte-Marie-aux-Chênes",
+      "lat": 49.1886,
+      "lon": 6.0086,
+      "population": 4519
+    },
+    {
+      "insee": "57624",
+      "nom": "Sainte-Ruffine",
+      "lat": 49.1068,
+      "lon": 6.0967,
+      "population": 623
+    },
+    {
+      "insee": "57625",
+      "nom": "Salonnes",
+      "lat": 48.788,
+      "lon": 6.4963,
+      "population": 176
+    },
+    {
+      "insee": "57626",
+      "nom": "Sanry-lès-Vigy",
+      "lat": 49.1846,
+      "lon": 6.2803,
+      "population": 507
+    },
+    {
+      "insee": "57627",
+      "nom": "Sanry-sur-Nied",
+      "lat": 49.0535,
+      "lon": 6.3419,
+      "population": 426
+    },
+    {
+      "insee": "57628",
+      "nom": "Sarralbe",
+      "lat": 48.9987,
+      "lon": 7.0144,
+      "population": 4364
+    },
+    {
+      "insee": "57629",
+      "nom": "Sarraltroff",
+      "lat": 48.7784,
+      "lon": 7.0643,
+      "population": 789
+    },
+    {
+      "insee": "57630",
+      "nom": "Sarrebourg",
+      "lat": 48.7329,
+      "lon": 7.0476,
+      "population": 12170
+    },
+    {
+      "insee": "57631",
+      "nom": "Sarreguemines",
+      "lat": 49.106,
+      "lon": 7.0709,
+      "population": 20143
+    },
+    {
+      "insee": "57633",
+      "nom": "Sarreinsming",
+      "lat": 49.0911,
+      "lon": 7.1193,
+      "population": 1178
+    },
+    {
+      "insee": "57634",
+      "nom": "Saulny",
+      "lat": 49.1607,
+      "lon": 6.0983,
+      "population": 1590
+    },
+    {
+      "insee": "57635",
+      "nom": "Schalbach",
+      "lat": 48.8199,
+      "lon": 7.1546,
+      "population": 372
+    },
+    {
+      "insee": "57636",
+      "nom": "Schmittviller",
+      "lat": 49.0055,
+      "lon": 7.187,
+      "population": 335
+    },
+    {
+      "insee": "57637",
+      "nom": "Schneckenbusch",
+      "lat": 48.6962,
+      "lon": 7.0809,
+      "population": 314
+    },
+    {
+      "insee": "57638",
+      "nom": "Schœneck",
+      "lat": 49.2128,
+      "lon": 6.9192,
+      "population": 2435
+    },
+    {
+      "insee": "57639",
+      "nom": "Schorbach",
+      "lat": 49.0795,
+      "lon": 7.4099,
+      "population": 548
+    },
+    {
+      "insee": "57640",
+      "nom": "Schwerdorff",
+      "lat": 49.3722,
+      "lon": 6.5721,
+      "population": 472
+    },
+    {
+      "insee": "57641",
+      "nom": "Schweyen",
+      "lat": 49.1616,
+      "lon": 7.4087,
+      "population": 319
+    },
+    {
+      "insee": "57642",
+      "nom": "Scy-Chazelles",
+      "lat": 49.1148,
+      "lon": 6.1214,
+      "population": 2753
+    },
+    {
+      "insee": "57643",
+      "nom": "Secourt",
+      "lat": 48.9487,
+      "lon": 6.2732,
+      "population": 201
+    },
+    {
+      "insee": "57644",
+      "nom": "Seingbouse",
+      "lat": 49.1078,
+      "lon": 6.8319,
+      "population": 1722
+    },
+    {
+      "insee": "57645",
+      "nom": "Semécourt",
+      "lat": 49.1977,
+      "lon": 6.1359,
+      "population": 1024
+    },
+    {
+      "insee": "57647",
+      "nom": "Serémange-Erzange",
+      "lat": 49.3244,
+      "lon": 6.0906,
+      "population": 4251
+    },
+    {
+      "insee": "57648",
+      "nom": "Servigny-lès-Raville",
+      "lat": 49.0806,
+      "lon": 6.4434,
+      "population": 476
+    },
+    {
+      "insee": "57649",
+      "nom": "Servigny-lès-Sainte-Barbe",
+      "lat": 49.1486,
+      "lon": 6.2759,
+      "population": 462
+    },
+    {
+      "insee": "57650",
+      "nom": "Sierck-les-Bains",
+      "lat": 49.4368,
+      "lon": 6.3594,
+      "population": 1765
+    },
+    {
+      "insee": "57651",
+      "nom": "Siersthal",
+      "lat": 49.0487,
+      "lon": 7.3561,
+      "population": 646
+    },
+    {
+      "insee": "57652",
+      "nom": "Sillegny",
+      "lat": 48.9865,
+      "lon": 6.1435,
+      "population": 657
+    },
+    {
+      "insee": "57653",
+      "nom": "Silly-en-Saulnois",
+      "lat": 48.9916,
+      "lon": 6.2801,
+      "population": 35
+    },
+    {
+      "insee": "57654",
+      "nom": "Silly-sur-Nied",
+      "lat": 49.1238,
+      "lon": 6.3659,
+      "population": 719
+    },
+    {
+      "insee": "57655",
+      "nom": "Solgne",
+      "lat": 48.9706,
+      "lon": 6.297,
+      "population": 1133
+    },
+    {
+      "insee": "57656",
+      "nom": "Sorbey",
+      "lat": 49.0375,
+      "lon": 6.3159,
+      "population": 387
+    },
+    {
+      "insee": "57657",
+      "nom": "Sotzeling",
+      "lat": 48.8682,
+      "lon": 6.6374,
+      "population": 26
+    },
+    {
+      "insee": "57658",
+      "nom": "Soucht",
+      "lat": 48.9619,
+      "lon": 7.3227,
+      "population": 1013
+    },
+    {
+      "insee": "57659",
+      "nom": "Spicheren",
+      "lat": 49.1947,
+      "lon": 6.9706,
+      "population": 3143
+    },
+    {
+      "insee": "57660",
+      "nom": "Stiring-Wendel",
+      "lat": 49.2016,
+      "lon": 6.9321,
+      "population": 10956
+    },
+    {
+      "insee": "57767",
+      "nom": "Stuckange",
+      "lat": 49.3249,
+      "lon": 6.2328,
+      "population": 1515
+    },
+    {
+      "insee": "57661",
+      "nom": "Sturzelbronn",
+      "lat": 49.0516,
+      "lon": 7.5961,
+      "population": 168
+    },
+    {
+      "insee": "57662",
+      "nom": "Suisse",
+      "lat": 48.9686,
+      "lon": 6.5791,
+      "population": 94
+    },
+    {
+      "insee": "57663",
+      "nom": "Talange",
+      "lat": 49.2348,
+      "lon": 6.1684,
+      "population": 8120
+    },
+    {
+      "insee": "57664",
+      "nom": "Tarquimpol",
+      "lat": 48.7799,
+      "lon": 6.7612,
+      "population": 60
+    },
+    {
+      "insee": "57665",
+      "nom": "Tenteling",
+      "lat": 49.1228,
+      "lon": 6.9298,
+      "population": 1043
+    },
+    {
+      "insee": "57666",
+      "nom": "Terville",
+      "lat": 49.3454,
+      "lon": 6.1334,
+      "population": 7801
+    },
+    {
+      "insee": "57667",
+      "nom": "Téterchen",
+      "lat": 49.2293,
+      "lon": 6.5696,
+      "population": 757
+    },
+    {
+      "insee": "57668",
+      "nom": "Teting-sur-Nied",
+      "lat": 49.0563,
+      "lon": 6.6708,
+      "population": 1258
+    },
+    {
+      "insee": "57669",
+      "nom": "Théding",
+      "lat": 49.1294,
+      "lon": 6.8893,
+      "population": 2408
+    },
+    {
+      "insee": "57670",
+      "nom": "Thicourt",
+      "lat": 48.9899,
+      "lon": 6.5617,
+      "population": 132
+    },
+    {
+      "insee": "57671",
+      "nom": "Thimonville",
+      "lat": 48.9448,
+      "lon": 6.3953,
+      "population": 133
+    },
+    {
+      "insee": "57672",
+      "nom": "Thionville",
+      "lat": 49.3718,
+      "lon": 6.1443,
+      "population": 42658
+    },
+    {
+      "insee": "57673",
+      "nom": "Thonville",
+      "lat": 48.9805,
+      "lon": 6.5664,
+      "population": 52
+    },
+    {
+      "insee": "57674",
+      "nom": "Tincry",
+      "lat": 48.9077,
+      "lon": 6.4049,
+      "population": 169
+    },
+    {
+      "insee": "57675",
+      "nom": "Torcheville",
+      "lat": 48.904,
+      "lon": 6.8495,
+      "population": 119
+    },
+    {
+      "insee": "57676",
+      "nom": "Tragny",
+      "lat": 48.9562,
+      "lon": 6.3806,
+      "population": 87
+    },
+    {
+      "insee": "57677",
+      "nom": "Trémery",
+      "lat": 49.2538,
+      "lon": 6.248,
+      "population": 965
+    },
+    {
+      "insee": "57678",
+      "nom": "Tressange",
+      "lat": 49.4108,
+      "lon": 5.9836,
+      "population": 2470
+    },
+    {
+      "insee": "57679",
+      "nom": "Tritteling-Redlach",
+      "lat": 49.0766,
+      "lon": 6.6155,
+      "population": 509
+    },
+    {
+      "insee": "57680",
+      "nom": "Troisfontaines",
+      "lat": 48.668,
+      "lon": 7.1355,
+      "population": 1267
+    },
+    {
+      "insee": "57681",
+      "nom": "Tromborn",
+      "lat": 49.2607,
+      "lon": 6.5943,
+      "population": 339
+    },
+    {
+      "insee": "57682",
+      "nom": "Turquestein-Blancrupt",
+      "lat": 48.5686,
+      "lon": 7.0979,
+      "population": 11
+    },
+    {
+      "insee": "57683",
+      "nom": "Uckange",
+      "lat": 49.3069,
+      "lon": 6.1489,
+      "population": 7021
+    },
+    {
+      "insee": "57684",
+      "nom": "Vahl-Ebersing",
+      "lat": 49.0518,
+      "lon": 6.7455,
+      "population": 487
+    },
+    {
+      "insee": "57685",
+      "nom": "Vahl-lès-Bénestroff",
+      "lat": 48.9187,
+      "lon": 6.7873,
+      "population": 140
+    },
+    {
+      "insee": "57686",
+      "nom": "Vahl-lès-Faulquemont",
+      "lat": 49.0194,
+      "lon": 6.6324,
+      "population": 244
+    },
+    {
+      "insee": "57270",
+      "nom": "Val-de-Bride",
+      "lat": 48.8268,
+      "lon": 6.6874,
+      "population": 511
+    },
+    {
+      "insee": "57687",
+      "nom": "Vallerange",
+      "lat": 48.9499,
+      "lon": 6.6881,
+      "population": 211
+    },
+    {
+      "insee": "57689",
+      "nom": "Valmestroff",
+      "lat": 49.3578,
+      "lon": 6.2598,
+      "population": 364
+    },
+    {
+      "insee": "57690",
+      "nom": "Valmont",
+      "lat": 49.0797,
+      "lon": 6.6951,
+      "population": 3041
+    },
+    {
+      "insee": "57691",
+      "nom": "Valmunster",
+      "lat": 49.2485,
+      "lon": 6.5175,
+      "population": 88
+    },
+    {
+      "insee": "57692",
+      "nom": "Vannecourt",
+      "lat": 48.877,
+      "lon": 6.5328,
+      "population": 67
+    },
+    {
+      "insee": "57693",
+      "nom": "Vantoux",
+      "lat": 49.1336,
+      "lon": 6.2323,
+      "population": 823
+    },
+    {
+      "insee": "57694",
+      "nom": "Vany",
+      "lat": 49.153,
+      "lon": 6.2404,
+      "population": 478
+    },
+    {
+      "insee": "57695",
+      "nom": "Varize-Vaudoncourt",
+      "lat": 49.1239,
+      "lon": 6.4573,
+      "population": 508
+    },
+    {
+      "insee": "57696",
+      "nom": "Varsberg",
+      "lat": 49.1748,
+      "lon": 6.6174,
+      "population": 973
+    },
+    {
+      "insee": "57697",
+      "nom": "Vasperviller",
+      "lat": 48.6338,
+      "lon": 7.071,
+      "population": 322
+    },
+    {
+      "insee": "57698",
+      "nom": "Vatimont",
+      "lat": 48.9775,
+      "lon": 6.4759,
+      "population": 306
+    },
+    {
+      "insee": "57700",
+      "nom": "Vaudreching",
+      "lat": 49.2754,
+      "lon": 6.5208,
+      "population": 499
+    },
+    {
+      "insee": "57701",
+      "nom": "Vaux",
+      "lat": 49.0978,
+      "lon": 6.0735,
+      "population": 792
+    },
+    {
+      "insee": "57702",
+      "nom": "Vaxy",
+      "lat": 48.8574,
+      "lon": 6.5247,
+      "population": 169
+    },
+    {
+      "insee": "57703",
+      "nom": "Veckersviller",
+      "lat": 48.8265,
+      "lon": 7.1857,
+      "population": 230
+    },
+    {
+      "insee": "57704",
+      "nom": "Veckring",
+      "lat": 49.3343,
+      "lon": 6.3637,
+      "population": 659
+    },
+    {
+      "insee": "57705",
+      "nom": "Velving",
+      "lat": 49.2407,
+      "lon": 6.5408,
+      "population": 199
+    },
+    {
+      "insee": "57706",
+      "nom": "Vergaville",
+      "lat": 48.8425,
+      "lon": 6.7451,
+      "population": 529
+    },
+    {
+      "insee": "57707",
+      "nom": "Vernéville",
+      "lat": 49.1362,
+      "lon": 6.0085,
+      "population": 715
+    },
+    {
+      "insee": "57708",
+      "nom": "Verny",
+      "lat": 49.0098,
+      "lon": 6.2022,
+      "population": 2056
+    },
+    {
+      "insee": "57709",
+      "nom": "Vescheim",
+      "lat": 48.7943,
+      "lon": 7.2274,
+      "population": 305
+    },
+    {
+      "insee": "57711",
+      "nom": "Vibersviller",
+      "lat": 48.9057,
+      "lon": 6.9501,
+      "population": 381
+    },
+    {
+      "insee": "57712",
+      "nom": "Vic-sur-Seille",
+      "lat": 48.7759,
+      "lon": 6.5281,
+      "population": 1317
+    },
+    {
+      "insee": "57713",
+      "nom": "Vieux-Lixheim",
+      "lat": 48.7806,
+      "lon": 7.1241,
+      "population": 249
+    },
+    {
+      "insee": "57715",
+      "nom": "Vigny",
+      "lat": 48.9688,
+      "lon": 6.2534,
+      "population": 389
+    },
+    {
+      "insee": "57716",
+      "nom": "Vigy",
+      "lat": 49.2084,
+      "lon": 6.3126,
+      "population": 1522
+    },
+    {
+      "insee": "57717",
+      "nom": "Viller",
+      "lat": 48.9878,
+      "lon": 6.6465,
+      "population": 176
+    },
+    {
+      "insee": "57718",
+      "nom": "Villers-Stoncourt",
+      "lat": 49.0572,
+      "lon": 6.4479,
+      "population": 225
+    },
+    {
+      "insee": "57719",
+      "nom": "Villers-sur-Nied",
+      "lat": 48.9251,
+      "lon": 6.5283,
+      "population": 81
+    },
+    {
+      "insee": "57720",
+      "nom": "Villing",
+      "lat": 49.2816,
+      "lon": 6.63,
+      "population": 511
+    },
+    {
+      "insee": "57721",
+      "nom": "Vilsberg",
+      "lat": 48.7893,
+      "lon": 7.2632,
+      "population": 348
+    },
+    {
+      "insee": "57723",
+      "nom": "Virming",
+      "lat": 48.9423,
+      "lon": 6.7512,
+      "population": 297
+    },
+    {
+      "insee": "57724",
+      "nom": "Vitry-sur-Orne",
+      "lat": 49.2761,
+      "lon": 6.0937,
+      "population": 2884
+    },
+    {
+      "insee": "57725",
+      "nom": "Vittersbourg",
+      "lat": 48.9485,
+      "lon": 6.934,
+      "population": 334
+    },
+    {
+      "insee": "57726",
+      "nom": "Vittoncourt",
+      "lat": 49.0247,
+      "lon": 6.4525,
+      "population": 390
+    },
+    {
+      "insee": "57727",
+      "nom": "Viviers",
+      "lat": 48.8949,
+      "lon": 6.4378,
+      "population": 120
+    },
+    {
+      "insee": "57749",
+      "nom": "Vœlfling-lès-Bouzonville",
+      "lat": 49.2929,
+      "lon": 6.604,
+      "population": 170
+    },
+    {
+      "insee": "57728",
+      "nom": "Voimhaut",
+      "lat": 49.0255,
+      "lon": 6.422,
+      "population": 247
+    },
+    {
+      "insee": "57730",
+      "nom": "Volmerange-lès-Boulay",
+      "lat": 49.1705,
+      "lon": 6.4459,
+      "population": 548
+    },
+    {
+      "insee": "57731",
+      "nom": "Volmerange-les-Mines",
+      "lat": 49.4471,
+      "lon": 6.0673,
+      "population": 2289
+    },
+    {
+      "insee": "57732",
+      "nom": "Volmunster",
+      "lat": 49.1151,
+      "lon": 7.369,
+      "population": 777
+    },
+    {
+      "insee": "57733",
+      "nom": "Volstroff",
+      "lat": 49.299,
+      "lon": 6.2492,
+      "population": 2044
+    },
+    {
+      "insee": "57734",
+      "nom": "Voyer",
+      "lat": 48.6506,
+      "lon": 7.0933,
+      "population": 445
+    },
+    {
+      "insee": "57736",
+      "nom": "Vry",
+      "lat": 49.1941,
+      "lon": 6.36,
+      "population": 631
+    },
+    {
+      "insee": "57737",
+      "nom": "Vulmont",
+      "lat": 48.9254,
+      "lon": 6.3063,
+      "population": 31
+    },
+    {
+      "insee": "57738",
+      "nom": "Waldhouse",
+      "lat": 49.1419,
+      "lon": 7.4592,
+      "population": 347
+    },
+    {
+      "insee": "57739",
+      "nom": "Waldweistroff",
+      "lat": 49.357,
+      "lon": 6.4965,
+      "population": 522
+    },
+    {
+      "insee": "57740",
+      "nom": "Waldwisse",
+      "lat": 49.4136,
+      "lon": 6.522,
+      "population": 804
+    },
+    {
+      "insee": "57741",
+      "nom": "Walschbronn",
+      "lat": 49.1514,
+      "lon": 7.4676,
+      "population": 384
+    },
+    {
+      "insee": "57742",
+      "nom": "Walscheid",
+      "lat": 48.6155,
+      "lon": 7.1866,
+      "population": 1459
+    },
+    {
+      "insee": "57743",
+      "nom": "Waltembourg",
+      "lat": 48.7488,
+      "lon": 7.1958,
+      "population": 227
+    },
+    {
+      "insee": "57745",
+      "nom": "Wiesviller",
+      "lat": 49.0786,
+      "lon": 7.165,
+      "population": 914
+    },
+    {
+      "insee": "57746",
+      "nom": "Willerwald",
+      "lat": 49.0223,
+      "lon": 7.034,
+      "population": 1517
+    },
+    {
+      "insee": "57747",
+      "nom": "Wintersbourg",
+      "lat": 48.7919,
+      "lon": 7.1919,
+      "population": 262
+    },
+    {
+      "insee": "57748",
+      "nom": "Wittring",
+      "lat": 49.0515,
+      "lon": 7.1336,
+      "population": 736
+    },
+    {
+      "insee": "57750",
+      "nom": "Wœlfling-lès-Sarreguemines",
+      "lat": 49.0834,
+      "lon": 7.1801,
+      "population": 700
+    },
+    {
+      "insee": "57751",
+      "nom": "Woippy",
+      "lat": 49.1651,
+      "lon": 6.1552,
+      "population": 14967
+    },
+    {
+      "insee": "57752",
+      "nom": "Woustviller",
+      "lat": 49.0797,
+      "lon": 7.0062,
+      "population": 2786
+    },
+    {
+      "insee": "57753",
+      "nom": "Wuisse",
+      "lat": 48.856,
+      "lon": 6.6672,
+      "population": 62
+    },
+    {
+      "insee": "57754",
+      "nom": "Xanrey",
+      "lat": 48.7497,
+      "lon": 6.5858,
+      "population": 110
+    },
+    {
+      "insee": "57755",
+      "nom": "Xocourt",
+      "lat": 48.9111,
+      "lon": 6.3767,
+      "population": 99
+    },
+    {
+      "insee": "57756",
+      "nom": "Xouaxange",
+      "lat": 48.6927,
+      "lon": 6.9919,
+      "population": 325
+    },
+    {
+      "insee": "57757",
+      "nom": "Yutz",
+      "lat": 49.357,
+      "lon": 6.2,
+      "population": 17391
+    },
+    {
+      "insee": "57759",
+      "nom": "Zarbeling",
+      "lat": 48.8885,
+      "lon": 6.6906,
+      "population": 68
+    },
+    {
+      "insee": "57760",
+      "nom": "Zetting",
+      "lat": 49.0733,
+      "lon": 7.1237,
+      "population": 875
+    },
+    {
+      "insee": "57761",
+      "nom": "Zilling",
+      "lat": 48.7878,
+      "lon": 7.2107,
+      "population": 279
+    },
+    {
+      "insee": "57762",
+      "nom": "Zimming",
+      "lat": 49.1296,
+      "lon": 6.5869,
+      "population": 710
+    },
+    {
+      "insee": "57763",
+      "nom": "Zommange",
+      "lat": 48.8224,
+      "lon": 6.8025,
+      "population": 43
+    },
+    {
+      "insee": "57764",
+      "nom": "Zoufftgen",
+      "lat": 49.4659,
+      "lon": 6.1375,
+      "population": 1264
+    }
+  ]
+}

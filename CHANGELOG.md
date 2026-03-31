@@ -1,5 +1,62 @@
 # Changelog
 
+## v0.11.2 - 2026-03-31
+
+### Fixed
+- `Retirer` un engin engage ne le teleporte plus instantanement a la caserne.
+- Si l'engin est en `trajet` / `sur_place` / `transport` / `retour`, il passe en retour reel avec un delai avant disponibilite.
+- L'effectif du vehicule retire reste compte indisponible pendant son retour vers caserne.
+
+## v0.11.1 - 2026-03-31
+
+### Fixed
+- Les profils `degrade` (ex: `SUAP_DEGRADE`) sont de nouveau proposes meme sans profil nominal selectionne.
+- Reengagement d'un vehicule en `retour`: calcul base sur l'equipage embarque, plus sur l'effectif restant en caserne.
+- Reengagement en `retour`: depart immediat (`departDelay = 0`) au lieu d'un delai poste/astreinte.
+
+### Added
+- Actions sur moyens deja engages depuis le detail intervention:
+  - `Retirer` un engin engage,
+  - `Modifier` un engin engage (retrait + remise en selection).
+
+## v0.11.0 - 2026-03-31
+
+### Added
+- Mode "territoire" au premier lancement: choix du departement dans un catalogue de packs.
+- Chargement dynamique des communes depuis `packs/fr/departements/<code>/communes.json`.
+- Conversion automatique des communes en zones de jeu (`dynamicZones`) avec population.
+- Nouveau panneau "Configuration territoire".
+- Script `tools/build-national-db.js` pour generer des packs departement depuis une base nationale JSON.
+- Pack de test Loiret (`45`) fourni (`packs/fr/...`).
+
+### Changed
+- Le moteur de zones lit maintenant les zones dynamiques quand un territoire est configure.
+- Le panneau "A propos" affiche le territoire courant.
+
+## v0.10.1 - 2026-03-31
+
+### Added
+- Calcul dynamique de zone d'influence par caserne (distance + population des communes).
+- Affichage de la zone d'influence dans le panneau Casernes:
+  - nombre de communes,
+  - population couverte.
+
+### Changed
+- Generation des interventions: le choix de zone est maintenant pondere par influence caserne au lieu d'un poids statique seul.
+- Nouveau parametrage `SETTINGS.zoneInfluence` (`radiusKm`, `minFactor`).
+
+## v0.10.0 - 2026-03-30
+
+### Added
+- Nouveau panneau `A propos` dans l'interface (version, mode courant, recap rapide).
+- Badge de mode visible dans le header:
+  - `Mode offline (sauvegarde locale)`
+  - `Mode online (profil cloud)`
+- Checklist release ajoutee et exposee dans l'app + README.
+
+### Changed
+- Workflow de release clarifie pour preparer les prochaines versions publiques.
+
 ## v0.9.4 - 2026-03-29
 
 ### Fixed

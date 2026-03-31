@@ -1,0 +1,1071 @@
+{
+  "country": "FR",
+  "departmentCode": "48",
+  "label": "Departement 48",
+  "communes": [
+    {
+      "insee": "48001",
+      "nom": "Albaret-le-Comtal",
+      "lat": 44.8641,
+      "lon": 3.1446,
+      "population": 131
+    },
+    {
+      "insee": "48002",
+      "nom": "Albaret-Sainte-Marie",
+      "lat": 44.8804,
+      "lon": 3.2536,
+      "population": 559
+    },
+    {
+      "insee": "48003",
+      "nom": "Allenc",
+      "lat": 44.55,
+      "lon": 3.6778,
+      "population": 265
+    },
+    {
+      "insee": "48004",
+      "nom": "Altier",
+      "lat": 44.457,
+      "lon": 3.8559,
+      "population": 213
+    },
+    {
+      "insee": "48005",
+      "nom": "Antrenas",
+      "lat": 44.5894,
+      "lon": 3.2544,
+      "population": 331
+    },
+    {
+      "insee": "48007",
+      "nom": "Arzenc-d'Apcher",
+      "lat": 44.8448,
+      "lon": 3.1129,
+      "population": 52
+    },
+    {
+      "insee": "48008",
+      "nom": "Arzenc-de-Randon",
+      "lat": 44.6598,
+      "lon": 3.608,
+      "population": 191
+    },
+    {
+      "insee": "48010",
+      "nom": "Auroux",
+      "lat": 44.761,
+      "lon": 3.7209,
+      "population": 364
+    },
+    {
+      "insee": "48013",
+      "nom": "Badaroux",
+      "lat": 44.5476,
+      "lon": 3.5611,
+      "population": 930
+    },
+    {
+      "insee": "48016",
+      "nom": "Balsièges",
+      "lat": 44.477,
+      "lon": 3.4436,
+      "population": 608
+    },
+    {
+      "insee": "48017",
+      "nom": "Banassac-Canilhac",
+      "lat": 44.4296,
+      "lon": 3.1693,
+      "population": 1064
+    },
+    {
+      "insee": "48018",
+      "nom": "Barjac",
+      "lat": 44.5231,
+      "lon": 3.4037,
+      "population": 806
+    },
+    {
+      "insee": "48019",
+      "nom": "Barre-des-Cévennes",
+      "lat": 44.2551,
+      "lon": 3.6746,
+      "population": 200
+    },
+    {
+      "insee": "48020",
+      "nom": "Bassurels",
+      "lat": 44.1627,
+      "lon": 3.6013,
+      "population": 62
+    },
+    {
+      "insee": "48050",
+      "nom": "Bédouès-Cocurès",
+      "lat": 44.348,
+      "lon": 3.6415,
+      "population": 457
+    },
+    {
+      "insee": "48038",
+      "nom": "Bel-Air-Val-d'Ance",
+      "lat": 44.8424,
+      "lon": 3.6279,
+      "population": 532
+    },
+    {
+      "insee": "48026",
+      "nom": "Blavignac",
+      "lat": 44.8691,
+      "lon": 3.2867,
+      "population": 252
+    },
+    {
+      "insee": "48099",
+      "nom": "Bourgs sur Colagne",
+      "lat": 44.5323,
+      "lon": 3.2317,
+      "population": 2091
+    },
+    {
+      "insee": "48030",
+      "nom": "Brenoux",
+      "lat": 44.4872,
+      "lon": 3.5332,
+      "population": 384
+    },
+    {
+      "insee": "48031",
+      "nom": "Brion",
+      "lat": 44.7458,
+      "lon": 3.0779,
+      "population": 88
+    },
+    {
+      "insee": "48166",
+      "nom": "Cans et Cévennes",
+      "lat": 44.2834,
+      "lon": 3.6443,
+      "population": 282
+    },
+    {
+      "insee": "48036",
+      "nom": "Cassagnas",
+      "lat": 44.2803,
+      "lon": 3.7291,
+      "population": 126
+    },
+    {
+      "insee": "48037",
+      "nom": "Chadenet",
+      "lat": 44.5081,
+      "lon": 3.6415,
+      "population": 123
+    },
+    {
+      "insee": "48039",
+      "nom": "Chanac",
+      "lat": 44.4549,
+      "lon": 3.3462,
+      "population": 1404
+    },
+    {
+      "insee": "48041",
+      "nom": "Chastanier",
+      "lat": 44.7247,
+      "lon": 3.7508,
+      "population": 76
+    },
+    {
+      "insee": "48042",
+      "nom": "Chastel-Nouvel",
+      "lat": 44.567,
+      "lon": 3.4904,
+      "population": 938
+    },
+    {
+      "insee": "48043",
+      "nom": "Châteauneuf-de-Randon",
+      "lat": 44.6479,
+      "lon": 3.6877,
+      "population": 516
+    },
+    {
+      "insee": "48044",
+      "nom": "Chauchailles",
+      "lat": 44.7968,
+      "lon": 3.0753,
+      "population": 75
+    },
+    {
+      "insee": "48045",
+      "nom": "Chaudeyrac",
+      "lat": 44.644,
+      "lon": 3.751,
+      "population": 291
+    },
+    {
+      "insee": "48046",
+      "nom": "Chaulhac",
+      "lat": 44.9195,
+      "lon": 3.2667,
+      "population": 58
+    },
+    {
+      "insee": "48048",
+      "nom": "Cheylard-l'Évêque",
+      "lat": 44.639,
+      "lon": 3.8096,
+      "population": 65
+    },
+    {
+      "insee": "48053",
+      "nom": "Cubières",
+      "lat": 44.4718,
+      "lon": 3.7905,
+      "population": 187
+    },
+    {
+      "insee": "48054",
+      "nom": "Cubiérettes",
+      "lat": 44.4448,
+      "lon": 3.7871,
+      "population": 44
+    },
+    {
+      "insee": "48055",
+      "nom": "Cultures",
+      "lat": 44.4899,
+      "lon": 3.3822,
+      "population": 189
+    },
+    {
+      "insee": "48056",
+      "nom": "Esclanèdes",
+      "lat": 44.4843,
+      "lon": 3.3706,
+      "population": 427
+    },
+    {
+      "insee": "48061",
+      "nom": "Florac Trois Rivières",
+      "lat": 44.3189,
+      "lon": 3.6268,
+      "population": 2100
+    },
+    {
+      "insee": "48063",
+      "nom": "Fontans",
+      "lat": 44.7434,
+      "lon": 3.3795,
+      "population": 218
+    },
+    {
+      "insee": "48064",
+      "nom": "Fournels",
+      "lat": 44.8099,
+      "lon": 3.1294,
+      "population": 371
+    },
+    {
+      "insee": "48065",
+      "nom": "Fraissinet-de-Fourques",
+      "lat": 44.207,
+      "lon": 3.5362,
+      "population": 83
+    },
+    {
+      "insee": "48067",
+      "nom": "Gabriac",
+      "lat": 44.1821,
+      "lon": 3.7104,
+      "population": 102
+    },
+    {
+      "insee": "48068",
+      "nom": "Gabrias",
+      "lat": 44.5522,
+      "lon": 3.3848,
+      "population": 158
+    },
+    {
+      "insee": "48069",
+      "nom": "Gatuzières",
+      "lat": 44.1878,
+      "lon": 3.5079,
+      "population": 52
+    },
+    {
+      "insee": "48146",
+      "nom": "Gorges du Tarn Causses",
+      "lat": 44.3635,
+      "lon": 3.4574,
+      "population": 881
+    },
+    {
+      "insee": "48070",
+      "nom": "Grandrieu",
+      "lat": 44.7748,
+      "lon": 3.64,
+      "population": 736
+    },
+    {
+      "insee": "48071",
+      "nom": "Grandvals",
+      "lat": 44.7333,
+      "lon": 3.0552,
+      "population": 61
+    },
+    {
+      "insee": "48072",
+      "nom": "Grèzes",
+      "lat": 44.5154,
+      "lon": 3.3405,
+      "population": 195
+    },
+    {
+      "insee": "48074",
+      "nom": "Hures-la-Parade",
+      "lat": 44.2479,
+      "lon": 3.3851,
+      "population": 242
+    },
+    {
+      "insee": "48075",
+      "nom": "Ispagnac",
+      "lat": 44.4009,
+      "lon": 3.5315,
+      "population": 895
+    },
+    {
+      "insee": "48077",
+      "nom": "Julianges",
+      "lat": 44.9368,
+      "lon": 3.3212,
+      "population": 50
+    },
+    {
+      "insee": "48021",
+      "nom": "La Bastide-Puylaurent",
+      "lat": 44.5662,
+      "lon": 3.8882,
+      "population": 167
+    },
+    {
+      "insee": "48034",
+      "nom": "La Canourgue",
+      "lat": 44.4253,
+      "lon": 3.2583,
+      "population": 2074
+    },
+    {
+      "insee": "48058",
+      "nom": "La Fage-Montivernoux",
+      "lat": 44.7504,
+      "lon": 3.1484,
+      "population": 131
+    },
+    {
+      "insee": "48059",
+      "nom": "La Fage-Saint-Julien",
+      "lat": 44.8008,
+      "lon": 3.2117,
+      "population": 303
+    },
+    {
+      "insee": "48088",
+      "nom": "La Malène",
+      "lat": 44.3073,
+      "lon": 3.3164,
+      "population": 130
+    },
+    {
+      "insee": "48108",
+      "nom": "La Panouse",
+      "lat": 44.7375,
+      "lon": 3.5885,
+      "population": 94
+    },
+    {
+      "insee": "48191",
+      "nom": "La Tieule",
+      "lat": 44.3828,
+      "lon": 3.1691,
+      "population": 94
+    },
+    {
+      "insee": "48126",
+      "nom": "Lachamp-Ribennes",
+      "lat": 44.6275,
+      "lon": 3.3849,
+      "population": 379
+    },
+    {
+      "insee": "48079",
+      "nom": "Lajo",
+      "lat": 44.8263,
+      "lon": 3.4367,
+      "population": 114
+    },
+    {
+      "insee": "48080",
+      "nom": "Langogne",
+      "lat": 44.7211,
+      "lon": 3.8318,
+      "population": 2836
+    },
+    {
+      "insee": "48081",
+      "nom": "Lanuéjols",
+      "lat": 44.4895,
+      "lon": 3.5813,
+      "population": 373
+    },
+    {
+      "insee": "48082",
+      "nom": "Laubert",
+      "lat": 44.5956,
+      "lon": 3.6434,
+      "population": 102
+    },
+    {
+      "insee": "48085",
+      "nom": "Laval-du-Tarn",
+      "lat": 44.3762,
+      "lon": 3.3511,
+      "population": 108
+    },
+    {
+      "insee": "48029",
+      "nom": "Le Born",
+      "lat": 44.5874,
+      "lon": 3.5569,
+      "population": 156
+    },
+    {
+      "insee": "48032",
+      "nom": "Le Buisson",
+      "lat": 44.6301,
+      "lon": 3.2198,
+      "population": 221
+    },
+    {
+      "insee": "48051",
+      "nom": "Le Collet-de-Dèze",
+      "lat": 44.2585,
+      "lon": 3.9209,
+      "population": 684
+    },
+    {
+      "insee": "48089",
+      "nom": "Le Malzieu-Forain",
+      "lat": 44.8715,
+      "lon": 3.3894,
+      "population": 484
+    },
+    {
+      "insee": "48090",
+      "nom": "Le Malzieu-Ville",
+      "lat": 44.8612,
+      "lon": 3.3403,
+      "population": 745
+    },
+    {
+      "insee": "48115",
+      "nom": "Le Pompidou",
+      "lat": 44.2062,
+      "lon": 3.6636,
+      "population": 184
+    },
+    {
+      "insee": "48131",
+      "nom": "Le Rozier",
+      "lat": 44.1972,
+      "lon": 3.2173,
+      "population": 126
+    },
+    {
+      "insee": "48025",
+      "nom": "Les Bessons",
+      "lat": 44.7747,
+      "lon": 3.236,
+      "population": 421
+    },
+    {
+      "insee": "48028",
+      "nom": "Les Bondons",
+      "lat": 44.3992,
+      "lon": 3.6364,
+      "population": 139
+    },
+    {
+      "insee": "48073",
+      "nom": "Les Hermaux",
+      "lat": 44.5182,
+      "lon": 3.1312,
+      "population": 108
+    },
+    {
+      "insee": "48083",
+      "nom": "Les Laubies",
+      "lat": 44.7001,
+      "lon": 3.4461,
+      "population": 151
+    },
+    {
+      "insee": "48012",
+      "nom": "Les Monts-Verts",
+      "lat": 44.8482,
+      "lon": 3.2183,
+      "population": 313
+    },
+    {
+      "insee": "48187",
+      "nom": "Les Salces",
+      "lat": 44.5568,
+      "lon": 3.1316,
+      "population": 83
+    },
+    {
+      "insee": "48185",
+      "nom": "Les Salelles",
+      "lat": 44.484,
+      "lon": 3.2764,
+      "population": 167
+    },
+    {
+      "insee": "48086",
+      "nom": "Luc",
+      "lat": 44.642,
+      "lon": 3.8662,
+      "population": 208
+    },
+    {
+      "insee": "48091",
+      "nom": "Marchastel",
+      "lat": 44.6421,
+      "lon": 3.1077,
+      "population": 44
+    },
+    {
+      "insee": "48092",
+      "nom": "Marvejols",
+      "lat": 44.5549,
+      "lon": 3.2878,
+      "population": 4764
+    },
+    {
+      "insee": "48141",
+      "nom": "Mas-Saint-Chély",
+      "lat": 44.3144,
+      "lon": 3.4098,
+      "population": 112
+    },
+    {
+      "insee": "48094",
+      "nom": "Massegros Causses Gorges",
+      "lat": 44.308,
+      "lon": 3.2055,
+      "population": 935
+    },
+    {
+      "insee": "48095",
+      "nom": "Mende",
+      "lat": 44.5349,
+      "lon": 3.4909,
+      "population": 12464
+    },
+    {
+      "insee": "48096",
+      "nom": "Meyrueis",
+      "lat": 44.1723,
+      "lon": 3.4644,
+      "population": 770
+    },
+    {
+      "insee": "48097",
+      "nom": "Moissac-Vallée-Française",
+      "lat": 44.1587,
+      "lon": 3.792,
+      "population": 216
+    },
+    {
+      "insee": "48098",
+      "nom": "Molezon",
+      "lat": 44.2151,
+      "lon": 3.691,
+      "population": 99
+    },
+    {
+      "insee": "48027",
+      "nom": "Mont Lozère et Goulet",
+      "lat": 44.5099,
+      "lon": 3.749,
+      "population": 1098
+    },
+    {
+      "insee": "48100",
+      "nom": "Montbel",
+      "lat": 44.5992,
+      "lon": 3.7182,
+      "population": 146
+    },
+    {
+      "insee": "48103",
+      "nom": "Montrodat",
+      "lat": 44.5586,
+      "lon": 3.33,
+      "population": 1174
+    },
+    {
+      "insee": "48127",
+      "nom": "Monts-de-Randon",
+      "lat": 44.6531,
+      "lon": 3.4762,
+      "population": 1209
+    },
+    {
+      "insee": "48104",
+      "nom": "Nasbinals",
+      "lat": 44.646,
+      "lon": 3.0462,
+      "population": 571
+    },
+    {
+      "insee": "48105",
+      "nom": "Naussac-Fontanes",
+      "lat": 44.7638,
+      "lon": 3.7986,
+      "population": 372
+    },
+    {
+      "insee": "48106",
+      "nom": "Noalhac",
+      "lat": 44.8006,
+      "lon": 3.1159,
+      "population": 94
+    },
+    {
+      "insee": "48107",
+      "nom": "Palhers",
+      "lat": 44.516,
+      "lon": 3.3091,
+      "population": 200
+    },
+    {
+      "insee": "48110",
+      "nom": "Paulhac-en-Margeride",
+      "lat": 44.9467,
+      "lon": 3.3853,
+      "population": 87
+    },
+    {
+      "insee": "48111",
+      "nom": "Pelouse",
+      "lat": 44.577,
+      "lon": 3.6095,
+      "population": 231
+    },
+    {
+      "insee": "48009",
+      "nom": "Peyre en Aubrac",
+      "lat": 44.6923,
+      "lon": 3.273,
+      "population": 2296
+    },
+    {
+      "insee": "48015",
+      "nom": "Pied-de-Borne",
+      "lat": 44.4839,
+      "lon": 3.9685,
+      "population": 208
+    },
+    {
+      "insee": "48112",
+      "nom": "Pierrefiche",
+      "lat": 44.6829,
+      "lon": 3.7343,
+      "population": 158
+    },
+    {
+      "insee": "48116",
+      "nom": "Pont de Montvert - Sud Mont Lozère",
+      "lat": 44.3684,
+      "lon": 3.7777,
+      "population": 557
+    },
+    {
+      "insee": "48117",
+      "nom": "Pourcharesses",
+      "lat": 44.4413,
+      "lon": 3.891,
+      "population": 130
+    },
+    {
+      "insee": "48119",
+      "nom": "Prévenchères",
+      "lat": 44.5144,
+      "lon": 3.9119,
+      "population": 267
+    },
+    {
+      "insee": "48087",
+      "nom": "Prinsuéjols-Malbouzon",
+      "lat": 44.6787,
+      "lon": 3.1565,
+      "population": 246
+    },
+    {
+      "insee": "48121",
+      "nom": "Prunières",
+      "lat": 44.8186,
+      "lon": 3.3294,
+      "population": 226
+    },
+    {
+      "insee": "48123",
+      "nom": "Recoules-d'Aubrac",
+      "lat": 44.686,
+      "lon": 3.0364,
+      "population": 165
+    },
+    {
+      "insee": "48124",
+      "nom": "Recoules-de-Fumas",
+      "lat": 44.6327,
+      "lon": 3.3299,
+      "population": 98
+    },
+    {
+      "insee": "48128",
+      "nom": "Rimeize",
+      "lat": 44.7626,
+      "lon": 3.3194,
+      "population": 623
+    },
+    {
+      "insee": "48129",
+      "nom": "Rocles",
+      "lat": 44.7053,
+      "lon": 3.7862,
+      "population": 249
+    },
+    {
+      "insee": "48130",
+      "nom": "Rousses",
+      "lat": 44.1942,
+      "lon": 3.5697,
+      "population": 115
+    },
+    {
+      "insee": "48139",
+      "nom": "Saint Bonnet-Laval",
+      "lat": 44.8105,
+      "lon": 3.7096,
+      "population": 258
+    },
+    {
+      "insee": "48132",
+      "nom": "Saint-Alban-sur-Limagnole",
+      "lat": 44.7972,
+      "lon": 3.4053,
+      "population": 1385
+    },
+    {
+      "insee": "48135",
+      "nom": "Saint-André-Capcèze",
+      "lat": 44.4167,
+      "lon": 3.9446,
+      "population": 206
+    },
+    {
+      "insee": "48136",
+      "nom": "Saint-André-de-Lancize",
+      "lat": 44.2723,
+      "lon": 3.7945,
+      "population": 151
+    },
+    {
+      "insee": "48137",
+      "nom": "Saint-Bauzile",
+      "lat": 44.4702,
+      "lon": 3.4969,
+      "population": 585
+    },
+    {
+      "insee": "48138",
+      "nom": "Saint-Bonnet-de-Chirac",
+      "lat": 44.5021,
+      "lon": 3.2745,
+      "population": 72
+    },
+    {
+      "insee": "48140",
+      "nom": "Saint-Chély-d'Apcher",
+      "lat": 44.8144,
+      "lon": 3.2783,
+      "population": 3955
+    },
+    {
+      "insee": "48145",
+      "nom": "Saint-Denis-en-Margeride",
+      "lat": 44.7377,
+      "lon": 3.4717,
+      "population": 148
+    },
+    {
+      "insee": "48147",
+      "nom": "Saint-Étienne-du-Valdonnez",
+      "lat": 44.4449,
+      "lon": 3.5811,
+      "population": 644
+    },
+    {
+      "insee": "48148",
+      "nom": "Saint-Étienne-Vallée-Française",
+      "lat": 44.1736,
+      "lon": 3.8492,
+      "population": 493
+    },
+    {
+      "insee": "48150",
+      "nom": "Saint-Flour-de-Mercoire",
+      "lat": 44.6823,
+      "lon": 3.8313,
+      "population": 185
+    },
+    {
+      "insee": "48151",
+      "nom": "Saint-Frézal-d'Albuges",
+      "lat": 44.5785,
+      "lon": 3.7653,
+      "population": 62
+    },
+    {
+      "insee": "48153",
+      "nom": "Saint-Gal",
+      "lat": 44.6678,
+      "lon": 3.4162,
+      "population": 89
+    },
+    {
+      "insee": "48155",
+      "nom": "Saint-Germain-de-Calberte",
+      "lat": 44.2263,
+      "lon": 3.8217,
+      "population": 456
+    },
+    {
+      "insee": "48156",
+      "nom": "Saint-Germain-du-Teil",
+      "lat": 44.4841,
+      "lon": 3.175,
+      "population": 858
+    },
+    {
+      "insee": "48158",
+      "nom": "Saint-Hilaire-de-Lavit",
+      "lat": 44.2521,
+      "lon": 3.8551,
+      "population": 104
+    },
+    {
+      "insee": "48160",
+      "nom": "Saint-Jean-la-Fouillouse",
+      "lat": 44.7053,
+      "lon": 3.6924,
+      "population": 125
+    },
+    {
+      "insee": "48161",
+      "nom": "Saint-Juéry",
+      "lat": 44.8296,
+      "lon": 3.0839,
+      "population": 51
+    },
+    {
+      "insee": "48163",
+      "nom": "Saint-Julien-des-Points",
+      "lat": 44.2595,
+      "lon": 3.9611,
+      "population": 121
+    },
+    {
+      "insee": "48165",
+      "nom": "Saint-Laurent-de-Muret",
+      "lat": 44.6001,
+      "lon": 3.1752,
+      "population": 193
+    },
+    {
+      "insee": "48167",
+      "nom": "Saint-Laurent-de-Veyrès",
+      "lat": 44.7662,
+      "lon": 3.1231,
+      "population": 31
+    },
+    {
+      "insee": "48168",
+      "nom": "Saint-Léger-de-Peyre",
+      "lat": 44.6048,
+      "lon": 3.3059,
+      "population": 184
+    },
+    {
+      "insee": "48169",
+      "nom": "Saint-Léger-du-Malzieu",
+      "lat": 44.8977,
+      "lon": 3.3143,
+      "population": 212
+    },
+    {
+      "insee": "48170",
+      "nom": "Saint-Martin-de-Boubaux",
+      "lat": 44.1927,
+      "lon": 3.9268,
+      "population": 196
+    },
+    {
+      "insee": "48171",
+      "nom": "Saint-Martin-de-Lansuscle",
+      "lat": 44.219,
+      "lon": 3.7493,
+      "population": 191
+    },
+    {
+      "insee": "48173",
+      "nom": "Saint-Michel-de-Dèze",
+      "lat": 44.247,
+      "lon": 3.881,
+      "population": 226
+    },
+    {
+      "insee": "48174",
+      "nom": "Saint-Paul-le-Froid",
+      "lat": 44.7932,
+      "lon": 3.5404,
+      "population": 132
+    },
+    {
+      "insee": "48175",
+      "nom": "Saint-Pierre-de-Nogaret",
+      "lat": 44.4896,
+      "lon": 3.1256,
+      "population": 174
+    },
+    {
+      "insee": "48176",
+      "nom": "Saint-Pierre-des-Tripiers",
+      "lat": 44.2243,
+      "lon": 3.2749,
+      "population": 99
+    },
+    {
+      "insee": "48177",
+      "nom": "Saint-Pierre-le-Vieux",
+      "lat": 44.8438,
+      "lon": 3.308,
+      "population": 308
+    },
+    {
+      "insee": "48178",
+      "nom": "Saint-Privat-de-Vallongue",
+      "lat": 44.2885,
+      "lon": 3.8341,
+      "population": 274
+    },
+    {
+      "insee": "48179",
+      "nom": "Saint-Privat-du-Fau",
+      "lat": 44.917,
+      "lon": 3.3597,
+      "population": 115
+    },
+    {
+      "insee": "48181",
+      "nom": "Saint-Saturnin",
+      "lat": 44.4059,
+      "lon": 3.1949,
+      "population": 56
+    },
+    {
+      "insee": "48182",
+      "nom": "Saint-Sauveur-de-Ginestoux",
+      "lat": 44.71,
+      "lon": 3.6076,
+      "population": 60
+    },
+    {
+      "insee": "48144",
+      "nom": "Sainte-Croix-Vallée-Française",
+      "lat": 44.1868,
+      "lon": 3.7452,
+      "population": 303
+    },
+    {
+      "insee": "48149",
+      "nom": "Sainte-Eulalie",
+      "lat": 44.7831,
+      "lon": 3.4912,
+      "population": 37
+    },
+    {
+      "insee": "48157",
+      "nom": "Sainte-Hélène",
+      "lat": 44.5192,
+      "lon": 3.6023,
+      "population": 97
+    },
+    {
+      "insee": "48188",
+      "nom": "Serverette",
+      "lat": 44.7008,
+      "lon": 3.3917,
+      "population": 261
+    },
+    {
+      "insee": "48190",
+      "nom": "Termes",
+      "lat": 44.8219,
+      "lon": 3.1683,
+      "population": 214
+    },
+    {
+      "insee": "48192",
+      "nom": "Trélans",
+      "lat": 44.5244,
+      "lon": 3.0974,
+      "population": 88
+    },
+    {
+      "insee": "48193",
+      "nom": "Vebron",
+      "lat": 44.2513,
+      "lon": 3.5491,
+      "population": 225
+    },
+    {
+      "insee": "48152",
+      "nom": "Ventalon en Cévennes",
+      "lat": 44.2975,
+      "lon": 3.8764,
+      "population": 253
+    },
+    {
+      "insee": "48194",
+      "nom": "Vialas",
+      "lat": 44.3466,
+      "lon": 3.893,
+      "population": 447
+    },
+    {
+      "insee": "48198",
+      "nom": "Villefort",
+      "lat": 44.4429,
+      "lon": 3.9293,
+      "population": 618
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "country": "FR",
+  "departmentCode": "84",
+  "label": "Departement 84",
+  "communes": [
+    {
+      "insee": "84001",
+      "nom": "Althen-des-Paluds",
+      "lat": 44.0055,
+      "lon": 4.9585,
+      "population": 2960
+    },
+    {
+      "insee": "84002",
+      "nom": "Ansouis",
+      "lat": 43.7338,
+      "lon": 5.4682,
+      "population": 1064
+    },
+    {
+      "insee": "84003",
+      "nom": "Apt",
+      "lat": 43.8815,
+      "lon": 5.3814,
+      "population": 10143
+    },
+    {
+      "insee": "84004",
+      "nom": "Aubignan",
+      "lat": 44.0962,
+      "lon": 5.0331,
+      "population": 5981
+    },
+    {
+      "insee": "84005",
+      "nom": "Aurel",
+      "lat": 44.1357,
+      "lon": 5.3906,
+      "population": 190
+    },
+    {
+      "insee": "84006",
+      "nom": "Auribeau",
+      "lat": 43.8275,
+      "lon": 5.4444,
+      "population": 68
+    },
+    {
+      "insee": "84007",
+      "nom": "Avignon",
+      "lat": 43.9416,
+      "lon": 4.8333,
+      "population": 92188
+    },
+    {
+      "insee": "84012",
+      "nom": "Beaumes-de-Venise",
+      "lat": 44.1224,
+      "lon": 5.0279,
+      "population": 2442
+    },
+    {
+      "insee": "84013",
+      "nom": "Beaumettes",
+      "lat": 43.8632,
+      "lon": 5.202,
+      "population": 314
+    },
+    {
+      "insee": "84014",
+      "nom": "Beaumont-de-Pertuis",
+      "lat": 43.7372,
+      "lon": 5.6978,
+      "population": 1130
+    },
+    {
+      "insee": "84015",
+      "nom": "Beaumont-du-Ventoux",
+      "lat": 44.182,
+      "lon": 5.2197,
+      "population": 308
+    },
+    {
+      "insee": "84016",
+      "nom": "Bédarrides",
+      "lat": 44.0478,
+      "lon": 4.9029,
+      "population": 5671
+    },
+    {
+      "insee": "84017",
+      "nom": "Bédoin",
+      "lat": 44.1337,
+      "lon": 5.2342,
+      "population": 3106
+    },
+    {
+      "insee": "84018",
+      "nom": "Blauvac",
+      "lat": 44.0356,
+      "lon": 5.2418,
+      "population": 573
+    },
+    {
+      "insee": "84019",
+      "nom": "Bollène",
+      "lat": 44.2885,
+      "lon": 4.751,
+      "population": 14024
+    },
+    {
+      "insee": "84020",
+      "nom": "Bonnieux",
+      "lat": 43.8327,
+      "lon": 5.3172,
+      "population": 1198
+    },
+    {
+      "insee": "84021",
+      "nom": "Brantes",
+      "lat": 44.1861,
+      "lon": 5.3315,
+      "population": 86
+    },
+    {
+      "insee": "84022",
+      "nom": "Buisson",
+      "lat": 44.2759,
+      "lon": 4.9985,
+      "population": 252
+    },
+    {
+      "insee": "84023",
+      "nom": "Buoux",
+      "lat": 43.8207,
+      "lon": 5.3745,
+      "population": 104
+    },
+    {
+      "insee": "84024",
+      "nom": "Cabrières-d'Aigues",
+      "lat": 43.7882,
+      "lon": 5.4891,
+      "population": 946
+    },
+    {
+      "insee": "84025",
+      "nom": "Cabrières-d'Avignon",
+      "lat": 43.9034,
+      "lon": 5.1494,
+      "population": 1686
+    },
+    {
+      "insee": "84026",
+      "nom": "Cadenet",
+      "lat": 43.7299,
+      "lon": 5.386,
+      "population": 4363
+    },
+    {
+      "insee": "84027",
+      "nom": "Caderousse",
+      "lat": 44.1155,
+      "lon": 4.746,
+      "population": 2493
+    },
+    {
+      "insee": "84028",
+      "nom": "Cairanne",
+      "lat": 44.2277,
+      "lon": 4.9339,
+      "population": 1129
+    },
+    {
+      "insee": "84029",
+      "nom": "Camaret-sur-Aigues",
+      "lat": 44.1551,
+      "lon": 4.8911,
+      "population": 4533
+    },
+    {
+      "insee": "84030",
+      "nom": "Caromb",
+      "lat": 44.11,
+      "lon": 5.1078,
+      "population": 3479
+    },
+    {
+      "insee": "84031",
+      "nom": "Carpentras",
+      "lat": 44.0629,
+      "lon": 5.0584,
+      "population": 31619
+    },
+    {
+      "insee": "84032",
+      "nom": "Caseneuve",
+      "lat": 43.8859,
+      "lon": 5.4833,
+      "population": 527
+    },
+    {
+      "insee": "84033",
+      "nom": "Castellet-en-Luberon",
+      "lat": 43.8336,
+      "lon": 5.4876,
+      "population": 113
+    },
+    {
+      "insee": "84034",
+      "nom": "Caumont-sur-Durance",
+      "lat": 43.8813,
+      "lon": 4.955,
+      "population": 5667
+    },
+    {
+      "insee": "84035",
+      "nom": "Cavaillon",
+      "lat": 43.8485,
+      "lon": 5.0333,
+      "population": 25636
+    },
+    {
+      "insee": "84036",
+      "nom": "Châteauneuf-de-Gadagne",
+      "lat": 43.9307,
+      "lon": 4.9435,
+      "population": 3565
+    },
+    {
+      "insee": "84037",
+      "nom": "Châteauneuf-du-Pape",
+      "lat": 44.0602,
+      "lon": 4.8263,
+      "population": 2050
+    },
+    {
+      "insee": "84038",
+      "nom": "Cheval-Blanc",
+      "lat": 43.7875,
+      "lon": 5.1204,
+      "population": 4362
+    },
+    {
+      "insee": "84039",
+      "nom": "Courthézon",
+      "lat": 44.0876,
+      "lon": 4.8868,
+      "population": 6426
+    },
+    {
+      "insee": "84040",
+      "nom": "Crestet",
+      "lat": 44.2112,
+      "lon": 5.0859,
+      "population": 415
+    },
+    {
+      "insee": "84041",
+      "nom": "Crillon-le-Brave",
+      "lat": 44.1187,
+      "lon": 5.152,
+      "population": 488
+    },
+    {
+      "insee": "84042",
+      "nom": "Cucuron",
+      "lat": 43.7801,
+      "lon": 5.4401,
+      "population": 1885
+    },
+    {
+      "insee": "84043",
+      "nom": "Entraigues-sur-la-Sorgue",
+      "lat": 43.9959,
+      "lon": 4.9347,
+      "population": 8913
+    },
+    {
+      "insee": "84044",
+      "nom": "Entrechaux",
+      "lat": 44.2238,
+      "lon": 5.1364,
+      "population": 1177
+    },
+    {
+      "insee": "84045",
+      "nom": "Faucon",
+      "lat": 44.2524,
+      "lon": 5.1404,
+      "population": 454
+    },
+    {
+      "insee": "84046",
+      "nom": "Flassan",
+      "lat": 44.0995,
+      "lon": 5.2613,
+      "population": 453
+    },
+    {
+      "insee": "84139",
+      "nom": "Fontaine-de-Vaucluse",
+      "lat": 43.9244,
+      "lon": 5.1307,
+      "population": 585
+    },
+    {
+      "insee": "84047",
+      "nom": "Gargas",
+      "lat": 43.8939,
+      "lon": 5.3435,
+      "population": 3035
+    },
+    {
+      "insee": "84048",
+      "nom": "Gignac",
+      "lat": 43.9283,
+      "lon": 5.526,
+      "population": 73
+    },
+    {
+      "insee": "84049",
+      "nom": "Gigondas",
+      "lat": 44.164,
+      "lon": 5.0153,
+      "population": 448
+    },
+    {
+      "insee": "84050",
+      "nom": "Gordes",
+      "lat": 43.9074,
+      "lon": 5.204,
+      "population": 1661
+    },
+    {
+      "insee": "84051",
+      "nom": "Goult",
+      "lat": 43.8675,
+      "lon": 5.2448,
+      "population": 1055
+    },
+    {
+      "insee": "84052",
+      "nom": "Grambois",
+      "lat": 43.7581,
+      "lon": 5.6022,
+      "population": 1234
+    },
+    {
+      "insee": "84053",
+      "nom": "Grillon",
+      "lat": 44.3946,
+      "lon": 4.9355,
+      "population": 1690
+    },
+    {
+      "insee": "84055",
+      "nom": "Jonquerettes",
+      "lat": 43.9496,
+      "lon": 4.9433,
+      "population": 1606
+    },
+    {
+      "insee": "84056",
+      "nom": "Jonquières",
+      "lat": 44.1324,
+      "lon": 4.9144,
+      "population": 5201
+    },
+    {
+      "insee": "84057",
+      "nom": "Joucas",
+      "lat": 43.9223,
+      "lon": 5.2522,
+      "population": 348
+    },
+    {
+      "insee": "84054",
+      "nom": "L'Isle-sur-la-Sorgue",
+      "lat": 43.9191,
+      "lon": 5.0588,
+      "population": 20244
+    },
+    {
+      "insee": "84009",
+      "nom": "La Bastide-des-Jourdans",
+      "lat": 43.7954,
+      "lon": 5.6443,
+      "population": 1760
+    },
+    {
+      "insee": "84010",
+      "nom": "La Bastidonne",
+      "lat": 43.6927,
+      "lon": 5.5791,
+      "population": 929
+    },
+    {
+      "insee": "84084",
+      "nom": "La Motte-d'Aigues",
+      "lat": 43.7817,
+      "lon": 5.5237,
+      "population": 1438
+    },
+    {
+      "insee": "84100",
+      "nom": "La Roque-Alric",
+      "lat": 44.1458,
+      "lon": 5.0683,
+      "population": 50
+    },
+    {
+      "insee": "84101",
+      "nom": "La Roque-sur-Pernes",
+      "lat": 43.9782,
+      "lon": 5.104,
+      "population": 437
+    },
+    {
+      "insee": "84133",
+      "nom": "La Tour-d'Aigues",
+      "lat": 43.7128,
+      "lon": 5.5682,
+      "population": 4405
+    },
+    {
+      "insee": "84058",
+      "nom": "Lacoste",
+      "lat": 43.8236,
+      "lon": 5.2645,
+      "population": 468
+    },
+    {
+      "insee": "84059",
+      "nom": "Lafare",
+      "lat": 44.1535,
+      "lon": 5.0501,
+      "population": 130
+    },
+    {
+      "insee": "84060",
+      "nom": "Lagarde-d'Apt",
+      "lat": 43.9842,
+      "lon": 5.4769,
+      "population": 30
+    },
+    {
+      "insee": "84061",
+      "nom": "Lagarde-Paréol",
+      "lat": 44.2287,
+      "lon": 4.8481,
+      "population": 319
+    },
+    {
+      "insee": "84062",
+      "nom": "Lagnes",
+      "lat": 43.9044,
+      "lon": 5.1181,
+      "population": 1742
+    },
+    {
+      "insee": "84063",
+      "nom": "Lamotte-du-Rhône",
+      "lat": 44.2798,
+      "lon": 4.6804,
+      "population": 403
+    },
+    {
+      "insee": "84064",
+      "nom": "Lapalud",
+      "lat": 44.3073,
+      "lon": 4.6821,
+      "population": 3853
+    },
+    {
+      "insee": "84065",
+      "nom": "Lauris",
+      "lat": 43.7611,
+      "lon": 5.3019,
+      "population": 3921
+    },
+    {
+      "insee": "84008",
+      "nom": "Le Barroux",
+      "lat": 44.1591,
+      "lon": 5.1046,
+      "population": 662
+    },
+    {
+      "insee": "84011",
+      "nom": "Le Beaucet",
+      "lat": 43.9761,
+      "lon": 5.1341,
+      "population": 397
+    },
+    {
+      "insee": "84092",
+      "nom": "Le Pontet",
+      "lat": 43.9707,
+      "lon": 4.8614,
+      "population": 18386
+    },
+    {
+      "insee": "84132",
+      "nom": "Le Thor",
+      "lat": 43.9236,
+      "lon": 4.9939,
+      "population": 8882
+    },
+    {
+      "insee": "84066",
+      "nom": "Lioux",
+      "lat": 43.9782,
+      "lon": 5.3122,
+      "population": 286
+    },
+    {
+      "insee": "84067",
+      "nom": "Loriol-du-Comtat",
+      "lat": 44.0759,
+      "lon": 5.0049,
+      "population": 2486
+    },
+    {
+      "insee": "84068",
+      "nom": "Lourmarin",
+      "lat": 43.7785,
+      "lon": 5.3625,
+      "population": 1020
+    },
+    {
+      "insee": "84069",
+      "nom": "Malaucène",
+      "lat": 44.1804,
+      "lon": 5.1559,
+      "population": 2758
+    },
+    {
+      "insee": "84070",
+      "nom": "Malemort-du-Comtat",
+      "lat": 44.0171,
+      "lon": 5.1646,
+      "population": 1969
+    },
+    {
+      "insee": "84071",
+      "nom": "Maubec",
+      "lat": 43.8384,
+      "lon": 5.1357,
+      "population": 1915
+    },
+    {
+      "insee": "84072",
+      "nom": "Mazan",
+      "lat": 44.0528,
+      "lon": 5.1333,
+      "population": 6285
+    },
+    {
+      "insee": "84073",
+      "nom": "Ménerbes",
+      "lat": 43.8271,
+      "lon": 5.2172,
+      "population": 962
+    },
+    {
+      "insee": "84074",
+      "nom": "Mérindol",
+      "lat": 43.7648,
+      "lon": 5.1884,
+      "population": 2283
+    },
+    {
+      "insee": "84075",
+      "nom": "Méthamis",
+      "lat": 44.0153,
+      "lon": 5.2483,
+      "population": 450
+    },
+    {
+      "insee": "84076",
+      "nom": "Mirabeau",
+      "lat": 43.7035,
+      "lon": 5.6482,
+      "population": 1450
+    },
+    {
+      "insee": "84077",
+      "nom": "Modène",
+      "lat": 44.1092,
+      "lon": 5.1285,
+      "population": 458
+    },
+    {
+      "insee": "84078",
+      "nom": "Mondragon",
+      "lat": 44.2407,
+      "lon": 4.7326,
+      "population": 3833
+    },
+    {
+      "insee": "84079",
+      "nom": "Monieux",
+      "lat": 44.052,
+      "lon": 5.345,
+      "population": 263
+    },
+    {
+      "insee": "84080",
+      "nom": "Monteux",
+      "lat": 44.033,
+      "lon": 4.9862,
+      "population": 13301
+    },
+    {
+      "insee": "84081",
+      "nom": "Morières-lès-Avignon",
+      "lat": 43.9298,
+      "lon": 4.9078,
+      "population": 9019
+    },
+    {
+      "insee": "84082",
+      "nom": "Mormoiron",
+      "lat": 44.0686,
+      "lon": 5.1918,
+      "population": 1884
+    },
+    {
+      "insee": "84083",
+      "nom": "Mornas",
+      "lat": 44.1997,
+      "lon": 4.7438,
+      "population": 2569
+    },
+    {
+      "insee": "84085",
+      "nom": "Murs",
+      "lat": 43.965,
+      "lon": 5.2432,
+      "population": 376
+    },
+    {
+      "insee": "84086",
+      "nom": "Oppède",
+      "lat": 43.8331,
+      "lon": 5.1707,
+      "population": 1285
+    },
+    {
+      "insee": "84087",
+      "nom": "Orange",
+      "lat": 44.1264,
+      "lon": 4.8031,
+      "population": 29706
+    },
+    {
+      "insee": "84088",
+      "nom": "Pernes-les-Fontaines",
+      "lat": 43.9966,
+      "lon": 5.0289,
+      "population": 10504
+    },
+    {
+      "insee": "84089",
+      "nom": "Pertuis",
+      "lat": 43.6931,
+      "lon": 5.5345,
+      "population": 19548
+    },
+    {
+      "insee": "84090",
+      "nom": "Peypin-d'Aigues",
+      "lat": 43.7962,
+      "lon": 5.5617,
+      "population": 664
+    },
+    {
+      "insee": "84091",
+      "nom": "Piolenc",
+      "lat": 44.1784,
+      "lon": 4.7587,
+      "population": 5718
+    },
+    {
+      "insee": "84093",
+      "nom": "Puget",
+      "lat": 43.7699,
+      "lon": 5.2572,
+      "population": 894
+    },
+    {
+      "insee": "84094",
+      "nom": "Puyméras",
+      "lat": 44.2883,
+      "lon": 5.124,
+      "population": 585
+    },
+    {
+      "insee": "84095",
+      "nom": "Puyvert",
+      "lat": 43.7519,
+      "lon": 5.3384,
+      "population": 865
+    },
+    {
+      "insee": "84096",
+      "nom": "Rasteau",
+      "lat": 44.2336,
+      "lon": 4.9794,
+      "population": 813
+    },
+    {
+      "insee": "84097",
+      "nom": "Richerenches",
+      "lat": 44.3555,
+      "lon": 4.9034,
+      "population": 591
+    },
+    {
+      "insee": "84098",
+      "nom": "Roaix",
+      "lat": 44.2539,
+      "lon": 5.0125,
+      "population": 626
+    },
+    {
+      "insee": "84099",
+      "nom": "Robion",
+      "lat": 43.8429,
+      "lon": 5.1066,
+      "population": 4816
+    },
+    {
+      "insee": "84102",
+      "nom": "Roussillon",
+      "lat": 43.8959,
+      "lon": 5.2906,
+      "population": 1333
+    },
+    {
+      "insee": "84103",
+      "nom": "Rustrel",
+      "lat": 43.9315,
+      "lon": 5.4759,
+      "population": 672
+    },
+    {
+      "insee": "84104",
+      "nom": "Sablet",
+      "lat": 44.1927,
+      "lon": 4.9962,
+      "population": 1436
+    },
+    {
+      "insee": "84105",
+      "nom": "Saignon",
+      "lat": 43.868,
+      "lon": 5.4405,
+      "population": 912
+    },
+    {
+      "insee": "84107",
+      "nom": "Saint-Christol",
+      "lat": 44.0216,
+      "lon": 5.4923,
+      "population": 1409
+    },
+    {
+      "insee": "84108",
+      "nom": "Saint-Didier",
+      "lat": 44.0108,
+      "lon": 5.1093,
+      "population": 2208
+    },
+    {
+      "insee": "84109",
+      "nom": "Saint-Hippolyte-le-Graveyron",
+      "lat": 44.1175,
+      "lon": 5.0775,
+      "population": 168
+    },
+    {
+      "insee": "84110",
+      "nom": "Saint-Léger-du-Ventoux",
+      "lat": 44.2027,
+      "lon": 5.2749,
+      "population": 25
+    },
+    {
+      "insee": "84111",
+      "nom": "Saint-Marcellin-lès-Vaison",
+      "lat": 44.2368,
+      "lon": 5.1024,
+      "population": 334
+    },
+    {
+      "insee": "84112",
+      "nom": "Saint-Martin-de-Castillon",
+      "lat": 43.8557,
+      "lon": 5.5141,
+      "population": 689
+    },
+    {
+      "insee": "84113",
+      "nom": "Saint-Martin-de-la-Brasque",
+      "lat": 43.7656,
+      "lon": 5.5401,
+      "population": 805
+    },
+    {
+      "insee": "84114",
+      "nom": "Saint-Pantaléon",
+      "lat": 43.8787,
+      "lon": 5.2154,
+      "population": 222
+    },
+    {
+      "insee": "84115",
+      "nom": "Saint-Pierre-de-Vassols",
+      "lat": 44.0983,
+      "lon": 5.1463,
+      "population": 499
+    },
+    {
+      "insee": "84116",
+      "nom": "Saint-Romain-en-Viennois",
+      "lat": 44.2625,
+      "lon": 5.0995,
+      "population": 868
+    },
+    {
+      "insee": "84117",
+      "nom": "Saint-Roman-de-Malegarde",
+      "lat": 44.2642,
+      "lon": 4.9592,
+      "population": 339
+    },
+    {
+      "insee": "84118",
+      "nom": "Saint-Saturnin-lès-Apt",
+      "lat": 43.961,
+      "lon": 5.3566,
+      "population": 3004
+    },
+    {
+      "insee": "84119",
+      "nom": "Saint-Saturnin-lès-Avignon",
+      "lat": 43.9625,
+      "lon": 4.9447,
+      "population": 5206
+    },
+    {
+      "insee": "84120",
+      "nom": "Saint-Trinit",
+      "lat": 44.0913,
+      "lon": 5.4747,
+      "population": 118
+    },
+    {
+      "insee": "84106",
+      "nom": "Sainte-Cécile-les-Vignes",
+      "lat": 44.2344,
+      "lon": 4.8949,
+      "population": 2656
+    },
+    {
+      "insee": "84121",
+      "nom": "Sannes",
+      "lat": 43.7588,
+      "lon": 5.4917,
+      "population": 290
+    },
+    {
+      "insee": "84122",
+      "nom": "Sarrians",
+      "lat": 44.1018,
+      "lon": 4.9541,
+      "population": 5792
+    },
+    {
+      "insee": "84123",
+      "nom": "Sault",
+      "lat": 44.0774,
+      "lon": 5.3892,
+      "population": 1343
+    },
+    {
+      "insee": "84124",
+      "nom": "Saumane-de-Vaucluse",
+      "lat": 43.9334,
+      "lon": 5.1201,
+      "population": 886
+    },
+    {
+      "insee": "84125",
+      "nom": "Savoillan",
+      "lat": 44.1778,
+      "lon": 5.3707,
+      "population": 81
+    },
+    {
+      "insee": "84126",
+      "nom": "Séguret",
+      "lat": 44.2161,
+      "lon": 5.0257,
+      "population": 769
+    },
+    {
+      "insee": "84127",
+      "nom": "Sérignan-du-Comtat",
+      "lat": 44.1933,
+      "lon": 4.8496,
+      "population": 2939
+    },
+    {
+      "insee": "84128",
+      "nom": "Sivergues",
+      "lat": 43.8231,
+      "lon": 5.418,
+      "population": 39
+    },
+    {
+      "insee": "84129",
+      "nom": "Sorgues",
+      "lat": 44.016,
+      "lon": 4.8555,
+      "population": 19006
+    },
+    {
+      "insee": "84130",
+      "nom": "Suzette",
+      "lat": 44.1728,
+      "lon": 5.0563,
+      "population": 112
+    },
+    {
+      "insee": "84131",
+      "nom": "Taillades",
+      "lat": 43.8312,
+      "lon": 5.0965,
+      "population": 2040
+    },
+    {
+      "insee": "84134",
+      "nom": "Travaillan",
+      "lat": 44.1912,
+      "lon": 4.9055,
+      "population": 708
+    },
+    {
+      "insee": "84135",
+      "nom": "Uchaux",
+      "lat": 44.2096,
+      "lon": 4.7983,
+      "population": 1699
+    },
+    {
+      "insee": "84136",
+      "nom": "Vacqueyras",
+      "lat": 44.1444,
+      "lon": 4.9764,
+      "population": 1179
+    },
+    {
+      "insee": "84137",
+      "nom": "Vaison-la-Romaine",
+      "lat": 44.2395,
+      "lon": 5.0586,
+      "population": 6058
+    },
+    {
+      "insee": "84138",
+      "nom": "Valréas",
+      "lat": 44.379,
+      "lon": 4.9973,
+      "population": 9224
+    },
+    {
+      "insee": "84140",
+      "nom": "Vaugines",
+      "lat": 43.7738,
+      "lon": 5.4081,
+      "population": 553
+    },
+    {
+      "insee": "84141",
+      "nom": "Vedène",
+      "lat": 43.9736,
+      "lon": 4.9055,
+      "population": 11974
+    },
+    {
+      "insee": "84142",
+      "nom": "Velleron",
+      "lat": 43.9604,
+      "lon": 5.0145,
+      "population": 3168
+    },
+    {
+      "insee": "84143",
+      "nom": "Venasque",
+      "lat": 43.9866,
+      "lon": 5.1684,
+      "population": 1082
+    },
+    {
+      "insee": "84144",
+      "nom": "Viens",
+      "lat": 43.9,
+      "lon": 5.5595,
+      "population": 626
+    },
+    {
+      "insee": "84145",
+      "nom": "Villars",
+      "lat": 43.9573,
+      "lon": 5.434,
+      "population": 783
+    },
+    {
+      "insee": "84146",
+      "nom": "Villedieu",
+      "lat": 44.2899,
+      "lon": 5.0468,
+      "population": 507
+    },
+    {
+      "insee": "84147",
+      "nom": "Villelaure",
+      "lat": 43.7066,
+      "lon": 5.4266,
+      "population": 3398
+    },
+    {
+      "insee": "84148",
+      "nom": "Villes-sur-Auzon",
+      "lat": 44.0658,
+      "lon": 5.2572,
+      "population": 1306
+    },
+    {
+      "insee": "84149",
+      "nom": "Violès",
+      "lat": 44.1764,
+      "lon": 4.9511,
+      "population": 1762
+    },
+    {
+      "insee": "84150",
+      "nom": "Visan",
+      "lat": 44.3288,
+      "lon": 4.9477,
+      "population": 1857
+    },
+    {
+      "insee": "84151",
+      "nom": "Vitrolles-en-Lubéron",
+      "lat": 43.8068,
+      "lon": 5.5985,
+      "population": 217
+    }
+  ]
+}

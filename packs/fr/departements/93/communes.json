@@ -1,0 +1,280 @@
+{
+  "country": "FR",
+  "departmentCode": "93",
+  "label": "Departement 93",
+  "communes": [
+    {
+      "insee": "93001",
+      "nom": "Aubervilliers",
+      "lat": 48.9128,
+      "lon": 2.3886,
+      "population": 88365
+    },
+    {
+      "insee": "93005",
+      "nom": "Aulnay-sous-Bois",
+      "lat": 48.9457,
+      "lon": 2.4918,
+      "population": 87599
+    },
+    {
+      "insee": "93006",
+      "nom": "Bagnolet",
+      "lat": 48.8671,
+      "lon": 2.4252,
+      "population": 43086
+    },
+    {
+      "insee": "93008",
+      "nom": "Bobigny",
+      "lat": 48.9073,
+      "lon": 2.4432,
+      "population": 56927
+    },
+    {
+      "insee": "93010",
+      "nom": "Bondy",
+      "lat": 48.9036,
+      "lon": 2.4846,
+      "population": 50595
+    },
+    {
+      "insee": "93014",
+      "nom": "Clichy-sous-Bois",
+      "lat": 48.9081,
+      "lon": 2.5432,
+      "population": 29354
+    },
+    {
+      "insee": "93015",
+      "nom": "Coubron",
+      "lat": 48.9173,
+      "lon": 2.5759,
+      "population": 5175
+    },
+    {
+      "insee": "93029",
+      "nom": "Drancy",
+      "lat": 48.925,
+      "lon": 2.4446,
+      "population": 72390
+    },
+    {
+      "insee": "93030",
+      "nom": "Dugny",
+      "lat": 48.9494,
+      "lon": 2.4255,
+      "population": 11700
+    },
+    {
+      "insee": "93031",
+      "nom": "Épinay-sur-Seine",
+      "lat": 48.9544,
+      "lon": 2.3172,
+      "population": 52833
+    },
+    {
+      "insee": "93032",
+      "nom": "Gagny",
+      "lat": 48.8826,
+      "lon": 2.545,
+      "population": 42313
+    },
+    {
+      "insee": "93033",
+      "nom": "Gournay-sur-Marne",
+      "lat": 48.8607,
+      "lon": 2.5761,
+      "population": 7320
+    },
+    {
+      "insee": "93039",
+      "nom": "L'Île-Saint-Denis",
+      "lat": 48.9465,
+      "lon": 2.3204,
+      "population": 8696
+    },
+    {
+      "insee": "93027",
+      "nom": "La Courneuve",
+      "lat": 48.9341,
+      "lon": 2.3986,
+      "population": 47167
+    },
+    {
+      "insee": "93007",
+      "nom": "Le Blanc-Mesnil",
+      "lat": 48.9372,
+      "lon": 2.4576,
+      "population": 62376
+    },
+    {
+      "insee": "93013",
+      "nom": "Le Bourget",
+      "lat": 48.9378,
+      "lon": 2.4287,
+      "population": 15925
+    },
+    {
+      "insee": "93061",
+      "nom": "Le Pré-Saint-Gervais",
+      "lat": 48.884,
+      "lon": 2.4054,
+      "population": 16993
+    },
+    {
+      "insee": "93062",
+      "nom": "Le Raincy",
+      "lat": 48.8959,
+      "lon": 2.5196,
+      "population": 14735
+    },
+    {
+      "insee": "93045",
+      "nom": "Les Lilas",
+      "lat": 48.8821,
+      "lon": 2.4207,
+      "population": 23843
+    },
+    {
+      "insee": "93057",
+      "nom": "Les Pavillons-sous-Bois",
+      "lat": 48.907,
+      "lon": 2.5057,
+      "population": 25804
+    },
+    {
+      "insee": "93046",
+      "nom": "Livry-Gargan",
+      "lat": 48.9184,
+      "lon": 2.5351,
+      "population": 47228
+    },
+    {
+      "insee": "93047",
+      "nom": "Montfermeil",
+      "lat": 48.8976,
+      "lon": 2.5678,
+      "population": 28703
+    },
+    {
+      "insee": "93048",
+      "nom": "Montreuil",
+      "lat": 48.8637,
+      "lon": 2.4491,
+      "population": 111934
+    },
+    {
+      "insee": "93049",
+      "nom": "Neuilly-Plaisance",
+      "lat": 48.8641,
+      "lon": 2.5097,
+      "population": 21941
+    },
+    {
+      "insee": "93050",
+      "nom": "Neuilly-sur-Marne",
+      "lat": 48.8645,
+      "lon": 2.5419,
+      "population": 39800
+    },
+    {
+      "insee": "93051",
+      "nom": "Noisy-le-Grand",
+      "lat": 48.8327,
+      "lon": 2.556,
+      "population": 72978
+    },
+    {
+      "insee": "93053",
+      "nom": "Noisy-le-Sec",
+      "lat": 48.8917,
+      "lon": 2.4578,
+      "population": 45510
+    },
+    {
+      "insee": "93055",
+      "nom": "Pantin",
+      "lat": 48.9006,
+      "lon": 2.4085,
+      "population": 61929
+    },
+    {
+      "insee": "93063",
+      "nom": "Romainville",
+      "lat": 48.8849,
+      "lon": 2.4391,
+      "population": 37152
+    },
+    {
+      "insee": "93064",
+      "nom": "Rosny-sous-Bois",
+      "lat": 48.8744,
+      "lon": 2.4872,
+      "population": 47180
+    },
+    {
+      "insee": "93066",
+      "nom": "Saint-Denis",
+      "lat": 48.9378,
+      "lon": 2.3657,
+      "population": 149077
+    },
+    {
+      "insee": "93070",
+      "nom": "Saint-Ouen-sur-Seine",
+      "lat": 48.9118,
+      "lon": 2.3329,
+      "population": 53615
+    },
+    {
+      "insee": "93071",
+      "nom": "Sevran",
+      "lat": 48.9378,
+      "lon": 2.5311,
+      "population": 52535
+    },
+    {
+      "insee": "93072",
+      "nom": "Stains",
+      "lat": 48.9578,
+      "lon": 2.3868,
+      "population": 41388
+    },
+    {
+      "insee": "93073",
+      "nom": "Tremblay-en-France",
+      "lat": 48.9744,
+      "lon": 2.5481,
+      "population": 38348
+    },
+    {
+      "insee": "93074",
+      "nom": "Vaujours",
+      "lat": 48.9338,
+      "lon": 2.5799,
+      "population": 8007
+    },
+    {
+      "insee": "93077",
+      "nom": "Villemomble",
+      "lat": 48.8866,
+      "lon": 2.5085,
+      "population": 29795
+    },
+    {
+      "insee": "93078",
+      "nom": "Villepinte",
+      "lat": 48.956,
+      "lon": 2.5323,
+      "population": 41470
+    },
+    {
+      "insee": "93079",
+      "nom": "Villetaneuse",
+      "lat": 48.9574,
+      "lon": 2.3441,
+      "population": 12530
+    }
+  ]
+}

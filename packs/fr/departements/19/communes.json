@@ -1,0 +1,1946 @@
+{
+  "country": "FR",
+  "departmentCode": "19",
+  "label": "Departement 19",
+  "communes": [
+    {
+      "insee": "19001",
+      "nom": "Affieux",
+      "lat": 45.5111,
+      "lon": 1.7619,
+      "population": 385
+    },
+    {
+      "insee": "19002",
+      "nom": "Aix",
+      "lat": 45.616,
+      "lon": 2.393,
+      "population": 352
+    },
+    {
+      "insee": "19003",
+      "nom": "Albignac",
+      "lat": 45.1471,
+      "lon": 1.6795,
+      "population": 236
+    },
+    {
+      "insee": "19004",
+      "nom": "Albussac",
+      "lat": 45.1388,
+      "lon": 1.8132,
+      "population": 725
+    },
+    {
+      "insee": "19005",
+      "nom": "Allassac",
+      "lat": 45.2573,
+      "lon": 1.4609,
+      "population": 4081
+    },
+    {
+      "insee": "19006",
+      "nom": "Alleyrat",
+      "lat": 45.5651,
+      "lon": 2.2197,
+      "population": 98
+    },
+    {
+      "insee": "19007",
+      "nom": "Altillac",
+      "lat": 44.9774,
+      "lon": 1.8683,
+      "population": 824
+    },
+    {
+      "insee": "19008",
+      "nom": "Ambrugeat",
+      "lat": 45.5336,
+      "lon": 2.0878,
+      "population": 213
+    },
+    {
+      "insee": "19010",
+      "nom": "Argentat-sur-Dordogne",
+      "lat": 45.1166,
+      "lon": 1.9319,
+      "population": 2881
+    },
+    {
+      "insee": "19011",
+      "nom": "Arnac-Pompadour",
+      "lat": 45.4118,
+      "lon": 1.366,
+      "population": 1205
+    },
+    {
+      "insee": "19012",
+      "nom": "Astaillac",
+      "lat": 44.9509,
+      "lon": 1.8296,
+      "population": 204
+    },
+    {
+      "insee": "19013",
+      "nom": "Aubazines",
+      "lat": 45.1873,
+      "lon": 1.6891,
+      "population": 856
+    },
+    {
+      "insee": "19014",
+      "nom": "Auriac",
+      "lat": 45.1983,
+      "lon": 2.1376,
+      "population": 216
+    },
+    {
+      "insee": "19015",
+      "nom": "Ayen",
+      "lat": 45.2541,
+      "lon": 1.325,
+      "population": 717
+    },
+    {
+      "insee": "19016",
+      "nom": "Bar",
+      "lat": 45.3407,
+      "lon": 1.8143,
+      "population": 311
+    },
+    {
+      "insee": "19017",
+      "nom": "Bassignac-le-Bas",
+      "lat": 45.0258,
+      "lon": 1.8708,
+      "population": 80
+    },
+    {
+      "insee": "19018",
+      "nom": "Bassignac-le-Haut",
+      "lat": 45.2013,
+      "lon": 2.0755,
+      "population": 160
+    },
+    {
+      "insee": "19019",
+      "nom": "Beaulieu-sur-Dordogne",
+      "lat": 44.9991,
+      "lon": 1.8318,
+      "population": 1310
+    },
+    {
+      "insee": "19020",
+      "nom": "Beaumont",
+      "lat": 45.4226,
+      "lon": 1.7904,
+      "population": 114
+    },
+    {
+      "insee": "19021",
+      "nom": "Bellechassagne",
+      "lat": 45.6484,
+      "lon": 2.2197,
+      "population": 102
+    },
+    {
+      "insee": "19022",
+      "nom": "Benayes",
+      "lat": 45.5238,
+      "lon": 1.4687,
+      "population": 224
+    },
+    {
+      "insee": "19023",
+      "nom": "Beynat",
+      "lat": 45.134,
+      "lon": 1.7236,
+      "population": 1318
+    },
+    {
+      "insee": "19024",
+      "nom": "Beyssac",
+      "lat": 45.3693,
+      "lon": 1.4224,
+      "population": 481
+    },
+    {
+      "insee": "19025",
+      "nom": "Beyssenac",
+      "lat": 45.4032,
+      "lon": 1.3016,
+      "population": 370
+    },
+    {
+      "insee": "19026",
+      "nom": "Bilhac",
+      "lat": 44.94,
+      "lon": 1.7743,
+      "population": 242
+    },
+    {
+      "insee": "19027",
+      "nom": "Bonnefond",
+      "lat": 45.5244,
+      "lon": 1.9818,
+      "population": 115
+    },
+    {
+      "insee": "19028",
+      "nom": "Bort-les-Orgues",
+      "lat": 45.3939,
+      "lon": 2.4849,
+      "population": 2483
+    },
+    {
+      "insee": "19029",
+      "nom": "Branceilles",
+      "lat": 45.0062,
+      "lon": 1.7119,
+      "population": 279
+    },
+    {
+      "insee": "19030",
+      "nom": "Brignac-la-Plaine",
+      "lat": 45.1745,
+      "lon": 1.3234,
+      "population": 977
+    },
+    {
+      "insee": "19031",
+      "nom": "Brive-la-Gaillarde",
+      "lat": 45.145,
+      "lon": 1.5144,
+      "population": 47095
+    },
+    {
+      "insee": "19033",
+      "nom": "Bugeat",
+      "lat": 45.59,
+      "lon": 1.9357,
+      "population": 719
+    },
+    {
+      "insee": "19034",
+      "nom": "Camps-Saint-Mathurin-Léobazel",
+      "lat": 44.9934,
+      "lon": 1.9866,
+      "population": 206
+    },
+    {
+      "insee": "19035",
+      "nom": "Chabrignac",
+      "lat": 45.3124,
+      "lon": 1.3427,
+      "population": 542
+    },
+    {
+      "insee": "19036",
+      "nom": "Chamberet",
+      "lat": 45.6038,
+      "lon": 1.7177,
+      "population": 1433
+    },
+    {
+      "insee": "19037",
+      "nom": "Chamboulive",
+      "lat": 45.4276,
+      "lon": 1.7159,
+      "population": 1155
+    },
+    {
+      "insee": "19038",
+      "nom": "Chameyrat",
+      "lat": 45.2452,
+      "lon": 1.7046,
+      "population": 1481
+    },
+    {
+      "insee": "19039",
+      "nom": "Champagnac-la-Noaille",
+      "lat": 45.3067,
+      "lon": 1.9999,
+      "population": 237
+    },
+    {
+      "insee": "19040",
+      "nom": "Champagnac-la-Prune",
+      "lat": 45.1895,
+      "lon": 1.9397,
+      "population": 150
+    },
+    {
+      "insee": "19041",
+      "nom": "Chanac-les-Mines",
+      "lat": 45.2716,
+      "lon": 1.8133,
+      "population": 437
+    },
+    {
+      "insee": "19042",
+      "nom": "Chanteix",
+      "lat": 45.313,
+      "lon": 1.6254,
+      "population": 596
+    },
+    {
+      "insee": "19046",
+      "nom": "Chapelle-Spinasse",
+      "lat": 45.3566,
+      "lon": 2.0532,
+      "population": 114
+    },
+    {
+      "insee": "19047",
+      "nom": "Chartrier-Ferrière",
+      "lat": 45.0556,
+      "lon": 1.4343,
+      "population": 373
+    },
+    {
+      "insee": "19049",
+      "nom": "Chasteaux",
+      "lat": 45.0844,
+      "lon": 1.4614,
+      "population": 754
+    },
+    {
+      "insee": "19050",
+      "nom": "Chauffour-sur-Vell",
+      "lat": 45.0202,
+      "lon": 1.6715,
+      "population": 408
+    },
+    {
+      "insee": "19051",
+      "nom": "Chaumeil",
+      "lat": 45.4546,
+      "lon": 1.878,
+      "population": 164
+    },
+    {
+      "insee": "19052",
+      "nom": "Chavanac",
+      "lat": 45.6167,
+      "lon": 2.0984,
+      "population": 52
+    },
+    {
+      "insee": "19053",
+      "nom": "Chaveroche",
+      "lat": 45.564,
+      "lon": 2.254,
+      "population": 268
+    },
+    {
+      "insee": "19054",
+      "nom": "Chenailler-Mascheix",
+      "lat": 45.0642,
+      "lon": 1.8291,
+      "population": 215
+    },
+    {
+      "insee": "19055",
+      "nom": "Chirac-Bellevue",
+      "lat": 45.4516,
+      "lon": 2.3118,
+      "population": 272
+    },
+    {
+      "insee": "19056",
+      "nom": "Clergoux",
+      "lat": 45.2751,
+      "lon": 1.9553,
+      "population": 408
+    },
+    {
+      "insee": "19057",
+      "nom": "Collonges-la-Rouge",
+      "lat": 45.0613,
+      "lon": 1.6539,
+      "population": 478
+    },
+    {
+      "insee": "19058",
+      "nom": "Combressol",
+      "lat": 45.4653,
+      "lon": 2.1689,
+      "population": 386
+    },
+    {
+      "insee": "19059",
+      "nom": "Concèze",
+      "lat": 45.3614,
+      "lon": 1.3341,
+      "population": 376
+    },
+    {
+      "insee": "19060",
+      "nom": "Condat-sur-Ganaveix",
+      "lat": 45.481,
+      "lon": 1.5981,
+      "population": 643
+    },
+    {
+      "insee": "19167",
+      "nom": "Confolent-Port-Dieu",
+      "lat": 45.5293,
+      "lon": 2.4932,
+      "population": 42
+    },
+    {
+      "insee": "19061",
+      "nom": "Cornil",
+      "lat": 45.2125,
+      "lon": 1.694,
+      "population": 1261
+    },
+    {
+      "insee": "19062",
+      "nom": "Corrèze",
+      "lat": 45.3678,
+      "lon": 1.872,
+      "population": 1171
+    },
+    {
+      "insee": "19063",
+      "nom": "Cosnac",
+      "lat": 45.1301,
+      "lon": 1.5837,
+      "population": 3044
+    },
+    {
+      "insee": "19064",
+      "nom": "Couffy-sur-Sarsonne",
+      "lat": 45.6748,
+      "lon": 2.337,
+      "population": 72
+    },
+    {
+      "insee": "19065",
+      "nom": "Courteix",
+      "lat": 45.6446,
+      "lon": 2.3406,
+      "population": 63
+    },
+    {
+      "insee": "19066",
+      "nom": "Cublac",
+      "lat": 45.1593,
+      "lon": 1.3107,
+      "population": 1728
+    },
+    {
+      "insee": "19067",
+      "nom": "Curemonte",
+      "lat": 45.0039,
+      "lon": 1.7577,
+      "population": 219
+    },
+    {
+      "insee": "19068",
+      "nom": "Dampniat",
+      "lat": 45.1584,
+      "lon": 1.6362,
+      "population": 716
+    },
+    {
+      "insee": "19069",
+      "nom": "Darazac",
+      "lat": 45.1753,
+      "lon": 2.0818,
+      "population": 154
+    },
+    {
+      "insee": "19070",
+      "nom": "Darnets",
+      "lat": 45.4224,
+      "lon": 2.1088,
+      "population": 303
+    },
+    {
+      "insee": "19071",
+      "nom": "Davignac",
+      "lat": 45.4908,
+      "lon": 2.0726,
+      "population": 235
+    },
+    {
+      "insee": "19072",
+      "nom": "Donzenac",
+      "lat": 45.2318,
+      "lon": 1.5245,
+      "population": 2733
+    },
+    {
+      "insee": "19073",
+      "nom": "Égletons",
+      "lat": 45.4245,
+      "lon": 2.0338,
+      "population": 4341
+    },
+    {
+      "insee": "19075",
+      "nom": "Espagnac",
+      "lat": 45.2424,
+      "lon": 1.8919,
+      "population": 381
+    },
+    {
+      "insee": "19076",
+      "nom": "Espartignac",
+      "lat": 45.3965,
+      "lon": 1.5996,
+      "population": 407
+    },
+    {
+      "insee": "19077",
+      "nom": "Estivals",
+      "lat": 45.032,
+      "lon": 1.4567,
+      "population": 135
+    },
+    {
+      "insee": "19078",
+      "nom": "Estivaux",
+      "lat": 45.3211,
+      "lon": 1.4953,
+      "population": 403
+    },
+    {
+      "insee": "19079",
+      "nom": "Eyburie",
+      "lat": 45.4686,
+      "lon": 1.6443,
+      "population": 486
+    },
+    {
+      "insee": "19080",
+      "nom": "Eygurande",
+      "lat": 45.6746,
+      "lon": 2.4235,
+      "population": 678
+    },
+    {
+      "insee": "19081",
+      "nom": "Eyrein",
+      "lat": 45.3272,
+      "lon": 1.9539,
+      "population": 514
+    },
+    {
+      "insee": "19082",
+      "nom": "Favars",
+      "lat": 45.2631,
+      "lon": 1.6694,
+      "population": 1121
+    },
+    {
+      "insee": "19083",
+      "nom": "Feyt",
+      "lat": 45.6832,
+      "lon": 2.4822,
+      "population": 110
+    },
+    {
+      "insee": "19084",
+      "nom": "Forgès",
+      "lat": 45.1593,
+      "lon": 1.865,
+      "population": 263
+    },
+    {
+      "insee": "19085",
+      "nom": "Gimel-les-Cascades",
+      "lat": 45.3013,
+      "lon": 1.8339,
+      "population": 755
+    },
+    {
+      "insee": "19086",
+      "nom": "Goulles",
+      "lat": 45.0207,
+      "lon": 2.09,
+      "population": 323
+    },
+    {
+      "insee": "19087",
+      "nom": "Gourdon-Murat",
+      "lat": 45.5499,
+      "lon": 1.9041,
+      "population": 83
+    },
+    {
+      "insee": "19088",
+      "nom": "Grandsaigne",
+      "lat": 45.4864,
+      "lon": 1.93,
+      "population": 46
+    },
+    {
+      "insee": "19089",
+      "nom": "Gros-Chastang",
+      "lat": 45.2158,
+      "lon": 2.006,
+      "population": 181
+    },
+    {
+      "insee": "19090",
+      "nom": "Gumond",
+      "lat": 45.2216,
+      "lon": 1.9628,
+      "population": 99
+    },
+    {
+      "insee": "19091",
+      "nom": "Hautefage",
+      "lat": 45.088,
+      "lon": 1.9952,
+      "population": 313
+    },
+    {
+      "insee": "19093",
+      "nom": "Jugeals-Nazareth",
+      "lat": 45.09,
+      "lon": 1.5517,
+      "population": 943
+    },
+    {
+      "insee": "19094",
+      "nom": "Juillac",
+      "lat": 45.3253,
+      "lon": 1.2897,
+      "population": 1153
+    },
+    {
+      "insee": "19074",
+      "nom": "L'Église-aux-Bois",
+      "lat": 45.6579,
+      "lon": 1.7951,
+      "population": 50
+    },
+    {
+      "insee": "19043",
+      "nom": "La Chapelle-aux-Brocs",
+      "lat": 45.1427,
+      "lon": 1.6289,
+      "population": 448
+    },
+    {
+      "insee": "19044",
+      "nom": "La Chapelle-aux-Saints",
+      "lat": 44.9818,
+      "lon": 1.7205,
+      "population": 257
+    },
+    {
+      "insee": "19045",
+      "nom": "La Chapelle-Saint-Géraud",
+      "lat": 45.0512,
+      "lon": 1.9483,
+      "population": 196
+    },
+    {
+      "insee": "19174",
+      "nom": "La Roche-Canillac",
+      "lat": 45.1977,
+      "lon": 1.9636,
+      "population": 126
+    },
+    {
+      "insee": "19095",
+      "nom": "Lacelle",
+      "lat": 45.6446,
+      "lon": 1.8257,
+      "population": 137
+    },
+    {
+      "insee": "19096",
+      "nom": "Ladignac-sur-Rondelles",
+      "lat": 45.2273,
+      "lon": 1.8226,
+      "population": 404
+    },
+    {
+      "insee": "19097",
+      "nom": "Lafage-sur-Sombre",
+      "lat": 45.2913,
+      "lon": 2.0669,
+      "population": 137
+    },
+    {
+      "insee": "19098",
+      "nom": "Lagarde-Marc-la-Tour",
+      "lat": 45.1904,
+      "lon": 1.8255,
+      "population": 928
+    },
+    {
+      "insee": "19099",
+      "nom": "Lagleygeolle",
+      "lat": 45.0855,
+      "lon": 1.6938,
+      "population": 225
+    },
+    {
+      "insee": "19100",
+      "nom": "Lagraulière",
+      "lat": 45.3572,
+      "lon": 1.6264,
+      "population": 1197
+    },
+    {
+      "insee": "19101",
+      "nom": "Laguenne-sur-Avalouze",
+      "lat": 45.2475,
+      "lon": 1.8065,
+      "population": 1577
+    },
+    {
+      "insee": "19102",
+      "nom": "Lamazière-Basse",
+      "lat": 45.3632,
+      "lon": 2.1727,
+      "population": 281
+    },
+    {
+      "insee": "19103",
+      "nom": "Lamazière-Haute",
+      "lat": 45.6801,
+      "lon": 2.3863,
+      "population": 65
+    },
+    {
+      "insee": "19104",
+      "nom": "Lamongerie",
+      "lat": 45.5384,
+      "lon": 1.5789,
+      "population": 124
+    },
+    {
+      "insee": "19105",
+      "nom": "Lanteuil",
+      "lat": 45.1182,
+      "lon": 1.643,
+      "population": 517
+    },
+    {
+      "insee": "19106",
+      "nom": "Lapleau",
+      "lat": 45.2971,
+      "lon": 2.1538,
+      "population": 393
+    },
+    {
+      "insee": "19107",
+      "nom": "Larche",
+      "lat": 45.1135,
+      "lon": 1.4138,
+      "population": 1645
+    },
+    {
+      "insee": "19108",
+      "nom": "Laroche-près-Feyt",
+      "lat": 45.705,
+      "lon": 2.4976,
+      "population": 80
+    },
+    {
+      "insee": "19109",
+      "nom": "Lascaux",
+      "lat": 45.3389,
+      "lon": 1.3734,
+      "population": 228
+    },
+    {
+      "insee": "19110",
+      "nom": "Latronche",
+      "lat": 45.3099,
+      "lon": 2.2394,
+      "population": 112
+    },
+    {
+      "insee": "19111",
+      "nom": "Laval-sur-Luzège",
+      "lat": 45.2521,
+      "lon": 2.1443,
+      "population": 103
+    },
+    {
+      "insee": "19048",
+      "nom": "Le Chastang",
+      "lat": 45.1772,
+      "lon": 1.7328,
+      "population": 349
+    },
+    {
+      "insee": "19118",
+      "nom": "Le Lonzac",
+      "lat": 45.4705,
+      "lon": 1.7274,
+      "population": 823
+    },
+    {
+      "insee": "19163",
+      "nom": "Le Pescher",
+      "lat": 45.0791,
+      "lon": 1.7625,
+      "population": 365
+    },
+    {
+      "insee": "19009",
+      "nom": "Les Angles-sur-Corrèze",
+      "lat": 45.3103,
+      "lon": 1.801,
+      "population": 125
+    },
+    {
+      "insee": "19248",
+      "nom": "Les Trois-Saints",
+      "lat": 45.4464,
+      "lon": 1.4925,
+      "population": 1388
+    },
+    {
+      "insee": "19112",
+      "nom": "Lestards",
+      "lat": 45.5425,
+      "lon": 1.8646,
+      "population": 117
+    },
+    {
+      "insee": "19113",
+      "nom": "Liginiac",
+      "lat": 45.4075,
+      "lon": 2.324,
+      "population": 651
+    },
+    {
+      "insee": "19114",
+      "nom": "Lignareix",
+      "lat": 45.6114,
+      "lon": 2.3011,
+      "population": 162
+    },
+    {
+      "insee": "19115",
+      "nom": "Ligneyrac",
+      "lat": 45.0487,
+      "lon": 1.6185,
+      "population": 290
+    },
+    {
+      "insee": "19116",
+      "nom": "Liourdres",
+      "lat": 44.9369,
+      "lon": 1.8076,
+      "population": 271
+    },
+    {
+      "insee": "19117",
+      "nom": "Lissac-sur-Couze",
+      "lat": 45.1116,
+      "lon": 1.4619,
+      "population": 705
+    },
+    {
+      "insee": "19119",
+      "nom": "Lostanges",
+      "lat": 45.0683,
+      "lon": 1.7726,
+      "population": 152
+    },
+    {
+      "insee": "19120",
+      "nom": "Louignac",
+      "lat": 45.2158,
+      "lon": 1.2695,
+      "population": 248
+    },
+    {
+      "insee": "19121",
+      "nom": "Lubersac",
+      "lat": 45.45,
+      "lon": 1.3981,
+      "population": 2246
+    },
+    {
+      "insee": "19122",
+      "nom": "Madranges",
+      "lat": 45.4633,
+      "lon": 1.8016,
+      "population": 166
+    },
+    {
+      "insee": "19123",
+      "nom": "Malemort",
+      "lat": 45.1797,
+      "lon": 1.5936,
+      "population": 8239
+    },
+    {
+      "insee": "19124",
+      "nom": "Mansac",
+      "lat": 45.1584,
+      "lon": 1.3832,
+      "population": 1554
+    },
+    {
+      "insee": "19125",
+      "nom": "Marcillac-la-Croisille",
+      "lat": 45.2504,
+      "lon": 2.0305,
+      "population": 857
+    },
+    {
+      "insee": "19126",
+      "nom": "Marcillac-la-Croze",
+      "lat": 45.0342,
+      "lon": 1.7366,
+      "population": 190
+    },
+    {
+      "insee": "19128",
+      "nom": "Margerides",
+      "lat": 45.4548,
+      "lon": 2.4179,
+      "population": 271
+    },
+    {
+      "insee": "19129",
+      "nom": "Masseret",
+      "lat": 45.5434,
+      "lon": 1.5174,
+      "population": 678
+    },
+    {
+      "insee": "19130",
+      "nom": "Maussac",
+      "lat": 45.4716,
+      "lon": 2.1245,
+      "population": 452
+    },
+    {
+      "insee": "19131",
+      "nom": "Meilhards",
+      "lat": 45.5489,
+      "lon": 1.6358,
+      "population": 545
+    },
+    {
+      "insee": "19132",
+      "nom": "Ménoire",
+      "lat": 45.1059,
+      "lon": 1.7942,
+      "population": 132
+    },
+    {
+      "insee": "19133",
+      "nom": "Mercœur",
+      "lat": 45.0182,
+      "lon": 1.9479,
+      "population": 228
+    },
+    {
+      "insee": "19134",
+      "nom": "Merlines",
+      "lat": 45.6269,
+      "lon": 2.4551,
+      "population": 741
+    },
+    {
+      "insee": "19135",
+      "nom": "Mestes",
+      "lat": 45.4928,
+      "lon": 2.3166,
+      "population": 341
+    },
+    {
+      "insee": "19136",
+      "nom": "Meymac",
+      "lat": 45.5527,
+      "lon": 2.1266,
+      "population": 2389
+    },
+    {
+      "insee": "19137",
+      "nom": "Meyrignac-l'Église",
+      "lat": 45.4054,
+      "lon": 1.8607,
+      "population": 64
+    },
+    {
+      "insee": "19138",
+      "nom": "Meyssac",
+      "lat": 45.0484,
+      "lon": 1.6867,
+      "population": 1310
+    },
+    {
+      "insee": "19139",
+      "nom": "Millevaches",
+      "lat": 45.6441,
+      "lon": 2.0907,
+      "population": 79
+    },
+    {
+      "insee": "19140",
+      "nom": "Monceaux-sur-Dordogne",
+      "lat": 45.0732,
+      "lon": 1.8896,
+      "population": 628
+    },
+    {
+      "insee": "19141",
+      "nom": "Monestier-Merlines",
+      "lat": 45.6539,
+      "lon": 2.4899,
+      "population": 302
+    },
+    {
+      "insee": "19142",
+      "nom": "Monestier-Port-Dieu",
+      "lat": 45.4963,
+      "lon": 2.4866,
+      "population": 132
+    },
+    {
+      "insee": "19143",
+      "nom": "Montaignac-sur-Doustre",
+      "lat": 45.3364,
+      "lon": 2.0271,
+      "population": 633
+    },
+    {
+      "insee": "19144",
+      "nom": "Montgibaud",
+      "lat": 45.5104,
+      "lon": 1.4217,
+      "population": 251
+    },
+    {
+      "insee": "19145",
+      "nom": "Moustier-Ventadour",
+      "lat": 45.3811,
+      "lon": 2.105,
+      "population": 405
+    },
+    {
+      "insee": "19146",
+      "nom": "Naves",
+      "lat": 45.3124,
+      "lon": 1.7504,
+      "population": 2281
+    },
+    {
+      "insee": "19147",
+      "nom": "Nespouls",
+      "lat": 45.0549,
+      "lon": 1.5026,
+      "population": 638
+    },
+    {
+      "insee": "19148",
+      "nom": "Neuvic",
+      "lat": 45.3631,
+      "lon": 2.2534,
+      "population": 1567
+    },
+    {
+      "insee": "19149",
+      "nom": "Neuville",
+      "lat": 45.109,
+      "lon": 1.8488,
+      "population": 201
+    },
+    {
+      "insee": "19150",
+      "nom": "Noailhac",
+      "lat": 45.0792,
+      "lon": 1.6215,
+      "population": 348
+    },
+    {
+      "insee": "19151",
+      "nom": "Noailles",
+      "lat": 45.0989,
+      "lon": 1.5204,
+      "population": 945
+    },
+    {
+      "insee": "19152",
+      "nom": "Nonards",
+      "lat": 45.0211,
+      "lon": 1.813,
+      "population": 482
+    },
+    {
+      "insee": "19153",
+      "nom": "Objat",
+      "lat": 45.266,
+      "lon": 1.4153,
+      "population": 3721
+    },
+    {
+      "insee": "19154",
+      "nom": "Orgnac-sur-Vézère",
+      "lat": 45.3406,
+      "lon": 1.4616,
+      "population": 325
+    },
+    {
+      "insee": "19155",
+      "nom": "Orliac-de-Bar",
+      "lat": 45.3705,
+      "lon": 1.8044,
+      "population": 256
+    },
+    {
+      "insee": "19156",
+      "nom": "Palazinges",
+      "lat": 45.1646,
+      "lon": 1.6962,
+      "population": 162
+    },
+    {
+      "insee": "19157",
+      "nom": "Palisse",
+      "lat": 45.4333,
+      "lon": 2.2073,
+      "population": 224
+    },
+    {
+      "insee": "19158",
+      "nom": "Pandrignes",
+      "lat": 45.22,
+      "lon": 1.8632,
+      "population": 172
+    },
+    {
+      "insee": "19159",
+      "nom": "Péret-Bel-Air",
+      "lat": 45.4713,
+      "lon": 2.0261,
+      "population": 84
+    },
+    {
+      "insee": "19160",
+      "nom": "Pérols-sur-Vézère",
+      "lat": 45.5731,
+      "lon": 2.009,
+      "population": 201
+    },
+    {
+      "insee": "19161",
+      "nom": "Perpezac-le-Blanc",
+      "lat": 45.2147,
+      "lon": 1.3231,
+      "population": 427
+    },
+    {
+      "insee": "19162",
+      "nom": "Perpezac-le-Noir",
+      "lat": 45.337,
+      "lon": 1.5518,
+      "population": 1270
+    },
+    {
+      "insee": "19164",
+      "nom": "Peyrelevade",
+      "lat": 45.7101,
+      "lon": 2.0286,
+      "population": 824
+    },
+    {
+      "insee": "19165",
+      "nom": "Peyrissac",
+      "lat": 45.5035,
+      "lon": 1.6932,
+      "population": 133
+    },
+    {
+      "insee": "19166",
+      "nom": "Pierrefitte",
+      "lat": 45.4297,
+      "lon": 1.6433,
+      "population": 93
+    },
+    {
+      "insee": "19168",
+      "nom": "Pradines",
+      "lat": 45.5079,
+      "lon": 1.9114,
+      "population": 92
+    },
+    {
+      "insee": "19169",
+      "nom": "Puy-d'Arnac",
+      "lat": 45.024,
+      "lon": 1.7748,
+      "population": 296
+    },
+    {
+      "insee": "19170",
+      "nom": "Queyssac-les-Vignes",
+      "lat": 44.9622,
+      "lon": 1.7668,
+      "population": 235
+    },
+    {
+      "insee": "19171",
+      "nom": "Reygade",
+      "lat": 45.0203,
+      "lon": 1.9035,
+      "population": 175
+    },
+    {
+      "insee": "19172",
+      "nom": "Rilhac-Treignac",
+      "lat": 45.5285,
+      "lon": 1.6912,
+      "population": 117
+    },
+    {
+      "insee": "19173",
+      "nom": "Rilhac-Xaintrie",
+      "lat": 45.1801,
+      "lon": 2.1961,
+      "population": 303
+    },
+    {
+      "insee": "19175",
+      "nom": "Roche-le-Peyroux",
+      "lat": 45.429,
+      "lon": 2.3822,
+      "population": 107
+    },
+    {
+      "insee": "19176",
+      "nom": "Rosiers-d'Égletons",
+      "lat": 45.3913,
+      "lon": 2.0165,
+      "population": 1083
+    },
+    {
+      "insee": "19177",
+      "nom": "Rosiers-de-Juillac",
+      "lat": 45.2889,
+      "lon": 1.3018,
+      "population": 177
+    },
+    {
+      "insee": "19178",
+      "nom": "Sadroc",
+      "lat": 45.2748,
+      "lon": 1.5495,
+      "population": 1010
+    },
+    {
+      "insee": "19179",
+      "nom": "Saillac",
+      "lat": 45.041,
+      "lon": 1.6413,
+      "population": 214
+    },
+    {
+      "insee": "19180",
+      "nom": "Saint-Angel",
+      "lat": 45.4964,
+      "lon": 2.2365,
+      "population": 702
+    },
+    {
+      "insee": "19181",
+      "nom": "Saint-Augustin",
+      "lat": 45.4383,
+      "lon": 1.8353,
+      "population": 427
+    },
+    {
+      "insee": "19182",
+      "nom": "Saint-Aulaire",
+      "lat": 45.237,
+      "lon": 1.3889,
+      "population": 773
+    },
+    {
+      "insee": "19184",
+      "nom": "Saint-Bazile-de-Meyssac",
+      "lat": 45.0552,
+      "lon": 1.7252,
+      "population": 142
+    },
+    {
+      "insee": "19186",
+      "nom": "Saint-Bonnet-Elvert",
+      "lat": 45.157,
+      "lon": 1.9177,
+      "population": 234
+    },
+    {
+      "insee": "19188",
+      "nom": "Saint-Bonnet-l'Enfantier",
+      "lat": 45.299,
+      "lon": 1.5278,
+      "population": 410
+    },
+    {
+      "insee": "19187",
+      "nom": "Saint-Bonnet-la-Rivière",
+      "lat": 45.2953,
+      "lon": 1.3582,
+      "population": 389
+    },
+    {
+      "insee": "19189",
+      "nom": "Saint-Bonnet-les-Tours-de-Merle",
+      "lat": 45.0541,
+      "lon": 2.0526,
+      "population": 41
+    },
+    {
+      "insee": "19190",
+      "nom": "Saint-Bonnet-près-Bort",
+      "lat": 45.5074,
+      "lon": 2.4239,
+      "population": 188
+    },
+    {
+      "insee": "19191",
+      "nom": "Saint-Cernin-de-Larche",
+      "lat": 45.0916,
+      "lon": 1.4127,
+      "population": 695
+    },
+    {
+      "insee": "19192",
+      "nom": "Saint-Chamant",
+      "lat": 45.1268,
+      "lon": 1.8971,
+      "population": 468
+    },
+    {
+      "insee": "19193",
+      "nom": "Saint-Cirgues-la-Loutre",
+      "lat": 45.0887,
+      "lon": 2.1006,
+      "population": 188
+    },
+    {
+      "insee": "19194",
+      "nom": "Saint-Clément",
+      "lat": 45.3344,
+      "lon": 1.6876,
+      "population": 1386
+    },
+    {
+      "insee": "19195",
+      "nom": "Saint-Cyprien",
+      "lat": 45.2534,
+      "lon": 1.3638,
+      "population": 377
+    },
+    {
+      "insee": "19196",
+      "nom": "Saint-Cyr-la-Roche",
+      "lat": 45.2783,
+      "lon": 1.384,
+      "population": 450
+    },
+    {
+      "insee": "19198",
+      "nom": "Saint-Éloy-les-Tuileries",
+      "lat": 45.4571,
+      "lon": 1.2809,
+      "population": 114
+    },
+    {
+      "insee": "19199",
+      "nom": "Saint-Étienne-aux-Clos",
+      "lat": 45.5703,
+      "lon": 2.448,
+      "population": 246
+    },
+    {
+      "insee": "19200",
+      "nom": "Saint-Étienne-la-Geneste",
+      "lat": 45.4511,
+      "lon": 2.3473,
+      "population": 87
+    },
+    {
+      "insee": "19201",
+      "nom": "Saint-Exupéry-les-Roches",
+      "lat": 45.5086,
+      "lon": 2.3754,
+      "population": 591
+    },
+    {
+      "insee": "19204",
+      "nom": "Saint-Fréjoux",
+      "lat": 45.5562,
+      "lon": 2.3818,
+      "population": 260
+    },
+    {
+      "insee": "19205",
+      "nom": "Saint-Geniez-ô-Merle",
+      "lat": 45.0842,
+      "lon": 2.064,
+      "population": 95
+    },
+    {
+      "insee": "19206",
+      "nom": "Saint-Germain-Lavolps",
+      "lat": 45.6049,
+      "lon": 2.2152,
+      "population": 102
+    },
+    {
+      "insee": "19207",
+      "nom": "Saint-Germain-les-Vergnes",
+      "lat": 45.2685,
+      "lon": 1.6185,
+      "population": 1153
+    },
+    {
+      "insee": "19208",
+      "nom": "Saint-Hilaire-Foissac",
+      "lat": 45.3149,
+      "lon": 2.1111,
+      "population": 196
+    },
+    {
+      "insee": "19209",
+      "nom": "Saint-Hilaire-les-Courbes",
+      "lat": 45.5983,
+      "lon": 1.8211,
+      "population": 178
+    },
+    {
+      "insee": "19210",
+      "nom": "Saint-Hilaire-Luc",
+      "lat": 45.35,
+      "lon": 2.2142,
+      "population": 65
+    },
+    {
+      "insee": "19211",
+      "nom": "Saint-Hilaire-Peyroux",
+      "lat": 45.2109,
+      "lon": 1.6423,
+      "population": 974
+    },
+    {
+      "insee": "19212",
+      "nom": "Saint-Hilaire-Taurieux",
+      "lat": 45.0789,
+      "lon": 1.8306,
+      "population": 91
+    },
+    {
+      "insee": "19213",
+      "nom": "Saint-Jal",
+      "lat": 45.3946,
+      "lon": 1.6529,
+      "population": 594
+    },
+    {
+      "insee": "19214",
+      "nom": "Saint-Julien-aux-Bois",
+      "lat": 45.1257,
+      "lon": 2.1435,
+      "population": 430
+    },
+    {
+      "insee": "19215",
+      "nom": "Saint-Julien-le-Pèlerin",
+      "lat": 45.0057,
+      "lon": 2.0659,
+      "population": 115
+    },
+    {
+      "insee": "19216",
+      "nom": "Saint-Julien-le-Vendômois",
+      "lat": 45.4553,
+      "lon": 1.3171,
+      "population": 234
+    },
+    {
+      "insee": "19217",
+      "nom": "Saint-Julien-Maumont",
+      "lat": 45.0351,
+      "lon": 1.7086,
+      "population": 184
+    },
+    {
+      "insee": "19220",
+      "nom": "Saint-Martial-de-Gimel",
+      "lat": 45.2705,
+      "lon": 1.8895,
+      "population": 489
+    },
+    {
+      "insee": "19221",
+      "nom": "Saint-Martial-Entraygues",
+      "lat": 45.1271,
+      "lon": 1.9717,
+      "population": 106
+    },
+    {
+      "insee": "19222",
+      "nom": "Saint-Martin-la-Méanne",
+      "lat": 45.1691,
+      "lon": 1.9955,
+      "population": 351
+    },
+    {
+      "insee": "19225",
+      "nom": "Saint-Merd-de-Lapleau",
+      "lat": 45.2487,
+      "lon": 2.0988,
+      "population": 205
+    },
+    {
+      "insee": "19226",
+      "nom": "Saint-Merd-les-Oussines",
+      "lat": 45.6198,
+      "lon": 2.0282,
+      "population": 105
+    },
+    {
+      "insee": "19227",
+      "nom": "Saint-Mexant",
+      "lat": 45.2898,
+      "lon": 1.6747,
+      "population": 1330
+    },
+    {
+      "insee": "19228",
+      "nom": "Saint-Pantaléon-de-Lapleau",
+      "lat": 45.3198,
+      "lon": 2.2035,
+      "population": 63
+    },
+    {
+      "insee": "19229",
+      "nom": "Saint-Pantaléon-de-Larche",
+      "lat": 45.1461,
+      "lon": 1.4345,
+      "population": 5091
+    },
+    {
+      "insee": "19234",
+      "nom": "Saint-Pardoux-l'Ortigier",
+      "lat": 45.2984,
+      "lon": 1.5811,
+      "population": 485
+    },
+    {
+      "insee": "19231",
+      "nom": "Saint-Pardoux-la-Croisille",
+      "lat": 45.2538,
+      "lon": 1.9663,
+      "population": 176
+    },
+    {
+      "insee": "19232",
+      "nom": "Saint-Pardoux-le-Neuf",
+      "lat": 45.6133,
+      "lon": 2.3392,
+      "population": 83
+    },
+    {
+      "insee": "19233",
+      "nom": "Saint-Pardoux-le-Vieux",
+      "lat": 45.6013,
+      "lon": 2.2681,
+      "population": 293
+    },
+    {
+      "insee": "19235",
+      "nom": "Saint-Paul",
+      "lat": 45.2038,
+      "lon": 1.9018,
+      "population": 232
+    },
+    {
+      "insee": "19236",
+      "nom": "Saint-Priest-de-Gimel",
+      "lat": 45.3083,
+      "lon": 1.8968,
+      "population": 480
+    },
+    {
+      "insee": "19237",
+      "nom": "Saint-Privat",
+      "lat": 45.1354,
+      "lon": 2.0824,
+      "population": 1034
+    },
+    {
+      "insee": "19238",
+      "nom": "Saint-Rémy",
+      "lat": 45.6579,
+      "lon": 2.2804,
+      "population": 244
+    },
+    {
+      "insee": "19239",
+      "nom": "Saint-Robert",
+      "lat": 45.2543,
+      "lon": 1.2945,
+      "population": 294
+    },
+    {
+      "insee": "19240",
+      "nom": "Saint-Salvadour",
+      "lat": 45.3868,
+      "lon": 1.7653,
+      "population": 332
+    },
+    {
+      "insee": "19241",
+      "nom": "Saint-Setiers",
+      "lat": 45.6955,
+      "lon": 2.1185,
+      "population": 252
+    },
+    {
+      "insee": "19242",
+      "nom": "Saint-Solve",
+      "lat": 45.3074,
+      "lon": 1.4014,
+      "population": 450
+    },
+    {
+      "insee": "19243",
+      "nom": "Saint-Sornin-Lavolps",
+      "lat": 45.3737,
+      "lon": 1.3702,
+      "population": 847
+    },
+    {
+      "insee": "19244",
+      "nom": "Saint-Sulpice-les-Bois",
+      "lat": 45.617,
+      "lon": 2.1408,
+      "population": 76
+    },
+    {
+      "insee": "19245",
+      "nom": "Saint-Sylvain",
+      "lat": 45.1807,
+      "lon": 1.8854,
+      "population": 131
+    },
+    {
+      "insee": "19246",
+      "nom": "Saint-Viance",
+      "lat": 45.2044,
+      "lon": 1.4639,
+      "population": 1892
+    },
+    {
+      "insee": "19247",
+      "nom": "Saint-Victour",
+      "lat": 45.4604,
+      "lon": 2.3913,
+      "population": 199
+    },
+    {
+      "insee": "19249",
+      "nom": "Saint-Yrieix-le-Déjalat",
+      "lat": 45.4572,
+      "lon": 1.9683,
+      "population": 327
+    },
+    {
+      "insee": "19202",
+      "nom": "Sainte-Féréole",
+      "lat": 45.2288,
+      "lon": 1.5934,
+      "population": 2081
+    },
+    {
+      "insee": "19203",
+      "nom": "Sainte-Fortunade",
+      "lat": 45.2051,
+      "lon": 1.7633,
+      "population": 1798
+    },
+    {
+      "insee": "19219",
+      "nom": "Sainte-Marie-Lapanouze",
+      "lat": 45.4302,
+      "lon": 2.3419,
+      "population": 64
+    },
+    {
+      "insee": "19250",
+      "nom": "Salon-la-Tour",
+      "lat": 45.5007,
+      "lon": 1.5293,
+      "population": 681
+    },
+    {
+      "insee": "19251",
+      "nom": "Sarran",
+      "lat": 45.4145,
+      "lon": 1.9326,
+      "population": 262
+    },
+    {
+      "insee": "19252",
+      "nom": "Sarroux - Saint Julien",
+      "lat": 45.4357,
+      "lon": 2.4422,
+      "population": 866
+    },
+    {
+      "insee": "19253",
+      "nom": "Segonzac",
+      "lat": 45.2779,
+      "lon": 1.2699,
+      "population": 192
+    },
+    {
+      "insee": "19254",
+      "nom": "Ségur-le-Château",
+      "lat": 45.428,
+      "lon": 1.3015,
+      "population": 202
+    },
+    {
+      "insee": "19255",
+      "nom": "Seilhac",
+      "lat": 45.3658,
+      "lon": 1.7179,
+      "population": 1805
+    },
+    {
+      "insee": "19256",
+      "nom": "Sérandon",
+      "lat": 45.3488,
+      "lon": 2.3265,
+      "population": 343
+    },
+    {
+      "insee": "19257",
+      "nom": "Sérilhac",
+      "lat": 45.096,
+      "lon": 1.7365,
+      "population": 275
+    },
+    {
+      "insee": "19258",
+      "nom": "Servières-le-Château",
+      "lat": 45.1421,
+      "lon": 2.0206,
+      "population": 563
+    },
+    {
+      "insee": "19259",
+      "nom": "Sexcles",
+      "lat": 45.0458,
+      "lon": 2.013,
+      "population": 228
+    },
+    {
+      "insee": "19260",
+      "nom": "Sioniac",
+      "lat": 44.9755,
+      "lon": 1.8,
+      "population": 246
+    },
+    {
+      "insee": "19261",
+      "nom": "Sornac",
+      "lat": 45.6753,
+      "lon": 2.1753,
+      "population": 776
+    },
+    {
+      "insee": "19262",
+      "nom": "Soudaine-Lavinadière",
+      "lat": 45.5426,
+      "lon": 1.7243,
+      "population": 143
+    },
+    {
+      "insee": "19263",
+      "nom": "Soudeilles",
+      "lat": 45.4446,
+      "lon": 2.0691,
+      "population": 299
+    },
+    {
+      "insee": "19264",
+      "nom": "Soursac",
+      "lat": 45.2657,
+      "lon": 2.2008,
+      "population": 526
+    },
+    {
+      "insee": "19265",
+      "nom": "Tarnac",
+      "lat": 45.6697,
+      "lon": 1.9503,
+      "population": 333
+    },
+    {
+      "insee": "19266",
+      "nom": "Thalamy",
+      "lat": 45.507,
+      "lon": 2.4604,
+      "population": 107
+    },
+    {
+      "insee": "19268",
+      "nom": "Toy-Viam",
+      "lat": 45.6464,
+      "lon": 1.9272,
+      "population": 35
+    },
+    {
+      "insee": "19269",
+      "nom": "Treignac",
+      "lat": 45.5534,
+      "lon": 1.803,
+      "population": 1256
+    },
+    {
+      "insee": "19270",
+      "nom": "Troche",
+      "lat": 45.3954,
+      "lon": 1.4471,
+      "population": 534
+    },
+    {
+      "insee": "19271",
+      "nom": "Tudeils",
+      "lat": 45.0502,
+      "lon": 1.7812,
+      "population": 268
+    },
+    {
+      "insee": "19272",
+      "nom": "Tulle",
+      "lat": 45.2685,
+      "lon": 1.7663,
+      "population": 13401
+    },
+    {
+      "insee": "19273",
+      "nom": "Turenne",
+      "lat": 45.0695,
+      "lon": 1.567,
+      "population": 801
+    },
+    {
+      "insee": "19274",
+      "nom": "Ussac",
+      "lat": 45.1875,
+      "lon": 1.5119,
+      "population": 4322
+    },
+    {
+      "insee": "19275",
+      "nom": "Ussel",
+      "lat": 45.5537,
+      "lon": 2.294,
+      "population": 9187
+    },
+    {
+      "insee": "19276",
+      "nom": "Uzerche",
+      "lat": 45.428,
+      "lon": 1.5663,
+      "population": 2814
+    },
+    {
+      "insee": "19277",
+      "nom": "Valiergues",
+      "lat": 45.4769,
+      "lon": 2.2794,
+      "population": 157
+    },
+    {
+      "insee": "19278",
+      "nom": "Varetz",
+      "lat": 45.1914,
+      "lon": 1.4365,
+      "population": 2409
+    },
+    {
+      "insee": "19279",
+      "nom": "Vars-sur-Roseix",
+      "lat": 45.2625,
+      "lon": 1.3741,
+      "population": 415
+    },
+    {
+      "insee": "19280",
+      "nom": "Végennes",
+      "lat": 44.9787,
+      "lon": 1.7489,
+      "population": 171
+    },
+    {
+      "insee": "19281",
+      "nom": "Veix",
+      "lat": 45.5041,
+      "lon": 1.8431,
+      "population": 80
+    },
+    {
+      "insee": "19283",
+      "nom": "Veyrières",
+      "lat": 45.4895,
+      "lon": 2.3958,
+      "population": 83
+    },
+    {
+      "insee": "19284",
+      "nom": "Viam",
+      "lat": 45.6111,
+      "lon": 1.8868,
+      "population": 85
+    },
+    {
+      "insee": "19285",
+      "nom": "Vigeois",
+      "lat": 45.3835,
+      "lon": 1.5172,
+      "population": 1300
+    },
+    {
+      "insee": "19286",
+      "nom": "Vignols",
+      "lat": 45.3252,
+      "lon": 1.4047,
+      "population": 536
+    },
+    {
+      "insee": "19287",
+      "nom": "Vitrac-sur-Montane",
+      "lat": 45.3706,
+      "lon": 1.938,
+      "population": 222
+    },
+    {
+      "insee": "19288",
+      "nom": "Voutezac",
+      "lat": 45.291,
+      "lon": 1.4428,
+      "population": 1249
+    },
+    {
+      "insee": "19289",
+      "nom": "Yssandon",
+      "lat": 45.2024,
+      "lon": 1.3849,
+      "population": 696
+    }
+  ]
+}

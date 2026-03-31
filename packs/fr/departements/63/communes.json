@@ -1,0 +1,3248 @@
+{
+  "country": "FR",
+  "departmentCode": "63",
+  "label": "Departement 63",
+  "communes": [
+    {
+      "insee": "63001",
+      "nom": "Aigueperse",
+      "lat": 46.0145,
+      "lon": 3.2024,
+      "population": 2665
+    },
+    {
+      "insee": "63002",
+      "nom": "Aix-la-Fayette",
+      "lat": 45.5082,
+      "lon": 3.5295,
+      "population": 97
+    },
+    {
+      "insee": "63003",
+      "nom": "Ambert",
+      "lat": 45.5516,
+      "lon": 3.7556,
+      "population": 6517
+    },
+    {
+      "insee": "63005",
+      "nom": "Antoingt",
+      "lat": 45.5051,
+      "lon": 3.1815,
+      "population": 413
+    },
+    {
+      "insee": "63006",
+      "nom": "Anzat-le-Luguet",
+      "lat": 45.3265,
+      "lon": 3.0104,
+      "population": 167
+    },
+    {
+      "insee": "63007",
+      "nom": "Apchat",
+      "lat": 45.3787,
+      "lon": 3.1488,
+      "population": 162
+    },
+    {
+      "insee": "63008",
+      "nom": "Arconsat",
+      "lat": 45.9004,
+      "lon": 3.7154,
+      "population": 565
+    },
+    {
+      "insee": "63009",
+      "nom": "Ardes",
+      "lat": 45.3978,
+      "lon": 3.127,
+      "population": 592
+    },
+    {
+      "insee": "63010",
+      "nom": "Arlanc",
+      "lat": 45.4239,
+      "lon": 3.7349,
+      "population": 1785
+    },
+    {
+      "insee": "63011",
+      "nom": "Ars-les-Favets",
+      "lat": 46.2023,
+      "lon": 2.7538,
+      "population": 220
+    },
+    {
+      "insee": "63012",
+      "nom": "Artonne",
+      "lat": 46.0061,
+      "lon": 3.1489,
+      "population": 912
+    },
+    {
+      "insee": "63013",
+      "nom": "Aubiat",
+      "lat": 45.9792,
+      "lon": 3.1977,
+      "population": 1023
+    },
+    {
+      "insee": "63014",
+      "nom": "Aubière",
+      "lat": 45.752,
+      "lon": 3.1272,
+      "population": 10459
+    },
+    {
+      "insee": "63015",
+      "nom": "Aubusson-d'Auvergne",
+      "lat": 45.7519,
+      "lon": 3.5999,
+      "population": 215
+    },
+    {
+      "insee": "63016",
+      "nom": "Augerolles",
+      "lat": 45.7343,
+      "lon": 3.6372,
+      "population": 862
+    },
+    {
+      "insee": "63017",
+      "nom": "Augnat",
+      "lat": 45.4129,
+      "lon": 3.1789,
+      "population": 183
+    },
+    {
+      "insee": "63160",
+      "nom": "Aulhat-Flat",
+      "lat": 45.5741,
+      "lon": 3.311,
+      "population": 944
+    },
+    {
+      "insee": "63019",
+      "nom": "Aulnat",
+      "lat": 45.7924,
+      "lon": 3.1726,
+      "population": 4139
+    },
+    {
+      "insee": "63020",
+      "nom": "Aurières",
+      "lat": 45.6829,
+      "lon": 2.9179,
+      "population": 373
+    },
+    {
+      "insee": "63021",
+      "nom": "Authezat",
+      "lat": 45.6376,
+      "lon": 3.1942,
+      "population": 661
+    },
+    {
+      "insee": "63022",
+      "nom": "Auzat-la-Combelle",
+      "lat": 45.4495,
+      "lon": 3.3289,
+      "population": 1956
+    },
+    {
+      "insee": "63023",
+      "nom": "Auzelles",
+      "lat": 45.6136,
+      "lon": 3.5282,
+      "population": 391
+    },
+    {
+      "insee": "63024",
+      "nom": "Avèze",
+      "lat": 45.5966,
+      "lon": 2.6023,
+      "population": 158
+    },
+    {
+      "insee": "63025",
+      "nom": "Ayat-sur-Sioule",
+      "lat": 46.0609,
+      "lon": 2.8878,
+      "population": 138
+    },
+    {
+      "insee": "63026",
+      "nom": "Aydat",
+      "lat": 45.6663,
+      "lon": 2.9899,
+      "population": 2574
+    },
+    {
+      "insee": "63027",
+      "nom": "Baffie",
+      "lat": 45.4764,
+      "lon": 3.8242,
+      "population": 111
+    },
+    {
+      "insee": "63028",
+      "nom": "Bagnols",
+      "lat": 45.4918,
+      "lon": 2.6376,
+      "population": 400
+    },
+    {
+      "insee": "63029",
+      "nom": "Bansat",
+      "lat": 45.4848,
+      "lon": 3.3638,
+      "population": 264
+    },
+    {
+      "insee": "63030",
+      "nom": "Bas-et-Lezat",
+      "lat": 46.0373,
+      "lon": 3.3041,
+      "population": 352
+    },
+    {
+      "insee": "63031",
+      "nom": "Beaulieu",
+      "lat": 45.4437,
+      "lon": 3.2845,
+      "population": 473
+    },
+    {
+      "insee": "63032",
+      "nom": "Beaumont",
+      "lat": 45.75,
+      "lon": 3.0853,
+      "population": 10728
+    },
+    {
+      "insee": "63033",
+      "nom": "Beaumont-lès-Randan",
+      "lat": 45.9978,
+      "lon": 3.3818,
+      "population": 312
+    },
+    {
+      "insee": "63034",
+      "nom": "Beauregard-l'Évêque",
+      "lat": 45.8167,
+      "lon": 3.2969,
+      "population": 1586
+    },
+    {
+      "insee": "63035",
+      "nom": "Beauregard-Vendon",
+      "lat": 45.9657,
+      "lon": 3.1108,
+      "population": 1328
+    },
+    {
+      "insee": "63036",
+      "nom": "Bergonne",
+      "lat": 45.5105,
+      "lon": 3.2171,
+      "population": 329
+    },
+    {
+      "insee": "63037",
+      "nom": "Bertignat",
+      "lat": 45.6175,
+      "lon": 3.6918,
+      "population": 483
+    },
+    {
+      "insee": "63038",
+      "nom": "Besse-et-Saint-Anastaise",
+      "lat": 45.4984,
+      "lon": 2.9103,
+      "population": 1442
+    },
+    {
+      "insee": "63039",
+      "nom": "Beurières",
+      "lat": 45.433,
+      "lon": 3.7773,
+      "population": 322
+    },
+    {
+      "insee": "63040",
+      "nom": "Billom",
+      "lat": 45.726,
+      "lon": 3.3232,
+      "population": 4805
+    },
+    {
+      "insee": "63041",
+      "nom": "Biollet",
+      "lat": 45.9878,
+      "lon": 2.6944,
+      "population": 309
+    },
+    {
+      "insee": "63042",
+      "nom": "Blanzat",
+      "lat": 45.8251,
+      "lon": 3.0707,
+      "population": 3709
+    },
+    {
+      "insee": "63043",
+      "nom": "Blot-l'Église",
+      "lat": 46.0352,
+      "lon": 2.9564,
+      "population": 436
+    },
+    {
+      "insee": "63044",
+      "nom": "Bongheat",
+      "lat": 45.7231,
+      "lon": 3.4271,
+      "population": 465
+    },
+    {
+      "insee": "63045",
+      "nom": "Bort-l'Étang",
+      "lat": 45.7832,
+      "lon": 3.4399,
+      "population": 727
+    },
+    {
+      "insee": "63046",
+      "nom": "Boudes",
+      "lat": 45.4536,
+      "lon": 3.1842,
+      "population": 260
+    },
+    {
+      "insee": "63048",
+      "nom": "Bourg-Lastic",
+      "lat": 45.6582,
+      "lon": 2.5718,
+      "population": 874
+    },
+    {
+      "insee": "63049",
+      "nom": "Bouzel",
+      "lat": 45.7827,
+      "lon": 3.3178,
+      "population": 703
+    },
+    {
+      "insee": "63050",
+      "nom": "Brassac-les-Mines",
+      "lat": 45.4157,
+      "lon": 3.3188,
+      "population": 3412
+    },
+    {
+      "insee": "63051",
+      "nom": "Brenat",
+      "lat": 45.549,
+      "lon": 3.3108,
+      "population": 629
+    },
+    {
+      "insee": "63053",
+      "nom": "Briffons",
+      "lat": 45.6954,
+      "lon": 2.6671,
+      "population": 267
+    },
+    {
+      "insee": "63055",
+      "nom": "Bromont-Lamothe",
+      "lat": 45.8358,
+      "lon": 2.8057,
+      "population": 1032
+    },
+    {
+      "insee": "63056",
+      "nom": "Brousse",
+      "lat": 45.6052,
+      "lon": 3.4641,
+      "population": 372
+    },
+    {
+      "insee": "63058",
+      "nom": "Bulhon",
+      "lat": 45.8855,
+      "lon": 3.395,
+      "population": 607
+    },
+    {
+      "insee": "63059",
+      "nom": "Busséol",
+      "lat": 45.6935,
+      "lon": 3.2639,
+      "population": 221
+    },
+    {
+      "insee": "63060",
+      "nom": "Bussières",
+      "lat": 46.0647,
+      "lon": 2.6454,
+      "population": 109
+    },
+    {
+      "insee": "63061",
+      "nom": "Bussières-et-Pruns",
+      "lat": 46.0055,
+      "lon": 3.2415,
+      "population": 512
+    },
+    {
+      "insee": "63062",
+      "nom": "Buxières-sous-Montaigut",
+      "lat": 46.2035,
+      "lon": 2.8395,
+      "population": 244
+    },
+    {
+      "insee": "63063",
+      "nom": "Cébazat",
+      "lat": 45.8314,
+      "lon": 3.1094,
+      "population": 8953
+    },
+    {
+      "insee": "63065",
+      "nom": "Ceilloux",
+      "lat": 45.6542,
+      "lon": 3.5145,
+      "population": 174
+    },
+    {
+      "insee": "63066",
+      "nom": "Celles-sur-Durolle",
+      "lat": 45.882,
+      "lon": 3.6449,
+      "population": 1627
+    },
+    {
+      "insee": "63070",
+      "nom": "Ceyrat",
+      "lat": 45.7403,
+      "lon": 3.0651,
+      "population": 6592
+    },
+    {
+      "insee": "63071",
+      "nom": "Ceyssat",
+      "lat": 45.7744,
+      "lon": 2.9216,
+      "population": 697
+    },
+    {
+      "insee": "63072",
+      "nom": "Chabreloche",
+      "lat": 45.8723,
+      "lon": 3.7003,
+      "population": 1156
+    },
+    {
+      "insee": "63073",
+      "nom": "Chadeleuf",
+      "lat": 45.5827,
+      "lon": 3.1806,
+      "population": 427
+    },
+    {
+      "insee": "63074",
+      "nom": "Chalus",
+      "lat": 45.465,
+      "lon": 3.2071,
+      "population": 177
+    },
+    {
+      "insee": "63075",
+      "nom": "Chamalières",
+      "lat": 45.7741,
+      "lon": 3.0605,
+      "population": 17509
+    },
+    {
+      "insee": "63244",
+      "nom": "Chambaron sur Morge",
+      "lat": 45.9566,
+      "lon": 3.1502,
+      "population": 1766
+    },
+    {
+      "insee": "63076",
+      "nom": "Chambon-sur-Dolore",
+      "lat": 45.5031,
+      "lon": 3.6225,
+      "population": 141
+    },
+    {
+      "insee": "63077",
+      "nom": "Chambon-sur-Lac",
+      "lat": 45.5599,
+      "lon": 2.8723,
+      "population": 407
+    },
+    {
+      "insee": "63079",
+      "nom": "Champagnat-le-Jeune",
+      "lat": 45.4426,
+      "lon": 3.4235,
+      "population": 149
+    },
+    {
+      "insee": "63080",
+      "nom": "Champeix",
+      "lat": 45.5858,
+      "lon": 3.1281,
+      "population": 1422
+    },
+    {
+      "insee": "63081",
+      "nom": "Champétières",
+      "lat": 45.5175,
+      "lon": 3.6857,
+      "population": 282
+    },
+    {
+      "insee": "63082",
+      "nom": "Champs",
+      "lat": 46.0601,
+      "lon": 3.0973,
+      "population": 441
+    },
+    {
+      "insee": "63083",
+      "nom": "Chanat-la-Mouteyre",
+      "lat": 45.8213,
+      "lon": 3.0018,
+      "population": 950
+    },
+    {
+      "insee": "63084",
+      "nom": "Chanonat",
+      "lat": 45.6985,
+      "lon": 3.0784,
+      "population": 1729
+    },
+    {
+      "insee": "63085",
+      "nom": "Chapdes-Beaufort",
+      "lat": 45.8907,
+      "lon": 2.8511,
+      "population": 1140
+    },
+    {
+      "insee": "63089",
+      "nom": "Chappes",
+      "lat": 45.8662,
+      "lon": 3.225,
+      "population": 1607
+    },
+    {
+      "insee": "63090",
+      "nom": "Chaptuzat",
+      "lat": 46.0293,
+      "lon": 3.1705,
+      "population": 485
+    },
+    {
+      "insee": "63091",
+      "nom": "Charbonnier-les-Mines",
+      "lat": 45.4182,
+      "lon": 3.2811,
+      "population": 930
+    },
+    {
+      "insee": "63092",
+      "nom": "Charbonnières-les-Varennes",
+      "lat": 45.89,
+      "lon": 2.9806,
+      "population": 1935
+    },
+    {
+      "insee": "63093",
+      "nom": "Charbonnières-les-Vieilles",
+      "lat": 45.9896,
+      "lon": 3.0131,
+      "population": 1170
+    },
+    {
+      "insee": "63094",
+      "nom": "Charensat",
+      "lat": 45.9859,
+      "lon": 2.6471,
+      "population": 470
+    },
+    {
+      "insee": "63095",
+      "nom": "Charnat",
+      "lat": 45.9439,
+      "lon": 3.4344,
+      "population": 207
+    },
+    {
+      "insee": "63096",
+      "nom": "Chas",
+      "lat": 45.7474,
+      "lon": 3.3081,
+      "population": 361
+    },
+    {
+      "insee": "63097",
+      "nom": "Chassagne",
+      "lat": 45.4914,
+      "lon": 3.0645,
+      "population": 76
+    },
+    {
+      "insee": "63098",
+      "nom": "Chastreix",
+      "lat": 45.5132,
+      "lon": 2.7518,
+      "population": 226
+    },
+    {
+      "insee": "63101",
+      "nom": "Château-sur-Cher",
+      "lat": 46.1155,
+      "lon": 2.5725,
+      "population": 71
+    },
+    {
+      "insee": "63099",
+      "nom": "Châteaugay",
+      "lat": 45.8544,
+      "lon": 3.0996,
+      "population": 3189
+    },
+    {
+      "insee": "63100",
+      "nom": "Châteauneuf-les-Bains",
+      "lat": 46.0231,
+      "lon": 2.8809,
+      "population": 301
+    },
+    {
+      "insee": "63103",
+      "nom": "Châtel-Guyon",
+      "lat": 45.9212,
+      "lon": 3.0634,
+      "population": 6299
+    },
+    {
+      "insee": "63102",
+      "nom": "Châteldon",
+      "lat": 45.9734,
+      "lon": 3.5487,
+      "population": 740
+    },
+    {
+      "insee": "63105",
+      "nom": "Chaumont-le-Bourg",
+      "lat": 45.4619,
+      "lon": 3.7657,
+      "population": 238
+    },
+    {
+      "insee": "63106",
+      "nom": "Chauriat",
+      "lat": 45.7434,
+      "lon": 3.2776,
+      "population": 1805
+    },
+    {
+      "insee": "63107",
+      "nom": "Chavaroux",
+      "lat": 45.8538,
+      "lon": 3.2574,
+      "population": 529
+    },
+    {
+      "insee": "63110",
+      "nom": "Cisternes-la-Forêt",
+      "lat": 45.8076,
+      "lon": 2.7245,
+      "population": 443
+    },
+    {
+      "insee": "63111",
+      "nom": "Clémensat",
+      "lat": 45.5643,
+      "lon": 3.1045,
+      "population": 122
+    },
+    {
+      "insee": "63112",
+      "nom": "Clerlande",
+      "lat": 45.917,
+      "lon": 3.1918,
+      "population": 637
+    },
+    {
+      "insee": "63113",
+      "nom": "Clermont-Ferrand",
+      "lat": 45.787,
+      "lon": 3.1127,
+      "population": 146351
+    },
+    {
+      "insee": "63114",
+      "nom": "Collanges",
+      "lat": 45.4348,
+      "lon": 3.2157,
+      "population": 157
+    },
+    {
+      "insee": "63115",
+      "nom": "Combrailles",
+      "lat": 45.8419,
+      "lon": 2.6439,
+      "population": 212
+    },
+    {
+      "insee": "63116",
+      "nom": "Combronde",
+      "lat": 45.9881,
+      "lon": 3.0819,
+      "population": 2138
+    },
+    {
+      "insee": "63117",
+      "nom": "Compains",
+      "lat": 45.4357,
+      "lon": 2.925,
+      "population": 125
+    },
+    {
+      "insee": "63118",
+      "nom": "Condat-en-Combraille",
+      "lat": 45.8664,
+      "lon": 2.5582,
+      "population": 413
+    },
+    {
+      "insee": "63119",
+      "nom": "Condat-lès-Montboissier",
+      "lat": 45.5573,
+      "lon": 3.4797,
+      "population": 228
+    },
+    {
+      "insee": "63120",
+      "nom": "Corent",
+      "lat": 45.6599,
+      "lon": 3.195,
+      "population": 799
+    },
+    {
+      "insee": "63121",
+      "nom": "Coudes",
+      "lat": 45.6126,
+      "lon": 3.2032,
+      "population": 1225
+    },
+    {
+      "insee": "63122",
+      "nom": "Courgoul",
+      "lat": 45.5121,
+      "lon": 3.0443,
+      "population": 62
+    },
+    {
+      "insee": "63123",
+      "nom": "Cournols",
+      "lat": 45.6408,
+      "lon": 3.0393,
+      "population": 230
+    },
+    {
+      "insee": "63124",
+      "nom": "Cournon-d'Auvergne",
+      "lat": 45.742,
+      "lon": 3.1885,
+      "population": 19951
+    },
+    {
+      "insee": "63125",
+      "nom": "Courpière",
+      "lat": 45.7578,
+      "lon": 3.5405,
+      "population": 4166
+    },
+    {
+      "insee": "63128",
+      "nom": "Crevant-Laveine",
+      "lat": 45.902,
+      "lon": 3.3937,
+      "population": 967
+    },
+    {
+      "insee": "63129",
+      "nom": "Cros",
+      "lat": 45.4676,
+      "lon": 2.6088,
+      "population": 171
+    },
+    {
+      "insee": "63131",
+      "nom": "Culhat",
+      "lat": 45.8605,
+      "lon": 3.3393,
+      "population": 1182
+    },
+    {
+      "insee": "63132",
+      "nom": "Cunlhat",
+      "lat": 45.6326,
+      "lon": 3.5643,
+      "population": 1290
+    },
+    {
+      "insee": "63134",
+      "nom": "Dauzat-sur-Vodable",
+      "lat": 45.4742,
+      "lon": 3.0774,
+      "population": 70
+    },
+    {
+      "insee": "63135",
+      "nom": "Davayat",
+      "lat": 45.9468,
+      "lon": 3.1143,
+      "population": 666
+    },
+    {
+      "insee": "63136",
+      "nom": "Domaize",
+      "lat": 45.6851,
+      "lon": 3.5333,
+      "population": 386
+    },
+    {
+      "insee": "63137",
+      "nom": "Doranges",
+      "lat": 45.3968,
+      "lon": 3.6081,
+      "population": 178
+    },
+    {
+      "insee": "63138",
+      "nom": "Dorat",
+      "lat": 45.8938,
+      "lon": 3.4773,
+      "population": 719
+    },
+    {
+      "insee": "63139",
+      "nom": "Dore-l'Église",
+      "lat": 45.3766,
+      "lon": 3.7543,
+      "population": 656
+    },
+    {
+      "insee": "63140",
+      "nom": "Durmignat",
+      "lat": 46.1978,
+      "lon": 2.8901,
+      "population": 214
+    },
+    {
+      "insee": "63141",
+      "nom": "Durtol",
+      "lat": 45.795,
+      "lon": 3.0554,
+      "population": 1914
+    },
+    {
+      "insee": "63142",
+      "nom": "Échandelys",
+      "lat": 45.5509,
+      "lon": 3.5325,
+      "population": 248
+    },
+    {
+      "insee": "63143",
+      "nom": "Effiat",
+      "lat": 46.0393,
+      "lon": 3.2778,
+      "population": 1124
+    },
+    {
+      "insee": "63144",
+      "nom": "Égliseneuve-d'Entraigues",
+      "lat": 45.4264,
+      "lon": 2.8196,
+      "population": 328
+    },
+    {
+      "insee": "63145",
+      "nom": "Égliseneuve-des-Liards",
+      "lat": 45.5679,
+      "lon": 3.4198,
+      "population": 157
+    },
+    {
+      "insee": "63146",
+      "nom": "Égliseneuve-près-Billom",
+      "lat": 45.7199,
+      "lon": 3.3872,
+      "population": 937
+    },
+    {
+      "insee": "63147",
+      "nom": "Églisolles",
+      "lat": 45.475,
+      "lon": 3.8789,
+      "population": 308
+    },
+    {
+      "insee": "63148",
+      "nom": "Ennezat",
+      "lat": 45.8965,
+      "lon": 3.2162,
+      "population": 2748
+    },
+    {
+      "insee": "63149",
+      "nom": "Entraigues",
+      "lat": 45.8844,
+      "lon": 3.2636,
+      "population": 734
+    },
+    {
+      "insee": "63150",
+      "nom": "Enval",
+      "lat": 45.8965,
+      "lon": 3.051,
+      "population": 1596
+    },
+    {
+      "insee": "63151",
+      "nom": "Escoutoux",
+      "lat": 45.8166,
+      "lon": 3.5535,
+      "population": 1369
+    },
+    {
+      "insee": "63152",
+      "nom": "Espinasse",
+      "lat": 46.0347,
+      "lon": 2.7159,
+      "population": 274
+    },
+    {
+      "insee": "63153",
+      "nom": "Espinchal",
+      "lat": 45.3942,
+      "lon": 2.8789,
+      "population": 72
+    },
+    {
+      "insee": "63154",
+      "nom": "Espirat",
+      "lat": 45.7528,
+      "lon": 3.3337,
+      "population": 416
+    },
+    {
+      "insee": "63155",
+      "nom": "Estandeuil",
+      "lat": 45.6807,
+      "lon": 3.4457,
+      "population": 512
+    },
+    {
+      "insee": "63156",
+      "nom": "Esteil",
+      "lat": 45.4527,
+      "lon": 3.3651,
+      "population": 54
+    },
+    {
+      "insee": "63157",
+      "nom": "Fayet-le-Château",
+      "lat": 45.6754,
+      "lon": 3.4062,
+      "population": 381
+    },
+    {
+      "insee": "63158",
+      "nom": "Fayet-Ronaye",
+      "lat": 45.4177,
+      "lon": 3.5358,
+      "population": 116
+    },
+    {
+      "insee": "63159",
+      "nom": "Fernoël",
+      "lat": 45.8137,
+      "lon": 2.4182,
+      "population": 137
+    },
+    {
+      "insee": "63162",
+      "nom": "Fournols",
+      "lat": 45.5179,
+      "lon": 3.5896,
+      "population": 313
+    },
+    {
+      "insee": "63163",
+      "nom": "Gelles",
+      "lat": 45.7624,
+      "lon": 2.7753,
+      "population": 921
+    },
+    {
+      "insee": "63164",
+      "nom": "Gerzat",
+      "lat": 45.8277,
+      "lon": 3.1601,
+      "population": 10335
+    },
+    {
+      "insee": "63165",
+      "nom": "Giat",
+      "lat": 45.8022,
+      "lon": 2.4805,
+      "population": 786
+    },
+    {
+      "insee": "63166",
+      "nom": "Gignat",
+      "lat": 45.4845,
+      "lon": 3.2169,
+      "population": 257
+    },
+    {
+      "insee": "63167",
+      "nom": "Gimeaux",
+      "lat": 45.9488,
+      "lon": 3.0983,
+      "population": 383
+    },
+    {
+      "insee": "63168",
+      "nom": "Glaine-Montaigut",
+      "lat": 45.7499,
+      "lon": 3.3852,
+      "population": 606
+    },
+    {
+      "insee": "63171",
+      "nom": "Gouttières",
+      "lat": 46.0596,
+      "lon": 2.7716,
+      "population": 298
+    },
+    {
+      "insee": "63172",
+      "nom": "Grandeyrolles",
+      "lat": 45.5875,
+      "lon": 3.0495,
+      "population": 55
+    },
+    {
+      "insee": "63173",
+      "nom": "Grandrif",
+      "lat": 45.5346,
+      "lon": 3.8323,
+      "population": 199
+    },
+    {
+      "insee": "63174",
+      "nom": "Grandval",
+      "lat": 45.5983,
+      "lon": 3.6514,
+      "population": 123
+    },
+    {
+      "insee": "63175",
+      "nom": "Herment",
+      "lat": 45.7636,
+      "lon": 2.5721,
+      "population": 277
+    },
+    {
+      "insee": "63176",
+      "nom": "Heume-l'Église",
+      "lat": 45.7238,
+      "lon": 2.7203,
+      "population": 113
+    },
+    {
+      "insee": "63177",
+      "nom": "Isserteaux",
+      "lat": 45.6505,
+      "lon": 3.3802,
+      "population": 416
+    },
+    {
+      "insee": "63178",
+      "nom": "Issoire",
+      "lat": 45.5442,
+      "lon": 3.2444,
+      "population": 15115
+    },
+    {
+      "insee": "63179",
+      "nom": "Job",
+      "lat": 45.6295,
+      "lon": 3.7669,
+      "population": 1016
+    },
+    {
+      "insee": "63180",
+      "nom": "Joze",
+      "lat": 45.8691,
+      "lon": 3.306,
+      "population": 1183
+    },
+    {
+      "insee": "63181",
+      "nom": "Jozerand",
+      "lat": 46.0229,
+      "lon": 3.0976,
+      "population": 553
+    },
+    {
+      "insee": "63182",
+      "nom": "Jumeaux",
+      "lat": 45.4337,
+      "lon": 3.3493,
+      "population": 559
+    },
+    {
+      "insee": "63047",
+      "nom": "La Bourboule",
+      "lat": 45.5788,
+      "lon": 2.7467,
+      "population": 1727
+    },
+    {
+      "insee": "63064",
+      "nom": "La Celle",
+      "lat": 45.8512,
+      "lon": 2.4753,
+      "population": 81
+    },
+    {
+      "insee": "63067",
+      "nom": "La Cellette",
+      "lat": 46.0948,
+      "lon": 2.7268,
+      "population": 169
+    },
+    {
+      "insee": "63086",
+      "nom": "La Chapelle-Agnon",
+      "lat": 45.6324,
+      "lon": 3.6297,
+      "population": 361
+    },
+    {
+      "insee": "63087",
+      "nom": "La Chapelle-Marcousse",
+      "lat": 45.4404,
+      "lon": 3.0811,
+      "population": 63
+    },
+    {
+      "insee": "63088",
+      "nom": "La Chapelle-sur-Usson",
+      "lat": 45.4633,
+      "lon": 3.39,
+      "population": 85
+    },
+    {
+      "insee": "63104",
+      "nom": "La Chaulme",
+      "lat": 45.472,
+      "lon": 3.9556,
+      "population": 118
+    },
+    {
+      "insee": "63130",
+      "nom": "La Crouzille",
+      "lat": 46.1727,
+      "lon": 2.7501,
+      "population": 262
+    },
+    {
+      "insee": "63161",
+      "nom": "La Forie",
+      "lat": 45.5897,
+      "lon": 3.752,
+      "population": 317
+    },
+    {
+      "insee": "63169",
+      "nom": "La Godivelle",
+      "lat": 45.3921,
+      "lon": 2.9205,
+      "population": 19
+    },
+    {
+      "insee": "63170",
+      "nom": "La Goutelle",
+      "lat": 45.8426,
+      "lon": 2.7438,
+      "population": 609
+    },
+    {
+      "insee": "63231",
+      "nom": "La Monnerie-le-Montel",
+      "lat": 45.872,
+      "lon": 3.614,
+      "population": 1647
+    },
+    {
+      "insee": "63298",
+      "nom": "La Renaudie",
+      "lat": 45.7427,
+      "lon": 3.7099,
+      "population": 132
+    },
+    {
+      "insee": "63302",
+      "nom": "La Roche-Blanche",
+      "lat": 45.7134,
+      "lon": 3.1384,
+      "population": 3311
+    },
+    {
+      "insee": "63306",
+      "nom": "La Roche-Noire",
+      "lat": 45.7147,
+      "lon": 3.2228,
+      "population": 631
+    },
+    {
+      "insee": "63413",
+      "nom": "La Sauvetat",
+      "lat": 45.6396,
+      "lon": 3.1617,
+      "population": 737
+    },
+    {
+      "insee": "63192",
+      "nom": "La Tour-d'Auvergne",
+      "lat": 45.5413,
+      "lon": 2.7117,
+      "population": 640
+    },
+    {
+      "insee": "63183",
+      "nom": "Labessette",
+      "lat": 45.497,
+      "lon": 2.5354,
+      "population": 58
+    },
+    {
+      "insee": "63184",
+      "nom": "Lachaux",
+      "lat": 45.9918,
+      "lon": 3.5899,
+      "population": 273
+    },
+    {
+      "insee": "63185",
+      "nom": "Lamontgie",
+      "lat": 45.4752,
+      "lon": 3.3311,
+      "population": 643
+    },
+    {
+      "insee": "63186",
+      "nom": "Landogne",
+      "lat": 45.8861,
+      "lon": 2.6501,
+      "population": 228
+    },
+    {
+      "insee": "63187",
+      "nom": "Lapeyrouse",
+      "lat": 46.2308,
+      "lon": 2.8818,
+      "population": 521
+    },
+    {
+      "insee": "63188",
+      "nom": "Laps",
+      "lat": 45.6701,
+      "lon": 3.2683,
+      "population": 601
+    },
+    {
+      "insee": "63189",
+      "nom": "Laqueuille",
+      "lat": 45.6525,
+      "lon": 2.7501,
+      "population": 351
+    },
+    {
+      "insee": "63190",
+      "nom": "Larodde",
+      "lat": 45.5184,
+      "lon": 2.5562,
+      "population": 296
+    },
+    {
+      "insee": "63191",
+      "nom": "Lastic",
+      "lat": 45.7045,
+      "lon": 2.5767,
+      "population": 98
+    },
+    {
+      "insee": "63052",
+      "nom": "Le Breuil-sur-Couze",
+      "lat": 45.4702,
+      "lon": 3.2688,
+      "population": 1028
+    },
+    {
+      "insee": "63054",
+      "nom": "Le Broc",
+      "lat": 45.5036,
+      "lon": 3.2543,
+      "population": 623
+    },
+    {
+      "insee": "63057",
+      "nom": "Le Brugeron",
+      "lat": 45.7156,
+      "lon": 3.7331,
+      "population": 256
+    },
+    {
+      "insee": "63069",
+      "nom": "Le Cendre",
+      "lat": 45.7164,
+      "lon": 3.1947,
+      "population": 5415
+    },
+    {
+      "insee": "63108",
+      "nom": "Le Cheix-sur-Morge",
+      "lat": 45.9563,
+      "lon": 3.1826,
+      "population": 695
+    },
+    {
+      "insee": "63126",
+      "nom": "Le Crest",
+      "lat": 45.6882,
+      "lon": 3.1358,
+      "population": 1300
+    },
+    {
+      "insee": "63230",
+      "nom": "Le Monestier",
+      "lat": 45.559,
+      "lon": 3.6527,
+      "population": 242
+    },
+    {
+      "insee": "63293",
+      "nom": "Le Quartier",
+      "lat": 46.121,
+      "lon": 2.7616,
+      "population": 225
+    },
+    {
+      "insee": "63448",
+      "nom": "Le Vernet-Chaméane",
+      "lat": 45.4962,
+      "lon": 3.4574,
+      "population": 775
+    },
+    {
+      "insee": "63449",
+      "nom": "Le Vernet-Sainte-Marguerite",
+      "lat": 45.6183,
+      "lon": 2.9234,
+      "population": 327
+    },
+    {
+      "insee": "63193",
+      "nom": "Lempdes",
+      "lat": 45.7719,
+      "lon": 3.192,
+      "population": 8709
+    },
+    {
+      "insee": "63194",
+      "nom": "Lempty",
+      "lat": 45.8298,
+      "lon": 3.33,
+      "population": 417
+    },
+    {
+      "insee": "63004",
+      "nom": "Les Ancizes-Comps",
+      "lat": 45.9378,
+      "lon": 2.8096,
+      "population": 1682
+    },
+    {
+      "insee": "63109",
+      "nom": "Les Deux-Rives",
+      "lat": 45.5538,
+      "lon": 3.1502,
+      "population": 825
+    },
+    {
+      "insee": "63213",
+      "nom": "Les Martres-d'Artière",
+      "lat": 45.8306,
+      "lon": 3.2617,
+      "population": 2252
+    },
+    {
+      "insee": "63214",
+      "nom": "Les Martres-de-Veyre",
+      "lat": 45.689,
+      "lon": 3.199,
+      "population": 3826
+    },
+    {
+      "insee": "63287",
+      "nom": "Les Pradeaux",
+      "lat": 45.5128,
+      "lon": 3.2928,
+      "population": 351
+    },
+    {
+      "insee": "63195",
+      "nom": "Lezoux",
+      "lat": 45.8328,
+      "lon": 3.3888,
+      "population": 6528
+    },
+    {
+      "insee": "63196",
+      "nom": "Limons",
+      "lat": 45.9775,
+      "lon": 3.4445,
+      "population": 721
+    },
+    {
+      "insee": "63197",
+      "nom": "Lisseuil",
+      "lat": 46.0565,
+      "lon": 2.9381,
+      "population": 107
+    },
+    {
+      "insee": "63198",
+      "nom": "Loubeyrat",
+      "lat": 45.9381,
+      "lon": 3.0042,
+      "population": 1437
+    },
+    {
+      "insee": "63199",
+      "nom": "Ludesse",
+      "lat": 45.6137,
+      "lon": 3.0997,
+      "population": 487
+    },
+    {
+      "insee": "63200",
+      "nom": "Lussat",
+      "lat": 45.836,
+      "lon": 3.2312,
+      "population": 949
+    },
+    {
+      "insee": "63201",
+      "nom": "Luzillat",
+      "lat": 45.957,
+      "lon": 3.3791,
+      "population": 1163
+    },
+    {
+      "insee": "63202",
+      "nom": "Madriat",
+      "lat": 45.4347,
+      "lon": 3.174,
+      "population": 136
+    },
+    {
+      "insee": "63203",
+      "nom": "Malauzat",
+      "lat": 45.8648,
+      "lon": 3.0602,
+      "population": 1160
+    },
+    {
+      "insee": "63204",
+      "nom": "Malintrat",
+      "lat": 45.8127,
+      "lon": 3.1871,
+      "population": 1151
+    },
+    {
+      "insee": "63205",
+      "nom": "Manglieu",
+      "lat": 45.616,
+      "lon": 3.3556,
+      "population": 467
+    },
+    {
+      "insee": "63206",
+      "nom": "Manzat",
+      "lat": 45.9436,
+      "lon": 2.9448,
+      "population": 1426
+    },
+    {
+      "insee": "63207",
+      "nom": "Marat",
+      "lat": 45.6767,
+      "lon": 3.6812,
+      "population": 801
+    },
+    {
+      "insee": "63208",
+      "nom": "Marcillat",
+      "lat": 46.0768,
+      "lon": 3.0364,
+      "population": 340
+    },
+    {
+      "insee": "63209",
+      "nom": "Mareugheol",
+      "lat": 45.4812,
+      "lon": 3.1718,
+      "population": 215
+    },
+    {
+      "insee": "63210",
+      "nom": "Maringues",
+      "lat": 45.922,
+      "lon": 3.3435,
+      "population": 3141
+    },
+    {
+      "insee": "63211",
+      "nom": "Marsac-en-Livradois",
+      "lat": 45.4789,
+      "lon": 3.7237,
+      "population": 1381
+    },
+    {
+      "insee": "63212",
+      "nom": "Marsat",
+      "lat": 45.8732,
+      "lon": 3.0822,
+      "population": 1426
+    },
+    {
+      "insee": "63215",
+      "nom": "Martres-sur-Morge",
+      "lat": 45.9376,
+      "lon": 3.2193,
+      "population": 758
+    },
+    {
+      "insee": "63216",
+      "nom": "Mauzun",
+      "lat": 45.7049,
+      "lon": 3.4254,
+      "population": 140
+    },
+    {
+      "insee": "63218",
+      "nom": "Mayres",
+      "lat": 45.3869,
+      "lon": 3.6976,
+      "population": 197
+    },
+    {
+      "insee": "63219",
+      "nom": "Mazaye",
+      "lat": 45.7824,
+      "lon": 2.878,
+      "population": 719
+    },
+    {
+      "insee": "63220",
+      "nom": "Mazoires",
+      "lat": 45.3955,
+      "lon": 3.0488,
+      "population": 97
+    },
+    {
+      "insee": "63221",
+      "nom": "Medeyrolles",
+      "lat": 45.4088,
+      "lon": 3.8184,
+      "population": 113
+    },
+    {
+      "insee": "63222",
+      "nom": "Meilhaud",
+      "lat": 45.5434,
+      "lon": 3.1656,
+      "population": 507
+    },
+    {
+      "insee": "63223",
+      "nom": "Menat",
+      "lat": 46.1051,
+      "lon": 2.889,
+      "population": 547
+    },
+    {
+      "insee": "63224",
+      "nom": "Ménétrol",
+      "lat": 45.8633,
+      "lon": 3.1336,
+      "population": 1640
+    },
+    {
+      "insee": "63225",
+      "nom": "Messeix",
+      "lat": 45.6083,
+      "lon": 2.5452,
+      "population": 998
+    },
+    {
+      "insee": "63227",
+      "nom": "Mirefleurs",
+      "lat": 45.6904,
+      "lon": 3.225,
+      "population": 2373
+    },
+    {
+      "insee": "63228",
+      "nom": "Miremont",
+      "lat": 45.9049,
+      "lon": 2.7248,
+      "population": 300
+    },
+    {
+      "insee": "63229",
+      "nom": "Moissat",
+      "lat": 45.7779,
+      "lon": 3.3482,
+      "population": 1253
+    },
+    {
+      "insee": "63232",
+      "nom": "Mons",
+      "lat": 46.0026,
+      "lon": 3.435,
+      "population": 578
+    },
+    {
+      "insee": "63236",
+      "nom": "Mont-Dore",
+      "lat": 45.5733,
+      "lon": 2.806,
+      "population": 1163
+    },
+    {
+      "insee": "63233",
+      "nom": "Montaigut-en-Combraille",
+      "lat": 46.1804,
+      "lon": 2.8016,
+      "population": 972
+    },
+    {
+      "insee": "63234",
+      "nom": "Montaigut-le-Blanc",
+      "lat": 45.5825,
+      "lon": 3.0783,
+      "population": 927
+    },
+    {
+      "insee": "63235",
+      "nom": "Montcel",
+      "lat": 46.0147,
+      "lon": 3.0608,
+      "population": 550
+    },
+    {
+      "insee": "63237",
+      "nom": "Montel-de-Gelat",
+      "lat": 45.9392,
+      "lon": 2.5886,
+      "population": 406
+    },
+    {
+      "insee": "63238",
+      "nom": "Montfermy",
+      "lat": 45.8664,
+      "lon": 2.7988,
+      "population": 225
+    },
+    {
+      "insee": "63239",
+      "nom": "Montmorin",
+      "lat": 45.6916,
+      "lon": 3.3608,
+      "population": 731
+    },
+    {
+      "insee": "63240",
+      "nom": "Montpensier",
+      "lat": 46.0376,
+      "lon": 3.2252,
+      "population": 465
+    },
+    {
+      "insee": "63241",
+      "nom": "Montpeyroux",
+      "lat": 45.6254,
+      "lon": 3.2028,
+      "population": 330
+    },
+    {
+      "insee": "63242",
+      "nom": "Moriat",
+      "lat": 45.4068,
+      "lon": 3.2606,
+      "population": 392
+    },
+    {
+      "insee": "63243",
+      "nom": "Moureuille",
+      "lat": 46.1615,
+      "lon": 2.8896,
+      "population": 371
+    },
+    {
+      "insee": "63245",
+      "nom": "Mozac",
+      "lat": 45.8924,
+      "lon": 3.0852,
+      "population": 3957
+    },
+    {
+      "insee": "63226",
+      "nom": "Mur-sur-Allier",
+      "lat": 45.7603,
+      "lon": 3.2421,
+      "population": 3111
+    },
+    {
+      "insee": "63246",
+      "nom": "Murat-le-Quaire",
+      "lat": 45.6048,
+      "lon": 2.7552,
+      "population": 484
+    },
+    {
+      "insee": "63247",
+      "nom": "Murol",
+      "lat": 45.5856,
+      "lon": 2.908,
+      "population": 672
+    },
+    {
+      "insee": "63248",
+      "nom": "Nébouzat",
+      "lat": 45.7174,
+      "lon": 2.9126,
+      "population": 867
+    },
+    {
+      "insee": "63249",
+      "nom": "Néronde-sur-Dore",
+      "lat": 45.7981,
+      "lon": 3.5024,
+      "population": 483
+    },
+    {
+      "insee": "63250",
+      "nom": "Neschers",
+      "lat": 45.5892,
+      "lon": 3.1684,
+      "population": 908
+    },
+    {
+      "insee": "63251",
+      "nom": "Neuf-Église",
+      "lat": 46.1021,
+      "lon": 2.8659,
+      "population": 332
+    },
+    {
+      "insee": "63252",
+      "nom": "Neuville",
+      "lat": 45.7509,
+      "lon": 3.4423,
+      "population": 373
+    },
+    {
+      "insee": "63253",
+      "nom": "Noalhat",
+      "lat": 45.9182,
+      "lon": 3.4635,
+      "population": 228
+    },
+    {
+      "insee": "63254",
+      "nom": "Nohanent",
+      "lat": 45.8117,
+      "lon": 3.0588,
+      "population": 2203
+    },
+    {
+      "insee": "63255",
+      "nom": "Nonette-Orsonnette",
+      "lat": 45.4802,
+      "lon": 3.2906,
+      "population": 625
+    },
+    {
+      "insee": "63256",
+      "nom": "Novacelles",
+      "lat": 45.4285,
+      "lon": 3.6533,
+      "population": 155
+    },
+    {
+      "insee": "63257",
+      "nom": "Olby",
+      "lat": 45.7507,
+      "lon": 2.8745,
+      "population": 857
+    },
+    {
+      "insee": "63258",
+      "nom": "Olliergues",
+      "lat": 45.688,
+      "lon": 3.6288,
+      "population": 736
+    },
+    {
+      "insee": "63259",
+      "nom": "Olloix",
+      "lat": 45.6236,
+      "lon": 3.0479,
+      "population": 331
+    },
+    {
+      "insee": "63260",
+      "nom": "Olmet",
+      "lat": 45.7141,
+      "lon": 3.6611,
+      "population": 192
+    },
+    {
+      "insee": "63261",
+      "nom": "Orbeil",
+      "lat": 45.568,
+      "lon": 3.2693,
+      "population": 883
+    },
+    {
+      "insee": "63262",
+      "nom": "Orcet",
+      "lat": 45.7077,
+      "lon": 3.1749,
+      "population": 2897
+    },
+    {
+      "insee": "63263",
+      "nom": "Orcines",
+      "lat": 45.789,
+      "lon": 2.9987,
+      "population": 3609
+    },
+    {
+      "insee": "63264",
+      "nom": "Orcival",
+      "lat": 45.6613,
+      "lon": 2.845,
+      "population": 240
+    },
+    {
+      "insee": "63265",
+      "nom": "Orléat",
+      "lat": 45.8607,
+      "lon": 3.4378,
+      "population": 2242
+    },
+    {
+      "insee": "63267",
+      "nom": "Palladuc",
+      "lat": 45.9078,
+      "lon": 3.6527,
+      "population": 517
+    },
+    {
+      "insee": "63268",
+      "nom": "Pardines",
+      "lat": 45.5618,
+      "lon": 3.1869,
+      "population": 302
+    },
+    {
+      "insee": "63269",
+      "nom": "Parent",
+      "lat": 45.6243,
+      "lon": 3.2282,
+      "population": 879
+    },
+    {
+      "insee": "63270",
+      "nom": "Parentignat",
+      "lat": 45.5314,
+      "lon": 3.2889,
+      "population": 480
+    },
+    {
+      "insee": "63271",
+      "nom": "Paslières",
+      "lat": 45.9221,
+      "lon": 3.5108,
+      "population": 1491
+    },
+    {
+      "insee": "63272",
+      "nom": "Pérignat-lès-Sarliève",
+      "lat": 45.7324,
+      "lon": 3.1444,
+      "population": 2872
+    },
+    {
+      "insee": "63273",
+      "nom": "Pérignat-sur-Allier",
+      "lat": 45.7272,
+      "lon": 3.2333,
+      "population": 1506
+    },
+    {
+      "insee": "63274",
+      "nom": "Perpezat",
+      "lat": 45.6692,
+      "lon": 2.7736,
+      "population": 420
+    },
+    {
+      "insee": "63275",
+      "nom": "Perrier",
+      "lat": 45.5445,
+      "lon": 3.1977,
+      "population": 925
+    },
+    {
+      "insee": "63276",
+      "nom": "Peschadoires",
+      "lat": 45.827,
+      "lon": 3.4842,
+      "population": 2104
+    },
+    {
+      "insee": "63277",
+      "nom": "Peslières",
+      "lat": 45.4375,
+      "lon": 3.4693,
+      "population": 56
+    },
+    {
+      "insee": "63278",
+      "nom": "Pessat-Villeneuve",
+      "lat": 45.9223,
+      "lon": 3.1589,
+      "population": 745
+    },
+    {
+      "insee": "63279",
+      "nom": "Picherande",
+      "lat": 45.4741,
+      "lon": 2.7875,
+      "population": 324
+    },
+    {
+      "insee": "63280",
+      "nom": "Pignols",
+      "lat": 45.6485,
+      "lon": 3.2792,
+      "population": 337
+    },
+    {
+      "insee": "63281",
+      "nom": "Pionsat",
+      "lat": 46.1169,
+      "lon": 2.6783,
+      "population": 1042
+    },
+    {
+      "insee": "63282",
+      "nom": "Plauzat",
+      "lat": 45.6204,
+      "lon": 3.151,
+      "population": 1641
+    },
+    {
+      "insee": "63284",
+      "nom": "Pont-du-Château",
+      "lat": 45.7972,
+      "lon": 3.2361,
+      "population": 12412
+    },
+    {
+      "insee": "63283",
+      "nom": "Pontaumur",
+      "lat": 45.8627,
+      "lon": 2.6711,
+      "population": 670
+    },
+    {
+      "insee": "63285",
+      "nom": "Pontgibaud",
+      "lat": 45.8268,
+      "lon": 2.8532,
+      "population": 715
+    },
+    {
+      "insee": "63286",
+      "nom": "Pouzol",
+      "lat": 46.0956,
+      "lon": 2.9748,
+      "population": 274
+    },
+    {
+      "insee": "63288",
+      "nom": "Prompsat",
+      "lat": 45.9459,
+      "lon": 3.0684,
+      "population": 472
+    },
+    {
+      "insee": "63289",
+      "nom": "Prondines",
+      "lat": 45.7543,
+      "lon": 2.6829,
+      "population": 272
+    },
+    {
+      "insee": "63290",
+      "nom": "Pulvérières",
+      "lat": 45.8844,
+      "lon": 2.9286,
+      "population": 419
+    },
+    {
+      "insee": "63291",
+      "nom": "Puy-Guillaume",
+      "lat": 45.9644,
+      "lon": 3.5024,
+      "population": 2630
+    },
+    {
+      "insee": "63292",
+      "nom": "Puy-Saint-Gulmier",
+      "lat": 45.7983,
+      "lon": 2.6316,
+      "population": 135
+    },
+    {
+      "insee": "63294",
+      "nom": "Queuille",
+      "lat": 45.9731,
+      "lon": 2.8404,
+      "population": 284
+    },
+    {
+      "insee": "63295",
+      "nom": "Randan",
+      "lat": 46.0122,
+      "lon": 3.363,
+      "population": 1619
+    },
+    {
+      "insee": "63296",
+      "nom": "Ravel",
+      "lat": 45.7877,
+      "lon": 3.3934,
+      "population": 739
+    },
+    {
+      "insee": "63297",
+      "nom": "Reignat",
+      "lat": 45.7476,
+      "lon": 3.3571,
+      "population": 382
+    },
+    {
+      "insee": "63299",
+      "nom": "Rentières",
+      "lat": 45.4267,
+      "lon": 3.1098,
+      "population": 106
+    },
+    {
+      "insee": "63300",
+      "nom": "Riom",
+      "lat": 45.8937,
+      "lon": 3.1274,
+      "population": 18820
+    },
+    {
+      "insee": "63301",
+      "nom": "Ris",
+      "lat": 46.0056,
+      "lon": 3.5114,
+      "population": 718
+    },
+    {
+      "insee": "63303",
+      "nom": "Roche-Charles-la-Mayrand",
+      "lat": 45.4505,
+      "lon": 3.0182,
+      "population": 39
+    },
+    {
+      "insee": "63304",
+      "nom": "Roche-d'Agoux",
+      "lat": 46.0425,
+      "lon": 2.6464,
+      "population": 110
+    },
+    {
+      "insee": "63305",
+      "nom": "Rochefort-Montagne",
+      "lat": 45.6698,
+      "lon": 2.8076,
+      "population": 844
+    },
+    {
+      "insee": "63307",
+      "nom": "Romagnat",
+      "lat": 45.7215,
+      "lon": 3.08,
+      "population": 7894
+    },
+    {
+      "insee": "63308",
+      "nom": "Royat",
+      "lat": 45.7573,
+      "lon": 3.0431,
+      "population": 4479
+    },
+    {
+      "insee": "63309",
+      "nom": "Saillant",
+      "lat": 45.4488,
+      "lon": 3.9299,
+      "population": 315
+    },
+    {
+      "insee": "63311",
+      "nom": "Saint-Agoulin",
+      "lat": 46.0414,
+      "lon": 3.1306,
+      "population": 310
+    },
+    {
+      "insee": "63312",
+      "nom": "Saint-Alyre-d'Arlanc",
+      "lat": 45.3693,
+      "lon": 3.6259,
+      "population": 132
+    },
+    {
+      "insee": "63313",
+      "nom": "Saint-Alyre-ès-Montagne",
+      "lat": 45.3816,
+      "lon": 2.971,
+      "population": 102
+    },
+    {
+      "insee": "63314",
+      "nom": "Saint-Amant-Roche-Savine",
+      "lat": 45.5747,
+      "lon": 3.6125,
+      "population": 534
+    },
+    {
+      "insee": "63315",
+      "nom": "Saint-Amant-Tallende",
+      "lat": 45.6676,
+      "lon": 3.1104,
+      "population": 1866
+    },
+    {
+      "insee": "63317",
+      "nom": "Saint-André-le-Coq",
+      "lat": 45.9601,
+      "lon": 3.3076,
+      "population": 578
+    },
+    {
+      "insee": "63318",
+      "nom": "Saint-Angel",
+      "lat": 46.0019,
+      "lon": 2.9407,
+      "population": 467
+    },
+    {
+      "insee": "63319",
+      "nom": "Saint-Anthème",
+      "lat": 45.5637,
+      "lon": 3.9014,
+      "population": 716
+    },
+    {
+      "insee": "63320",
+      "nom": "Saint-Avit",
+      "lat": 45.879,
+      "lon": 2.5255,
+      "population": 208
+    },
+    {
+      "insee": "63321",
+      "nom": "Saint-Babel",
+      "lat": 45.6053,
+      "lon": 3.2972,
+      "population": 948
+    },
+    {
+      "insee": "63322",
+      "nom": "Saint-Beauzire",
+      "lat": 45.8525,
+      "lon": 3.1828,
+      "population": 2210
+    },
+    {
+      "insee": "63323",
+      "nom": "Saint-Bonnet-le-Bourg",
+      "lat": 45.4459,
+      "lon": 3.5997,
+      "population": 186
+    },
+    {
+      "insee": "63324",
+      "nom": "Saint-Bonnet-le-Chastel",
+      "lat": 45.4583,
+      "lon": 3.6391,
+      "population": 211
+    },
+    {
+      "insee": "63325",
+      "nom": "Saint-Bonnet-lès-Allier",
+      "lat": 45.7398,
+      "lon": 3.2545,
+      "population": 409
+    },
+    {
+      "insee": "63326",
+      "nom": "Saint-Bonnet-près-Orcival",
+      "lat": 45.7075,
+      "lon": 2.8654,
+      "population": 571
+    },
+    {
+      "insee": "63327",
+      "nom": "Saint-Bonnet-près-Riom",
+      "lat": 45.9291,
+      "lon": 3.1162,
+      "population": 2110
+    },
+    {
+      "insee": "63332",
+      "nom": "Saint-Clément-de-Régnat",
+      "lat": 45.9999,
+      "lon": 3.2959,
+      "population": 516
+    },
+    {
+      "insee": "63331",
+      "nom": "Saint-Clément-de-Valorgue",
+      "lat": 45.498,
+      "lon": 3.9335,
+      "population": 239
+    },
+    {
+      "insee": "63333",
+      "nom": "Saint-Denis-Combarnazat",
+      "lat": 45.9747,
+      "lon": 3.3504,
+      "population": 248
+    },
+    {
+      "insee": "63334",
+      "nom": "Saint-Dier-d'Auvergne",
+      "lat": 45.6675,
+      "lon": 3.4803,
+      "population": 556
+    },
+    {
+      "insee": "63335",
+      "nom": "Saint-Diéry",
+      "lat": 45.5415,
+      "lon": 3.0219,
+      "population": 546
+    },
+    {
+      "insee": "63336",
+      "nom": "Saint-Donat",
+      "lat": 45.4656,
+      "lon": 2.7105,
+      "population": 198
+    },
+    {
+      "insee": "63337",
+      "nom": "Saint-Éloy-la-Glacière",
+      "lat": 45.5607,
+      "lon": 3.5635,
+      "population": 63
+    },
+    {
+      "insee": "63338",
+      "nom": "Saint-Éloy-les-Mines",
+      "lat": 46.162,
+      "lon": 2.8439,
+      "population": 3480
+    },
+    {
+      "insee": "63339",
+      "nom": "Saint-Étienne-des-Champs",
+      "lat": 45.8161,
+      "lon": 2.5735,
+      "population": 125
+    },
+    {
+      "insee": "63340",
+      "nom": "Saint-Étienne-sur-Usson",
+      "lat": 45.5102,
+      "lon": 3.4027,
+      "population": 268
+    },
+    {
+      "insee": "63341",
+      "nom": "Saint-Ferréol-des-Côtes",
+      "lat": 45.5355,
+      "lon": 3.6937,
+      "population": 548
+    },
+    {
+      "insee": "63342",
+      "nom": "Saint-Floret",
+      "lat": 45.5379,
+      "lon": 3.0938,
+      "population": 243
+    },
+    {
+      "insee": "63343",
+      "nom": "Saint-Flour-l'Étang",
+      "lat": 45.7095,
+      "lon": 3.5092,
+      "population": 268
+    },
+    {
+      "insee": "63344",
+      "nom": "Saint-Gal-sur-Sioule",
+      "lat": 46.108,
+      "lon": 2.9968,
+      "population": 148
+    },
+    {
+      "insee": "63345",
+      "nom": "Saint-Genès-Champanelle",
+      "lat": 45.7222,
+      "lon": 3.0005,
+      "population": 4066
+    },
+    {
+      "insee": "63346",
+      "nom": "Saint-Genès-Champespe",
+      "lat": 45.4141,
+      "lon": 2.7238,
+      "population": 200
+    },
+    {
+      "insee": "63347",
+      "nom": "Saint-Genès-du-Retz",
+      "lat": 46.0611,
+      "lon": 3.2121,
+      "population": 471
+    },
+    {
+      "insee": "63348",
+      "nom": "Saint-Genès-la-Tourette",
+      "lat": 45.5147,
+      "lon": 3.4775,
+      "population": 195
+    },
+    {
+      "insee": "63349",
+      "nom": "Saint-Georges-de-Mons",
+      "lat": 45.9419,
+      "lon": 2.8634,
+      "population": 2048
+    },
+    {
+      "insee": "63350",
+      "nom": "Saint-Georges-sur-Allier",
+      "lat": 45.7166,
+      "lon": 3.2581,
+      "population": 1395
+    },
+    {
+      "insee": "63353",
+      "nom": "Saint-Germain-l'Herm",
+      "lat": 45.4617,
+      "lon": 3.5403,
+      "population": 482
+    },
+    {
+      "insee": "63352",
+      "nom": "Saint-Germain-Lembron",
+      "lat": 45.4536,
+      "lon": 3.2409,
+      "population": 2031
+    },
+    {
+      "insee": "63351",
+      "nom": "Saint-Germain-près-Herment",
+      "lat": 45.7223,
+      "lon": 2.5552,
+      "population": 60
+    },
+    {
+      "insee": "63354",
+      "nom": "Saint-Gervais-d'Auvergne",
+      "lat": 46.0186,
+      "lon": 2.829,
+      "population": 1192
+    },
+    {
+      "insee": "63355",
+      "nom": "Saint-Gervais-sous-Meymont",
+      "lat": 45.6689,
+      "lon": 3.6182,
+      "population": 213
+    },
+    {
+      "insee": "63356",
+      "nom": "Saint-Gervazy",
+      "lat": 45.3998,
+      "lon": 3.2102,
+      "population": 340
+    },
+    {
+      "insee": "63357",
+      "nom": "Saint-Hérent",
+      "lat": 45.4595,
+      "lon": 3.1382,
+      "population": 111
+    },
+    {
+      "insee": "63360",
+      "nom": "Saint-Hilaire",
+      "lat": 46.1067,
+      "lon": 2.6193,
+      "population": 144
+    },
+    {
+      "insee": "63358",
+      "nom": "Saint-Hilaire-la-Croix",
+      "lat": 46.0422,
+      "lon": 3.0402,
+      "population": 374
+    },
+    {
+      "insee": "63359",
+      "nom": "Saint-Hilaire-les-Monges",
+      "lat": 45.8077,
+      "lon": 2.6631,
+      "population": 83
+    },
+    {
+      "insee": "63362",
+      "nom": "Saint-Ignat",
+      "lat": 45.92,
+      "lon": 3.2661,
+      "population": 916
+    },
+    {
+      "insee": "63363",
+      "nom": "Saint-Jacques-d'Ambur",
+      "lat": 45.8979,
+      "lon": 2.765,
+      "population": 295
+    },
+    {
+      "insee": "63364",
+      "nom": "Saint-Jean-d'Heurs",
+      "lat": 45.8137,
+      "lon": 3.444,
+      "population": 703
+    },
+    {
+      "insee": "63365",
+      "nom": "Saint-Jean-des-Ollières",
+      "lat": 45.641,
+      "lon": 3.44,
+      "population": 459
+    },
+    {
+      "insee": "63366",
+      "nom": "Saint-Jean-en-Val",
+      "lat": 45.5124,
+      "lon": 3.3674,
+      "population": 356
+    },
+    {
+      "insee": "63367",
+      "nom": "Saint-Jean-Saint-Gervais",
+      "lat": 45.4264,
+      "lon": 3.3897,
+      "population": 126
+    },
+    {
+      "insee": "63368",
+      "nom": "Saint-Julien-de-Coppel",
+      "lat": 45.6931,
+      "lon": 3.3141,
+      "population": 1281
+    },
+    {
+      "insee": "63369",
+      "nom": "Saint-Julien-la-Geneste",
+      "lat": 46.0454,
+      "lon": 2.7403,
+      "population": 117
+    },
+    {
+      "insee": "63370",
+      "nom": "Saint-Julien-Puy-Lavèze",
+      "lat": 45.6608,
+      "lon": 2.6772,
+      "population": 360
+    },
+    {
+      "insee": "63371",
+      "nom": "Saint-Just",
+      "lat": 45.4609,
+      "lon": 3.8102,
+      "population": 144
+    },
+    {
+      "insee": "63372",
+      "nom": "Saint-Laure",
+      "lat": 45.8974,
+      "lon": 3.2925,
+      "population": 716
+    },
+    {
+      "insee": "63373",
+      "nom": "Saint-Maigner",
+      "lat": 46.0781,
+      "lon": 2.6927,
+      "population": 162
+    },
+    {
+      "insee": "63376",
+      "nom": "Saint-Martin-d'Ollières",
+      "lat": 45.4175,
+      "lon": 3.4538,
+      "population": 149
+    },
+    {
+      "insee": "63374",
+      "nom": "Saint-Martin-des-Olmes",
+      "lat": 45.5232,
+      "lon": 3.8064,
+      "population": 313
+    },
+    {
+      "insee": "63375",
+      "nom": "Saint-Martin-des-Plains",
+      "lat": 45.4966,
+      "lon": 3.3092,
+      "population": 178
+    },
+    {
+      "insee": "63378",
+      "nom": "Saint-Maurice",
+      "lat": 45.6716,
+      "lon": 3.2383,
+      "population": 968
+    },
+    {
+      "insee": "63377",
+      "nom": "Saint-Maurice-près-Pionsat",
+      "lat": 46.0703,
+      "lon": 2.5948,
+      "population": 358
+    },
+    {
+      "insee": "63379",
+      "nom": "Saint-Myon",
+      "lat": 45.9858,
+      "lon": 3.1282,
+      "population": 544
+    },
+    {
+      "insee": "63380",
+      "nom": "Saint-Nectaire",
+      "lat": 45.5925,
+      "lon": 2.9956,
+      "population": 822
+    },
+    {
+      "insee": "63381",
+      "nom": "Saint-Ours",
+      "lat": 45.8358,
+      "lon": 2.917,
+      "population": 1708
+    },
+    {
+      "insee": "63382",
+      "nom": "Saint-Pardoux",
+      "lat": 46.0574,
+      "lon": 3.003,
+      "population": 428
+    },
+    {
+      "insee": "63383",
+      "nom": "Saint-Pierre-Colamine",
+      "lat": 45.5123,
+      "lon": 2.9752,
+      "population": 247
+    },
+    {
+      "insee": "63384",
+      "nom": "Saint-Pierre-la-Bourlhonne",
+      "lat": 45.6781,
+      "lon": 3.7567,
+      "population": 136
+    },
+    {
+      "insee": "63385",
+      "nom": "Saint-Pierre-le-Chastel",
+      "lat": 45.7952,
+      "lon": 2.8362,
+      "population": 450
+    },
+    {
+      "insee": "63386",
+      "nom": "Saint-Pierre-Roche",
+      "lat": 45.7305,
+      "lon": 2.8153,
+      "population": 499
+    },
+    {
+      "insee": "63387",
+      "nom": "Saint-Priest-Bramefant",
+      "lat": 46.0318,
+      "lon": 3.4338,
+      "population": 871
+    },
+    {
+      "insee": "63388",
+      "nom": "Saint-Priest-des-Champs",
+      "lat": 45.9735,
+      "lon": 2.7479,
+      "population": 736
+    },
+    {
+      "insee": "63389",
+      "nom": "Saint-Quentin-sur-Sauxillanges",
+      "lat": 45.5445,
+      "lon": 3.4135,
+      "population": 109
+    },
+    {
+      "insee": "63390",
+      "nom": "Saint-Quintin-sur-Sioule",
+      "lat": 46.0916,
+      "lon": 3.0632,
+      "population": 387
+    },
+    {
+      "insee": "63391",
+      "nom": "Saint-Rémy-de-Blot",
+      "lat": 46.0793,
+      "lon": 2.954,
+      "population": 251
+    },
+    {
+      "insee": "63392",
+      "nom": "Saint-Rémy-de-Chargnat",
+      "lat": 45.5113,
+      "lon": 3.3274,
+      "population": 631
+    },
+    {
+      "insee": "63393",
+      "nom": "Saint-Rémy-sur-Durolle",
+      "lat": 45.8946,
+      "lon": 3.5801,
+      "population": 1746
+    },
+    {
+      "insee": "63394",
+      "nom": "Saint-Romain",
+      "lat": 45.4936,
+      "lon": 3.9026,
+      "population": 197
+    },
+    {
+      "insee": "63395",
+      "nom": "Saint-Sandoux",
+      "lat": 45.6389,
+      "lon": 3.1044,
+      "population": 992
+    },
+    {
+      "insee": "63396",
+      "nom": "Saint-Saturnin",
+      "lat": 45.6604,
+      "lon": 3.0717,
+      "population": 1164
+    },
+    {
+      "insee": "63397",
+      "nom": "Saint-Sauves-d'Auvergne",
+      "lat": 45.6104,
+      "lon": 2.6968,
+      "population": 1127
+    },
+    {
+      "insee": "63398",
+      "nom": "Saint-Sauveur-la-Sagne",
+      "lat": 45.3959,
+      "lon": 3.6655,
+      "population": 82
+    },
+    {
+      "insee": "63399",
+      "nom": "Saint-Sulpice",
+      "lat": 45.6496,
+      "lon": 2.6213,
+      "population": 85
+    },
+    {
+      "insee": "63400",
+      "nom": "Saint-Sylvestre-Pragoulin",
+      "lat": 46.0509,
+      "lon": 3.3955,
+      "population": 1063
+    },
+    {
+      "insee": "63401",
+      "nom": "Saint-Victor-la-Rivière",
+      "lat": 45.5464,
+      "lon": 2.9359,
+      "population": 239
+    },
+    {
+      "insee": "63402",
+      "nom": "Saint-Victor-Montvianeix",
+      "lat": 45.9396,
+      "lon": 3.6033,
+      "population": 264
+    },
+    {
+      "insee": "63403",
+      "nom": "Saint-Vincent",
+      "lat": 45.5458,
+      "lon": 3.1251,
+      "population": 417
+    },
+    {
+      "insee": "63404",
+      "nom": "Saint-Yvoine",
+      "lat": 45.5778,
+      "lon": 3.2204,
+      "population": 553
+    },
+    {
+      "insee": "63310",
+      "nom": "Sainte-Agathe",
+      "lat": 45.8199,
+      "lon": 3.6223,
+      "population": 171
+    },
+    {
+      "insee": "63328",
+      "nom": "Sainte-Catherine",
+      "lat": 45.4526,
+      "lon": 3.4785,
+      "population": 57
+    },
+    {
+      "insee": "63329",
+      "nom": "Sainte-Christine",
+      "lat": 46.0716,
+      "lon": 2.8352,
+      "population": 122
+    },
+    {
+      "insee": "63405",
+      "nom": "Sallèdes",
+      "lat": 45.6463,
+      "lon": 3.3265,
+      "population": 560
+    },
+    {
+      "insee": "63406",
+      "nom": "Sardon",
+      "lat": 45.9643,
+      "lon": 3.2221,
+      "population": 303
+    },
+    {
+      "insee": "63407",
+      "nom": "Saulzet-le-Froid",
+      "lat": 45.6332,
+      "lon": 2.8932,
+      "population": 284
+    },
+    {
+      "insee": "63408",
+      "nom": "Sauret-Besserve",
+      "lat": 45.9905,
+      "lon": 2.8037,
+      "population": 163
+    },
+    {
+      "insee": "63409",
+      "nom": "Saurier",
+      "lat": 45.5356,
+      "lon": 3.0532,
+      "population": 245
+    },
+    {
+      "insee": "63410",
+      "nom": "Sauvagnat",
+      "lat": 45.7576,
+      "lon": 2.6079,
+      "population": 143
+    },
+    {
+      "insee": "63411",
+      "nom": "Sauvagnat-Sainte-Marthe",
+      "lat": 45.5879,
+      "lon": 3.2117,
+      "population": 460
+    },
+    {
+      "insee": "63412",
+      "nom": "Sauvessanges",
+      "lat": 45.3949,
+      "lon": 3.8645,
+      "population": 531
+    },
+    {
+      "insee": "63414",
+      "nom": "Sauviat",
+      "lat": 45.72,
+      "lon": 3.5582,
+      "population": 588
+    },
+    {
+      "insee": "63415",
+      "nom": "Sauxillanges",
+      "lat": 45.5592,
+      "lon": 3.3701,
+      "population": 1316
+    },
+    {
+      "insee": "63416",
+      "nom": "Savennes",
+      "lat": 45.5804,
+      "lon": 2.4955,
+      "population": 96
+    },
+    {
+      "insee": "63417",
+      "nom": "Sayat",
+      "lat": 45.8373,
+      "lon": 3.0361,
+      "population": 2529
+    },
+    {
+      "insee": "63418",
+      "nom": "Sermentizon",
+      "lat": 45.7665,
+      "lon": 3.4875,
+      "population": 605
+    },
+    {
+      "insee": "63419",
+      "nom": "Servant",
+      "lat": 46.1399,
+      "lon": 2.9287,
+      "population": 558
+    },
+    {
+      "insee": "63420",
+      "nom": "Seychalles",
+      "lat": 45.807,
+      "lon": 3.3391,
+      "population": 785
+    },
+    {
+      "insee": "63421",
+      "nom": "Singles",
+      "lat": 45.5623,
+      "lon": 2.5524,
+      "population": 171
+    },
+    {
+      "insee": "63422",
+      "nom": "Solignat",
+      "lat": 45.5251,
+      "lon": 3.1909,
+      "population": 510
+    },
+    {
+      "insee": "63423",
+      "nom": "Sugères",
+      "lat": 45.5979,
+      "lon": 3.4125,
+      "population": 648
+    },
+    {
+      "insee": "63424",
+      "nom": "Surat",
+      "lat": 45.9388,
+      "lon": 3.2594,
+      "population": 611
+    },
+    {
+      "insee": "63425",
+      "nom": "Tallende",
+      "lat": 45.6599,
+      "lon": 3.1324,
+      "population": 1619
+    },
+    {
+      "insee": "63426",
+      "nom": "Tauves",
+      "lat": 45.5631,
+      "lon": 2.629,
+      "population": 684
+    },
+    {
+      "insee": "63427",
+      "nom": "Teilhède",
+      "lat": 45.9625,
+      "lon": 3.0533,
+      "population": 536
+    },
+    {
+      "insee": "63428",
+      "nom": "Teilhet",
+      "lat": 46.1025,
+      "lon": 2.8244,
+      "population": 286
+    },
+    {
+      "insee": "63429",
+      "nom": "Ternant-les-Eaux",
+      "lat": 45.4808,
+      "lon": 3.1284,
+      "population": 59
+    },
+    {
+      "insee": "63430",
+      "nom": "Thiers",
+      "lat": 45.8653,
+      "lon": 3.538,
+      "population": 11637
+    },
+    {
+      "insee": "63431",
+      "nom": "Thiolières",
+      "lat": 45.5817,
+      "lon": 3.6965,
+      "population": 164
+    },
+    {
+      "insee": "63432",
+      "nom": "Thuret",
+      "lat": 45.9756,
+      "lon": 3.2613,
+      "population": 911
+    },
+    {
+      "insee": "63433",
+      "nom": "Tortebesse",
+      "lat": 45.7278,
+      "lon": 2.6587,
+      "population": 80
+    },
+    {
+      "insee": "63434",
+      "nom": "Tours-sur-Meymont",
+      "lat": 45.6738,
+      "lon": 3.5744,
+      "population": 542
+    },
+    {
+      "insee": "63435",
+      "nom": "Tourzel-Ronzières",
+      "lat": 45.5184,
+      "lon": 3.1158,
+      "population": 200
+    },
+    {
+      "insee": "63436",
+      "nom": "Tralaigues",
+      "lat": 45.9025,
+      "lon": 2.5948,
+      "population": 80
+    },
+    {
+      "insee": "63437",
+      "nom": "Trémouille-Saint-Loup",
+      "lat": 45.484,
+      "lon": 2.5643,
+      "population": 140
+    },
+    {
+      "insee": "63438",
+      "nom": "Trézioux",
+      "lat": 45.7194,
+      "lon": 3.4771,
+      "population": 502
+    },
+    {
+      "insee": "63439",
+      "nom": "Usson",
+      "lat": 45.5282,
+      "lon": 3.3423,
+      "population": 286
+    },
+    {
+      "insee": "63440",
+      "nom": "Valbeleix",
+      "lat": 45.4763,
+      "lon": 2.9895,
+      "population": 149
+    },
+    {
+      "insee": "63441",
+      "nom": "Valcivières",
+      "lat": 45.5936,
+      "lon": 3.8164,
+      "population": 227
+    },
+    {
+      "insee": "63442",
+      "nom": "Valz-sous-Châteauneuf",
+      "lat": 45.4307,
+      "lon": 3.4194,
+      "population": 52
+    },
+    {
+      "insee": "63443",
+      "nom": "Varennes-sur-Morge",
+      "lat": 45.941,
+      "lon": 3.1867,
+      "population": 429
+    },
+    {
+      "insee": "63444",
+      "nom": "Varennes-sur-Usson",
+      "lat": 45.5337,
+      "lon": 3.3237,
+      "population": 317
+    },
+    {
+      "insee": "63445",
+      "nom": "Vassel",
+      "lat": 45.7607,
+      "lon": 3.3108,
+      "population": 295
+    },
+    {
+      "insee": "63446",
+      "nom": "Vensat",
+      "lat": 46.0542,
+      "lon": 3.1619,
+      "population": 569
+    },
+    {
+      "insee": "63447",
+      "nom": "Vergheas",
+      "lat": 46.0223,
+      "lon": 2.6216,
+      "population": 65
+    },
+    {
+      "insee": "63450",
+      "nom": "Verneugheol",
+      "lat": 45.7455,
+      "lon": 2.5158,
+      "population": 225
+    },
+    {
+      "insee": "63451",
+      "nom": "Vernines",
+      "lat": 45.6718,
+      "lon": 2.8793,
+      "population": 430
+    },
+    {
+      "insee": "63452",
+      "nom": "Verrières",
+      "lat": 45.5682,
+      "lon": 3.0352,
+      "population": 74
+    },
+    {
+      "insee": "63453",
+      "nom": "Vertaizon",
+      "lat": 45.7741,
+      "lon": 3.2842,
+      "population": 3527
+    },
+    {
+      "insee": "63454",
+      "nom": "Vertolaye",
+      "lat": 45.6528,
+      "lon": 3.7405,
+      "population": 562
+    },
+    {
+      "insee": "63455",
+      "nom": "Veyre-Monton",
+      "lat": 45.6741,
+      "lon": 3.1648,
+      "population": 3721
+    },
+    {
+      "insee": "63457",
+      "nom": "Vic-le-Comte",
+      "lat": 45.6468,
+      "lon": 3.2428,
+      "population": 5396
+    },
+    {
+      "insee": "63456",
+      "nom": "Vichel",
+      "lat": 45.4242,
+      "lon": 3.2432,
+      "population": 327
+    },
+    {
+      "insee": "63458",
+      "nom": "Villeneuve",
+      "lat": 45.4772,
+      "lon": 3.1893,
+      "population": 135
+    },
+    {
+      "insee": "63459",
+      "nom": "Villeneuve-les-Cerfs",
+      "lat": 46.0212,
+      "lon": 3.3284,
+      "population": 514
+    },
+    {
+      "insee": "63460",
+      "nom": "Villossanges",
+      "lat": 45.919,
+      "lon": 2.6417,
+      "population": 359
+    },
+    {
+      "insee": "63461",
+      "nom": "Vinzelles",
+      "lat": 45.9296,
+      "lon": 3.4154,
+      "population": 373
+    },
+    {
+      "insee": "63462",
+      "nom": "Virlet",
+      "lat": 46.1579,
+      "lon": 2.7045,
+      "population": 270
+    },
+    {
+      "insee": "63463",
+      "nom": "Viscomtat",
+      "lat": 45.8317,
+      "lon": 3.6851,
+      "population": 501
+    },
+    {
+      "insee": "63464",
+      "nom": "Vitrac",
+      "lat": 45.9778,
+      "lon": 2.8928,
+      "population": 336
+    },
+    {
+      "insee": "63465",
+      "nom": "Viverols",
+      "lat": 45.431,
+      "lon": 3.8793,
+      "population": 442
+    },
+    {
+      "insee": "63466",
+      "nom": "Vodable",
+      "lat": 45.5077,
+      "lon": 3.1286,
+      "population": 194
+    },
+    {
+      "insee": "63467",
+      "nom": "Voingt",
+      "lat": 45.8057,
+      "lon": 2.5443,
+      "population": 58
+    },
+    {
+      "insee": "63468",
+      "nom": "Vollore-Montagne",
+      "lat": 45.7845,
+      "lon": 3.6957,
+      "population": 312
+    },
+    {
+      "insee": "63469",
+      "nom": "Vollore-Ville",
+      "lat": 45.7854,
+      "lon": 3.6092,
+      "population": 718
+    },
+    {
+      "insee": "63470",
+      "nom": "Volvic",
+      "lat": 45.8647,
+      "lon": 3.0211,
+      "population": 4883
+    },
+    {
+      "insee": "63471",
+      "nom": "Youx",
+      "lat": 46.1405,
+      "lon": 2.8035,
+      "population": 864
+    },
+    {
+      "insee": "63472",
+      "nom": "Yronde-et-Buron",
+      "lat": 45.609,
+      "lon": 3.2566,
+      "population": 642
+    },
+    {
+      "insee": "63473",
+      "nom": "Yssac-la-Tourette",
+      "lat": 45.9316,
+      "lon": 3.0911,
+      "population": 396
+    }
+  ]
+}

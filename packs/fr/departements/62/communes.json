@@ -1,0 +1,6216 @@
+{
+  "country": "FR",
+  "departmentCode": "62",
+  "label": "Departement 62",
+  "communes": [
+    {
+      "insee": "62001",
+      "nom": "Ablain-Saint-Nazaire",
+      "lat": 50.3989,
+      "lon": 2.6983,
+      "population": 1994
+    },
+    {
+      "insee": "62002",
+      "nom": "Ablainzevelle",
+      "lat": 50.1532,
+      "lon": 2.7395,
+      "population": 208
+    },
+    {
+      "insee": "62003",
+      "nom": "Acheville",
+      "lat": 50.3847,
+      "lon": 2.8815,
+      "population": 576
+    },
+    {
+      "insee": "62004",
+      "nom": "Achicourt",
+      "lat": 50.2723,
+      "lon": 2.7572,
+      "population": 7873
+    },
+    {
+      "insee": "62005",
+      "nom": "Achiet-le-Grand",
+      "lat": 50.1306,
+      "lon": 2.7785,
+      "population": 974
+    },
+    {
+      "insee": "62006",
+      "nom": "Achiet-le-Petit",
+      "lat": 50.1285,
+      "lon": 2.7568,
+      "population": 320
+    },
+    {
+      "insee": "62007",
+      "nom": "Acq",
+      "lat": 50.3502,
+      "lon": 2.654,
+      "population": 783
+    },
+    {
+      "insee": "62008",
+      "nom": "Acquin-Westbécourt",
+      "lat": 50.7333,
+      "lon": 2.0763,
+      "population": 802
+    },
+    {
+      "insee": "62009",
+      "nom": "Adinfer",
+      "lat": 50.1913,
+      "lon": 2.7073,
+      "population": 287
+    },
+    {
+      "insee": "62010",
+      "nom": "Affringues",
+      "lat": 50.6901,
+      "lon": 2.0692,
+      "population": 254
+    },
+    {
+      "insee": "62011",
+      "nom": "Agnez-lès-Duisans",
+      "lat": 50.307,
+      "lon": 2.6461,
+      "population": 621
+    },
+    {
+      "insee": "62012",
+      "nom": "Agnières",
+      "lat": 50.3507,
+      "lon": 2.6098,
+      "population": 255
+    },
+    {
+      "insee": "62013",
+      "nom": "Agny",
+      "lat": 50.2519,
+      "lon": 2.76,
+      "population": 1871
+    },
+    {
+      "insee": "62014",
+      "nom": "Aire-sur-la-Lys",
+      "lat": 50.6457,
+      "lon": 2.3962,
+      "population": 9598
+    },
+    {
+      "insee": "62015",
+      "nom": "Airon-Notre-Dame",
+      "lat": 50.4416,
+      "lon": 1.6711,
+      "population": 261
+    },
+    {
+      "insee": "62016",
+      "nom": "Airon-Saint-Vaast",
+      "lat": 50.4262,
+      "lon": 1.6687,
+      "population": 185
+    },
+    {
+      "insee": "62017",
+      "nom": "Aix-en-Ergny",
+      "lat": 50.5836,
+      "lon": 2.0011,
+      "population": 194
+    },
+    {
+      "insee": "62018",
+      "nom": "Aix-en-Issart",
+      "lat": 50.4822,
+      "lon": 1.8635,
+      "population": 264
+    },
+    {
+      "insee": "62019",
+      "nom": "Aix-Noulette",
+      "lat": 50.4231,
+      "lon": 2.7125,
+      "population": 3902
+    },
+    {
+      "insee": "62020",
+      "nom": "Alembon",
+      "lat": 50.7805,
+      "lon": 1.8719,
+      "population": 624
+    },
+    {
+      "insee": "62021",
+      "nom": "Alette",
+      "lat": 50.5258,
+      "lon": 1.8506,
+      "population": 365
+    },
+    {
+      "insee": "62022",
+      "nom": "Alincthun",
+      "lat": 50.7255,
+      "lon": 1.8119,
+      "population": 291
+    },
+    {
+      "insee": "62023",
+      "nom": "Allouagne",
+      "lat": 50.535,
+      "lon": 2.5047,
+      "population": 2823
+    },
+    {
+      "insee": "62024",
+      "nom": "Alquines",
+      "lat": 50.7343,
+      "lon": 1.9964,
+      "population": 973
+    },
+    {
+      "insee": "62025",
+      "nom": "Ambleteuse",
+      "lat": 50.8129,
+      "lon": 1.6198,
+      "population": 2033
+    },
+    {
+      "insee": "62026",
+      "nom": "Ambricourt",
+      "lat": 50.4668,
+      "lon": 2.1728,
+      "population": 118
+    },
+    {
+      "insee": "62027",
+      "nom": "Ambrines",
+      "lat": 50.3082,
+      "lon": 2.466,
+      "population": 211
+    },
+    {
+      "insee": "62028",
+      "nom": "Ames",
+      "lat": 50.5345,
+      "lon": 2.4149,
+      "population": 676
+    },
+    {
+      "insee": "62029",
+      "nom": "Amettes",
+      "lat": 50.528,
+      "lon": 2.3961,
+      "population": 469
+    },
+    {
+      "insee": "62030",
+      "nom": "Amplier",
+      "lat": 50.1357,
+      "lon": 2.3985,
+      "population": 297
+    },
+    {
+      "insee": "62031",
+      "nom": "Andres",
+      "lat": 50.865,
+      "lon": 1.9191,
+      "population": 1523
+    },
+    {
+      "insee": "62032",
+      "nom": "Angres",
+      "lat": 50.4119,
+      "lon": 2.7538,
+      "population": 4641
+    },
+    {
+      "insee": "62033",
+      "nom": "Annay",
+      "lat": 50.4606,
+      "lon": 2.8849,
+      "population": 4571
+    },
+    {
+      "insee": "62034",
+      "nom": "Annequin",
+      "lat": 50.5028,
+      "lon": 2.718,
+      "population": 2133
+    },
+    {
+      "insee": "62035",
+      "nom": "Annezin",
+      "lat": 50.5422,
+      "lon": 2.6166,
+      "population": 5825
+    },
+    {
+      "insee": "62036",
+      "nom": "Anvin",
+      "lat": 50.4506,
+      "lon": 2.2614,
+      "population": 700
+    },
+    {
+      "insee": "62037",
+      "nom": "Anzin-Saint-Aubin",
+      "lat": 50.3206,
+      "lon": 2.7384,
+      "population": 2833
+    },
+    {
+      "insee": "62038",
+      "nom": "Ardres",
+      "lat": 50.8772,
+      "lon": 1.9827,
+      "population": 4389
+    },
+    {
+      "insee": "62039",
+      "nom": "Arleux-en-Gohelle",
+      "lat": 50.3646,
+      "lon": 2.8673,
+      "population": 960
+    },
+    {
+      "insee": "62040",
+      "nom": "Arques",
+      "lat": 50.7388,
+      "lon": 2.3177,
+      "population": 9431
+    },
+    {
+      "insee": "62041",
+      "nom": "Arras",
+      "lat": 50.2893,
+      "lon": 2.7679,
+      "population": 42875
+    },
+    {
+      "insee": "62042",
+      "nom": "Athies",
+      "lat": 50.3093,
+      "lon": 2.8416,
+      "population": 1038
+    },
+    {
+      "insee": "62044",
+      "nom": "Attin",
+      "lat": 50.4926,
+      "lon": 1.7533,
+      "population": 885
+    },
+    {
+      "insee": "62045",
+      "nom": "Aubigny-en-Artois",
+      "lat": 50.3501,
+      "lon": 2.5833,
+      "population": 1489
+    },
+    {
+      "insee": "62046",
+      "nom": "Aubin-Saint-Vaast",
+      "lat": 50.3864,
+      "lon": 1.9662,
+      "population": 733
+    },
+    {
+      "insee": "62047",
+      "nom": "Aubrometz",
+      "lat": 50.3037,
+      "lon": 2.1761,
+      "population": 141
+    },
+    {
+      "insee": "62048",
+      "nom": "Auchel",
+      "lat": 50.5108,
+      "lon": 2.4656,
+      "population": 10051
+    },
+    {
+      "insee": "62049",
+      "nom": "Auchy-au-Bois",
+      "lat": 50.5501,
+      "lon": 2.3728,
+      "population": 548
+    },
+    {
+      "insee": "62050",
+      "nom": "Auchy-lès-Hesdin",
+      "lat": 50.4096,
+      "lon": 2.0973,
+      "population": 1513
+    },
+    {
+      "insee": "62051",
+      "nom": "Auchy-les-Mines",
+      "lat": 50.5041,
+      "lon": 2.7812,
+      "population": 4625
+    },
+    {
+      "insee": "62052",
+      "nom": "Audembert",
+      "lat": 50.8585,
+      "lon": 1.6924,
+      "population": 424
+    },
+    {
+      "insee": "62053",
+      "nom": "Audincthun",
+      "lat": 50.5818,
+      "lon": 2.1235,
+      "population": 684
+    },
+    {
+      "insee": "62054",
+      "nom": "Audinghen",
+      "lat": 50.8514,
+      "lon": 1.6142,
+      "population": 617
+    },
+    {
+      "insee": "62055",
+      "nom": "Audrehem",
+      "lat": 50.7713,
+      "lon": 1.983,
+      "population": 521
+    },
+    {
+      "insee": "62056",
+      "nom": "Audresselles",
+      "lat": 50.8288,
+      "lon": 1.6131,
+      "population": 608
+    },
+    {
+      "insee": "62057",
+      "nom": "Audruicq",
+      "lat": 50.8809,
+      "lon": 2.0858,
+      "population": 5309
+    },
+    {
+      "insee": "62058",
+      "nom": "Aumerval",
+      "lat": 50.5067,
+      "lon": 2.4073,
+      "population": 189
+    },
+    {
+      "insee": "62059",
+      "nom": "Autingues",
+      "lat": 50.8433,
+      "lon": 1.9848,
+      "population": 293
+    },
+    {
+      "insee": "62060",
+      "nom": "Auxi-le-Château",
+      "lat": 50.2366,
+      "lon": 2.1174,
+      "population": 2547
+    },
+    {
+      "insee": "62061",
+      "nom": "Averdoingt",
+      "lat": 50.3474,
+      "lon": 2.4404,
+      "population": 295
+    },
+    {
+      "insee": "62062",
+      "nom": "Avesnes",
+      "lat": 50.5513,
+      "lon": 1.9631,
+      "population": 46
+    },
+    {
+      "insee": "62063",
+      "nom": "Avesnes-le-Comte",
+      "lat": 50.2688,
+      "lon": 2.533,
+      "population": 1840
+    },
+    {
+      "insee": "62064",
+      "nom": "Avesnes-lès-Bapaume",
+      "lat": 50.1042,
+      "lon": 2.8327,
+      "population": 174
+    },
+    {
+      "insee": "62065",
+      "nom": "Avion",
+      "lat": 50.404,
+      "lon": 2.8243,
+      "population": 17435
+    },
+    {
+      "insee": "62066",
+      "nom": "Avondance",
+      "lat": 50.4787,
+      "lon": 2.1002,
+      "population": 33
+    },
+    {
+      "insee": "62067",
+      "nom": "Avroult",
+      "lat": 50.6309,
+      "lon": 2.1467,
+      "population": 536
+    },
+    {
+      "insee": "62068",
+      "nom": "Ayette",
+      "lat": 50.1705,
+      "lon": 2.7263,
+      "population": 330
+    },
+    {
+      "insee": "62069",
+      "nom": "Azincourt",
+      "lat": 50.4574,
+      "lon": 2.1154,
+      "population": 302
+    },
+    {
+      "insee": "62070",
+      "nom": "Bailleul-aux-Cornailles",
+      "lat": 50.3723,
+      "lon": 2.4484,
+      "population": 264
+    },
+    {
+      "insee": "62071",
+      "nom": "Bailleul-lès-Pernes",
+      "lat": 50.5094,
+      "lon": 2.3801,
+      "population": 408
+    },
+    {
+      "insee": "62073",
+      "nom": "Bailleul-Sir-Berthoult",
+      "lat": 50.3357,
+      "lon": 2.8436,
+      "population": 1429
+    },
+    {
+      "insee": "62072",
+      "nom": "Bailleulmont",
+      "lat": 50.2083,
+      "lon": 2.6046,
+      "population": 213
+    },
+    {
+      "insee": "62074",
+      "nom": "Bailleulval",
+      "lat": 50.2226,
+      "lon": 2.6236,
+      "population": 237
+    },
+    {
+      "insee": "62075",
+      "nom": "Baincthun",
+      "lat": 50.6978,
+      "lon": 1.7082,
+      "population": 1324
+    },
+    {
+      "insee": "62076",
+      "nom": "Bainghen",
+      "lat": 50.7518,
+      "lon": 1.9021,
+      "population": 208
+    },
+    {
+      "insee": "62077",
+      "nom": "Bajus",
+      "lat": 50.4218,
+      "lon": 2.4714,
+      "population": 355
+    },
+    {
+      "insee": "62078",
+      "nom": "Balinghem",
+      "lat": 50.8627,
+      "lon": 1.9375,
+      "population": 1220
+    },
+    {
+      "insee": "62079",
+      "nom": "Bancourt",
+      "lat": 50.1033,
+      "lon": 2.8935,
+      "population": 83
+    },
+    {
+      "insee": "62080",
+      "nom": "Bapaume",
+      "lat": 50.1018,
+      "lon": 2.8559,
+      "population": 3779
+    },
+    {
+      "insee": "62081",
+      "nom": "Baralle",
+      "lat": 50.2107,
+      "lon": 3.0574,
+      "population": 434
+    },
+    {
+      "insee": "62082",
+      "nom": "Barastre",
+      "lat": 50.0685,
+      "lon": 2.9386,
+      "population": 308
+    },
+    {
+      "insee": "62083",
+      "nom": "Barlin",
+      "lat": 50.4551,
+      "lon": 2.6148,
+      "population": 7331
+    },
+    {
+      "insee": "62084",
+      "nom": "Barly",
+      "lat": 50.2486,
+      "lon": 2.5374,
+      "population": 199
+    },
+    {
+      "insee": "62085",
+      "nom": "Basseux",
+      "lat": 50.2271,
+      "lon": 2.6463,
+      "population": 129
+    },
+    {
+      "insee": "62086",
+      "nom": "Bavincourt",
+      "lat": 50.2236,
+      "lon": 2.567,
+      "population": 417
+    },
+    {
+      "insee": "62087",
+      "nom": "Bayenghem-lès-Éperlecques",
+      "lat": 50.8037,
+      "lon": 2.1181,
+      "population": 1018
+    },
+    {
+      "insee": "62088",
+      "nom": "Bayenghem-lès-Seninghem",
+      "lat": 50.7052,
+      "lon": 2.0785,
+      "population": 354
+    },
+    {
+      "insee": "62089",
+      "nom": "Bazinghen",
+      "lat": 50.8309,
+      "lon": 1.6591,
+      "population": 410
+    },
+    {
+      "insee": "62090",
+      "nom": "Béalencourt",
+      "lat": 50.4359,
+      "lon": 2.1206,
+      "population": 139
+    },
+    {
+      "insee": "62091",
+      "nom": "Beaudricourt",
+      "lat": 50.2496,
+      "lon": 2.4082,
+      "population": 98
+    },
+    {
+      "insee": "62092",
+      "nom": "Beaufort-Blavincourt",
+      "lat": 50.2751,
+      "lon": 2.4856,
+      "population": 403
+    },
+    {
+      "insee": "62093",
+      "nom": "Beaulencourt",
+      "lat": 50.0729,
+      "lon": 2.8726,
+      "population": 241
+    },
+    {
+      "insee": "62094",
+      "nom": "Beaumerie-Saint-Martin",
+      "lat": 50.4431,
+      "lon": 1.7929,
+      "population": 379
+    },
+    {
+      "insee": "62095",
+      "nom": "Beaumetz-lès-Aire",
+      "lat": 50.5432,
+      "lon": 2.2173,
+      "population": 222
+    },
+    {
+      "insee": "62096",
+      "nom": "Beaumetz-lès-Cambrai",
+      "lat": 50.128,
+      "lon": 2.9825,
+      "population": 528
+    },
+    {
+      "insee": "62097",
+      "nom": "Beaumetz-lès-Loges",
+      "lat": 50.2463,
+      "lon": 2.6608,
+      "population": 1003
+    },
+    {
+      "insee": "62099",
+      "nom": "Beaurains",
+      "lat": 50.2595,
+      "lon": 2.7907,
+      "population": 5559
+    },
+    {
+      "insee": "62100",
+      "nom": "Beaurainville",
+      "lat": 50.4183,
+      "lon": 1.9027,
+      "population": 2014
+    },
+    {
+      "insee": "62881",
+      "nom": "Beauvoir-Wavans",
+      "lat": 50.2151,
+      "lon": 2.1717,
+      "population": 355
+    },
+    {
+      "insee": "62101",
+      "nom": "Beauvois",
+      "lat": 50.3741,
+      "lon": 2.2344,
+      "population": 133
+    },
+    {
+      "insee": "62102",
+      "nom": "Bécourt",
+      "lat": 50.6383,
+      "lon": 1.906,
+      "population": 280
+    },
+    {
+      "insee": "62103",
+      "nom": "Béhagnies",
+      "lat": 50.1412,
+      "lon": 2.8282,
+      "population": 114
+    },
+    {
+      "insee": "62105",
+      "nom": "Belle-et-Houllefort",
+      "lat": 50.7473,
+      "lon": 1.7671,
+      "population": 503
+    },
+    {
+      "insee": "62104",
+      "nom": "Bellebrune",
+      "lat": 50.7348,
+      "lon": 1.7758,
+      "population": 427
+    },
+    {
+      "insee": "62471",
+      "nom": "Bellinghem",
+      "lat": 50.6618,
+      "lon": 2.2291,
+      "population": 1062
+    },
+    {
+      "insee": "62106",
+      "nom": "Bellonne",
+      "lat": 50.3013,
+      "lon": 3.0435,
+      "population": 212
+    },
+    {
+      "insee": "62107",
+      "nom": "Bénifontaine",
+      "lat": 50.478,
+      "lon": 2.8285,
+      "population": 330
+    },
+    {
+      "insee": "62108",
+      "nom": "Berck",
+      "lat": 50.4147,
+      "lon": 1.5809,
+      "population": 12951
+    },
+    {
+      "insee": "62109",
+      "nom": "Bergueneuse",
+      "lat": 50.4676,
+      "lon": 2.2498,
+      "population": 213
+    },
+    {
+      "insee": "62111",
+      "nom": "Berlencourt-le-Cauroy",
+      "lat": 50.2751,
+      "lon": 2.4251,
+      "population": 277
+    },
+    {
+      "insee": "62112",
+      "nom": "Berles-au-Bois",
+      "lat": 50.1988,
+      "lon": 2.6297,
+      "population": 553
+    },
+    {
+      "insee": "62113",
+      "nom": "Berles-Monchel",
+      "lat": 50.3471,
+      "lon": 2.5232,
+      "population": 482
+    },
+    {
+      "insee": "62114",
+      "nom": "Bermicourt",
+      "lat": 50.4076,
+      "lon": 2.2321,
+      "population": 164
+    },
+    {
+      "insee": "62115",
+      "nom": "Berneville",
+      "lat": 50.2632,
+      "lon": 2.6723,
+      "population": 485
+    },
+    {
+      "insee": "62116",
+      "nom": "Bernieulles",
+      "lat": 50.5554,
+      "lon": 1.773,
+      "population": 162
+    },
+    {
+      "insee": "62117",
+      "nom": "Bertincourt",
+      "lat": 50.0894,
+      "lon": 2.9794,
+      "population": 920
+    },
+    {
+      "insee": "62118",
+      "nom": "Béthonsart",
+      "lat": 50.3818,
+      "lon": 2.5428,
+      "population": 155
+    },
+    {
+      "insee": "62119",
+      "nom": "Béthune",
+      "lat": 50.5299,
+      "lon": 2.6438,
+      "population": 25224
+    },
+    {
+      "insee": "62120",
+      "nom": "Beugin",
+      "lat": 50.4415,
+      "lon": 2.5077,
+      "population": 460
+    },
+    {
+      "insee": "62121",
+      "nom": "Beugnâtre",
+      "lat": 50.1313,
+      "lon": 2.8757,
+      "population": 180
+    },
+    {
+      "insee": "62122",
+      "nom": "Beugny",
+      "lat": 50.118,
+      "lon": 2.9336,
+      "population": 351
+    },
+    {
+      "insee": "62123",
+      "nom": "Beussent",
+      "lat": 50.5584,
+      "lon": 1.8158,
+      "population": 546
+    },
+    {
+      "insee": "62124",
+      "nom": "Beutin",
+      "lat": 50.497,
+      "lon": 1.7283,
+      "population": 436
+    },
+    {
+      "insee": "62125",
+      "nom": "Beuvrequen",
+      "lat": 50.7978,
+      "lon": 1.6755,
+      "population": 458
+    },
+    {
+      "insee": "62126",
+      "nom": "Beuvry",
+      "lat": 50.5347,
+      "lon": 2.6913,
+      "population": 9189
+    },
+    {
+      "insee": "62127",
+      "nom": "Bezinghem",
+      "lat": 50.5987,
+      "lon": 1.8591,
+      "population": 367
+    },
+    {
+      "insee": "62128",
+      "nom": "Biache-Saint-Vaast",
+      "lat": 50.3114,
+      "lon": 2.9418,
+      "population": 4568
+    },
+    {
+      "insee": "62129",
+      "nom": "Biefvillers-lès-Bapaume",
+      "lat": 50.1199,
+      "lon": 2.8245,
+      "population": 93
+    },
+    {
+      "insee": "62130",
+      "nom": "Bienvillers-au-Bois",
+      "lat": 50.1667,
+      "lon": 2.6081,
+      "population": 671
+    },
+    {
+      "insee": "62131",
+      "nom": "Bihucourt",
+      "lat": 50.1276,
+      "lon": 2.8,
+      "population": 286
+    },
+    {
+      "insee": "62132",
+      "nom": "Billy-Berclau",
+      "lat": 50.5218,
+      "lon": 2.8666,
+      "population": 5093
+    },
+    {
+      "insee": "62133",
+      "nom": "Billy-Montigny",
+      "lat": 50.4152,
+      "lon": 2.9068,
+      "population": 7937
+    },
+    {
+      "insee": "62134",
+      "nom": "Bimont",
+      "lat": 50.5375,
+      "lon": 1.909,
+      "population": 112
+    },
+    {
+      "insee": "62135",
+      "nom": "Blairville",
+      "lat": 50.2192,
+      "lon": 2.7143,
+      "population": 304
+    },
+    {
+      "insee": "62137",
+      "nom": "Blangerval-Blangermont",
+      "lat": 50.3258,
+      "lon": 2.2198,
+      "population": 95
+    },
+    {
+      "insee": "62138",
+      "nom": "Blangy-sur-Ternoise",
+      "lat": 50.4252,
+      "lon": 2.1767,
+      "population": 715
+    },
+    {
+      "insee": "62139",
+      "nom": "Blendecques",
+      "lat": 50.7183,
+      "lon": 2.2816,
+      "population": 4859
+    },
+    {
+      "insee": "62140",
+      "nom": "Bléquin",
+      "lat": 50.6653,
+      "lon": 1.973,
+      "population": 490
+    },
+    {
+      "insee": "62141",
+      "nom": "Blessy",
+      "lat": 50.6164,
+      "lon": 2.332,
+      "population": 907
+    },
+    {
+      "insee": "62142",
+      "nom": "Blingel",
+      "lat": 50.4063,
+      "lon": 2.1502,
+      "population": 160
+    },
+    {
+      "insee": "62143",
+      "nom": "Boffles",
+      "lat": 50.2561,
+      "lon": 2.2011,
+      "population": 46
+    },
+    {
+      "insee": "62144",
+      "nom": "Boiry-Becquerelle",
+      "lat": 50.2133,
+      "lon": 2.8229,
+      "population": 478
+    },
+    {
+      "insee": "62145",
+      "nom": "Boiry-Notre-Dame",
+      "lat": 50.2746,
+      "lon": 2.9414,
+      "population": 450
+    },
+    {
+      "insee": "62146",
+      "nom": "Boiry-Saint-Martin",
+      "lat": 50.1925,
+      "lon": 2.7587,
+      "population": 255
+    },
+    {
+      "insee": "62147",
+      "nom": "Boiry-Sainte-Rictrude",
+      "lat": 50.2003,
+      "lon": 2.7474,
+      "population": 389
+    },
+    {
+      "insee": "62148",
+      "nom": "Bois-Bernard",
+      "lat": 50.376,
+      "lon": 2.9141,
+      "population": 839
+    },
+    {
+      "insee": "62149",
+      "nom": "Boisdinghem",
+      "lat": 50.7493,
+      "lon": 2.0941,
+      "population": 260
+    },
+    {
+      "insee": "62150",
+      "nom": "Boisjean",
+      "lat": 50.4044,
+      "lon": 1.7843,
+      "population": 529
+    },
+    {
+      "insee": "62151",
+      "nom": "Boisleux-au-Mont",
+      "lat": 50.2112,
+      "lon": 2.7771,
+      "population": 514
+    },
+    {
+      "insee": "62152",
+      "nom": "Boisleux-Saint-Marc",
+      "lat": 50.213,
+      "lon": 2.7952,
+      "population": 254
+    },
+    {
+      "insee": "62153",
+      "nom": "Bomy",
+      "lat": 50.571,
+      "lon": 2.2241,
+      "population": 615
+    },
+    {
+      "insee": "62154",
+      "nom": "Bonnières",
+      "lat": 50.2372,
+      "lon": 2.2774,
+      "population": 659
+    },
+    {
+      "insee": "62155",
+      "nom": "Bonningues-lès-Ardres",
+      "lat": 50.7767,
+      "lon": 2.0206,
+      "population": 637
+    },
+    {
+      "insee": "62156",
+      "nom": "Bonningues-lès-Calais",
+      "lat": 50.8947,
+      "lon": 1.7681,
+      "population": 597
+    },
+    {
+      "insee": "62157",
+      "nom": "Boubers-lès-Hesmond",
+      "lat": 50.48,
+      "lon": 1.9476,
+      "population": 68
+    },
+    {
+      "insee": "62158",
+      "nom": "Boubers-sur-Canche",
+      "lat": 50.2917,
+      "lon": 2.2332,
+      "population": 578
+    },
+    {
+      "insee": "62661",
+      "nom": "Bouin-Plumoison",
+      "lat": 50.3769,
+      "lon": 1.981,
+      "population": 511
+    },
+    {
+      "insee": "62160",
+      "nom": "Boulogne-sur-Mer",
+      "lat": 50.7303,
+      "lon": 1.6062,
+      "population": 40539
+    },
+    {
+      "insee": "62161",
+      "nom": "Bouquehault",
+      "lat": 50.8148,
+      "lon": 1.9005,
+      "population": 788
+    },
+    {
+      "insee": "62162",
+      "nom": "Bourecq",
+      "lat": 50.5781,
+      "lon": 2.4382,
+      "population": 568
+    },
+    {
+      "insee": "62163",
+      "nom": "Bouret-sur-Canche",
+      "lat": 50.2659,
+      "lon": 2.3239,
+      "population": 239
+    },
+    {
+      "insee": "62164",
+      "nom": "Bourlon",
+      "lat": 50.181,
+      "lon": 3.1239,
+      "population": 1156
+    },
+    {
+      "insee": "62165",
+      "nom": "Bournonville",
+      "lat": 50.6971,
+      "lon": 1.8415,
+      "population": 223
+    },
+    {
+      "insee": "62166",
+      "nom": "Bours",
+      "lat": 50.445,
+      "lon": 2.4058,
+      "population": 582
+    },
+    {
+      "insee": "62167",
+      "nom": "Boursin",
+      "lat": 50.7714,
+      "lon": 1.8207,
+      "population": 236
+    },
+    {
+      "insee": "62168",
+      "nom": "Bourthes",
+      "lat": 50.6113,
+      "lon": 1.936,
+      "population": 860
+    },
+    {
+      "insee": "62169",
+      "nom": "Bouvelinghem",
+      "lat": 50.7338,
+      "lon": 2.0382,
+      "population": 260
+    },
+    {
+      "insee": "62170",
+      "nom": "Bouvigny-Boyeffles",
+      "lat": 50.4232,
+      "lon": 2.6757,
+      "population": 2398
+    },
+    {
+      "insee": "62171",
+      "nom": "Boyaval",
+      "lat": 50.4723,
+      "lon": 2.3113,
+      "population": 147
+    },
+    {
+      "insee": "62172",
+      "nom": "Boyelles",
+      "lat": 50.1955,
+      "lon": 2.8206,
+      "population": 366
+    },
+    {
+      "insee": "62173",
+      "nom": "Brebières",
+      "lat": 50.3387,
+      "lon": 3.0216,
+      "population": 5283
+    },
+    {
+      "insee": "62174",
+      "nom": "Brêmes",
+      "lat": 50.8469,
+      "lon": 1.956,
+      "population": 1324
+    },
+    {
+      "insee": "62175",
+      "nom": "Brévillers",
+      "lat": 50.3475,
+      "lon": 2.0214,
+      "population": 156
+    },
+    {
+      "insee": "62176",
+      "nom": "Bréxent-Énocq",
+      "lat": 50.5066,
+      "lon": 1.7235,
+      "population": 634
+    },
+    {
+      "insee": "62180",
+      "nom": "Brias",
+      "lat": 50.4099,
+      "lon": 2.3857,
+      "population": 295
+    },
+    {
+      "insee": "62177",
+      "nom": "Brimeux",
+      "lat": 50.4353,
+      "lon": 1.837,
+      "population": 868
+    },
+    {
+      "insee": "62178",
+      "nom": "Bruay-la-Buissière",
+      "lat": 50.4891,
+      "lon": 2.5505,
+      "population": 21424
+    },
+    {
+      "insee": "62179",
+      "nom": "Brunembert",
+      "lat": 50.7165,
+      "lon": 1.8856,
+      "population": 387
+    },
+    {
+      "insee": "62181",
+      "nom": "Bucquoy",
+      "lat": 50.1496,
+      "lon": 2.7003,
+      "population": 1503
+    },
+    {
+      "insee": "62182",
+      "nom": "Buire-au-Bois",
+      "lat": 50.2653,
+      "lon": 2.1568,
+      "population": 237
+    },
+    {
+      "insee": "62183",
+      "nom": "Buire-le-Sec",
+      "lat": 50.3927,
+      "lon": 1.8203,
+      "population": 753
+    },
+    {
+      "insee": "62184",
+      "nom": "Buissy",
+      "lat": 50.2026,
+      "lon": 3.0291,
+      "population": 284
+    },
+    {
+      "insee": "62185",
+      "nom": "Bullecourt",
+      "lat": 50.1921,
+      "lon": 2.927,
+      "population": 225
+    },
+    {
+      "insee": "62186",
+      "nom": "Bully-les-Mines",
+      "lat": 50.4466,
+      "lon": 2.7209,
+      "population": 12146
+    },
+    {
+      "insee": "62187",
+      "nom": "Buneville",
+      "lat": 50.324,
+      "lon": 2.3503,
+      "population": 172
+    },
+    {
+      "insee": "62188",
+      "nom": "Burbure",
+      "lat": 50.5332,
+      "lon": 2.4626,
+      "population": 2834
+    },
+    {
+      "insee": "62189",
+      "nom": "Bus",
+      "lat": 50.0628,
+      "lon": 2.9666,
+      "population": 132
+    },
+    {
+      "insee": "62190",
+      "nom": "Busnes",
+      "lat": 50.5897,
+      "lon": 2.5119,
+      "population": 1243
+    },
+    {
+      "insee": "62191",
+      "nom": "Caffiers",
+      "lat": 50.8453,
+      "lon": 1.8117,
+      "population": 734
+    },
+    {
+      "insee": "62192",
+      "nom": "Cagnicourt",
+      "lat": 50.2087,
+      "lon": 2.9975,
+      "population": 421
+    },
+    {
+      "insee": "62193",
+      "nom": "Calais",
+      "lat": 50.9523,
+      "lon": 1.869,
+      "population": 67571
+    },
+    {
+      "insee": "62194",
+      "nom": "Calonne-Ricouart",
+      "lat": 50.4888,
+      "lon": 2.4861,
+      "population": 5369
+    },
+    {
+      "insee": "62195",
+      "nom": "Calonne-sur-la-Lys",
+      "lat": 50.6157,
+      "lon": 2.6059,
+      "population": 1595
+    },
+    {
+      "insee": "62197",
+      "nom": "Camblain-Châtelain",
+      "lat": 50.4771,
+      "lon": 2.4515,
+      "population": 1762
+    },
+    {
+      "insee": "62199",
+      "nom": "Camblain-l'Abbé",
+      "lat": 50.3759,
+      "lon": 2.6369,
+      "population": 683
+    },
+    {
+      "insee": "62198",
+      "nom": "Cambligneul",
+      "lat": 50.3788,
+      "lon": 2.6108,
+      "population": 352
+    },
+    {
+      "insee": "62200",
+      "nom": "Cambrin",
+      "lat": 50.5104,
+      "lon": 2.738,
+      "population": 1263
+    },
+    {
+      "insee": "62201",
+      "nom": "Camiers",
+      "lat": 50.5606,
+      "lon": 1.6129,
+      "population": 2582
+    },
+    {
+      "insee": "62202",
+      "nom": "Campagne-lès-Boulonnais",
+      "lat": 50.6202,
+      "lon": 1.9974,
+      "population": 669
+    },
+    {
+      "insee": "62203",
+      "nom": "Campagne-lès-Guines",
+      "lat": 50.8371,
+      "lon": 1.8997,
+      "population": 407
+    },
+    {
+      "insee": "62204",
+      "nom": "Campagne-lès-Hesdin",
+      "lat": 50.4009,
+      "lon": 1.8601,
+      "population": 1943
+    },
+    {
+      "insee": "62205",
+      "nom": "Campagne-lès-Wardrecques",
+      "lat": 50.7127,
+      "lon": 2.3339,
+      "population": 1301
+    },
+    {
+      "insee": "62206",
+      "nom": "Campigneulles-les-Grandes",
+      "lat": 50.4323,
+      "lon": 1.7069,
+      "population": 295
+    },
+    {
+      "insee": "62207",
+      "nom": "Campigneulles-les-Petites",
+      "lat": 50.4399,
+      "lon": 1.7353,
+      "population": 521
+    },
+    {
+      "insee": "62208",
+      "nom": "Canettemont",
+      "lat": 50.2792,
+      "lon": 2.363,
+      "population": 66
+    },
+    {
+      "insee": "62209",
+      "nom": "Canlers",
+      "lat": 50.4861,
+      "lon": 2.1462,
+      "population": 168
+    },
+    {
+      "insee": "62211",
+      "nom": "Capelle-Fermont",
+      "lat": 50.3457,
+      "lon": 2.6182,
+      "population": 223
+    },
+    {
+      "insee": "62212",
+      "nom": "Capelle-lès-Hesdin",
+      "lat": 50.3453,
+      "lon": 1.99,
+      "population": 474
+    },
+    {
+      "insee": "62213",
+      "nom": "Carency",
+      "lat": 50.3809,
+      "lon": 2.6959,
+      "population": 819
+    },
+    {
+      "insee": "62214",
+      "nom": "Carly",
+      "lat": 50.6577,
+      "lon": 1.7116,
+      "population": 638
+    },
+    {
+      "insee": "62215",
+      "nom": "Carvin",
+      "lat": 50.4903,
+      "lon": 2.9516,
+      "population": 17909
+    },
+    {
+      "insee": "62217",
+      "nom": "Cauchy-à-la-Tour",
+      "lat": 50.5057,
+      "lon": 2.4505,
+      "population": 2593
+    },
+    {
+      "insee": "62218",
+      "nom": "Caucourt",
+      "lat": 50.396,
+      "lon": 2.5712,
+      "population": 331
+    },
+    {
+      "insee": "62219",
+      "nom": "Caumont",
+      "lat": 50.2939,
+      "lon": 2.0305,
+      "population": 150
+    },
+    {
+      "insee": "62220",
+      "nom": "Cavron-Saint-Martin",
+      "lat": 50.4235,
+      "lon": 2.0145,
+      "population": 423
+    },
+    {
+      "insee": "62221",
+      "nom": "Chelers",
+      "lat": 50.38,
+      "lon": 2.4911,
+      "population": 247
+    },
+    {
+      "insee": "62222",
+      "nom": "Chériennes",
+      "lat": 50.3117,
+      "lon": 2.0347,
+      "population": 174
+    },
+    {
+      "insee": "62223",
+      "nom": "Chérisy",
+      "lat": 50.2346,
+      "lon": 2.9121,
+      "population": 293
+    },
+    {
+      "insee": "62224",
+      "nom": "Chocques",
+      "lat": 50.54,
+      "lon": 2.5616,
+      "population": 2785
+    },
+    {
+      "insee": "62225",
+      "nom": "Clairmarais",
+      "lat": 50.7703,
+      "lon": 2.3453,
+      "population": 593
+    },
+    {
+      "insee": "62227",
+      "nom": "Clenleu",
+      "lat": 50.5314,
+      "lon": 1.8851,
+      "population": 186
+    },
+    {
+      "insee": "62228",
+      "nom": "Clerques",
+      "lat": 50.7909,
+      "lon": 1.9858,
+      "population": 312
+    },
+    {
+      "insee": "62229",
+      "nom": "Cléty",
+      "lat": 50.6536,
+      "lon": 2.1791,
+      "population": 805
+    },
+    {
+      "insee": "62230",
+      "nom": "Colembert",
+      "lat": 50.748,
+      "lon": 1.8231,
+      "population": 907
+    },
+    {
+      "insee": "62231",
+      "nom": "Colline-Beaumont",
+      "lat": 50.3426,
+      "lon": 1.6725,
+      "population": 132
+    },
+    {
+      "insee": "62233",
+      "nom": "Conchil-le-Temple",
+      "lat": 50.3685,
+      "lon": 1.6753,
+      "population": 1073
+    },
+    {
+      "insee": "62234",
+      "nom": "Conchy-sur-Canche",
+      "lat": 50.2951,
+      "lon": 2.1898,
+      "population": 222
+    },
+    {
+      "insee": "62235",
+      "nom": "Condette",
+      "lat": 50.6517,
+      "lon": 1.6454,
+      "population": 2443
+    },
+    {
+      "insee": "62236",
+      "nom": "Contes",
+      "lat": 50.4184,
+      "lon": 1.9616,
+      "population": 354
+    },
+    {
+      "insee": "62238",
+      "nom": "Conteville-en-Ternois",
+      "lat": 50.4323,
+      "lon": 2.3273,
+      "population": 83
+    },
+    {
+      "insee": "62237",
+      "nom": "Conteville-lès-Boulogne",
+      "lat": 50.744,
+      "lon": 1.7277,
+      "population": 572
+    },
+    {
+      "insee": "62239",
+      "nom": "Coquelles",
+      "lat": 50.9279,
+      "lon": 1.8226,
+      "population": 2638
+    },
+    {
+      "insee": "62240",
+      "nom": "Corbehem",
+      "lat": 50.3356,
+      "lon": 3.0481,
+      "population": 2258
+    },
+    {
+      "insee": "62241",
+      "nom": "Cormont",
+      "lat": 50.5632,
+      "lon": 1.7433,
+      "population": 309
+    },
+    {
+      "insee": "62242",
+      "nom": "Couin",
+      "lat": 50.1309,
+      "lon": 2.5334,
+      "population": 76
+    },
+    {
+      "insee": "62243",
+      "nom": "Coullemont",
+      "lat": 50.2207,
+      "lon": 2.4787,
+      "population": 111
+    },
+    {
+      "insee": "62244",
+      "nom": "Coulogne",
+      "lat": 50.9127,
+      "lon": 1.8906,
+      "population": 5438
+    },
+    {
+      "insee": "62245",
+      "nom": "Coulomby",
+      "lat": 50.7111,
+      "lon": 1.9969,
+      "population": 770
+    },
+    {
+      "insee": "62246",
+      "nom": "Coupelle-Neuve",
+      "lat": 50.5001,
+      "lon": 2.1058,
+      "population": 146
+    },
+    {
+      "insee": "62247",
+      "nom": "Coupelle-Vieille",
+      "lat": 50.535,
+      "lon": 2.0785,
+      "population": 550
+    },
+    {
+      "insee": "62248",
+      "nom": "Courcelles-le-Comte",
+      "lat": 50.1577,
+      "lon": 2.779,
+      "population": 479
+    },
+    {
+      "insee": "62249",
+      "nom": "Courcelles-lès-Lens",
+      "lat": 50.4149,
+      "lon": 3.0151,
+      "population": 7830
+    },
+    {
+      "insee": "62250",
+      "nom": "Courrières",
+      "lat": 50.4538,
+      "lon": 2.9442,
+      "population": 10176
+    },
+    {
+      "insee": "62251",
+      "nom": "Courset",
+      "lat": 50.6449,
+      "lon": 1.8477,
+      "population": 505
+    },
+    {
+      "insee": "62253",
+      "nom": "Couturelle",
+      "lat": 50.2069,
+      "lon": 2.5,
+      "population": 76
+    },
+    {
+      "insee": "62254",
+      "nom": "Coyecques",
+      "lat": 50.601,
+      "lon": 2.183,
+      "population": 597
+    },
+    {
+      "insee": "62255",
+      "nom": "Crémarest",
+      "lat": 50.7,
+      "lon": 1.7868,
+      "population": 815
+    },
+    {
+      "insee": "62256",
+      "nom": "Crépy",
+      "lat": 50.4731,
+      "lon": 2.2036,
+      "population": 159
+    },
+    {
+      "insee": "62257",
+      "nom": "Créquy",
+      "lat": 50.5035,
+      "lon": 2.0379,
+      "population": 463
+    },
+    {
+      "insee": "62258",
+      "nom": "Croisette",
+      "lat": 50.3499,
+      "lon": 2.2627,
+      "population": 318
+    },
+    {
+      "insee": "62259",
+      "nom": "Croisilles",
+      "lat": 50.1961,
+      "lon": 2.8809,
+      "population": 1939
+    },
+    {
+      "insee": "62260",
+      "nom": "Croix-en-Ternois",
+      "lat": 50.3845,
+      "lon": 2.2687,
+      "population": 333
+    },
+    {
+      "insee": "62261",
+      "nom": "Cucq",
+      "lat": 50.4907,
+      "lon": 1.6116,
+      "population": 5129
+    },
+    {
+      "insee": "62262",
+      "nom": "Cuinchy",
+      "lat": 50.5202,
+      "lon": 2.7455,
+      "population": 1784
+    },
+    {
+      "insee": "62263",
+      "nom": "Dainville",
+      "lat": 50.2765,
+      "lon": 2.7129,
+      "population": 5683
+    },
+    {
+      "insee": "62264",
+      "nom": "Dannes",
+      "lat": 50.5939,
+      "lon": 1.6101,
+      "population": 1311
+    },
+    {
+      "insee": "62265",
+      "nom": "Delettes",
+      "lat": 50.6196,
+      "lon": 2.2188,
+      "population": 1124
+    },
+    {
+      "insee": "62266",
+      "nom": "Denier",
+      "lat": 50.2927,
+      "lon": 2.4458,
+      "population": 94
+    },
+    {
+      "insee": "62267",
+      "nom": "Dennebrœucq",
+      "lat": 50.5825,
+      "lon": 2.1564,
+      "population": 391
+    },
+    {
+      "insee": "62268",
+      "nom": "Desvres",
+      "lat": 50.6765,
+      "lon": 1.8323,
+      "population": 4829
+    },
+    {
+      "insee": "62269",
+      "nom": "Diéval",
+      "lat": 50.4387,
+      "lon": 2.4524,
+      "population": 709
+    },
+    {
+      "insee": "62270",
+      "nom": "Divion",
+      "lat": 50.4696,
+      "lon": 2.5083,
+      "population": 6766
+    },
+    {
+      "insee": "62271",
+      "nom": "Dohem",
+      "lat": 50.6277,
+      "lon": 2.167,
+      "population": 826
+    },
+    {
+      "insee": "62272",
+      "nom": "Douchy-lès-Ayette",
+      "lat": 50.1745,
+      "lon": 2.7067,
+      "population": 286
+    },
+    {
+      "insee": "62273",
+      "nom": "Doudeauville",
+      "lat": 50.6198,
+      "lon": 1.8384,
+      "population": 593
+    },
+    {
+      "insee": "62274",
+      "nom": "Dourges",
+      "lat": 50.4378,
+      "lon": 2.9851,
+      "population": 6139
+    },
+    {
+      "insee": "62275",
+      "nom": "Douriez",
+      "lat": 50.3372,
+      "lon": 1.8806,
+      "population": 296
+    },
+    {
+      "insee": "62276",
+      "nom": "Douvrin",
+      "lat": 50.5103,
+      "lon": 2.8321,
+      "population": 5867
+    },
+    {
+      "insee": "62277",
+      "nom": "Drocourt",
+      "lat": 50.3901,
+      "lon": 2.9328,
+      "population": 2939
+    },
+    {
+      "insee": "62278",
+      "nom": "Drouvin-le-Marais",
+      "lat": 50.49,
+      "lon": 2.6335,
+      "population": 622
+    },
+    {
+      "insee": "62279",
+      "nom": "Duisans",
+      "lat": 50.3008,
+      "lon": 2.6981,
+      "population": 1399
+    },
+    {
+      "insee": "62280",
+      "nom": "Dury",
+      "lat": 50.2498,
+      "lon": 3.0026,
+      "population": 301
+    },
+    {
+      "insee": "62281",
+      "nom": "Echinghen",
+      "lat": 50.7014,
+      "lon": 1.6554,
+      "population": 378
+    },
+    {
+      "insee": "62282",
+      "nom": "Éclimeux",
+      "lat": 50.3953,
+      "lon": 2.1827,
+      "population": 178
+    },
+    {
+      "insee": "62283",
+      "nom": "Écoivres",
+      "lat": 50.3238,
+      "lon": 2.2853,
+      "population": 124
+    },
+    {
+      "insee": "62284",
+      "nom": "Écourt-Saint-Quentin",
+      "lat": 50.2605,
+      "lon": 3.0647,
+      "population": 1706
+    },
+    {
+      "insee": "62285",
+      "nom": "Écoust-Saint-Mein",
+      "lat": 50.1759,
+      "lon": 2.9023,
+      "population": 485
+    },
+    {
+      "insee": "62286",
+      "nom": "Ecquedecques",
+      "lat": 50.5595,
+      "lon": 2.4414,
+      "population": 511
+    },
+    {
+      "insee": "62288",
+      "nom": "Ecques",
+      "lat": 50.6762,
+      "lon": 2.2885,
+      "population": 2181
+    },
+    {
+      "insee": "62289",
+      "nom": "Écuires",
+      "lat": 50.4372,
+      "lon": 1.7703,
+      "population": 682
+    },
+    {
+      "insee": "62290",
+      "nom": "Écurie",
+      "lat": 50.3321,
+      "lon": 2.7676,
+      "population": 370
+    },
+    {
+      "insee": "62291",
+      "nom": "Éleu-dit-Leauwette",
+      "lat": 50.4188,
+      "lon": 2.8123,
+      "population": 2805
+    },
+    {
+      "insee": "62292",
+      "nom": "Elnes",
+      "lat": 50.6871,
+      "lon": 2.1189,
+      "population": 836
+    },
+    {
+      "insee": "62293",
+      "nom": "Embry",
+      "lat": 50.497,
+      "lon": 1.9603,
+      "population": 241
+    },
+    {
+      "insee": "62295",
+      "nom": "Enquin-lez-Guinegatte",
+      "lat": 50.5949,
+      "lon": 2.2801,
+      "population": 1594
+    },
+    {
+      "insee": "62296",
+      "nom": "Enquin-sur-Baillons",
+      "lat": 50.5707,
+      "lon": 1.8452,
+      "population": 237
+    },
+    {
+      "insee": "62297",
+      "nom": "Éperlecques",
+      "lat": 50.8109,
+      "lon": 2.1583,
+      "population": 3737
+    },
+    {
+      "insee": "62298",
+      "nom": "Épinoy",
+      "lat": 50.2322,
+      "lon": 3.1616,
+      "population": 491
+    },
+    {
+      "insee": "62299",
+      "nom": "Eps",
+      "lat": 50.4574,
+      "lon": 2.2981,
+      "population": 238
+    },
+    {
+      "insee": "62300",
+      "nom": "Équihen-Plage",
+      "lat": 50.6791,
+      "lon": 1.5789,
+      "population": 2619
+    },
+    {
+      "insee": "62301",
+      "nom": "Équirre",
+      "lat": 50.4797,
+      "lon": 2.2339,
+      "population": 71
+    },
+    {
+      "insee": "62302",
+      "nom": "Ergny",
+      "lat": 50.5853,
+      "lon": 1.9724,
+      "population": 230
+    },
+    {
+      "insee": "62303",
+      "nom": "Érin",
+      "lat": 50.4309,
+      "lon": 2.2201,
+      "population": 221
+    },
+    {
+      "insee": "62304",
+      "nom": "Erny-Saint-Julien",
+      "lat": 50.5821,
+      "lon": 2.2492,
+      "population": 338
+    },
+    {
+      "insee": "62306",
+      "nom": "Ervillers",
+      "lat": 50.1652,
+      "lon": 2.8284,
+      "population": 396
+    },
+    {
+      "insee": "62307",
+      "nom": "Escalles",
+      "lat": 50.909,
+      "lon": 1.7159,
+      "population": 223
+    },
+    {
+      "insee": "62308",
+      "nom": "Escœuilles",
+      "lat": 50.7257,
+      "lon": 1.9376,
+      "population": 461
+    },
+    {
+      "insee": "62309",
+      "nom": "Esquerdes",
+      "lat": 50.7005,
+      "lon": 2.1767,
+      "population": 1594
+    },
+    {
+      "insee": "62310",
+      "nom": "Essars",
+      "lat": 50.5483,
+      "lon": 2.6617,
+      "population": 1753
+    },
+    {
+      "insee": "62311",
+      "nom": "Estevelles",
+      "lat": 50.479,
+      "lon": 2.9084,
+      "population": 1979
+    },
+    {
+      "insee": "62312",
+      "nom": "Estrée",
+      "lat": 50.4964,
+      "lon": 1.8083,
+      "population": 304
+    },
+    {
+      "insee": "62313",
+      "nom": "Estrée-Blanche",
+      "lat": 50.5934,
+      "lon": 2.3224,
+      "population": 913
+    },
+    {
+      "insee": "62314",
+      "nom": "Estrée-Cauchy",
+      "lat": 50.4007,
+      "lon": 2.6104,
+      "population": 354
+    },
+    {
+      "insee": "62316",
+      "nom": "Estrée-Wamin",
+      "lat": 50.2691,
+      "lon": 2.3951,
+      "population": 224
+    },
+    {
+      "insee": "62315",
+      "nom": "Estréelles",
+      "lat": 50.5005,
+      "lon": 1.7789,
+      "population": 342
+    },
+    {
+      "insee": "62317",
+      "nom": "Étaing",
+      "lat": 50.2705,
+      "lon": 2.9978,
+      "population": 476
+    },
+    {
+      "insee": "62318",
+      "nom": "Étaples",
+      "lat": 50.5247,
+      "lon": 1.6462,
+      "population": 10710
+    },
+    {
+      "insee": "62319",
+      "nom": "Éterpigny",
+      "lat": 50.2564,
+      "lon": 2.9819,
+      "population": 252
+    },
+    {
+      "insee": "62320",
+      "nom": "Étrun",
+      "lat": 50.3181,
+      "lon": 2.6857,
+      "population": 327
+    },
+    {
+      "insee": "62321",
+      "nom": "Évin-Malmaison",
+      "lat": 50.4346,
+      "lon": 3.0309,
+      "population": 4628
+    },
+    {
+      "insee": "62322",
+      "nom": "Famechon",
+      "lat": 50.1437,
+      "lon": 2.4587,
+      "population": 111
+    },
+    {
+      "insee": "62323",
+      "nom": "Fampoux",
+      "lat": 50.2983,
+      "lon": 2.8715,
+      "population": 1267
+    },
+    {
+      "insee": "62324",
+      "nom": "Farbus",
+      "lat": 50.3601,
+      "lon": 2.8245,
+      "population": 629
+    },
+    {
+      "insee": "62325",
+      "nom": "Fauquembergues",
+      "lat": 50.5902,
+      "lon": 2.0935,
+      "population": 932
+    },
+    {
+      "insee": "62326",
+      "nom": "Favreuil",
+      "lat": 50.1266,
+      "lon": 2.8606,
+      "population": 228
+    },
+    {
+      "insee": "62327",
+      "nom": "Febvin-Palfart",
+      "lat": 50.5376,
+      "lon": 2.301,
+      "population": 604
+    },
+    {
+      "insee": "62328",
+      "nom": "Ferfay",
+      "lat": 50.5228,
+      "lon": 2.4301,
+      "population": 861
+    },
+    {
+      "insee": "62329",
+      "nom": "Ferques",
+      "lat": 50.8283,
+      "lon": 1.7687,
+      "population": 1770
+    },
+    {
+      "insee": "62330",
+      "nom": "Festubert",
+      "lat": 50.5416,
+      "lon": 2.7385,
+      "population": 1242
+    },
+    {
+      "insee": "62331",
+      "nom": "Feuchy",
+      "lat": 50.2842,
+      "lon": 2.8478,
+      "population": 991
+    },
+    {
+      "insee": "62332",
+      "nom": "Ficheux",
+      "lat": 50.225,
+      "lon": 2.7459,
+      "population": 496
+    },
+    {
+      "insee": "62333",
+      "nom": "Fiefs",
+      "lat": 50.4986,
+      "lon": 2.3197,
+      "population": 354
+    },
+    {
+      "insee": "62334",
+      "nom": "Fiennes",
+      "lat": 50.8251,
+      "lon": 1.8358,
+      "population": 850
+    },
+    {
+      "insee": "62335",
+      "nom": "Fillièvres",
+      "lat": 50.315,
+      "lon": 2.1648,
+      "population": 510
+    },
+    {
+      "insee": "62336",
+      "nom": "Fléchin",
+      "lat": 50.5576,
+      "lon": 2.2842,
+      "population": 469
+    },
+    {
+      "insee": "62337",
+      "nom": "Flers",
+      "lat": 50.3213,
+      "lon": 2.2519,
+      "population": 227
+    },
+    {
+      "insee": "62338",
+      "nom": "Fleurbaix",
+      "lat": 50.6407,
+      "lon": 2.8304,
+      "population": 2947
+    },
+    {
+      "insee": "62339",
+      "nom": "Fleury",
+      "lat": 50.4239,
+      "lon": 2.2524,
+      "population": 109
+    },
+    {
+      "insee": "62340",
+      "nom": "Floringhem",
+      "lat": 50.4976,
+      "lon": 2.4294,
+      "population": 877
+    },
+    {
+      "insee": "62341",
+      "nom": "Foncquevillers",
+      "lat": 50.1448,
+      "lon": 2.6219,
+      "population": 401
+    },
+    {
+      "insee": "62345",
+      "nom": "Fontaine-l'Étalon",
+      "lat": 50.3015,
+      "lon": 2.0661,
+      "population": 92
+    },
+    {
+      "insee": "62342",
+      "nom": "Fontaine-lès-Boulans",
+      "lat": 50.4989,
+      "lon": 2.2829,
+      "population": 97
+    },
+    {
+      "insee": "62343",
+      "nom": "Fontaine-lès-Croisilles",
+      "lat": 50.215,
+      "lon": 2.9033,
+      "population": 273
+    },
+    {
+      "insee": "62344",
+      "nom": "Fontaine-lès-Hermans",
+      "lat": 50.5269,
+      "lon": 2.3363,
+      "population": 105
+    },
+    {
+      "insee": "62346",
+      "nom": "Fortel-en-Artois",
+      "lat": 50.2582,
+      "lon": 2.2303,
+      "population": 212
+    },
+    {
+      "insee": "62347",
+      "nom": "Fosseux",
+      "lat": 50.2516,
+      "lon": 2.5674,
+      "population": 119
+    },
+    {
+      "insee": "62348",
+      "nom": "Foufflin-Ricametz",
+      "lat": 50.3488,
+      "lon": 2.3874,
+      "population": 148
+    },
+    {
+      "insee": "62349",
+      "nom": "Fouquereuil",
+      "lat": 50.5212,
+      "lon": 2.6021,
+      "population": 1632
+    },
+    {
+      "insee": "62350",
+      "nom": "Fouquières-lès-Béthune",
+      "lat": 50.5126,
+      "lon": 2.6127,
+      "population": 1108
+    },
+    {
+      "insee": "62351",
+      "nom": "Fouquières-lès-Lens",
+      "lat": 50.4284,
+      "lon": 2.9067,
+      "population": 6087
+    },
+    {
+      "insee": "62352",
+      "nom": "Framecourt",
+      "lat": 50.3237,
+      "lon": 2.3051,
+      "population": 116
+    },
+    {
+      "insee": "62353",
+      "nom": "Frémicourt",
+      "lat": 50.1122,
+      "lon": 2.904,
+      "population": 239
+    },
+    {
+      "insee": "62354",
+      "nom": "Frencq",
+      "lat": 50.5622,
+      "lon": 1.6871,
+      "population": 893
+    },
+    {
+      "insee": "62355",
+      "nom": "Fresnes-lès-Montauban",
+      "lat": 50.3352,
+      "lon": 2.929,
+      "population": 604
+    },
+    {
+      "insee": "62356",
+      "nom": "Fresnicourt-le-Dolmen",
+      "lat": 50.4255,
+      "lon": 2.6029,
+      "population": 791
+    },
+    {
+      "insee": "62357",
+      "nom": "Fresnoy",
+      "lat": 50.373,
+      "lon": 2.1377,
+      "population": 62
+    },
+    {
+      "insee": "62358",
+      "nom": "Fresnoy-en-Gohelle",
+      "lat": 50.3688,
+      "lon": 2.8961,
+      "population": 233
+    },
+    {
+      "insee": "62359",
+      "nom": "Fressin",
+      "lat": 50.4533,
+      "lon": 2.0436,
+      "population": 579
+    },
+    {
+      "insee": "62360",
+      "nom": "Fréthun",
+      "lat": 50.9096,
+      "lon": 1.8215,
+      "population": 1403
+    },
+    {
+      "insee": "62361",
+      "nom": "Frévent",
+      "lat": 50.27,
+      "lon": 2.2905,
+      "population": 3259
+    },
+    {
+      "insee": "62362",
+      "nom": "Frévillers",
+      "lat": 50.4005,
+      "lon": 2.5245,
+      "population": 239
+    },
+    {
+      "insee": "62363",
+      "nom": "Frévin-Capelle",
+      "lat": 50.3505,
+      "lon": 2.6361,
+      "population": 400
+    },
+    {
+      "insee": "62364",
+      "nom": "Fruges",
+      "lat": 50.5143,
+      "lon": 2.1184,
+      "population": 2362
+    },
+    {
+      "insee": "62365",
+      "nom": "Galametz",
+      "lat": 50.3254,
+      "lon": 2.1313,
+      "population": 208
+    },
+    {
+      "insee": "62366",
+      "nom": "Gauchin-Légal",
+      "lat": 50.4096,
+      "lon": 2.5728,
+      "population": 296
+    },
+    {
+      "insee": "62367",
+      "nom": "Gauchin-Verloingt",
+      "lat": 50.3912,
+      "lon": 2.313,
+      "population": 774
+    },
+    {
+      "insee": "62368",
+      "nom": "Gaudiempré",
+      "lat": 50.1781,
+      "lon": 2.5256,
+      "population": 215
+    },
+    {
+      "insee": "62369",
+      "nom": "Gavrelle",
+      "lat": 50.3267,
+      "lon": 2.8822,
+      "population": 768
+    },
+    {
+      "insee": "62370",
+      "nom": "Gennes-Ivergny",
+      "lat": 50.2734,
+      "lon": 2.0617,
+      "population": 122
+    },
+    {
+      "insee": "62371",
+      "nom": "Givenchy-en-Gohelle",
+      "lat": 50.3916,
+      "lon": 2.7789,
+      "population": 2072
+    },
+    {
+      "insee": "62372",
+      "nom": "Givenchy-le-Noble",
+      "lat": 50.2999,
+      "lon": 2.49,
+      "population": 155
+    },
+    {
+      "insee": "62373",
+      "nom": "Givenchy-lès-la-Bassée",
+      "lat": 50.5348,
+      "lon": 2.7628,
+      "population": 982
+    },
+    {
+      "insee": "62374",
+      "nom": "Gomiécourt",
+      "lat": 50.1494,
+      "lon": 2.8013,
+      "population": 151
+    },
+    {
+      "insee": "62375",
+      "nom": "Gommecourt",
+      "lat": 50.1377,
+      "lon": 2.6533,
+      "population": 86
+    },
+    {
+      "insee": "62376",
+      "nom": "Gonnehem",
+      "lat": 50.5657,
+      "lon": 2.5691,
+      "population": 2525
+    },
+    {
+      "insee": "62377",
+      "nom": "Gosnay",
+      "lat": 50.5088,
+      "lon": 2.5867,
+      "population": 941
+    },
+    {
+      "insee": "62378",
+      "nom": "Gouves",
+      "lat": 50.2965,
+      "lon": 2.6446,
+      "population": 195
+    },
+    {
+      "insee": "62379",
+      "nom": "Gouy-en-Artois",
+      "lat": 50.2418,
+      "lon": 2.5831,
+      "population": 327
+    },
+    {
+      "insee": "62381",
+      "nom": "Gouy-en-Ternois",
+      "lat": 50.3237,
+      "lon": 2.4123,
+      "population": 127
+    },
+    {
+      "insee": "62382",
+      "nom": "Gouy-Saint-André",
+      "lat": 50.3739,
+      "lon": 1.9111,
+      "population": 659
+    },
+    {
+      "insee": "62380",
+      "nom": "Gouy-Servins",
+      "lat": 50.4031,
+      "lon": 2.6565,
+      "population": 360
+    },
+    {
+      "insee": "62383",
+      "nom": "Gouy-sous-Bellonne",
+      "lat": 50.3155,
+      "lon": 3.0594,
+      "population": 1391
+    },
+    {
+      "insee": "62384",
+      "nom": "Graincourt-lès-Havrincourt",
+      "lat": 50.1442,
+      "lon": 3.1021,
+      "population": 632
+    },
+    {
+      "insee": "62385",
+      "nom": "Grand-Rullecourt",
+      "lat": 50.2536,
+      "lon": 2.4797,
+      "population": 383
+    },
+    {
+      "insee": "62386",
+      "nom": "Grenay",
+      "lat": 50.4494,
+      "lon": 2.7437,
+      "population": 6644
+    },
+    {
+      "insee": "62387",
+      "nom": "Grévillers",
+      "lat": 50.1027,
+      "lon": 2.7999,
+      "population": 353
+    },
+    {
+      "insee": "62388",
+      "nom": "Grigny",
+      "lat": 50.3849,
+      "lon": 2.0646,
+      "population": 290
+    },
+    {
+      "insee": "62389",
+      "nom": "Grincourt-lès-Pas",
+      "lat": 50.1779,
+      "lon": 2.4882,
+      "population": 32
+    },
+    {
+      "insee": "62390",
+      "nom": "Groffliers",
+      "lat": 50.3854,
+      "lon": 1.6035,
+      "population": 1470
+    },
+    {
+      "insee": "62391",
+      "nom": "Guarbecque",
+      "lat": 50.6078,
+      "lon": 2.4876,
+      "population": 1381
+    },
+    {
+      "insee": "62392",
+      "nom": "Guémappe",
+      "lat": 50.2514,
+      "lon": 2.8949,
+      "population": 408
+    },
+    {
+      "insee": "62393",
+      "nom": "Guemps",
+      "lat": 50.9185,
+      "lon": 1.9986,
+      "population": 1067
+    },
+    {
+      "insee": "62395",
+      "nom": "Guigny",
+      "lat": 50.3268,
+      "lon": 1.9956,
+      "population": 149
+    },
+    {
+      "insee": "62396",
+      "nom": "Guinecourt",
+      "lat": 50.3477,
+      "lon": 2.2274,
+      "population": 13
+    },
+    {
+      "insee": "62397",
+      "nom": "Guînes",
+      "lat": 50.855,
+      "lon": 1.8726,
+      "population": 5479
+    },
+    {
+      "insee": "62398",
+      "nom": "Guisy",
+      "lat": 50.3877,
+      "lon": 2.0043,
+      "population": 275
+    },
+    {
+      "insee": "62399",
+      "nom": "Habarcq",
+      "lat": 50.31,
+      "lon": 2.6035,
+      "population": 676
+    },
+    {
+      "insee": "62400",
+      "nom": "Haillicourt",
+      "lat": 50.4747,
+      "lon": 2.5796,
+      "population": 5064
+    },
+    {
+      "insee": "62401",
+      "nom": "Haisnes",
+      "lat": 50.5007,
+      "lon": 2.7948,
+      "population": 4396
+    },
+    {
+      "insee": "62402",
+      "nom": "Halinghen",
+      "lat": 50.6072,
+      "lon": 1.6795,
+      "population": 308
+    },
+    {
+      "insee": "62403",
+      "nom": "Hallines",
+      "lat": 50.7017,
+      "lon": 2.2104,
+      "population": 1196
+    },
+    {
+      "insee": "62404",
+      "nom": "Halloy",
+      "lat": 50.1613,
+      "lon": 2.4256,
+      "population": 201
+    },
+    {
+      "insee": "62407",
+      "nom": "Ham-en-Artois",
+      "lat": 50.5928,
+      "lon": 2.4562,
+      "population": 944
+    },
+    {
+      "insee": "62405",
+      "nom": "Hamblain-les-Prés",
+      "lat": 50.2911,
+      "lon": 2.9585,
+      "population": 454
+    },
+    {
+      "insee": "62406",
+      "nom": "Hamelincourt",
+      "lat": 50.1837,
+      "lon": 2.804,
+      "population": 260
+    },
+    {
+      "insee": "62408",
+      "nom": "Hames-Boucres",
+      "lat": 50.8854,
+      "lon": 1.8468,
+      "population": 1439
+    },
+    {
+      "insee": "62409",
+      "nom": "Hannescamps",
+      "lat": 50.1622,
+      "lon": 2.6395,
+      "population": 205
+    },
+    {
+      "insee": "62410",
+      "nom": "Haplincourt",
+      "lat": 50.0924,
+      "lon": 2.938,
+      "population": 191
+    },
+    {
+      "insee": "62411",
+      "nom": "Haravesnes",
+      "lat": 50.2845,
+      "lon": 2.1264,
+      "population": 51
+    },
+    {
+      "insee": "62412",
+      "nom": "Hardinghen",
+      "lat": 50.7977,
+      "lon": 1.828,
+      "population": 1270
+    },
+    {
+      "insee": "62413",
+      "nom": "Harnes",
+      "lat": 50.4522,
+      "lon": 2.9036,
+      "population": 12247
+    },
+    {
+      "insee": "62414",
+      "nom": "Haucourt",
+      "lat": 50.2368,
+      "lon": 2.9698,
+      "population": 206
+    },
+    {
+      "insee": "62419",
+      "nom": "Haut-Loquin",
+      "lat": 50.7379,
+      "lon": 1.9649,
+      "population": 189
+    },
+    {
+      "insee": "62415",
+      "nom": "Haute-Avesnes",
+      "lat": 50.3301,
+      "lon": 2.6395,
+      "population": 465
+    },
+    {
+      "insee": "62416",
+      "nom": "Hautecloque",
+      "lat": 50.3318,
+      "lon": 2.3099,
+      "population": 214
+    },
+    {
+      "insee": "62418",
+      "nom": "Hauteville",
+      "lat": 50.2722,
+      "lon": 2.5663,
+      "population": 308
+    },
+    {
+      "insee": "62421",
+      "nom": "Havrincourt",
+      "lat": 50.1015,
+      "lon": 3.0721,
+      "population": 351
+    },
+    {
+      "insee": "62422",
+      "nom": "Hébuterne",
+      "lat": 50.1154,
+      "lon": 2.6478,
+      "population": 526
+    },
+    {
+      "insee": "62423",
+      "nom": "Helfaut",
+      "lat": 50.6923,
+      "lon": 2.2498,
+      "population": 1724
+    },
+    {
+      "insee": "62424",
+      "nom": "Hendecourt-lès-Cagnicourt",
+      "lat": 50.2143,
+      "lon": 2.9507,
+      "population": 288
+    },
+    {
+      "insee": "62425",
+      "nom": "Hendecourt-lès-Ransart",
+      "lat": 50.2092,
+      "lon": 2.7277,
+      "population": 143
+    },
+    {
+      "insee": "62427",
+      "nom": "Hénin-Beaumont",
+      "lat": 50.4189,
+      "lon": 2.9584,
+      "population": 25688
+    },
+    {
+      "insee": "62428",
+      "nom": "Hénin-sur-Cojeul",
+      "lat": 50.2171,
+      "lon": 2.8379,
+      "population": 528
+    },
+    {
+      "insee": "62426",
+      "nom": "Héninel",
+      "lat": 50.2316,
+      "lon": 2.8692,
+      "population": 187
+    },
+    {
+      "insee": "62429",
+      "nom": "Henneveux",
+      "lat": 50.7264,
+      "lon": 1.8425,
+      "population": 272
+    },
+    {
+      "insee": "62430",
+      "nom": "Hénu",
+      "lat": 50.1556,
+      "lon": 2.5335,
+      "population": 147
+    },
+    {
+      "insee": "62432",
+      "nom": "Herbinghen",
+      "lat": 50.7629,
+      "lon": 1.8973,
+      "population": 415
+    },
+    {
+      "insee": "62433",
+      "nom": "Héricourt",
+      "lat": 50.338,
+      "lon": 2.2499,
+      "population": 77
+    },
+    {
+      "insee": "62436",
+      "nom": "Herlin-le-Sec",
+      "lat": 50.3544,
+      "lon": 2.3318,
+      "population": 161
+    },
+    {
+      "insee": "62435",
+      "nom": "Herlincourt",
+      "lat": 50.3444,
+      "lon": 2.2922,
+      "population": 106
+    },
+    {
+      "insee": "62437",
+      "nom": "Herly",
+      "lat": 50.5434,
+      "lon": 1.9926,
+      "population": 330
+    },
+    {
+      "insee": "62438",
+      "nom": "Hermaville",
+      "lat": 50.3238,
+      "lon": 2.5857,
+      "population": 529
+    },
+    {
+      "insee": "62439",
+      "nom": "Hermelinghen",
+      "lat": 50.8035,
+      "lon": 1.8609,
+      "population": 407
+    },
+    {
+      "insee": "62440",
+      "nom": "Hermies",
+      "lat": 50.1087,
+      "lon": 3.035,
+      "population": 1062
+    },
+    {
+      "insee": "62441",
+      "nom": "Hermin",
+      "lat": 50.4134,
+      "lon": 2.5526,
+      "population": 206
+    },
+    {
+      "insee": "62442",
+      "nom": "Hernicourt",
+      "lat": 50.4111,
+      "lon": 2.3037,
+      "population": 512
+    },
+    {
+      "insee": "62443",
+      "nom": "Hersin-Coupigny",
+      "lat": 50.4449,
+      "lon": 2.6433,
+      "population": 6082
+    },
+    {
+      "insee": "62444",
+      "nom": "Hervelinghen",
+      "lat": 50.8855,
+      "lon": 1.7192,
+      "population": 215
+    },
+    {
+      "insee": "62445",
+      "nom": "Hesdigneul-lès-Béthune",
+      "lat": 50.4962,
+      "lon": 2.5975,
+      "population": 828
+    },
+    {
+      "insee": "62446",
+      "nom": "Hesdigneul-lès-Boulogne",
+      "lat": 50.6527,
+      "lon": 1.6751,
+      "population": 853
+    },
+    {
+      "insee": "62448",
+      "nom": "Hesdin-l'Abbé",
+      "lat": 50.6688,
+      "lon": 1.6856,
+      "population": 1891
+    },
+    {
+      "insee": "62447",
+      "nom": "Hesdin-la-Forêt",
+      "lat": 50.3784,
+      "lon": 2.0247,
+      "population": 4480
+    },
+    {
+      "insee": "62449",
+      "nom": "Hesmond",
+      "lat": 50.4648,
+      "lon": 1.9433,
+      "population": 172
+    },
+    {
+      "insee": "62450",
+      "nom": "Hestrus",
+      "lat": 50.4507,
+      "lon": 2.3299,
+      "population": 215
+    },
+    {
+      "insee": "62451",
+      "nom": "Heuchin",
+      "lat": 50.4807,
+      "lon": 2.2761,
+      "population": 482
+    },
+    {
+      "insee": "62452",
+      "nom": "Heuringhem",
+      "lat": 50.6941,
+      "lon": 2.2984,
+      "population": 1389
+    },
+    {
+      "insee": "62453",
+      "nom": "Hézecques",
+      "lat": 50.5347,
+      "lon": 2.1893,
+      "population": 127
+    },
+    {
+      "insee": "62454",
+      "nom": "Hinges",
+      "lat": 50.5748,
+      "lon": 2.6268,
+      "population": 2485
+    },
+    {
+      "insee": "62455",
+      "nom": "Hocquinghen",
+      "lat": 50.7658,
+      "lon": 1.9328,
+      "population": 118
+    },
+    {
+      "insee": "62456",
+      "nom": "Houchin",
+      "lat": 50.4798,
+      "lon": 2.6192,
+      "population": 738
+    },
+    {
+      "insee": "62457",
+      "nom": "Houdain",
+      "lat": 50.4541,
+      "lon": 2.5354,
+      "population": 6945
+    },
+    {
+      "insee": "62458",
+      "nom": "Houlle",
+      "lat": 50.7994,
+      "lon": 2.1657,
+      "population": 1116
+    },
+    {
+      "insee": "62459",
+      "nom": "Houvin-Houvigneul",
+      "lat": 50.2951,
+      "lon": 2.3763,
+      "population": 247
+    },
+    {
+      "insee": "62460",
+      "nom": "Hubersent",
+      "lat": 50.5817,
+      "lon": 1.7434,
+      "population": 272
+    },
+    {
+      "insee": "62462",
+      "nom": "Huclier",
+      "lat": 50.4359,
+      "lon": 2.356,
+      "population": 152
+    },
+    {
+      "insee": "62463",
+      "nom": "Hucqueliers",
+      "lat": 50.5724,
+      "lon": 1.9161,
+      "population": 494
+    },
+    {
+      "insee": "62464",
+      "nom": "Hulluch",
+      "lat": 50.4859,
+      "lon": 2.8175,
+      "population": 3371
+    },
+    {
+      "insee": "62465",
+      "nom": "Humbercamps",
+      "lat": 50.1867,
+      "lon": 2.5749,
+      "population": 219
+    },
+    {
+      "insee": "62466",
+      "nom": "Humbert",
+      "lat": 50.5021,
+      "lon": 1.9119,
+      "population": 249
+    },
+    {
+      "insee": "62467",
+      "nom": "Humerœuille",
+      "lat": 50.4103,
+      "lon": 2.2098,
+      "population": 182
+    },
+    {
+      "insee": "62468",
+      "nom": "Humières",
+      "lat": 50.3833,
+      "lon": 2.2111,
+      "population": 218
+    },
+    {
+      "insee": "62469",
+      "nom": "Inchy-en-Artois",
+      "lat": 50.1727,
+      "lon": 3.0403,
+      "population": 575
+    },
+    {
+      "insee": "62470",
+      "nom": "Incourt",
+      "lat": 50.3867,
+      "lon": 2.1502,
+      "population": 91
+    },
+    {
+      "insee": "62472",
+      "nom": "Inxent",
+      "lat": 50.5367,
+      "lon": 1.7887,
+      "population": 157
+    },
+    {
+      "insee": "62473",
+      "nom": "Isbergues",
+      "lat": 50.6147,
+      "lon": 2.4561,
+      "population": 8650
+    },
+    {
+      "insee": "62474",
+      "nom": "Isques",
+      "lat": 50.6806,
+      "lon": 1.6548,
+      "population": 1122
+    },
+    {
+      "insee": "62475",
+      "nom": "Ivergny",
+      "lat": 50.2395,
+      "lon": 2.3748,
+      "population": 238
+    },
+    {
+      "insee": "62476",
+      "nom": "Izel-lès-Équerchin",
+      "lat": 50.363,
+      "lon": 2.9446,
+      "population": 1040
+    },
+    {
+      "insee": "62477",
+      "nom": "Izel-lès-Hameau",
+      "lat": 50.3149,
+      "lon": 2.5299,
+      "population": 742
+    },
+    {
+      "insee": "62478",
+      "nom": "Journy",
+      "lat": 50.7544,
+      "lon": 2.0027,
+      "population": 310
+    },
+    {
+      "insee": "62196",
+      "nom": "La Calotterie",
+      "lat": 50.4799,
+      "lon": 1.7204,
+      "population": 582
+    },
+    {
+      "insee": "62908",
+      "nom": "La Capelle-lès-Boulogne",
+      "lat": 50.7314,
+      "lon": 1.7177,
+      "population": 1551
+    },
+    {
+      "insee": "62216",
+      "nom": "La Cauchie",
+      "lat": 50.205,
+      "lon": 2.5822,
+      "population": 211
+    },
+    {
+      "insee": "62232",
+      "nom": "La Comté",
+      "lat": 50.4285,
+      "lon": 2.4996,
+      "population": 879
+    },
+    {
+      "insee": "62252",
+      "nom": "La Couture",
+      "lat": 50.5773,
+      "lon": 2.6969,
+      "population": 2590
+    },
+    {
+      "insee": "62434",
+      "nom": "La Herlière",
+      "lat": 50.1991,
+      "lon": 2.5588,
+      "population": 135
+    },
+    {
+      "insee": "62521",
+      "nom": "La Loge",
+      "lat": 50.408,
+      "lon": 2.0346,
+      "population": 224
+    },
+    {
+      "insee": "62535",
+      "nom": "La Madelaine-sous-Montreuil",
+      "lat": 50.4659,
+      "lon": 1.7473,
+      "population": 149
+    },
+    {
+      "insee": "62813",
+      "nom": "La Thieuloye",
+      "lat": 50.4142,
+      "lon": 2.4334,
+      "population": 476
+    },
+    {
+      "insee": "62479",
+      "nom": "Labeuvrière",
+      "lat": 50.5228,
+      "lon": 2.5688,
+      "population": 1648
+    },
+    {
+      "insee": "62480",
+      "nom": "Labourse",
+      "lat": 50.4934,
+      "lon": 2.6851,
+      "population": 2858
+    },
+    {
+      "insee": "62481",
+      "nom": "Labroye",
+      "lat": 50.2945,
+      "lon": 1.9825,
+      "population": 140
+    },
+    {
+      "insee": "62483",
+      "nom": "Lacres",
+      "lat": 50.6052,
+      "lon": 1.7603,
+      "population": 250
+    },
+    {
+      "insee": "62484",
+      "nom": "Lagnicourt-Marcel",
+      "lat": 50.1569,
+      "lon": 2.9592,
+      "population": 309
+    },
+    {
+      "insee": "62485",
+      "nom": "Laires",
+      "lat": 50.5409,
+      "lon": 2.2588,
+      "population": 365
+    },
+    {
+      "insee": "62486",
+      "nom": "Lambres",
+      "lat": 50.6169,
+      "lon": 2.406,
+      "population": 1070
+    },
+    {
+      "insee": "62487",
+      "nom": "Landrethun-le-Nord",
+      "lat": 50.8496,
+      "lon": 1.7794,
+      "population": 1242
+    },
+    {
+      "insee": "62488",
+      "nom": "Landrethun-lès-Ardres",
+      "lat": 50.8137,
+      "lon": 1.9636,
+      "population": 787
+    },
+    {
+      "insee": "62489",
+      "nom": "Lapugnoy",
+      "lat": 50.52,
+      "lon": 2.533,
+      "population": 3481
+    },
+    {
+      "insee": "62490",
+      "nom": "Lattre-Saint-Quentin",
+      "lat": 50.2965,
+      "lon": 2.5715,
+      "population": 341
+    },
+    {
+      "insee": "62491",
+      "nom": "Laventie",
+      "lat": 50.6094,
+      "lon": 2.7884,
+      "population": 5044
+    },
+    {
+      "insee": "62647",
+      "nom": "Le Parcq",
+      "lat": 50.3806,
+      "lon": 2.0805,
+      "population": 740
+    },
+    {
+      "insee": "62665",
+      "nom": "Le Ponchel",
+      "lat": 50.2566,
+      "lon": 2.0883,
+      "population": 216
+    },
+    {
+      "insee": "62667",
+      "nom": "Le Portel",
+      "lat": 50.7159,
+      "lon": 1.5758,
+      "population": 8768
+    },
+    {
+      "insee": "62677",
+      "nom": "Le Quesnoy-en-Artois",
+      "lat": 50.3333,
+      "lon": 2.0371,
+      "population": 320
+    },
+    {
+      "insee": "62777",
+      "nom": "Le Sars",
+      "lat": 50.0657,
+      "lon": 2.7831,
+      "population": 153
+    },
+    {
+      "insee": "62802",
+      "nom": "Le Souich",
+      "lat": 50.2212,
+      "lon": 2.3593,
+      "population": 197
+    },
+    {
+      "insee": "62826",
+      "nom": "Le Touquet-Paris-Plage",
+      "lat": 50.512,
+      "lon": 1.6055,
+      "population": 4224
+    },
+    {
+      "insee": "62829",
+      "nom": "Le Transloy",
+      "lat": 50.0518,
+      "lon": 2.8926,
+      "population": 422
+    },
+    {
+      "insee": "62880",
+      "nom": "Le Wast",
+      "lat": 50.7503,
+      "lon": 1.7979,
+      "population": 203
+    },
+    {
+      "insee": "62492",
+      "nom": "Lebiez",
+      "lat": 50.4619,
+      "lon": 1.9787,
+      "population": 229
+    },
+    {
+      "insee": "62493",
+      "nom": "Lebucquière",
+      "lat": 50.1087,
+      "lon": 2.9547,
+      "population": 232
+    },
+    {
+      "insee": "62494",
+      "nom": "Léchelle",
+      "lat": 50.0545,
+      "lon": 2.978,
+      "population": 44
+    },
+    {
+      "insee": "62495",
+      "nom": "Ledinghem",
+      "lat": 50.6459,
+      "lon": 1.9723,
+      "population": 316
+    },
+    {
+      "insee": "62496",
+      "nom": "Lefaux",
+      "lat": 50.5497,
+      "lon": 1.6519,
+      "population": 229
+    },
+    {
+      "insee": "62497",
+      "nom": "Leforest",
+      "lat": 50.4406,
+      "lon": 3.0588,
+      "population": 7060
+    },
+    {
+      "insee": "62498",
+      "nom": "Lens",
+      "lat": 50.4395,
+      "lon": 2.8191,
+      "population": 32920
+    },
+    {
+      "insee": "62499",
+      "nom": "Lépine",
+      "lat": 50.3849,
+      "lon": 1.7279,
+      "population": 291
+    },
+    {
+      "insee": "62043",
+      "nom": "Les Attaques",
+      "lat": 50.9002,
+      "lon": 1.9329,
+      "population": 2064
+    },
+    {
+      "insee": "62500",
+      "nom": "Lespesses",
+      "lat": 50.5533,
+      "lon": 2.422,
+      "population": 402
+    },
+    {
+      "insee": "62501",
+      "nom": "Lespinoy",
+      "lat": 50.4271,
+      "lon": 1.8621,
+      "population": 243
+    },
+    {
+      "insee": "62502",
+      "nom": "Lestrem",
+      "lat": 50.6117,
+      "lon": 2.6783,
+      "population": 5009
+    },
+    {
+      "insee": "62503",
+      "nom": "Leubringhen",
+      "lat": 50.8536,
+      "lon": 1.7306,
+      "population": 293
+    },
+    {
+      "insee": "62504",
+      "nom": "Leulinghem",
+      "lat": 50.7354,
+      "lon": 2.1712,
+      "population": 269
+    },
+    {
+      "insee": "62505",
+      "nom": "Leulinghen-Bernes",
+      "lat": 50.8358,
+      "lon": 1.7137,
+      "population": 540
+    },
+    {
+      "insee": "62907",
+      "nom": "Libercourt",
+      "lat": 50.4835,
+      "lon": 3.0031,
+      "population": 7973
+    },
+    {
+      "insee": "62506",
+      "nom": "Licques",
+      "lat": 50.7962,
+      "lon": 1.9296,
+      "population": 1679
+    },
+    {
+      "insee": "62507",
+      "nom": "Liencourt",
+      "lat": 50.2733,
+      "lon": 2.4469,
+      "population": 303
+    },
+    {
+      "insee": "62508",
+      "nom": "Lières",
+      "lat": 50.5489,
+      "lon": 2.412,
+      "population": 335
+    },
+    {
+      "insee": "62509",
+      "nom": "Liettres",
+      "lat": 50.5961,
+      "lon": 2.3392,
+      "population": 378
+    },
+    {
+      "insee": "62510",
+      "nom": "Liévin",
+      "lat": 50.4231,
+      "lon": 2.7702,
+      "population": 30063
+    },
+    {
+      "insee": "62511",
+      "nom": "Lignereuil",
+      "lat": 50.292,
+      "lon": 2.4727,
+      "population": 140
+    },
+    {
+      "insee": "62512",
+      "nom": "Ligny-lès-Aire",
+      "lat": 50.5633,
+      "lon": 2.3414,
+      "population": 565
+    },
+    {
+      "insee": "62514",
+      "nom": "Ligny-Saint-Flochel",
+      "lat": 50.3599,
+      "lon": 2.4244,
+      "population": 235
+    },
+    {
+      "insee": "62513",
+      "nom": "Ligny-sur-Canche",
+      "lat": 50.2828,
+      "lon": 2.2584,
+      "population": 188
+    },
+    {
+      "insee": "62515",
+      "nom": "Ligny-Thilloy",
+      "lat": 50.078,
+      "lon": 2.8284,
+      "population": 514
+    },
+    {
+      "insee": "62516",
+      "nom": "Lillers",
+      "lat": 50.5622,
+      "lon": 2.4824,
+      "population": 10193
+    },
+    {
+      "insee": "62517",
+      "nom": "Linghem",
+      "lat": 50.591,
+      "lon": 2.3721,
+      "population": 219
+    },
+    {
+      "insee": "62518",
+      "nom": "Linzeux",
+      "lat": 50.343,
+      "lon": 2.204,
+      "population": 174
+    },
+    {
+      "insee": "62519",
+      "nom": "Lisbourg",
+      "lat": 50.5096,
+      "lon": 2.2269,
+      "population": 582
+    },
+    {
+      "insee": "62520",
+      "nom": "Locon",
+      "lat": 50.5711,
+      "lon": 2.6703,
+      "population": 2324
+    },
+    {
+      "insee": "62523",
+      "nom": "Loison-sous-Lens",
+      "lat": 50.4458,
+      "lon": 2.8625,
+      "population": 5169
+    },
+    {
+      "insee": "62522",
+      "nom": "Loison-sur-Créquoise",
+      "lat": 50.4482,
+      "lon": 1.9232,
+      "population": 252
+    },
+    {
+      "insee": "62524",
+      "nom": "Longfossé",
+      "lat": 50.6541,
+      "lon": 1.815,
+      "population": 1528
+    },
+    {
+      "insee": "62525",
+      "nom": "Longuenesse",
+      "lat": 50.7348,
+      "lon": 2.2481,
+      "population": 10548
+    },
+    {
+      "insee": "62526",
+      "nom": "Longueville",
+      "lat": 50.7281,
+      "lon": 1.8811,
+      "population": 149
+    },
+    {
+      "insee": "62527",
+      "nom": "Longvilliers",
+      "lat": 50.5339,
+      "lon": 1.7406,
+      "population": 253
+    },
+    {
+      "insee": "62528",
+      "nom": "Loos-en-Gohelle",
+      "lat": 50.4584,
+      "lon": 2.7865,
+      "population": 6799
+    },
+    {
+      "insee": "62529",
+      "nom": "Lorgies",
+      "lat": 50.5663,
+      "lon": 2.796,
+      "population": 1651
+    },
+    {
+      "insee": "62530",
+      "nom": "Lottinghen",
+      "lat": 50.6734,
+      "lon": 1.935,
+      "population": 544
+    },
+    {
+      "insee": "62531",
+      "nom": "Louches",
+      "lat": 50.8286,
+      "lon": 1.9978,
+      "population": 947
+    },
+    {
+      "insee": "62532",
+      "nom": "Lozinghem",
+      "lat": 50.5168,
+      "lon": 2.4947,
+      "population": 1256
+    },
+    {
+      "insee": "62533",
+      "nom": "Lugy",
+      "lat": 50.5209,
+      "lon": 2.1733,
+      "population": 140
+    },
+    {
+      "insee": "62534",
+      "nom": "Lumbres",
+      "lat": 50.7059,
+      "lon": 2.1169,
+      "population": 3579
+    },
+    {
+      "insee": "62536",
+      "nom": "Magnicourt-en-Comte",
+      "lat": 50.4026,
+      "lon": 2.4815,
+      "population": 647
+    },
+    {
+      "insee": "62537",
+      "nom": "Magnicourt-sur-Canche",
+      "lat": 50.2971,
+      "lon": 2.4136,
+      "population": 105
+    },
+    {
+      "insee": "62538",
+      "nom": "Maintenay",
+      "lat": 50.3707,
+      "lon": 1.819,
+      "population": 451
+    },
+    {
+      "insee": "62539",
+      "nom": "Maisnil",
+      "lat": 50.3487,
+      "lon": 2.3624,
+      "population": 266
+    },
+    {
+      "insee": "62540",
+      "nom": "Maisnil-lès-Ruitz",
+      "lat": 50.4471,
+      "lon": 2.5784,
+      "population": 1678
+    },
+    {
+      "insee": "62541",
+      "nom": "Maisoncelle",
+      "lat": 50.4498,
+      "lon": 2.1496,
+      "population": 119
+    },
+    {
+      "insee": "62542",
+      "nom": "Maizières",
+      "lat": 50.3217,
+      "lon": 2.4406,
+      "population": 205
+    },
+    {
+      "insee": "62543",
+      "nom": "Mametz",
+      "lat": 50.6271,
+      "lon": 2.3072,
+      "population": 1973
+    },
+    {
+      "insee": "62544",
+      "nom": "Manin",
+      "lat": 50.2984,
+      "lon": 2.5054,
+      "population": 182
+    },
+    {
+      "insee": "62545",
+      "nom": "Maninghem",
+      "lat": 50.5477,
+      "lon": 1.9393,
+      "population": 152
+    },
+    {
+      "insee": "62546",
+      "nom": "Maninghen-Henne",
+      "lat": 50.7701,
+      "lon": 1.6737,
+      "population": 336
+    },
+    {
+      "insee": "62547",
+      "nom": "Marant",
+      "lat": 50.4726,
+      "lon": 1.842,
+      "population": 73
+    },
+    {
+      "insee": "62548",
+      "nom": "Marck",
+      "lat": 50.9514,
+      "lon": 1.9516,
+      "population": 10467
+    },
+    {
+      "insee": "62550",
+      "nom": "Marconnelle",
+      "lat": 50.3691,
+      "lon": 2.0059,
+      "population": 1090
+    },
+    {
+      "insee": "62551",
+      "nom": "Marenla",
+      "lat": 50.4509,
+      "lon": 1.8678,
+      "population": 283
+    },
+    {
+      "insee": "62552",
+      "nom": "Maresquel-Ecquemicourt",
+      "lat": 50.4001,
+      "lon": 1.938,
+      "population": 1070
+    },
+    {
+      "insee": "62553",
+      "nom": "Marest",
+      "lat": 50.4682,
+      "lon": 2.4183,
+      "population": 279
+    },
+    {
+      "insee": "62554",
+      "nom": "Maresville",
+      "lat": 50.5246,
+      "lon": 1.7317,
+      "population": 93
+    },
+    {
+      "insee": "62555",
+      "nom": "Marles-les-Mines",
+      "lat": 50.5026,
+      "lon": 2.5074,
+      "population": 5411
+    },
+    {
+      "insee": "62556",
+      "nom": "Marles-sur-Canche",
+      "lat": 50.465,
+      "lon": 1.8213,
+      "population": 314
+    },
+    {
+      "insee": "62557",
+      "nom": "Marœuil",
+      "lat": 50.3321,
+      "lon": 2.7034,
+      "population": 2422
+    },
+    {
+      "insee": "62558",
+      "nom": "Marquay",
+      "lat": 50.3791,
+      "lon": 2.4252,
+      "population": 166
+    },
+    {
+      "insee": "62559",
+      "nom": "Marquion",
+      "lat": 50.2062,
+      "lon": 3.1005,
+      "population": 1039
+    },
+    {
+      "insee": "62560",
+      "nom": "Marquise",
+      "lat": 50.8119,
+      "lon": 1.6892,
+      "population": 5217
+    },
+    {
+      "insee": "62561",
+      "nom": "Martinpuich",
+      "lat": 50.0513,
+      "lon": 2.769,
+      "population": 173
+    },
+    {
+      "insee": "62562",
+      "nom": "Matringhem",
+      "lat": 50.5441,
+      "lon": 2.1681,
+      "population": 177
+    },
+    {
+      "insee": "62563",
+      "nom": "Mazingarbe",
+      "lat": 50.4698,
+      "lon": 2.7263,
+      "population": 8217
+    },
+    {
+      "insee": "62564",
+      "nom": "Mazinghem",
+      "lat": 50.6058,
+      "lon": 2.4115,
+      "population": 457
+    },
+    {
+      "insee": "62565",
+      "nom": "Mencas",
+      "lat": 50.557,
+      "lon": 2.1446,
+      "population": 71
+    },
+    {
+      "insee": "62566",
+      "nom": "Menneville",
+      "lat": 50.6726,
+      "lon": 1.8585,
+      "population": 670
+    },
+    {
+      "insee": "62567",
+      "nom": "Mentque-Nortbécourt",
+      "lat": 50.772,
+      "lon": 2.0965,
+      "population": 649
+    },
+    {
+      "insee": "62568",
+      "nom": "Mercatel",
+      "lat": 50.2363,
+      "lon": 2.788,
+      "population": 730
+    },
+    {
+      "insee": "62569",
+      "nom": "Merck-Saint-Liévin",
+      "lat": 50.6373,
+      "lon": 2.1049,
+      "population": 655
+    },
+    {
+      "insee": "62570",
+      "nom": "Méricourt",
+      "lat": 50.3994,
+      "lon": 2.8679,
+      "population": 11619
+    },
+    {
+      "insee": "62571",
+      "nom": "Merlimont",
+      "lat": 50.4525,
+      "lon": 1.6099,
+      "population": 3342
+    },
+    {
+      "insee": "62572",
+      "nom": "Metz-en-Couture",
+      "lat": 50.0607,
+      "lon": 3.0629,
+      "population": 620
+    },
+    {
+      "insee": "62573",
+      "nom": "Meurchin",
+      "lat": 50.495,
+      "lon": 2.8972,
+      "population": 3691
+    },
+    {
+      "insee": "62574",
+      "nom": "Mingoval",
+      "lat": 50.3749,
+      "lon": 2.5683,
+      "population": 228
+    },
+    {
+      "insee": "62576",
+      "nom": "Moncheaux-lès-Frévent",
+      "lat": 50.3155,
+      "lon": 2.3646,
+      "population": 133
+    },
+    {
+      "insee": "62577",
+      "nom": "Monchel-sur-Canche",
+      "lat": 50.3016,
+      "lon": 2.2204,
+      "population": 71
+    },
+    {
+      "insee": "62578",
+      "nom": "Monchiet",
+      "lat": 50.2386,
+      "lon": 2.6229,
+      "population": 104
+    },
+    {
+      "insee": "62579",
+      "nom": "Monchy-au-Bois",
+      "lat": 50.179,
+      "lon": 2.657,
+      "population": 545
+    },
+    {
+      "insee": "62580",
+      "nom": "Monchy-Breton",
+      "lat": 50.3979,
+      "lon": 2.4349,
+      "population": 512
+    },
+    {
+      "insee": "62581",
+      "nom": "Monchy-Cayeux",
+      "lat": 50.4343,
+      "lon": 2.2799,
+      "population": 285
+    },
+    {
+      "insee": "62582",
+      "nom": "Monchy-le-Preux",
+      "lat": 50.2669,
+      "lon": 2.8928,
+      "population": 679
+    },
+    {
+      "insee": "62583",
+      "nom": "Mondicourt",
+      "lat": 50.1742,
+      "lon": 2.467,
+      "population": 600
+    },
+    {
+      "insee": "62584",
+      "nom": "Mont-Bernanchon",
+      "lat": 50.5888,
+      "lon": 2.5969,
+      "population": 1317
+    },
+    {
+      "insee": "62589",
+      "nom": "Mont-Saint-Éloi",
+      "lat": 50.3491,
+      "lon": 2.6912,
+      "population": 1022
+    },
+    {
+      "insee": "62585",
+      "nom": "Montcavrel",
+      "lat": 50.5204,
+      "lon": 1.8205,
+      "population": 384
+    },
+    {
+      "insee": "62586",
+      "nom": "Montenescourt",
+      "lat": 50.2952,
+      "lon": 2.6285,
+      "population": 443
+    },
+    {
+      "insee": "62587",
+      "nom": "Montigny-en-Gohelle",
+      "lat": 50.4265,
+      "lon": 2.9309,
+      "population": 9743
+    },
+    {
+      "insee": "62588",
+      "nom": "Montreuil-sur-Mer",
+      "lat": 50.4654,
+      "lon": 1.777,
+      "population": 1912
+    },
+    {
+      "insee": "62590",
+      "nom": "Monts-en-Ternois",
+      "lat": 50.3193,
+      "lon": 2.3861,
+      "population": 62
+    },
+    {
+      "insee": "62591",
+      "nom": "Morchies",
+      "lat": 50.1367,
+      "lon": 2.957,
+      "population": 210
+    },
+    {
+      "insee": "62592",
+      "nom": "Moringhem",
+      "lat": 50.7651,
+      "lon": 2.118,
+      "population": 557
+    },
+    {
+      "insee": "62593",
+      "nom": "Morval",
+      "lat": 50.0281,
+      "lon": 2.8668,
+      "population": 87
+    },
+    {
+      "insee": "62594",
+      "nom": "Mory",
+      "lat": 50.1562,
+      "lon": 2.8578,
+      "population": 299
+    },
+    {
+      "insee": "62595",
+      "nom": "Moulle",
+      "lat": 50.7914,
+      "lon": 2.1721,
+      "population": 1170
+    },
+    {
+      "insee": "62596",
+      "nom": "Mouriez",
+      "lat": 50.3458,
+      "lon": 1.954,
+      "population": 237
+    },
+    {
+      "insee": "62597",
+      "nom": "Moyenneville",
+      "lat": 50.1813,
+      "lon": 2.7692,
+      "population": 289
+    },
+    {
+      "insee": "62598",
+      "nom": "Muncq-Nieurlet",
+      "lat": 50.8432,
+      "lon": 2.1165,
+      "population": 673
+    },
+    {
+      "insee": "62599",
+      "nom": "Nabringhen",
+      "lat": 50.7428,
+      "lon": 1.8612,
+      "population": 225
+    },
+    {
+      "insee": "62600",
+      "nom": "Nédon",
+      "lat": 50.5216,
+      "lon": 2.3641,
+      "population": 158
+    },
+    {
+      "insee": "62601",
+      "nom": "Nédonchel",
+      "lat": 50.5283,
+      "lon": 2.3535,
+      "population": 357
+    },
+    {
+      "insee": "62602",
+      "nom": "Nempont-Saint-Firmin",
+      "lat": 50.3615,
+      "lon": 1.7465,
+      "population": 200
+    },
+    {
+      "insee": "62603",
+      "nom": "Nesles",
+      "lat": 50.6206,
+      "lon": 1.6589,
+      "population": 1095
+    },
+    {
+      "insee": "62604",
+      "nom": "Neufchâtel-Hardelot",
+      "lat": 50.6164,
+      "lon": 1.6221,
+      "population": 4115
+    },
+    {
+      "insee": "62605",
+      "nom": "Neulette",
+      "lat": 50.3819,
+      "lon": 2.1674,
+      "population": 22
+    },
+    {
+      "insee": "62606",
+      "nom": "Neuve-Chapelle",
+      "lat": 50.5855,
+      "lon": 2.7807,
+      "population": 1409
+    },
+    {
+      "insee": "62607",
+      "nom": "Neuville-au-Cornet",
+      "lat": 50.3346,
+      "lon": 2.3692,
+      "population": 59
+    },
+    {
+      "insee": "62608",
+      "nom": "Neuville-Bourjonval",
+      "lat": 50.0687,
+      "lon": 3.0239,
+      "population": 171
+    },
+    {
+      "insee": "62609",
+      "nom": "Neuville-Saint-Vaast",
+      "lat": 50.3566,
+      "lon": 2.754,
+      "population": 1628
+    },
+    {
+      "insee": "62610",
+      "nom": "Neuville-sous-Montreuil",
+      "lat": 50.4785,
+      "lon": 1.7924,
+      "population": 618
+    },
+    {
+      "insee": "62611",
+      "nom": "Neuville-Vitasse",
+      "lat": 50.2481,
+      "lon": 2.8204,
+      "population": 481
+    },
+    {
+      "insee": "62612",
+      "nom": "Neuvireuil",
+      "lat": 50.3536,
+      "lon": 2.9153,
+      "population": 570
+    },
+    {
+      "insee": "62614",
+      "nom": "Nielles-lès-Ardres",
+      "lat": 50.8514,
+      "lon": 2.0068,
+      "population": 577
+    },
+    {
+      "insee": "62613",
+      "nom": "Nielles-lès-Bléquin",
+      "lat": 50.6753,
+      "lon": 2.0246,
+      "population": 902
+    },
+    {
+      "insee": "62615",
+      "nom": "Nielles-lès-Calais",
+      "lat": 50.9048,
+      "lon": 1.8334,
+      "population": 280
+    },
+    {
+      "insee": "62616",
+      "nom": "Nœux-lès-Auxi",
+      "lat": 50.2411,
+      "lon": 2.1826,
+      "population": 186
+    },
+    {
+      "insee": "62617",
+      "nom": "Nœux-les-Mines",
+      "lat": 50.4757,
+      "lon": 2.6645,
+      "population": 11590
+    },
+    {
+      "insee": "62618",
+      "nom": "Nordausques",
+      "lat": 50.8157,
+      "lon": 2.0837,
+      "population": 1271
+    },
+    {
+      "insee": "62619",
+      "nom": "Noreuil",
+      "lat": 50.1689,
+      "lon": 2.9398,
+      "population": 130
+    },
+    {
+      "insee": "62620",
+      "nom": "Norrent-Fontes",
+      "lat": 50.5899,
+      "lon": 2.4096,
+      "population": 1381
+    },
+    {
+      "insee": "62622",
+      "nom": "Nort-Leulinghem",
+      "lat": 50.7957,
+      "lon": 2.0889,
+      "population": 261
+    },
+    {
+      "insee": "62621",
+      "nom": "Nortkerque",
+      "lat": 50.8773,
+      "lon": 2.0334,
+      "population": 1756
+    },
+    {
+      "insee": "62623",
+      "nom": "Nouvelle-Église",
+      "lat": 50.9317,
+      "lon": 2.0439,
+      "population": 709
+    },
+    {
+      "insee": "62630",
+      "nom": "Noyelle-Vion",
+      "lat": 50.2912,
+      "lon": 2.5456,
+      "population": 256
+    },
+    {
+      "insee": "62624",
+      "nom": "Noyelles-Godault",
+      "lat": 50.4177,
+      "lon": 2.9963,
+      "population": 5994
+    },
+    {
+      "insee": "62625",
+      "nom": "Noyelles-lès-Humières",
+      "lat": 50.3762,
+      "lon": 2.1772,
+      "population": 56
+    },
+    {
+      "insee": "62626",
+      "nom": "Noyelles-lès-Vermelles",
+      "lat": 50.4919,
+      "lon": 2.7275,
+      "population": 2273
+    },
+    {
+      "insee": "62627",
+      "nom": "Noyelles-sous-Bellonne",
+      "lat": 50.3099,
+      "lon": 3.022,
+      "population": 848
+    },
+    {
+      "insee": "62628",
+      "nom": "Noyelles-sous-Lens",
+      "lat": 50.4295,
+      "lon": 2.8764,
+      "population": 6854
+    },
+    {
+      "insee": "62629",
+      "nom": "Noyellette",
+      "lat": 50.2974,
+      "lon": 2.5911,
+      "population": 154
+    },
+    {
+      "insee": "62631",
+      "nom": "Nuncq-Hautecôte",
+      "lat": 50.3071,
+      "lon": 2.2864,
+      "population": 471
+    },
+    {
+      "insee": "62632",
+      "nom": "Oblinghem",
+      "lat": 50.5511,
+      "lon": 2.5932,
+      "population": 384
+    },
+    {
+      "insee": "62633",
+      "nom": "Œuf-en-Ternois",
+      "lat": 50.3623,
+      "lon": 2.2156,
+      "population": 251
+    },
+    {
+      "insee": "62634",
+      "nom": "Offekerque",
+      "lat": 50.9265,
+      "lon": 2.0198,
+      "population": 1291
+    },
+    {
+      "insee": "62635",
+      "nom": "Offin",
+      "lat": 50.4438,
+      "lon": 1.9532,
+      "population": 210
+    },
+    {
+      "insee": "62636",
+      "nom": "Offrethun",
+      "lat": 50.7855,
+      "lon": 1.6997,
+      "population": 276
+    },
+    {
+      "insee": "62637",
+      "nom": "Oignies",
+      "lat": 50.4636,
+      "lon": 2.9917,
+      "population": 10323
+    },
+    {
+      "insee": "62638",
+      "nom": "Oisy-le-Verger",
+      "lat": 50.2494,
+      "lon": 3.1147,
+      "population": 1213
+    },
+    {
+      "insee": "62639",
+      "nom": "Oppy",
+      "lat": 50.3486,
+      "lon": 2.89,
+      "population": 418
+    },
+    {
+      "insee": "62640",
+      "nom": "Orville",
+      "lat": 50.1277,
+      "lon": 2.4206,
+      "population": 341
+    },
+    {
+      "insee": "62641",
+      "nom": "Ostreville",
+      "lat": 50.3941,
+      "lon": 2.399,
+      "population": 227
+    },
+    {
+      "insee": "62642",
+      "nom": "Ourton",
+      "lat": 50.4559,
+      "lon": 2.4705,
+      "population": 719
+    },
+    {
+      "insee": "62643",
+      "nom": "Outreau",
+      "lat": 50.6975,
+      "lon": 1.5911,
+      "population": 13138
+    },
+    {
+      "insee": "62644",
+      "nom": "Ouve-Wirquin",
+      "lat": 50.6537,
+      "lon": 2.1426,
+      "population": 493
+    },
+    {
+      "insee": "62645",
+      "nom": "Oye-Plage",
+      "lat": 50.9821,
+      "lon": 2.0414,
+      "population": 5780
+    },
+    {
+      "insee": "62646",
+      "nom": "Palluel",
+      "lat": 50.2612,
+      "lon": 3.0918,
+      "population": 566
+    },
+    {
+      "insee": "62648",
+      "nom": "Parenty",
+      "lat": 50.5955,
+      "lon": 1.7992,
+      "population": 559
+    },
+    {
+      "insee": "62649",
+      "nom": "Pas-en-Artois",
+      "lat": 50.1532,
+      "lon": 2.4899,
+      "population": 768
+    },
+    {
+      "insee": "62650",
+      "nom": "Pelves",
+      "lat": 50.2878,
+      "lon": 2.9174,
+      "population": 770
+    },
+    {
+      "insee": "62651",
+      "nom": "Penin",
+      "lat": 50.3318,
+      "lon": 2.4886,
+      "population": 458
+    },
+    {
+      "insee": "62652",
+      "nom": "Pernes",
+      "lat": 50.4864,
+      "lon": 2.4056,
+      "population": 1574
+    },
+    {
+      "insee": "62653",
+      "nom": "Pernes-lès-Boulogne",
+      "lat": 50.7496,
+      "lon": 1.6981,
+      "population": 422
+    },
+    {
+      "insee": "62654",
+      "nom": "Peuplingues",
+      "lat": 50.9117,
+      "lon": 1.764,
+      "population": 789
+    },
+    {
+      "insee": "62655",
+      "nom": "Pierremont",
+      "lat": 50.3994,
+      "lon": 2.2573,
+      "population": 325
+    },
+    {
+      "insee": "62656",
+      "nom": "Pihem",
+      "lat": 50.675,
+      "lon": 2.2125,
+      "population": 919
+    },
+    {
+      "insee": "62657",
+      "nom": "Pihen-lès-Guînes",
+      "lat": 50.8728,
+      "lon": 1.7904,
+      "population": 545
+    },
+    {
+      "insee": "62658",
+      "nom": "Pittefaux",
+      "lat": 50.7625,
+      "lon": 1.6844,
+      "population": 114
+    },
+    {
+      "insee": "62659",
+      "nom": "Planques",
+      "lat": 50.4674,
+      "lon": 2.0916,
+      "population": 104
+    },
+    {
+      "insee": "62660",
+      "nom": "Plouvain",
+      "lat": 50.306,
+      "lon": 2.9159,
+      "population": 452
+    },
+    {
+      "insee": "62662",
+      "nom": "Polincove",
+      "lat": 50.863,
+      "lon": 2.1075,
+      "population": 867
+    },
+    {
+      "insee": "62663",
+      "nom": "Pommera",
+      "lat": 50.1671,
+      "lon": 2.4392,
+      "population": 307
+    },
+    {
+      "insee": "62664",
+      "nom": "Pommier",
+      "lat": 50.1821,
+      "lon": 2.5962,
+      "population": 244
+    },
+    {
+      "insee": "62666",
+      "nom": "Pont-à-Vendin",
+      "lat": 50.4771,
+      "lon": 2.8865,
+      "population": 3062
+    },
+    {
+      "insee": "62668",
+      "nom": "Prédefin",
+      "lat": 50.5058,
+      "lon": 2.2591,
+      "population": 227
+    },
+    {
+      "insee": "62669",
+      "nom": "Pressy",
+      "lat": 50.4735,
+      "lon": 2.3909,
+      "population": 298
+    },
+    {
+      "insee": "62670",
+      "nom": "Preures",
+      "lat": 50.5728,
+      "lon": 1.8859,
+      "population": 642
+    },
+    {
+      "insee": "62671",
+      "nom": "Pronville-en-Artois",
+      "lat": 50.1667,
+      "lon": 3.0079,
+      "population": 307
+    },
+    {
+      "insee": "62672",
+      "nom": "Puisieux",
+      "lat": 50.1042,
+      "lon": 2.6877,
+      "population": 675
+    },
+    {
+      "insee": "62673",
+      "nom": "Quéant",
+      "lat": 50.1723,
+      "lon": 2.9851,
+      "population": 631
+    },
+    {
+      "insee": "62674",
+      "nom": "Quelmes",
+      "lat": 50.7344,
+      "lon": 2.1224,
+      "population": 529
+    },
+    {
+      "insee": "62675",
+      "nom": "Quercamps",
+      "lat": 50.7516,
+      "lon": 2.0423,
+      "population": 292
+    },
+    {
+      "insee": "62676",
+      "nom": "Quernes",
+      "lat": 50.6018,
+      "lon": 2.3681,
+      "population": 420
+    },
+    {
+      "insee": "62678",
+      "nom": "Quesques",
+      "lat": 50.7022,
+      "lon": 1.9433,
+      "population": 720
+    },
+    {
+      "insee": "62679",
+      "nom": "Questrecques",
+      "lat": 50.6647,
+      "lon": 1.7491,
+      "population": 333
+    },
+    {
+      "insee": "62680",
+      "nom": "Quiéry-la-Motte",
+      "lat": 50.3656,
+      "lon": 2.9836,
+      "population": 702
+    },
+    {
+      "insee": "62681",
+      "nom": "Quiestède",
+      "lat": 50.6785,
+      "lon": 2.3303,
+      "population": 663
+    },
+    {
+      "insee": "62682",
+      "nom": "Quilen",
+      "lat": 50.5287,
+      "lon": 1.9344,
+      "population": 64
+    },
+    {
+      "insee": "62683",
+      "nom": "Quœux-Haut-Maînil",
+      "lat": 50.3016,
+      "lon": 2.1067,
+      "population": 210
+    },
+    {
+      "insee": "62684",
+      "nom": "Racquinghem",
+      "lat": 50.6968,
+      "lon": 2.3598,
+      "population": 2257
+    },
+    {
+      "insee": "62685",
+      "nom": "Radinghem",
+      "lat": 50.5469,
+      "lon": 2.1173,
+      "population": 263
+    },
+    {
+      "insee": "62686",
+      "nom": "Ramecourt",
+      "lat": 50.3611,
+      "lon": 2.3063,
+      "population": 349
+    },
+    {
+      "insee": "62688",
+      "nom": "Rang-du-Fliers",
+      "lat": 50.4209,
+      "lon": 1.6454,
+      "population": 4297
+    },
+    {
+      "insee": "62689",
+      "nom": "Ransart",
+      "lat": 50.2045,
+      "lon": 2.6747,
+      "population": 407
+    },
+    {
+      "insee": "62690",
+      "nom": "Raye-sur-Authie",
+      "lat": 50.3032,
+      "lon": 1.956,
+      "population": 227
+    },
+    {
+      "insee": "62692",
+      "nom": "Rebergues",
+      "lat": 50.7526,
+      "lon": 1.9527,
+      "population": 403
+    },
+    {
+      "insee": "62693",
+      "nom": "Rebreuve-Ranchicourt",
+      "lat": 50.4325,
+      "lon": 2.5526,
+      "population": 1071
+    },
+    {
+      "insee": "62694",
+      "nom": "Rebreuve-sur-Canche",
+      "lat": 50.2655,
+      "lon": 2.3404,
+      "population": 190
+    },
+    {
+      "insee": "62695",
+      "nom": "Rebreuviette",
+      "lat": 50.2601,
+      "lon": 2.3621,
+      "population": 253
+    },
+    {
+      "insee": "62696",
+      "nom": "Reclinghem",
+      "lat": 50.575,
+      "lon": 2.1741,
+      "population": 238
+    },
+    {
+      "insee": "62697",
+      "nom": "Récourt",
+      "lat": 50.2589,
+      "lon": 3.027,
+      "population": 318
+    },
+    {
+      "insee": "62698",
+      "nom": "Recques-sur-Course",
+      "lat": 50.5183,
+      "lon": 1.7761,
+      "population": 266
+    },
+    {
+      "insee": "62699",
+      "nom": "Recques-sur-Hem",
+      "lat": 50.8357,
+      "lon": 2.083,
+      "population": 675
+    },
+    {
+      "insee": "62700",
+      "nom": "Regnauville",
+      "lat": 50.3159,
+      "lon": 2.0003,
+      "population": 213
+    },
+    {
+      "insee": "62701",
+      "nom": "Rely",
+      "lat": 50.5759,
+      "lon": 2.3607,
+      "population": 464
+    },
+    {
+      "insee": "62702",
+      "nom": "Remilly-Wirquin",
+      "lat": 50.6689,
+      "lon": 2.1741,
+      "population": 355
+    },
+    {
+      "insee": "62703",
+      "nom": "Rémy",
+      "lat": 50.2573,
+      "lon": 2.9591,
+      "population": 394
+    },
+    {
+      "insee": "62704",
+      "nom": "Renty",
+      "lat": 50.5771,
+      "lon": 2.0677,
+      "population": 596
+    },
+    {
+      "insee": "62705",
+      "nom": "Rety",
+      "lat": 50.7932,
+      "lon": 1.7822,
+      "population": 2032
+    },
+    {
+      "insee": "62706",
+      "nom": "Richebourg",
+      "lat": 50.5822,
+      "lon": 2.7505,
+      "population": 2687
+    },
+    {
+      "insee": "62708",
+      "nom": "Riencourt-lès-Bapaume",
+      "lat": 50.0886,
+      "lon": 2.8815,
+      "population": 33
+    },
+    {
+      "insee": "62709",
+      "nom": "Riencourt-lès-Cagnicourt",
+      "lat": 50.1936,
+      "lon": 2.9624,
+      "population": 253
+    },
+    {
+      "insee": "62710",
+      "nom": "Rimboval",
+      "lat": 50.5139,
+      "lon": 1.9878,
+      "population": 185
+    },
+    {
+      "insee": "62711",
+      "nom": "Rinxent",
+      "lat": 50.8064,
+      "lon": 1.7418,
+      "population": 2987
+    },
+    {
+      "insee": "62712",
+      "nom": "Rivière",
+      "lat": 50.232,
+      "lon": 2.6866,
+      "population": 1123
+    },
+    {
+      "insee": "62713",
+      "nom": "Robecq",
+      "lat": 50.5915,
+      "lon": 2.5532,
+      "population": 1328
+    },
+    {
+      "insee": "62714",
+      "nom": "Roclincourt",
+      "lat": 50.3319,
+      "lon": 2.7937,
+      "population": 794
+    },
+    {
+      "insee": "62715",
+      "nom": "Rocquigny",
+      "lat": 50.0557,
+      "lon": 2.9242,
+      "population": 265
+    },
+    {
+      "insee": "62716",
+      "nom": "Rodelinghem",
+      "lat": 50.8329,
+      "lon": 1.9304,
+      "population": 558
+    },
+    {
+      "insee": "62717",
+      "nom": "Roëllecourt",
+      "lat": 50.3704,
+      "lon": 2.3847,
+      "population": 516
+    },
+    {
+      "insee": "62718",
+      "nom": "Rœux",
+      "lat": 50.302,
+      "lon": 2.9016,
+      "population": 1381
+    },
+    {
+      "insee": "62719",
+      "nom": "Rollancourt",
+      "lat": 50.4079,
+      "lon": 2.1284,
+      "population": 293
+    },
+    {
+      "insee": "62720",
+      "nom": "Rombly",
+      "lat": 50.5946,
+      "lon": 2.3906,
+      "population": 53
+    },
+    {
+      "insee": "62721",
+      "nom": "Roquetoire",
+      "lat": 50.6685,
+      "lon": 2.3361,
+      "population": 1970
+    },
+    {
+      "insee": "62722",
+      "nom": "Rougefay",
+      "lat": 50.2764,
+      "lon": 2.1732,
+      "population": 83
+    },
+    {
+      "insee": "62723",
+      "nom": "Roussent",
+      "lat": 50.3738,
+      "lon": 1.7745,
+      "population": 251
+    },
+    {
+      "insee": "62724",
+      "nom": "Rouvroy",
+      "lat": 50.3982,
+      "lon": 2.9059,
+      "population": 8552
+    },
+    {
+      "insee": "62725",
+      "nom": "Royon",
+      "lat": 50.4751,
+      "lon": 1.9999,
+      "population": 121
+    },
+    {
+      "insee": "62726",
+      "nom": "Ruisseauville",
+      "lat": 50.4817,
+      "lon": 2.111,
+      "population": 214
+    },
+    {
+      "insee": "62727",
+      "nom": "Ruitz",
+      "lat": 50.4672,
+      "lon": 2.586,
+      "population": 1478
+    },
+    {
+      "insee": "62728",
+      "nom": "Rumaucourt",
+      "lat": 50.2383,
+      "lon": 3.0664,
+      "population": 691
+    },
+    {
+      "insee": "62729",
+      "nom": "Rumilly",
+      "lat": 50.5813,
+      "lon": 2.0166,
+      "population": 237
+    },
+    {
+      "insee": "62730",
+      "nom": "Ruminghem",
+      "lat": 50.856,
+      "lon": 2.1664,
+      "population": 1614
+    },
+    {
+      "insee": "62731",
+      "nom": "Ruyaulcourt",
+      "lat": 50.0824,
+      "lon": 3.0205,
+      "population": 285
+    },
+    {
+      "insee": "62732",
+      "nom": "Sachin",
+      "lat": 50.4931,
+      "lon": 2.3668,
+      "population": 323
+    },
+    {
+      "insee": "62733",
+      "nom": "Sailly-au-Bois",
+      "lat": 50.1223,
+      "lon": 2.6002,
+      "population": 285
+    },
+    {
+      "insee": "62734",
+      "nom": "Sailly-en-Ostrevent",
+      "lat": 50.286,
+      "lon": 2.9924,
+      "population": 665
+    },
+    {
+      "insee": "62735",
+      "nom": "Sailly-Labourse",
+      "lat": 50.4986,
+      "lon": 2.7048,
+      "population": 2493
+    },
+    {
+      "insee": "62736",
+      "nom": "Sailly-sur-la-Lys",
+      "lat": 50.6514,
+      "lon": 2.7937,
+      "population": 3981
+    },
+    {
+      "insee": "62737",
+      "nom": "Sains-en-Gohelle",
+      "lat": 50.4523,
+      "lon": 2.6832,
+      "population": 5948
+    },
+    {
+      "insee": "62738",
+      "nom": "Sains-lès-Fressin",
+      "lat": 50.4712,
+      "lon": 2.0506,
+      "population": 150
+    },
+    {
+      "insee": "62739",
+      "nom": "Sains-lès-Marquion",
+      "lat": 50.1863,
+      "lon": 3.0803,
+      "population": 310
+    },
+    {
+      "insee": "62740",
+      "nom": "Sains-lès-Pernes",
+      "lat": 50.4787,
+      "lon": 2.3515,
+      "population": 294
+    },
+    {
+      "insee": "62741",
+      "nom": "Saint-Amand",
+      "lat": 50.1716,
+      "lon": 2.5633,
+      "population": 122
+    },
+    {
+      "insee": "62742",
+      "nom": "Saint-Aubin",
+      "lat": 50.4562,
+      "lon": 1.6689,
+      "population": 289
+    },
+    {
+      "insee": "62691",
+      "nom": "Saint-Augustin",
+      "lat": 50.6498,
+      "lon": 2.2816,
+      "population": 880
+    },
+    {
+      "insee": "62745",
+      "nom": "Saint-Denœux",
+      "lat": 50.4765,
+      "lon": 1.9099,
+      "population": 173
+    },
+    {
+      "insee": "62746",
+      "nom": "Saint-Étienne-au-Mont",
+      "lat": 50.6656,
+      "lon": 1.6067,
+      "population": 5029
+    },
+    {
+      "insee": "62747",
+      "nom": "Saint-Floris",
+      "lat": 50.6249,
+      "lon": 2.5792,
+      "population": 618
+    },
+    {
+      "insee": "62748",
+      "nom": "Saint-Folquin",
+      "lat": 50.9369,
+      "lon": 2.1283,
+      "population": 2349
+    },
+    {
+      "insee": "62749",
+      "nom": "Saint-Georges",
+      "lat": 50.3525,
+      "lon": 2.0715,
+      "population": 318
+    },
+    {
+      "insee": "62750",
+      "nom": "Saint-Hilaire-Cottes",
+      "lat": 50.5658,
+      "lon": 2.3981,
+      "population": 830
+    },
+    {
+      "insee": "62751",
+      "nom": "Saint-Inglevert",
+      "lat": 50.8728,
+      "lon": 1.7378,
+      "population": 821
+    },
+    {
+      "insee": "62752",
+      "nom": "Saint-Josse",
+      "lat": 50.483,
+      "lon": 1.6641,
+      "population": 1041
+    },
+    {
+      "insee": "62753",
+      "nom": "Saint-Laurent-Blangy",
+      "lat": 50.3098,
+      "lon": 2.8079,
+      "population": 6459
+    },
+    {
+      "insee": "62754",
+      "nom": "Saint-Léger",
+      "lat": 50.1846,
+      "lon": 2.8504,
+      "population": 520
+    },
+    {
+      "insee": "62755",
+      "nom": "Saint-Léonard",
+      "lat": 50.6944,
+      "lon": 1.6215,
+      "population": 3353
+    },
+    {
+      "insee": "62758",
+      "nom": "Saint-Martin-Boulogne",
+      "lat": 50.7229,
+      "lon": 1.6468,
+      "population": 10888
+    },
+    {
+      "insee": "62759",
+      "nom": "Saint-Martin-Choquel",
+      "lat": 50.668,
+      "lon": 1.8883,
+      "population": 443
+    },
+    {
+      "insee": "62760",
+      "nom": "Saint-Martin-d'Hardinghem",
+      "lat": 50.6129,
+      "lon": 2.1015,
+      "population": 264
+    },
+    {
+      "insee": "62757",
+      "nom": "Saint-Martin-lez-Tatinghem",
+      "lat": 50.7497,
+      "lon": 2.2175,
+      "population": 5843
+    },
+    {
+      "insee": "62761",
+      "nom": "Saint-Martin-sur-Cojeul",
+      "lat": 50.2289,
+      "lon": 2.8531,
+      "population": 216
+    },
+    {
+      "insee": "62762",
+      "nom": "Saint-Michel-sous-Bois",
+      "lat": 50.518,
+      "lon": 1.9331,
+      "population": 131
+    },
+    {
+      "insee": "62763",
+      "nom": "Saint-Michel-sur-Ternoise",
+      "lat": 50.3755,
+      "lon": 2.3611,
+      "population": 826
+    },
+    {
+      "insee": "62764",
+      "nom": "Saint-Nicolas",
+      "lat": 50.3097,
+      "lon": 2.7852,
+      "population": 4494
+    },
+    {
+      "insee": "62765",
+      "nom": "Saint-Omer",
+      "lat": 50.7673,
+      "lon": 2.2648,
+      "population": 14382
+    },
+    {
+      "insee": "62766",
+      "nom": "Saint-Omer-Capelle",
+      "lat": 50.9399,
+      "lon": 2.0972,
+      "population": 1073
+    },
+    {
+      "insee": "62767",
+      "nom": "Saint-Pol-sur-Ternoise",
+      "lat": 50.3876,
+      "lon": 2.3517,
+      "population": 4677
+    },
+    {
+      "insee": "62768",
+      "nom": "Saint-Rémy-au-Bois",
+      "lat": 50.3674,
+      "lon": 1.8707,
+      "population": 105
+    },
+    {
+      "insee": "62769",
+      "nom": "Saint-Tricat",
+      "lat": 50.8936,
+      "lon": 1.8306,
+      "population": 773
+    },
+    {
+      "insee": "62770",
+      "nom": "Saint-Venant",
+      "lat": 50.6237,
+      "lon": 2.5183,
+      "population": 2999
+    },
+    {
+      "insee": "62744",
+      "nom": "Sainte-Catherine",
+      "lat": 50.3163,
+      "lon": 2.7625,
+      "population": 3471
+    },
+    {
+      "insee": "62756",
+      "nom": "Sainte-Marie-Kerque",
+      "lat": 50.9014,
+      "lon": 2.1534,
+      "population": 1708
+    },
+    {
+      "insee": "62771",
+      "nom": "Sallaumines",
+      "lat": 50.4215,
+      "lon": 2.8631,
+      "population": 9414
+    },
+    {
+      "insee": "62772",
+      "nom": "Salperwick",
+      "lat": 50.7677,
+      "lon": 2.2147,
+      "population": 521
+    },
+    {
+      "insee": "62773",
+      "nom": "Samer",
+      "lat": 50.6328,
+      "lon": 1.7541,
+      "population": 4704
+    },
+    {
+      "insee": "62774",
+      "nom": "Sangatte",
+      "lat": 50.9429,
+      "lon": 1.7681,
+      "population": 4668
+    },
+    {
+      "insee": "62775",
+      "nom": "Sanghen",
+      "lat": 50.7722,
+      "lon": 1.892,
+      "population": 315
+    },
+    {
+      "insee": "62776",
+      "nom": "Sapignies",
+      "lat": 50.1328,
+      "lon": 2.8348,
+      "population": 198
+    },
+    {
+      "insee": "62778",
+      "nom": "Sars-le-Bois",
+      "lat": 50.2972,
+      "lon": 2.4301,
+      "population": 83
+    },
+    {
+      "insee": "62779",
+      "nom": "Sarton",
+      "lat": 50.1079,
+      "lon": 2.4316,
+      "population": 182
+    },
+    {
+      "insee": "62780",
+      "nom": "Sauchy-Cauchy",
+      "lat": 50.2358,
+      "lon": 3.0939,
+      "population": 390
+    },
+    {
+      "insee": "62781",
+      "nom": "Sauchy-Lestrée",
+      "lat": 50.2186,
+      "lon": 3.1144,
+      "population": 438
+    },
+    {
+      "insee": "62782",
+      "nom": "Saudemont",
+      "lat": 50.2376,
+      "lon": 3.0307,
+      "population": 409
+    },
+    {
+      "insee": "62783",
+      "nom": "Saulchoy",
+      "lat": 50.3564,
+      "lon": 1.8509,
+      "population": 325
+    },
+    {
+      "insee": "62784",
+      "nom": "Saulty",
+      "lat": 50.2127,
+      "lon": 2.5251,
+      "population": 750
+    },
+    {
+      "insee": "62785",
+      "nom": "Savy-Berlette",
+      "lat": 50.3523,
+      "lon": 2.5561,
+      "population": 929
+    },
+    {
+      "insee": "62786",
+      "nom": "Selles",
+      "lat": 50.6963,
+      "lon": 1.888,
+      "population": 299
+    },
+    {
+      "insee": "62787",
+      "nom": "Sempy",
+      "lat": 50.4968,
+      "lon": 1.8774,
+      "population": 324
+    },
+    {
+      "insee": "62788",
+      "nom": "Seninghem",
+      "lat": 50.697,
+      "lon": 2.0147,
+      "population": 685
+    },
+    {
+      "insee": "62789",
+      "nom": "Senlecques",
+      "lat": 50.6498,
+      "lon": 1.9372,
+      "population": 251
+    },
+    {
+      "insee": "62790",
+      "nom": "Senlis",
+      "lat": 50.5339,
+      "lon": 2.1474,
+      "population": 159
+    },
+    {
+      "insee": "62791",
+      "nom": "Séricourt",
+      "lat": 50.297,
+      "lon": 2.3132,
+      "population": 49
+    },
+    {
+      "insee": "62792",
+      "nom": "Serques",
+      "lat": 50.7895,
+      "lon": 2.199,
+      "population": 1210
+    },
+    {
+      "insee": "62793",
+      "nom": "Servins",
+      "lat": 50.4063,
+      "lon": 2.6364,
+      "population": 1147
+    },
+    {
+      "insee": "62794",
+      "nom": "Setques",
+      "lat": 50.7112,
+      "lon": 2.1555,
+      "population": 594
+    },
+    {
+      "insee": "62795",
+      "nom": "Sibiville",
+      "lat": 50.3039,
+      "lon": 2.3342,
+      "population": 118
+    },
+    {
+      "insee": "62796",
+      "nom": "Simencourt",
+      "lat": 50.2544,
+      "lon": 2.6319,
+      "population": 569
+    },
+    {
+      "insee": "62797",
+      "nom": "Siracourt",
+      "lat": 50.3704,
+      "lon": 2.2664,
+      "population": 286
+    },
+    {
+      "insee": "62798",
+      "nom": "Sombrin",
+      "lat": 50.238,
+      "lon": 2.5043,
+      "population": 205
+    },
+    {
+      "insee": "62799",
+      "nom": "Sorrus",
+      "lat": 50.4565,
+      "lon": 1.7159,
+      "population": 942
+    },
+    {
+      "insee": "62800",
+      "nom": "Souastre",
+      "lat": 50.15,
+      "lon": 2.5676,
+      "population": 375
+    },
+    {
+      "insee": "62801",
+      "nom": "Souchez",
+      "lat": 50.3894,
+      "lon": 2.7453,
+      "population": 2663
+    },
+    {
+      "insee": "62803",
+      "nom": "Surques",
+      "lat": 50.7444,
+      "lon": 1.9226,
+      "population": 624
+    },
+    {
+      "insee": "62804",
+      "nom": "Sus-Saint-Léger",
+      "lat": 50.2417,
+      "lon": 2.4347,
+      "population": 359
+    },
+    {
+      "insee": "62805",
+      "nom": "Tangry",
+      "lat": 50.4618,
+      "lon": 2.3584,
+      "population": 265
+    },
+    {
+      "insee": "62806",
+      "nom": "Tardinghen",
+      "lat": 50.8651,
+      "lon": 1.6417,
+      "population": 150
+    },
+    {
+      "insee": "62808",
+      "nom": "Teneur",
+      "lat": 50.4501,
+      "lon": 2.2173,
+      "population": 259
+    },
+    {
+      "insee": "62809",
+      "nom": "Ternas",
+      "lat": 50.3386,
+      "lon": 2.3986,
+      "population": 125
+    },
+    {
+      "insee": "62810",
+      "nom": "Thélus",
+      "lat": 50.3499,
+      "lon": 2.8003,
+      "population": 1310
+    },
+    {
+      "insee": "62811",
+      "nom": "Thérouanne",
+      "lat": 50.6272,
+      "lon": 2.2532,
+      "population": 1146
+    },
+    {
+      "insee": "62812",
+      "nom": "Thiembronne",
+      "lat": 50.6226,
+      "lon": 2.0455,
+      "population": 815
+    },
+    {
+      "insee": "62814",
+      "nom": "Thièvres",
+      "lat": 50.1333,
+      "lon": 2.4479,
+      "population": 96
+    },
+    {
+      "insee": "62815",
+      "nom": "Tigny-Noyelle",
+      "lat": 50.356,
+      "lon": 1.7087,
+      "population": 163
+    },
+    {
+      "insee": "62816",
+      "nom": "Tilloy-lès-Hermaville",
+      "lat": 50.3274,
+      "lon": 2.553,
+      "population": 215
+    },
+    {
+      "insee": "62817",
+      "nom": "Tilloy-lès-Mofflaines",
+      "lat": 50.2768,
+      "lon": 2.8247,
+      "population": 1616
+    },
+    {
+      "insee": "62818",
+      "nom": "Tilly-Capelle",
+      "lat": 50.4395,
+      "lon": 2.1862,
+      "population": 154
+    },
+    {
+      "insee": "62819",
+      "nom": "Tilques",
+      "lat": 50.7737,
+      "lon": 2.2013,
+      "population": 1072
+    },
+    {
+      "insee": "62820",
+      "nom": "Tincques",
+      "lat": 50.3612,
+      "lon": 2.4943,
+      "population": 818
+    },
+    {
+      "insee": "62821",
+      "nom": "Tingry",
+      "lat": 50.6123,
+      "lon": 1.724,
+      "population": 291
+    },
+    {
+      "insee": "62822",
+      "nom": "Tollent",
+      "lat": 50.2822,
+      "lon": 2.0165,
+      "population": 81
+    },
+    {
+      "insee": "62823",
+      "nom": "Torcy",
+      "lat": 50.4861,
+      "lon": 2.0223,
+      "population": 171
+    },
+    {
+      "insee": "62824",
+      "nom": "Tortefontaine",
+      "lat": 50.3355,
+      "lon": 1.9165,
+      "population": 233
+    },
+    {
+      "insee": "62825",
+      "nom": "Tortequesne",
+      "lat": 50.293,
+      "lon": 3.0282,
+      "population": 907
+    },
+    {
+      "insee": "62827",
+      "nom": "Tournehem-sur-la-Hem",
+      "lat": 50.7873,
+      "lon": 2.0416,
+      "population": 1376
+    },
+    {
+      "insee": "62828",
+      "nom": "Tramecourt",
+      "lat": 50.4683,
+      "lon": 2.1525,
+      "population": 55
+    },
+    {
+      "insee": "62830",
+      "nom": "Trescault",
+      "lat": 50.0906,
+      "lon": 3.0951,
+      "population": 204
+    },
+    {
+      "insee": "62831",
+      "nom": "Troisvaux",
+      "lat": 50.4123,
+      "lon": 2.3419,
+      "population": 293
+    },
+    {
+      "insee": "62832",
+      "nom": "Tubersent",
+      "lat": 50.5215,
+      "lon": 1.6988,
+      "population": 578
+    },
+    {
+      "insee": "62833",
+      "nom": "Vacquerie-le-Boucq",
+      "lat": 50.27,
+      "lon": 2.2081,
+      "population": 67
+    },
+    {
+      "insee": "62834",
+      "nom": "Vacqueriette-Erquières",
+      "lat": 50.3238,
+      "lon": 2.0748,
+      "population": 245
+    },
+    {
+      "insee": "62835",
+      "nom": "Valhuon",
+      "lat": 50.4352,
+      "lon": 2.3846,
+      "population": 538
+    },
+    {
+      "insee": "62836",
+      "nom": "Vaudricourt",
+      "lat": 50.5003,
+      "lon": 2.6191,
+      "population": 1138
+    },
+    {
+      "insee": "62837",
+      "nom": "Vaudringhem",
+      "lat": 50.6528,
+      "lon": 2.0262,
+      "population": 494
+    },
+    {
+      "insee": "62838",
+      "nom": "Vaulx",
+      "lat": 50.2713,
+      "lon": 2.1026,
+      "population": 89
+    },
+    {
+      "insee": "62839",
+      "nom": "Vaulx-Vraucourt",
+      "lat": 50.1427,
+      "lon": 2.903,
+      "population": 1099
+    },
+    {
+      "insee": "62840",
+      "nom": "Vélu",
+      "lat": 50.1022,
+      "lon": 2.9738,
+      "population": 130
+    },
+    {
+      "insee": "62842",
+      "nom": "Vendin-le-Vieil",
+      "lat": 50.4723,
+      "lon": 2.8492,
+      "population": 8536
+    },
+    {
+      "insee": "62841",
+      "nom": "Vendin-lès-Béthune",
+      "lat": 50.5473,
+      "lon": 2.6062,
+      "population": 2374
+    },
+    {
+      "insee": "62843",
+      "nom": "Verchin",
+      "lat": 50.4977,
+      "lon": 2.1812,
+      "population": 235
+    },
+    {
+      "insee": "62844",
+      "nom": "Verchocq",
+      "lat": 50.5519,
+      "lon": 2.0396,
+      "population": 665
+    },
+    {
+      "insee": "62845",
+      "nom": "Verlincthun",
+      "lat": 50.6276,
+      "lon": 1.6901,
+      "population": 516
+    },
+    {
+      "insee": "62846",
+      "nom": "Vermelles",
+      "lat": 50.4875,
+      "lon": 2.7586,
+      "population": 4729
+    },
+    {
+      "insee": "62847",
+      "nom": "Verquigneul",
+      "lat": 50.5029,
+      "lon": 2.6627,
+      "population": 1978
+    },
+    {
+      "insee": "62848",
+      "nom": "Verquin",
+      "lat": 50.5013,
+      "lon": 2.6419,
+      "population": 3445
+    },
+    {
+      "insee": "62849",
+      "nom": "Verton",
+      "lat": 50.4026,
+      "lon": 1.6497,
+      "population": 2571
+    },
+    {
+      "insee": "62850",
+      "nom": "Vieil-Hesdin",
+      "lat": 50.3641,
+      "lon": 2.1127,
+      "population": 351
+    },
+    {
+      "insee": "62853",
+      "nom": "Vieil-Moutier",
+      "lat": 50.6642,
+      "lon": 1.91,
+      "population": 391
+    },
+    {
+      "insee": "62851",
+      "nom": "Vieille-Chapelle",
+      "lat": 50.5936,
+      "lon": 2.7198,
+      "population": 882
+    },
+    {
+      "insee": "62852",
+      "nom": "Vieille-Église",
+      "lat": 50.9359,
+      "lon": 2.0779,
+      "population": 1511
+    },
+    {
+      "insee": "62854",
+      "nom": "Villers-au-Bois",
+      "lat": 50.3769,
+      "lon": 2.6663,
+      "population": 607
+    },
+    {
+      "insee": "62855",
+      "nom": "Villers-au-Flos",
+      "lat": 50.0805,
+      "lon": 2.9046,
+      "population": 245
+    },
+    {
+      "insee": "62856",
+      "nom": "Villers-Brûlin",
+      "lat": 50.3742,
+      "lon": 2.5312,
+      "population": 368
+    },
+    {
+      "insee": "62857",
+      "nom": "Villers-Châtel",
+      "lat": 50.3762,
+      "lon": 2.5915,
+      "population": 127
+    },
+    {
+      "insee": "62859",
+      "nom": "Villers-l'Hôpital",
+      "lat": 50.2291,
+      "lon": 2.2104,
+      "population": 255
+    },
+    {
+      "insee": "62858",
+      "nom": "Villers-lès-Cagnicourt",
+      "lat": 50.2247,
+      "lon": 3.01,
+      "population": 243
+    },
+    {
+      "insee": "62860",
+      "nom": "Villers-Sir-Simon",
+      "lat": 50.3151,
+      "lon": 2.4903,
+      "population": 137
+    },
+    {
+      "insee": "62861",
+      "nom": "Vimy",
+      "lat": 50.3781,
+      "lon": 2.8125,
+      "population": 4270
+    },
+    {
+      "insee": "62862",
+      "nom": "Vincly",
+      "lat": 50.5563,
+      "lon": 2.1807,
+      "population": 146
+    },
+    {
+      "insee": "62863",
+      "nom": "Violaines",
+      "lat": 50.5341,
+      "lon": 2.7788,
+      "population": 3839
+    },
+    {
+      "insee": "62864",
+      "nom": "Vis-en-Artois",
+      "lat": 50.2458,
+      "lon": 2.9345,
+      "population": 632
+    },
+    {
+      "insee": "62865",
+      "nom": "Vitry-en-Artois",
+      "lat": 50.3251,
+      "lon": 2.9813,
+      "population": 4849
+    },
+    {
+      "insee": "62866",
+      "nom": "Waben",
+      "lat": 50.3801,
+      "lon": 1.6535,
+      "population": 449
+    },
+    {
+      "insee": "62867",
+      "nom": "Wacquinghen",
+      "lat": 50.7821,
+      "lon": 1.6702,
+      "population": 259
+    },
+    {
+      "insee": "62868",
+      "nom": "Wail",
+      "lat": 50.3353,
+      "lon": 2.1179,
+      "population": 261
+    },
+    {
+      "insee": "62869",
+      "nom": "Wailly",
+      "lat": 50.248,
+      "lon": 2.7197,
+      "population": 1062
+    },
+    {
+      "insee": "62870",
+      "nom": "Wailly-Beaucamp",
+      "lat": 50.4065,
+      "lon": 1.7246,
+      "population": 1062
+    },
+    {
+      "insee": "62871",
+      "nom": "Wambercourt",
+      "lat": 50.435,
+      "lon": 2.0327,
+      "population": 259
+    },
+    {
+      "insee": "62872",
+      "nom": "Wamin",
+      "lat": 50.4173,
+      "lon": 2.0599,
+      "population": 253
+    },
+    {
+      "insee": "62873",
+      "nom": "Wancourt",
+      "lat": 50.2556,
+      "lon": 2.8555,
+      "population": 626
+    },
+    {
+      "insee": "62874",
+      "nom": "Wanquetin",
+      "lat": 50.2703,
+      "lon": 2.6138,
+      "population": 748
+    },
+    {
+      "insee": "62875",
+      "nom": "Wardrecques",
+      "lat": 50.7035,
+      "lon": 2.3478,
+      "population": 1328
+    },
+    {
+      "insee": "62876",
+      "nom": "Warlencourt-Eaucourt",
+      "lat": 50.0796,
+      "lon": 2.7896,
+      "population": 131
+    },
+    {
+      "insee": "62877",
+      "nom": "Warlincourt-lès-Pas",
+      "lat": 50.1805,
+      "lon": 2.5055,
+      "population": 177
+    },
+    {
+      "insee": "62878",
+      "nom": "Warlus",
+      "lat": 50.2774,
+      "lon": 2.6658,
+      "population": 377
+    },
+    {
+      "insee": "62879",
+      "nom": "Warluzel",
+      "lat": 50.2306,
+      "lon": 2.4689,
+      "population": 218
+    },
+    {
+      "insee": "62882",
+      "nom": "Wavrans-sur-l'Aa",
+      "lat": 50.674,
+      "lon": 2.1373,
+      "population": 1203
+    },
+    {
+      "insee": "62883",
+      "nom": "Wavrans-sur-Ternoise",
+      "lat": 50.4086,
+      "lon": 2.2867,
+      "population": 197
+    },
+    {
+      "insee": "62885",
+      "nom": "Westrehem",
+      "lat": 50.5457,
+      "lon": 2.3434,
+      "population": 246
+    },
+    {
+      "insee": "62886",
+      "nom": "Wicquinghem",
+      "lat": 50.5733,
+      "lon": 1.9512,
+      "population": 267
+    },
+    {
+      "insee": "62887",
+      "nom": "Widehem",
+      "lat": 50.5838,
+      "lon": 1.6612,
+      "population": 244
+    },
+    {
+      "insee": "62888",
+      "nom": "Wierre-au-Bois",
+      "lat": 50.6513,
+      "lon": 1.7677,
+      "population": 228
+    },
+    {
+      "insee": "62889",
+      "nom": "Wierre-Effroy",
+      "lat": 50.7728,
+      "lon": 1.7356,
+      "population": 834
+    },
+    {
+      "insee": "62890",
+      "nom": "Willeman",
+      "lat": 50.3615,
+      "lon": 2.1621,
+      "population": 183
+    },
+    {
+      "insee": "62891",
+      "nom": "Willencourt",
+      "lat": 50.24,
+      "lon": 2.0818,
+      "population": 138
+    },
+    {
+      "insee": "62892",
+      "nom": "Willerval",
+      "lat": 50.3628,
+      "lon": 2.8486,
+      "population": 660
+    },
+    {
+      "insee": "62893",
+      "nom": "Wimereux",
+      "lat": 50.7736,
+      "lon": 1.6146,
+      "population": 6256
+    },
+    {
+      "insee": "62894",
+      "nom": "Wimille",
+      "lat": 50.7696,
+      "lon": 1.6442,
+      "population": 3866
+    },
+    {
+      "insee": "62895",
+      "nom": "Wingles",
+      "lat": 50.4946,
+      "lon": 2.8575,
+      "population": 8720
+    },
+    {
+      "insee": "62896",
+      "nom": "Wirwignes",
+      "lat": 50.6856,
+      "lon": 1.7702,
+      "population": 768
+    },
+    {
+      "insee": "62897",
+      "nom": "Wismes",
+      "lat": 50.6647,
+      "lon": 2.0813,
+      "population": 492
+    },
+    {
+      "insee": "62898",
+      "nom": "Wisques",
+      "lat": 50.7279,
+      "lon": 2.193,
+      "population": 222
+    },
+    {
+      "insee": "62899",
+      "nom": "Wissant",
+      "lat": 50.8876,
+      "lon": 1.6749,
+      "population": 835
+    },
+    {
+      "insee": "62900",
+      "nom": "Witternesse",
+      "lat": 50.6134,
+      "lon": 2.3602,
+      "population": 636
+    },
+    {
+      "insee": "62901",
+      "nom": "Wittes",
+      "lat": 50.6722,
+      "lon": 2.3858,
+      "population": 973
+    },
+    {
+      "insee": "62902",
+      "nom": "Wizernes",
+      "lat": 50.7139,
+      "lon": 2.2263,
+      "population": 3321
+    },
+    {
+      "insee": "62909",
+      "nom": "Ytres",
+      "lat": 50.0637,
+      "lon": 2.9957,
+      "population": 425
+    },
+    {
+      "insee": "62903",
+      "nom": "Zoteux",
+      "lat": 50.6156,
+      "lon": 1.886,
+      "population": 588
+    },
+    {
+      "insee": "62904",
+      "nom": "Zouafques",
+      "lat": 50.8228,
+      "lon": 2.0543,
+      "population": 592
+    },
+    {
+      "insee": "62905",
+      "nom": "Zudausques",
+      "lat": 50.7555,
+      "lon": 2.1571,
+      "population": 1084
+    },
+    {
+      "insee": "62906",
+      "nom": "Zutkerque",
+      "lat": 50.8541,
+      "lon": 2.0638,
+      "population": 1820
+    }
+  ]
+}

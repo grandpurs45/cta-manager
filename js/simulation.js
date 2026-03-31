@@ -5,9 +5,19 @@ function formatTime(totalMinutes) {
 }
 
 function calculateUsedSP(caserneId) {
-  return state.activeMissions
+  const activeMissionSp = state.activeMissions
     .filter(mission => mission.caserneId === caserneId && mission.phase !== "terminee")
     .reduce((sum, mission) => sum + mission.spRequired, 0);
+
+  const returningDetachedSp = state.vehicules
+    .filter(vehicle =>
+      vehicle.caserneId === caserneId &&
+      typeof vehicle.returnToBaseRemaining === "number" &&
+      vehicle.returnToBaseRemaining > 0
+    )
+    .reduce((sum, vehicle) => sum + (Number(vehicle.returnToBaseSp) || 0), 0);
+
+  return activeMissionSp + returningDetachedSp;
 }
 
 function getCaserneById(id) {
@@ -92,6 +102,14 @@ function getInterventionById(id) {
   return state.interventions.find(intervention => intervention.id === id) || null;
 }
 
+function getActiveZones() {
+  if (Array.isArray(state?.dynamicZones) && state.dynamicZones.length > 0) {
+    return state.dynamicZones;
+  }
+
+  return ZONES;
+}
+
 function getInterventionStatusLabel(status) {
   switch (status) {
     case "ALERTE":
@@ -144,7 +162,7 @@ function refreshInterventionStatus(interventionId) {
 }
 
 function getZoneById(id) {
-  return ZONES.find(zone => zone.id === id) || null;
+  return getActiveZones().find(zone => zone.id === id) || null;
 }
 
 function getVehicleTypeConfig(type) {
@@ -283,6 +301,24 @@ function getAvailableProfilesForVehicle(vehicle) {
     return [];
   }
 
+  if (vehicle.etat === "retour") {
+    const onboardSp = getReturningVehicleCrewCount(vehicle.id);
+    if (onboardSp <= 0) {
+      return [];
+    }
+
+    return typeConfig.profils
+      .filter(profil => profil.sp <= onboardSp)
+      .map(profil => ({
+        vehicle,
+        caserne,
+        profil,
+        departDelay: 0,
+        departMode: "embarque",
+        onboardSp
+      }));
+  }
+
   const spInfo = getAvailableSPInfo(caserne);
 
   return typeConfig.profils
@@ -295,6 +331,26 @@ function getAvailableProfilesForVehicle(vehicle) {
       departMode: spInfo.departMode
     }))
     .filter(item => item.departDelay !== 999);
+}
+
+function getReturningVehicleCrewCount(vehicleId) {
+  if (!vehicleId) {
+    return 0;
+  }
+
+  const missions = state.activeMissions.filter(mission =>
+    mission.vehicleId === vehicleId &&
+    mission.phase === "retour"
+  );
+
+  const onboardFromActiveMission = missions.length === 0
+    ? 0
+    : Math.max(...missions.map(mission => Number(mission.spRequired) || 0));
+
+  const vehicle = getVehicleById(vehicleId);
+  const onboardFromDetachedReturn = Number(vehicle?.returnToBaseSp) || 0;
+
+  return Math.max(onboardFromActiveMission, onboardFromDetachedReturn);
 }
 
 function toRad(deg) {
@@ -415,6 +471,10 @@ function evaluateOptionStaffing(items) {
   const staffingByCaserne = {};
 
   for (const item of items) {
+    if (item?.vehicle?.etat === "retour") {
+      continue;
+    }
+
     const caserneId = item.caserne.id;
 
     if (!staffingByCaserne[caserneId]) {
@@ -464,10 +524,37 @@ function evaluateOptionStaffing(items) {
   };
 }
 
+function getEffectiveDepartData(item, staffingEntry) {
+  if (item?.vehicle?.etat === "retour") {
+    return {
+      departDelay: item.departDelay,
+      departMode: item.departMode
+    };
+  }
+
+  if (staffingEntry) {
+    return {
+      departDelay: staffingEntry.departDelay,
+      departMode: staffingEntry.departMode
+    };
+  }
+
+  return {
+    departDelay: item?.departDelay ?? 0,
+    departMode: item?.departMode || "poste"
+  };
+}
+
 function closePreviousMissionForVehicle(vehicleId) {
   state.activeMissions = state.activeMissions.filter(mission => {
     return !(mission.vehicleId === vehicleId && mission.phase !== "terminee");
   });
+
+  const vehicle = getVehicleById(vehicleId);
+  if (vehicle) {
+    delete vehicle.returnToBaseRemaining;
+    delete vehicle.returnToBaseSp;
+  }
 }
 
 function engageSolution(interventionId, optionIndex) {
@@ -580,11 +667,12 @@ function buildOptionFromItems(intervention, items) {
 
   const enrichedItems = items.map(item => {
     const staffingEntry = staffing.staffingByCaserne[item.caserne.id];
+    const departData = getEffectiveDepartData(item, staffingEntry);
 
     return {
       ...item,
-      departDelay: staffingEntry.departDelay,
-      departMode: staffingEntry.departMode
+      departDelay: departData.departDelay,
+      departMode: departData.departMode
     };
   });
 
@@ -911,6 +999,22 @@ function advanceSimulation() {
     saveData(STORAGE_KEYS.VEHICULES, state.vehicules);
   }
 
+  state.vehicules.forEach(vehicle => {
+    if (typeof vehicle.returnToBaseRemaining !== "number") {
+      return;
+    }
+
+    vehicle.returnToBaseRemaining -= 1;
+
+    if (vehicle.returnToBaseRemaining > 0) {
+      return;
+    }
+
+    delete vehicle.returnToBaseRemaining;
+    delete vehicle.returnToBaseSp;
+    syncVehicleStatusWithPhase(vehicle, "disponible");
+  });
+
   finalizeCompletedInterventions();
 
   saveState();
@@ -919,15 +1023,132 @@ function advanceSimulation() {
 
 function pickZoneForTemplate(template) {
   const availableZoneIds = getAvailableZoneIdsForTemplate(template);
+  const availableZones = getActiveZones().filter(zone => availableZoneIds.includes(zone.id));
 
-  const availableZones = ZONES.filter(zone => availableZoneIds.includes(zone.id));
+  return pickWeightedItem(availableZones, zone => getZoneInfluenceWeight(zone));
+}
 
-  return pickWeightedItem(availableZones, zone => zone.poidsIntervention || 1);
+function getZonePopulation(zone) {
+  if (!zone) {
+    return 0;
+  }
+
+  if (typeof zone.population === "number" && Number.isFinite(zone.population) && zone.population > 0) {
+    return Math.round(zone.population);
+  }
+
+  // Backward-compatible fallback:
+  // if no explicit population is defined in data/zones.js,
+  // we derive a rough estimate from existing intervention weight.
+  const fallbackWeight = Number(zone.poidsIntervention) || 1;
+  return Math.max(300, Math.round(fallbackWeight * 1000));
+}
+
+function getInfluenceConfig() {
+  const cfg = SETTINGS?.zoneInfluence || {};
+  return {
+    radiusKm: typeof cfg.radiusKm === "number" && cfg.radiusKm > 0 ? cfg.radiusKm : 14,
+    minFactor: typeof cfg.minFactor === "number" && cfg.minFactor >= 0 ? cfg.minFactor : 0.2
+  };
+}
+
+function getOwnedCasernesForInfluence() {
+  const owned = getOwnedCasernes();
+  if (owned.length > 0) {
+    return owned;
+  }
+
+  return state.casernes || [];
+}
+
+function getCaserneDistanceFactor(caserne, zone, influenceConfig) {
+  if (!caserne || !zone) {
+    return influenceConfig.minFactor;
+  }
+
+  const distanceKm = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
+  const normalized = distanceKm / influenceConfig.radiusKm;
+  const factor = 1 / (1 + (normalized * normalized));
+  return Math.max(influenceConfig.minFactor, factor);
+}
+
+function getBestCaserneInfluenceForZone(zone) {
+  const casernes = getOwnedCasernesForInfluence();
+  if (!casernes.length) {
+    return { bestFactor: 1, nearestCaserne: null };
+  }
+
+  const influenceConfig = getInfluenceConfig();
+  let bestFactor = 0;
+  let nearestCaserne = null;
+  let bestDistance = Number.POSITIVE_INFINITY;
+
+  casernes.forEach(caserne => {
+    const distanceKm = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
+    const factor = getCaserneDistanceFactor(caserne, zone, influenceConfig);
+
+    if (factor > bestFactor) {
+      bestFactor = factor;
+      nearestCaserne = caserne;
+      bestDistance = distanceKm;
+      return;
+    }
+
+    if (factor === bestFactor && distanceKm < bestDistance) {
+      nearestCaserne = caserne;
+      bestDistance = distanceKm;
+    }
+  });
+
+  return { bestFactor, nearestCaserne };
+}
+
+function getZoneInfluenceWeight(zone) {
+  const population = getZonePopulation(zone);
+  const { bestFactor } = getBestCaserneInfluenceForZone(zone);
+  const weight = population * Math.max(0.01, bestFactor);
+  return Math.max(1, Math.round(weight));
+}
+
+function getInfluencePopulationByCaserneId(caserneId) {
+  if (!caserneId) {
+    return 0;
+  }
+
+  let sum = 0;
+
+  getActiveZones().forEach(zone => {
+    const { nearestCaserne } = getBestCaserneInfluenceForZone(zone);
+    if (nearestCaserne && nearestCaserne.id === caserneId) {
+      sum += getZonePopulation(zone);
+    }
+  });
+
+  return sum;
+}
+
+function getInfluenceZoneCountByCaserneId(caserneId) {
+  if (!caserneId) {
+    return 0;
+  }
+
+  let count = 0;
+
+  getActiveZones().forEach(zone => {
+    const { nearestCaserne } = getBestCaserneInfluenceForZone(zone);
+    if (nearestCaserne && nearestCaserne.id === caserneId) {
+      count += 1;
+    }
+  });
+
+  return count;
 }
 
 function getAvailableZoneIdsForTemplate(template) {
+  const activeZones = getActiveZones();
+
   if (!template.zones || template.zones === "ALL") {
-    return ZONES.map(zone => zone.id);
+    return activeZones.map(zone => zone.id);
   }
 
   if (Array.isArray(template.zones)) {
@@ -1038,7 +1259,8 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
   }
 
   const allowedCodes = getAllowedContributionCodesForIntervention(intervention);
-  const bestProfilesByBaseCode = new Map();
+  const selectableProfiles = [];
+  const signatures = new Set();
 
   availableProfiles.forEach(item => {
     const normalizedCode = normalizeProfilCode(item.profil);
@@ -1122,22 +1344,24 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
       return;
     }
 
-    const existing = bestProfilesByBaseCode.get(baseCode);
-
-    if (!existing || item.profil.sp > existing.profil.sp) {
-      bestProfilesByBaseCode.set(baseCode, {
-        vehicle: item.vehicle,
-        caserne: item.caserne,
-        profil: item.profil,
-        normalizedCode,
-        displayCode: baseCode,
-        departDelay: item.departDelay,
-        departMode: item.departMode
-      });
+    const signature = `${item.vehicle.id}|${item.profil.code}|${item.profil.mode}|${item.profil.sp}`;
+    if (signatures.has(signature)) {
+      return;
     }
+
+    signatures.add(signature);
+    selectableProfiles.push({
+      vehicle: item.vehicle,
+      caserne: item.caserne,
+      profil: item.profil,
+      normalizedCode,
+      displayCode: baseCode,
+      departDelay: item.departDelay,
+      departMode: item.departMode
+    });
   });
 
-  return Array.from(bestProfilesByBaseCode.values()).sort((a, b) => {
+  return selectableProfiles.sort((a, b) => {
     if (a.displayCode < b.displayCode) return -1;
     if (a.displayCode > b.displayCode) return 1;
     return b.profil.sp - a.profil.sp;
@@ -1301,7 +1525,7 @@ function evaluateSelection(interventionId) {
   totalDelay = Math.max(
     ...selectedItems.map(item => {
       const staffingEntry = staffing.staffingByCaserne[item.caserne.id];
-      const departDelay = staffingEntry ? staffingEntry.departDelay : item.departDelay;
+      const departDelay = getEffectiveDepartData(item, staffingEntry).departDelay;
       return departDelay + item.travelTime;
     })
   );
@@ -1393,8 +1617,9 @@ function engageSelection(interventionId) {
     }
 
     const staffingEntry = evaluation.staffing?.staffingByCaserne?.[item.caserne.id];
-    const departDelay = staffingEntry ? staffingEntry.departDelay : item.departDelay;
-    const departMode = staffingEntry ? staffingEntry.departMode : item.departMode;
+    const departData = getEffectiveDepartData(item, staffingEntry);
+    const departDelay = departData.departDelay;
+    const departMode = departData.departMode;
 
     const handlesSUAP = vehicleHandlesSUAP(item);
     const hospitalTransportTime =
@@ -1903,6 +2128,10 @@ function canVehicleBeTransferred(vehicle) {
     return false;
   }
 
+  if (typeof vehicle.returnToBaseRemaining === "number" && vehicle.returnToBaseRemaining > 0) {
+    return false;
+  }
+
   if (isVehicleReserved(vehicle.id)) {
     return false;
   }
@@ -1966,6 +2195,142 @@ function startVehicleTransfer(vehicleId, targetCaserneId) {
   saveData(STORAGE_KEYS.VEHICULES, state.vehicules);
   saveState();
   renderAll();
+}
+
+function estimateDetachedReturnDelayFromMission(mission) {
+  if (!mission) {
+    return 0;
+  }
+
+  switch (mission.phase) {
+    case "depart":
+      return 0;
+    case "trajet":
+      return Math.max(1, Math.round((Number(mission.remaining) || Number(mission.travelTime) || 1) * 0.8));
+    case "sur_place":
+      return Math.max(1, Number(mission.returnTime) || 1);
+    case "transport_hopital":
+      return Math.max(
+        1,
+        (Number(mission.remaining) || 0) + (Number(mission.returnTime) || 1)
+      );
+    case "retour":
+      return Math.max(1, Number(mission.remaining) || 1);
+    default:
+      return 0;
+  }
+}
+
+function startDetachedVehicleReturn(vehicle, mission) {
+  if (!vehicle || !mission) {
+    return;
+  }
+
+  const returnDelay = estimateDetachedReturnDelayFromMission(mission);
+  if (returnDelay <= 0) {
+    delete vehicle.returnToBaseRemaining;
+    delete vehicle.returnToBaseSp;
+    syncVehicleStatusWithPhase(vehicle, "disponible");
+    return;
+  }
+
+  vehicle.returnToBaseRemaining = returnDelay;
+  vehicle.returnToBaseSp = Number(mission.spRequired) || 0;
+  syncVehicleStatusWithPhase(vehicle, "retour");
+}
+
+function removeEngagedVehicleFromIntervention(interventionId, vehicleId) {
+  const intervention = getInterventionById(interventionId);
+  if (!intervention) {
+    alert("Intervention introuvable.");
+    return false;
+  }
+
+  const mission = state.activeMissions.find(m =>
+    m.interventionId === interventionId && m.vehicleId === vehicleId
+  );
+
+  if (!mission) {
+    alert("Moyen engage introuvable.");
+    return false;
+  }
+
+  state.activeMissions = state.activeMissions.filter(m => m.id !== mission.id);
+
+  const vehicle = getVehicleById(vehicleId);
+  if (vehicle) {
+    startDetachedVehicleReturn(vehicle, mission);
+  }
+
+  const remaining = getActiveMissionsForIntervention(interventionId);
+  if (remaining.length === 0) {
+    intervention.status = "ALERTE";
+    intervention.isActive = false;
+    intervention.engagedVehicleCount = 0;
+    delete intervention.mainCoverageComplete;
+    delete intervention.optionCoverageComplete;
+  } else {
+    intervention.isActive = true;
+    intervention.engagedVehicleCount = remaining.length;
+    refreshActiveMissionStatuses(interventionId);
+  }
+
+  saveState();
+  renderAll();
+  return true;
+}
+
+function modifyEngagedVehicleOnIntervention(interventionId, vehicleId) {
+  const intervention = getInterventionById(interventionId);
+  if (!intervention) {
+    alert("Intervention introuvable.");
+    return false;
+  }
+
+  const mission = state.activeMissions.find(m =>
+    m.interventionId === interventionId && m.vehicleId === vehicleId
+  );
+
+  if (!mission) {
+    alert("Moyen engage introuvable.");
+    return false;
+  }
+
+  const removed = removeEngagedVehicleFromIntervention(interventionId, vehicleId);
+  if (!removed) {
+    return false;
+  }
+
+  const added = addVehicleToSelection(
+    interventionId,
+    vehicleId,
+    mission.profilCode,
+    mission.profilMode,
+    mission.spRequired
+  );
+
+  if (!added) {
+    const vehicle = getVehicleById(vehicleId);
+    if (vehicle && isVehicleSelectableForIntervention(vehicle, interventionId)) {
+      const selectableProfiles = getVehicleSelectableProfiles(vehicle, intervention);
+      if (selectableProfiles.length > 0) {
+        const fallback = selectableProfiles[0];
+        addVehicleToSelection(
+          interventionId,
+          vehicleId,
+          fallback.profil.code,
+          fallback.profil.mode,
+          fallback.profil.sp
+        );
+      }
+    }
+  }
+
+  state.selectedInterventionId = interventionId;
+  state.currentCenterPanel = "detail";
+  saveState();
+  renderAll();
+  return true;
 }
 function adjustDelayForVehicle(vehicle, baseDelay) {
 
@@ -2395,6 +2760,8 @@ window.isVehicleReserved = isVehicleReserved;
 window.getInterventionStatusLabel = getInterventionStatusLabel;
 window.getActiveMissionsForIntervention = getActiveMissionsForIntervention;
 window.openActiveIntervention = openActiveIntervention;
+window.removeEngagedVehicleFromIntervention = removeEngagedVehicleFromIntervention;
+window.modifyEngagedVehicleOnIntervention = modifyEngagedVehicleOnIntervention;
 window.closeInterventionDetail = closeInterventionDetail;
 window.getSimulationDayLabel = getSimulationDayLabel;
 window.isProgressionEnabled = isProgressionEnabled;
@@ -2413,6 +2780,8 @@ window.getVehicleUnitCostByType = getVehicleUnitCostByType;
 window.getVehicleUnlockCost = getVehicleUnlockCost;
 window.getFeatureUnlockCost = getFeatureUnlockCost;
 window.getRoutingProvider = getRoutingProvider;
+window.getInfluencePopulationByCaserneId = getInfluencePopulationByCaserneId;
+window.getInfluenceZoneCountByCaserneId = getInfluenceZoneCountByCaserneId;
 window.canVehicleBeTransferred = canVehicleBeTransferred;
 window.startVehicleTransfer = startVehicleTransfer;
 window.unlockCaserne = unlockCaserne;

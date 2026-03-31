@@ -1,0 +1,1078 @@
+{
+  "country": "FR",
+  "departmentCode": "83",
+  "label": "Departement 83",
+  "communes": [
+    {
+      "insee": "83002",
+      "nom": "Aiguines",
+      "lat": 43.7365,
+      "lon": 6.3197,
+      "population": 274
+    },
+    {
+      "insee": "83003",
+      "nom": "Ampus",
+      "lat": 43.6218,
+      "lon": 6.3683,
+      "population": 919
+    },
+    {
+      "insee": "83005",
+      "nom": "Artignosc-sur-Verdon",
+      "lat": 43.6991,
+      "lon": 6.1087,
+      "population": 311
+    },
+    {
+      "insee": "83006",
+      "nom": "Artigues",
+      "lat": 43.5802,
+      "lon": 5.8,
+      "population": 282
+    },
+    {
+      "insee": "83007",
+      "nom": "Aups",
+      "lat": 43.6283,
+      "lon": 6.2139,
+      "population": 2192
+    },
+    {
+      "insee": "83008",
+      "nom": "Bagnols-en-Forêt",
+      "lat": 43.5328,
+      "lon": 6.7089,
+      "population": 3194
+    },
+    {
+      "insee": "83009",
+      "nom": "Bandol",
+      "lat": 43.147,
+      "lon": 5.7488,
+      "population": 8267
+    },
+    {
+      "insee": "83010",
+      "nom": "Bargème",
+      "lat": 43.7279,
+      "lon": 6.5697,
+      "population": 207
+    },
+    {
+      "insee": "83011",
+      "nom": "Bargemon",
+      "lat": 43.6344,
+      "lon": 6.5439,
+      "population": 1433
+    },
+    {
+      "insee": "83012",
+      "nom": "Barjols",
+      "lat": 43.5484,
+      "lon": 5.973,
+      "population": 2984
+    },
+    {
+      "insee": "83014",
+      "nom": "Baudinard-sur-Verdon",
+      "lat": 43.714,
+      "lon": 6.1351,
+      "population": 235
+    },
+    {
+      "insee": "83015",
+      "nom": "Bauduen",
+      "lat": 43.7203,
+      "lon": 6.2048,
+      "population": 308
+    },
+    {
+      "insee": "83017",
+      "nom": "Belgentier",
+      "lat": 43.2416,
+      "lon": 5.9972,
+      "population": 2373
+    },
+    {
+      "insee": "83018",
+      "nom": "Besse-sur-Issole",
+      "lat": 43.339,
+      "lon": 6.1839,
+      "population": 3125
+    },
+    {
+      "insee": "83019",
+      "nom": "Bormes-les-Mimosas",
+      "lat": 43.1575,
+      "lon": 6.3615,
+      "population": 8545
+    },
+    {
+      "insee": "83021",
+      "nom": "Bras",
+      "lat": 43.4723,
+      "lon": 5.9558,
+      "population": 2637
+    },
+    {
+      "insee": "83022",
+      "nom": "Brenon",
+      "lat": 43.7691,
+      "lon": 6.5365,
+      "population": 24
+    },
+    {
+      "insee": "83023",
+      "nom": "Brignoles",
+      "lat": 43.3878,
+      "lon": 6.0759,
+      "population": 17850
+    },
+    {
+      "insee": "83025",
+      "nom": "Brue-Auriac",
+      "lat": 43.5259,
+      "lon": 5.9402,
+      "population": 1463
+    },
+    {
+      "insee": "83026",
+      "nom": "Cabasse",
+      "lat": 43.4275,
+      "lon": 6.2303,
+      "population": 2020
+    },
+    {
+      "insee": "83028",
+      "nom": "Callas",
+      "lat": 43.5687,
+      "lon": 6.5735,
+      "population": 2124
+    },
+    {
+      "insee": "83029",
+      "nom": "Callian",
+      "lat": 43.6069,
+      "lon": 6.7601,
+      "population": 3823
+    },
+    {
+      "insee": "83030",
+      "nom": "Camps-la-Source",
+      "lat": 43.3719,
+      "lon": 6.1261,
+      "population": 1941
+    },
+    {
+      "insee": "83032",
+      "nom": "Carcès",
+      "lat": 43.4738,
+      "lon": 6.1752,
+      "population": 3540
+    },
+    {
+      "insee": "83033",
+      "nom": "Carnoules",
+      "lat": 43.2921,
+      "lon": 6.1978,
+      "population": 4388
+    },
+    {
+      "insee": "83034",
+      "nom": "Carqueiranne",
+      "lat": 43.0975,
+      "lon": 6.0714,
+      "population": 9408
+    },
+    {
+      "insee": "83036",
+      "nom": "Cavalaire-sur-Mer",
+      "lat": 43.1797,
+      "lon": 6.5215,
+      "population": 8121
+    },
+    {
+      "insee": "83038",
+      "nom": "Châteaudouble",
+      "lat": 43.6259,
+      "lon": 6.442,
+      "population": 476
+    },
+    {
+      "insee": "83039",
+      "nom": "Châteauvert",
+      "lat": 43.4992,
+      "lon": 6.0088,
+      "population": 141
+    },
+    {
+      "insee": "83040",
+      "nom": "Châteauvieux",
+      "lat": 43.7874,
+      "lon": 6.5959,
+      "population": 78
+    },
+    {
+      "insee": "83041",
+      "nom": "Claviers",
+      "lat": 43.5998,
+      "lon": 6.5845,
+      "population": 727
+    },
+    {
+      "insee": "83042",
+      "nom": "Cogolin",
+      "lat": 43.2406,
+      "lon": 6.5319,
+      "population": 12301
+    },
+    {
+      "insee": "83043",
+      "nom": "Collobrières",
+      "lat": 43.2446,
+      "lon": 6.3454,
+      "population": 1870
+    },
+    {
+      "insee": "83044",
+      "nom": "Comps-sur-Artuby",
+      "lat": 43.7075,
+      "lon": 6.506,
+      "population": 339
+    },
+    {
+      "insee": "83045",
+      "nom": "Correns",
+      "lat": 43.4884,
+      "lon": 6.0543,
+      "population": 886
+    },
+    {
+      "insee": "83046",
+      "nom": "Cotignac",
+      "lat": 43.5246,
+      "lon": 6.1436,
+      "population": 2197
+    },
+    {
+      "insee": "83049",
+      "nom": "Cuers",
+      "lat": 43.2429,
+      "lon": 6.0654,
+      "population": 13271
+    },
+    {
+      "insee": "83050",
+      "nom": "Draguignan",
+      "lat": 43.5346,
+      "lon": 6.4651,
+      "population": 40826
+    },
+    {
+      "insee": "83051",
+      "nom": "Entrecasteaux",
+      "lat": 43.5085,
+      "lon": 6.2324,
+      "population": 1118
+    },
+    {
+      "insee": "83052",
+      "nom": "Esparron",
+      "lat": 43.5881,
+      "lon": 5.851,
+      "population": 377
+    },
+    {
+      "insee": "83053",
+      "nom": "Évenos",
+      "lat": 43.1876,
+      "lon": 5.8702,
+      "population": 2406
+    },
+    {
+      "insee": "83055",
+      "nom": "Fayence",
+      "lat": 43.6118,
+      "lon": 6.6762,
+      "population": 6157
+    },
+    {
+      "insee": "83056",
+      "nom": "Figanières",
+      "lat": 43.5642,
+      "lon": 6.4915,
+      "population": 2762
+    },
+    {
+      "insee": "83057",
+      "nom": "Flassans-sur-Issole",
+      "lat": 43.372,
+      "lon": 6.2169,
+      "population": 3706
+    },
+    {
+      "insee": "83058",
+      "nom": "Flayosc",
+      "lat": 43.5441,
+      "lon": 6.3577,
+      "population": 4673
+    },
+    {
+      "insee": "83059",
+      "nom": "Forcalqueiret",
+      "lat": 43.3357,
+      "lon": 6.0884,
+      "population": 3389
+    },
+    {
+      "insee": "83060",
+      "nom": "Fox-Amphoux",
+      "lat": 43.5944,
+      "lon": 6.1165,
+      "population": 504
+    },
+    {
+      "insee": "83061",
+      "nom": "Fréjus",
+      "lat": 43.4553,
+      "lon": 6.7848,
+      "population": 59719
+    },
+    {
+      "insee": "83064",
+      "nom": "Garéoult",
+      "lat": 43.3397,
+      "lon": 6.0426,
+      "population": 5835
+    },
+    {
+      "insee": "83065",
+      "nom": "Gassin",
+      "lat": 43.2385,
+      "lon": 6.5876,
+      "population": 2687
+    },
+    {
+      "insee": "83066",
+      "nom": "Ginasservis",
+      "lat": 43.6566,
+      "lon": 5.8393,
+      "population": 2075
+    },
+    {
+      "insee": "83067",
+      "nom": "Gonfaron",
+      "lat": 43.3149,
+      "lon": 6.2978,
+      "population": 4496
+    },
+    {
+      "insee": "83068",
+      "nom": "Grimaud",
+      "lat": 43.2822,
+      "lon": 6.5097,
+      "population": 4587
+    },
+    {
+      "insee": "83069",
+      "nom": "Hyères",
+      "lat": 43.1139,
+      "lon": 6.2357,
+      "population": 55858
+    },
+    {
+      "insee": "83013",
+      "nom": "La Bastide",
+      "lat": 43.7464,
+      "lon": 6.6327,
+      "population": 227
+    },
+    {
+      "insee": "83027",
+      "nom": "La Cadière-d'Azur",
+      "lat": 43.2026,
+      "lon": 5.7231,
+      "population": 5739
+    },
+    {
+      "insee": "83037",
+      "nom": "La Celle",
+      "lat": 43.3843,
+      "lon": 6.0016,
+      "population": 1659
+    },
+    {
+      "insee": "83047",
+      "nom": "La Crau",
+      "lat": 43.1706,
+      "lon": 6.0923,
+      "population": 19556
+    },
+    {
+      "insee": "83048",
+      "nom": "La Croix-Valmer",
+      "lat": 43.1909,
+      "lon": 6.588,
+      "population": 3855
+    },
+    {
+      "insee": "83054",
+      "nom": "La Farlède",
+      "lat": 43.164,
+      "lon": 6.0414,
+      "population": 10014
+    },
+    {
+      "insee": "83062",
+      "nom": "La Garde",
+      "lat": 43.129,
+      "lon": 6.0162,
+      "population": 26476
+    },
+    {
+      "insee": "83063",
+      "nom": "La Garde-Freinet",
+      "lat": 43.3251,
+      "lon": 6.4603,
+      "population": 1862
+    },
+    {
+      "insee": "83071",
+      "nom": "La Londe-les-Maures",
+      "lat": 43.1641,
+      "lon": 6.2417,
+      "population": 10584
+    },
+    {
+      "insee": "83074",
+      "nom": "La Martre",
+      "lat": 43.7631,
+      "lon": 6.5914,
+      "population": 226
+    },
+    {
+      "insee": "83079",
+      "nom": "La Môle",
+      "lat": 43.2202,
+      "lon": 6.4835,
+      "population": 1535
+    },
+    {
+      "insee": "83085",
+      "nom": "La Motte",
+      "lat": 43.5091,
+      "lon": 6.5506,
+      "population": 3071
+    },
+    {
+      "insee": "83109",
+      "nom": "La Roque-Esclapon",
+      "lat": 43.721,
+      "lon": 6.6479,
+      "population": 261
+    },
+    {
+      "insee": "83108",
+      "nom": "La Roquebrussanne",
+      "lat": 43.3384,
+      "lon": 5.9787,
+      "population": 2817
+    },
+    {
+      "insee": "83126",
+      "nom": "La Seyne-sur-Mer",
+      "lat": 43.0837,
+      "lon": 5.8789,
+      "population": 63732
+    },
+    {
+      "insee": "83144",
+      "nom": "La Valette-du-Var",
+      "lat": 43.1484,
+      "lon": 5.9893,
+      "population": 23719
+    },
+    {
+      "insee": "83146",
+      "nom": "La Verdière",
+      "lat": 43.6529,
+      "lon": 5.9374,
+      "population": 1668
+    },
+    {
+      "insee": "83016",
+      "nom": "Le Beausset",
+      "lat": 43.205,
+      "lon": 5.8239,
+      "population": 10219
+    },
+    {
+      "insee": "83020",
+      "nom": "Le Bourguet",
+      "lat": 43.7798,
+      "lon": 6.5017,
+      "population": 42
+    },
+    {
+      "insee": "83031",
+      "nom": "Le Cannet-des-Maures",
+      "lat": 43.3695,
+      "lon": 6.3703,
+      "population": 5140
+    },
+    {
+      "insee": "83035",
+      "nom": "Le Castellet",
+      "lat": 43.2148,
+      "lon": 5.7561,
+      "population": 6040
+    },
+    {
+      "insee": "83070",
+      "nom": "Le Lavandou",
+      "lat": 43.1669,
+      "lon": 6.4015,
+      "population": 6646
+    },
+    {
+      "insee": "83073",
+      "nom": "Le Luc",
+      "lat": 43.3855,
+      "lon": 6.3107,
+      "population": 11310
+    },
+    {
+      "insee": "83086",
+      "nom": "Le Muy",
+      "lat": 43.468,
+      "lon": 6.5844,
+      "population": 10118
+    },
+    {
+      "insee": "83094",
+      "nom": "Le Plan-de-la-Tour",
+      "lat": 43.337,
+      "lon": 6.5462,
+      "population": 3125
+    },
+    {
+      "insee": "83098",
+      "nom": "Le Pradet",
+      "lat": 43.0984,
+      "lon": 6.0214,
+      "population": 10933
+    },
+    {
+      "insee": "83103",
+      "nom": "Le Revest-les-Eaux",
+      "lat": 43.1878,
+      "lon": 5.9453,
+      "population": 4074
+    },
+    {
+      "insee": "83136",
+      "nom": "Le Thoronet",
+      "lat": 43.4585,
+      "lon": 6.2905,
+      "population": 2631
+    },
+    {
+      "insee": "83143",
+      "nom": "Le Val",
+      "lat": 43.4468,
+      "lon": 6.0569,
+      "population": 4335
+    },
+    {
+      "insee": "83001",
+      "nom": "Les Adrets-de-l'Estérel",
+      "lat": 43.5385,
+      "lon": 6.8177,
+      "population": 2775
+    },
+    {
+      "insee": "83004",
+      "nom": "Les Arcs",
+      "lat": 43.4533,
+      "lon": 6.4862,
+      "population": 8109
+    },
+    {
+      "insee": "83075",
+      "nom": "Les Mayons",
+      "lat": 43.3117,
+      "lon": 6.3621,
+      "population": 625
+    },
+    {
+      "insee": "83122",
+      "nom": "Les Salles-sur-Verdon",
+      "lat": 43.767,
+      "lon": 6.2042,
+      "population": 236
+    },
+    {
+      "insee": "83072",
+      "nom": "Lorgues",
+      "lat": 43.4734,
+      "lon": 6.3588,
+      "population": 9849
+    },
+    {
+      "insee": "83076",
+      "nom": "Mazaugues",
+      "lat": 43.3435,
+      "lon": 5.8899,
+      "population": 901
+    },
+    {
+      "insee": "83077",
+      "nom": "Méounes-lès-Montrieux",
+      "lat": 43.2699,
+      "lon": 5.979,
+      "population": 2277
+    },
+    {
+      "insee": "83078",
+      "nom": "Moissac-Bellevue",
+      "lat": 43.6487,
+      "lon": 6.1666,
+      "population": 306
+    },
+    {
+      "insee": "83080",
+      "nom": "Mons",
+      "lat": 43.7041,
+      "lon": 6.7054,
+      "population": 909
+    },
+    {
+      "insee": "83081",
+      "nom": "Montauroux",
+      "lat": 43.5936,
+      "lon": 6.7993,
+      "population": 7183
+    },
+    {
+      "insee": "83082",
+      "nom": "Montferrat",
+      "lat": 43.6336,
+      "lon": 6.4774,
+      "population": 1719
+    },
+    {
+      "insee": "83083",
+      "nom": "Montfort-sur-Argens",
+      "lat": 43.486,
+      "lon": 6.1252,
+      "population": 1453
+    },
+    {
+      "insee": "83084",
+      "nom": "Montmeyan",
+      "lat": 43.6574,
+      "lon": 6.0652,
+      "population": 596
+    },
+    {
+      "insee": "83087",
+      "nom": "Nans-les-Pins",
+      "lat": 43.3808,
+      "lon": 5.7874,
+      "population": 5215
+    },
+    {
+      "insee": "83088",
+      "nom": "Néoules",
+      "lat": 43.2912,
+      "lon": 6.0267,
+      "population": 2976
+    },
+    {
+      "insee": "83089",
+      "nom": "Ollières",
+      "lat": 43.5074,
+      "lon": 5.8141,
+      "population": 636
+    },
+    {
+      "insee": "83090",
+      "nom": "Ollioules",
+      "lat": 43.1385,
+      "lon": 5.8515,
+      "population": 14568
+    },
+    {
+      "insee": "83091",
+      "nom": "Pierrefeu-du-Var",
+      "lat": 43.2351,
+      "lon": 6.1798,
+      "population": 6084
+    },
+    {
+      "insee": "83092",
+      "nom": "Pignans",
+      "lat": 43.2997,
+      "lon": 6.2625,
+      "population": 4838
+    },
+    {
+      "insee": "83093",
+      "nom": "Plan-d'Aups-Sainte-Baume",
+      "lat": 43.3336,
+      "lon": 5.7472,
+      "population": 2527
+    },
+    {
+      "insee": "83095",
+      "nom": "Pontevès",
+      "lat": 43.5509,
+      "lon": 6.0687,
+      "population": 784
+    },
+    {
+      "insee": "83096",
+      "nom": "Pourcieux",
+      "lat": 43.4626,
+      "lon": 5.7894,
+      "population": 1552
+    },
+    {
+      "insee": "83097",
+      "nom": "Pourrières",
+      "lat": 43.487,
+      "lon": 5.7432,
+      "population": 5642
+    },
+    {
+      "insee": "83099",
+      "nom": "Puget-sur-Argens",
+      "lat": 43.4712,
+      "lon": 6.6861,
+      "population": 8602
+    },
+    {
+      "insee": "83100",
+      "nom": "Puget-Ville",
+      "lat": 43.2809,
+      "lon": 6.1646,
+      "population": 4610
+    },
+    {
+      "insee": "83101",
+      "nom": "Ramatuelle",
+      "lat": 43.2115,
+      "lon": 6.6449,
+      "population": 1888
+    },
+    {
+      "insee": "83152",
+      "nom": "Rayol-Canadel-sur-Mer",
+      "lat": 43.1664,
+      "lon": 6.4744,
+      "population": 639
+    },
+    {
+      "insee": "83102",
+      "nom": "Régusse",
+      "lat": 43.663,
+      "lon": 6.122,
+      "population": 2380
+    },
+    {
+      "insee": "83104",
+      "nom": "Rians",
+      "lat": 43.6026,
+      "lon": 5.734,
+      "population": 4223
+    },
+    {
+      "insee": "83105",
+      "nom": "Riboux",
+      "lat": 43.3063,
+      "lon": 5.753,
+      "population": 51
+    },
+    {
+      "insee": "83106",
+      "nom": "Rocbaron",
+      "lat": 43.3062,
+      "lon": 6.0869,
+      "population": 5660
+    },
+    {
+      "insee": "83107",
+      "nom": "Roquebrune-sur-Argens",
+      "lat": 43.4282,
+      "lon": 6.6525,
+      "population": 15442
+    },
+    {
+      "insee": "83110",
+      "nom": "Rougiers",
+      "lat": 43.3869,
+      "lon": 5.8505,
+      "population": 1697
+    },
+    {
+      "insee": "83154",
+      "nom": "Saint-Antonin-du-Var",
+      "lat": 43.5071,
+      "lon": 6.2935,
+      "population": 870
+    },
+    {
+      "insee": "83112",
+      "nom": "Saint-Cyr-sur-Mer",
+      "lat": 43.17,
+      "lon": 5.7055,
+      "population": 11658
+    },
+    {
+      "insee": "83113",
+      "nom": "Saint-Julien",
+      "lat": 43.7045,
+      "lon": 5.9143,
+      "population": 2453
+    },
+    {
+      "insee": "83153",
+      "nom": "Saint-Mandrier-sur-Mer",
+      "lat": 43.0762,
+      "lon": 5.9272,
+      "population": 6000
+    },
+    {
+      "insee": "83114",
+      "nom": "Saint-Martin-de-Pallières",
+      "lat": 43.577,
+      "lon": 5.8869,
+      "population": 284
+    },
+    {
+      "insee": "83116",
+      "nom": "Saint-Maximin-la-Sainte-Baume",
+      "lat": 43.4488,
+      "lon": 5.8603,
+      "population": 17896
+    },
+    {
+      "insee": "83117",
+      "nom": "Saint-Paul-en-Forêt",
+      "lat": 43.5681,
+      "lon": 6.6822,
+      "population": 1735
+    },
+    {
+      "insee": "83118",
+      "nom": "Saint-Raphaël",
+      "lat": 43.4582,
+      "lon": 6.8483,
+      "population": 37113
+    },
+    {
+      "insee": "83119",
+      "nom": "Saint-Tropez",
+      "lat": 43.2619,
+      "lon": 6.6638,
+      "population": 3582
+    },
+    {
+      "insee": "83120",
+      "nom": "Saint-Zacharie",
+      "lat": 43.3749,
+      "lon": 5.7164,
+      "population": 5879
+    },
+    {
+      "insee": "83111",
+      "nom": "Sainte-Anastasie-sur-Issole",
+      "lat": 43.3337,
+      "lon": 6.1227,
+      "population": 2165
+    },
+    {
+      "insee": "83115",
+      "nom": "Sainte-Maxime",
+      "lat": 43.3584,
+      "lon": 6.6139,
+      "population": 14118
+    },
+    {
+      "insee": "83121",
+      "nom": "Salernes",
+      "lat": 43.5646,
+      "lon": 6.2379,
+      "population": 4019
+    },
+    {
+      "insee": "83123",
+      "nom": "Sanary-sur-Mer",
+      "lat": 43.1374,
+      "lon": 5.7951,
+      "population": 18538
+    },
+    {
+      "insee": "83124",
+      "nom": "Seillans",
+      "lat": 43.6326,
+      "lon": 6.6024,
+      "population": 2941
+    },
+    {
+      "insee": "83125",
+      "nom": "Seillons-Source-d'Argens",
+      "lat": 43.5156,
+      "lon": 5.8775,
+      "population": 2818
+    },
+    {
+      "insee": "83127",
+      "nom": "Signes",
+      "lat": 43.2759,
+      "lon": 5.8498,
+      "population": 3126
+    },
+    {
+      "insee": "83128",
+      "nom": "Sillans-la-Cascade",
+      "lat": 43.565,
+      "lon": 6.1549,
+      "population": 787
+    },
+    {
+      "insee": "83129",
+      "nom": "Six-Fours-les-Plages",
+      "lat": 43.0843,
+      "lon": 5.8079,
+      "population": 37109
+    },
+    {
+      "insee": "83130",
+      "nom": "Solliès-Pont",
+      "lat": 43.1895,
+      "lon": 6.0625,
+      "population": 12521
+    },
+    {
+      "insee": "83131",
+      "nom": "Solliès-Toucas",
+      "lat": 43.2097,
+      "lon": 5.9836,
+      "population": 6269
+    },
+    {
+      "insee": "83132",
+      "nom": "Solliès-Ville",
+      "lat": 43.1804,
+      "lon": 6.0232,
+      "population": 2504
+    },
+    {
+      "insee": "83133",
+      "nom": "Tanneron",
+      "lat": 43.5732,
+      "lon": 6.8538,
+      "population": 1750
+    },
+    {
+      "insee": "83134",
+      "nom": "Taradeau",
+      "lat": 43.4657,
+      "lon": 6.4283,
+      "population": 1945
+    },
+    {
+      "insee": "83135",
+      "nom": "Tavernes",
+      "lat": 43.6009,
+      "lon": 6.0232,
+      "population": 1492
+    },
+    {
+      "insee": "83137",
+      "nom": "Toulon",
+      "lat": 43.1364,
+      "lon": 5.9334,
+      "population": 179116
+    },
+    {
+      "insee": "83138",
+      "nom": "Tourrettes",
+      "lat": 43.609,
+      "lon": 6.7252,
+      "population": 2972
+    },
+    {
+      "insee": "83139",
+      "nom": "Tourtour",
+      "lat": 43.594,
+      "lon": 6.3098,
+      "population": 581
+    },
+    {
+      "insee": "83140",
+      "nom": "Tourves",
+      "lat": 43.4108,
+      "lon": 5.9281,
+      "population": 5207
+    },
+    {
+      "insee": "83141",
+      "nom": "Trans-en-Provence",
+      "lat": 43.5025,
+      "lon": 6.4869,
+      "population": 6905
+    },
+    {
+      "insee": "83142",
+      "nom": "Trigance",
+      "lat": 43.7365,
+      "lon": 6.438,
+      "population": 232
+    },
+    {
+      "insee": "83145",
+      "nom": "Varages",
+      "lat": 43.5924,
+      "lon": 5.9435,
+      "population": 1177
+    },
+    {
+      "insee": "83147",
+      "nom": "Vérignon",
+      "lat": 43.658,
+      "lon": 6.2653,
+      "population": 8
+    },
+    {
+      "insee": "83148",
+      "nom": "Vidauban",
+      "lat": 43.4071,
+      "lon": 6.4599,
+      "population": 12608
+    },
+    {
+      "insee": "83149",
+      "nom": "Villecroze",
+      "lat": 43.5649,
+      "lon": 6.2855,
+      "population": 1514
+    },
+    {
+      "insee": "83150",
+      "nom": "Vinon-sur-Verdon",
+      "lat": 43.7214,
+      "lon": 5.8017,
+      "population": 4464
+    },
+    {
+      "insee": "83151",
+      "nom": "Vins-sur-Caramy",
+      "lat": 43.432,
+      "lon": 6.1495,
+      "population": 936
+    }
+  ]
+}

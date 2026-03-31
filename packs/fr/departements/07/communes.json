@@ -1,0 +1,2352 @@
+{
+  "country": "FR",
+  "departmentCode": "07",
+  "label": "Departement 07",
+  "communes": [
+    {
+      "insee": "07001",
+      "nom": "Accons",
+      "lat": 44.8916,
+      "lon": 4.3944,
+      "population": 361
+    },
+    {
+      "insee": "07002",
+      "nom": "Ailhon",
+      "lat": 44.5992,
+      "lon": 4.3364,
+      "population": 553
+    },
+    {
+      "insee": "07003",
+      "nom": "Aizac",
+      "lat": 44.719,
+      "lon": 4.3335,
+      "population": 169
+    },
+    {
+      "insee": "07004",
+      "nom": "Ajoux",
+      "lat": 44.7541,
+      "lon": 4.4872,
+      "population": 81
+    },
+    {
+      "insee": "07005",
+      "nom": "Alba-la-Romaine",
+      "lat": 44.5593,
+      "lon": 4.5958,
+      "population": 1533
+    },
+    {
+      "insee": "07006",
+      "nom": "Albon-d'Ardèche",
+      "lat": 44.8168,
+      "lon": 4.4183,
+      "population": 159
+    },
+    {
+      "insee": "07007",
+      "nom": "Alboussière",
+      "lat": 44.9395,
+      "lon": 4.7449,
+      "population": 1048
+    },
+    {
+      "insee": "07008",
+      "nom": "Alissas",
+      "lat": 44.7089,
+      "lon": 4.6139,
+      "population": 1519
+    },
+    {
+      "insee": "07009",
+      "nom": "Andance",
+      "lat": 45.2316,
+      "lon": 4.7972,
+      "population": 1192
+    },
+    {
+      "insee": "07010",
+      "nom": "Annonay",
+      "lat": 45.2449,
+      "lon": 4.6419,
+      "population": 17274
+    },
+    {
+      "insee": "07012",
+      "nom": "Arcens",
+      "lat": 44.8963,
+      "lon": 4.3184,
+      "population": 346
+    },
+    {
+      "insee": "07013",
+      "nom": "Ardoix",
+      "lat": 45.1893,
+      "lon": 4.7472,
+      "population": 1308
+    },
+    {
+      "insee": "07014",
+      "nom": "Arlebosc",
+      "lat": 45.0381,
+      "lon": 4.628,
+      "population": 380
+    },
+    {
+      "insee": "07015",
+      "nom": "Arras-sur-Rhône",
+      "lat": 45.143,
+      "lon": 4.8069,
+      "population": 529
+    },
+    {
+      "insee": "07018",
+      "nom": "Astet",
+      "lat": 44.6841,
+      "lon": 4.0211,
+      "population": 59
+    },
+    {
+      "insee": "07019",
+      "nom": "Aubenas",
+      "lat": 44.6107,
+      "lon": 4.3942,
+      "population": 12416
+    },
+    {
+      "insee": "07020",
+      "nom": "Aubignas",
+      "lat": 44.5854,
+      "lon": 4.6309,
+      "population": 476
+    },
+    {
+      "insee": "07022",
+      "nom": "Baix",
+      "lat": 44.7046,
+      "lon": 4.7474,
+      "population": 1296
+    },
+    {
+      "insee": "07023",
+      "nom": "Balazuc",
+      "lat": 44.5123,
+      "lon": 4.3737,
+      "population": 389
+    },
+    {
+      "insee": "07024",
+      "nom": "Banne",
+      "lat": 44.3598,
+      "lon": 4.1463,
+      "population": 648
+    },
+    {
+      "insee": "07025",
+      "nom": "Barnas",
+      "lat": 44.6698,
+      "lon": 4.1589,
+      "population": 209
+    },
+    {
+      "insee": "07027",
+      "nom": "Beauchastel",
+      "lat": 44.8324,
+      "lon": 4.7938,
+      "population": 1800
+    },
+    {
+      "insee": "07028",
+      "nom": "Beaulieu",
+      "lat": 44.3575,
+      "lon": 4.2553,
+      "population": 544
+    },
+    {
+      "insee": "07029",
+      "nom": "Beaumont",
+      "lat": 44.5437,
+      "lon": 4.1709,
+      "population": 262
+    },
+    {
+      "insee": "07030",
+      "nom": "Beauvène",
+      "lat": 44.8669,
+      "lon": 4.5156,
+      "population": 204
+    },
+    {
+      "insee": "07165",
+      "nom": "Belsentes",
+      "lat": 44.92,
+      "lon": 4.4968,
+      "population": 538
+    },
+    {
+      "insee": "07031",
+      "nom": "Berrias-et-Casteljau",
+      "lat": 44.3791,
+      "lon": 4.2056,
+      "population": 793
+    },
+    {
+      "insee": "07032",
+      "nom": "Berzème",
+      "lat": 44.6514,
+      "lon": 4.5717,
+      "population": 159
+    },
+    {
+      "insee": "07033",
+      "nom": "Bessas",
+      "lat": 44.3423,
+      "lon": 4.2987,
+      "population": 234
+    },
+    {
+      "insee": "07034",
+      "nom": "Bidon",
+      "lat": 44.3583,
+      "lon": 4.5423,
+      "population": 254
+    },
+    {
+      "insee": "07035",
+      "nom": "Boffres",
+      "lat": 44.9196,
+      "lon": 4.6891,
+      "population": 633
+    },
+    {
+      "insee": "07036",
+      "nom": "Bogy",
+      "lat": 45.2827,
+      "lon": 4.7682,
+      "population": 488
+    },
+    {
+      "insee": "07037",
+      "nom": "Borée",
+      "lat": 44.894,
+      "lon": 4.2341,
+      "population": 135
+    },
+    {
+      "insee": "07038",
+      "nom": "Borne",
+      "lat": 44.6115,
+      "lon": 4.0444,
+      "population": 42
+    },
+    {
+      "insee": "07040",
+      "nom": "Boucieu-le-Roi",
+      "lat": 45.0287,
+      "lon": 4.6877,
+      "population": 243
+    },
+    {
+      "insee": "07041",
+      "nom": "Boulieu-lès-Annonay",
+      "lat": 45.268,
+      "lon": 4.6433,
+      "population": 2248
+    },
+    {
+      "insee": "07042",
+      "nom": "Bourg-Saint-Andéol",
+      "lat": 44.3742,
+      "lon": 4.6117,
+      "population": 7661
+    },
+    {
+      "insee": "07039",
+      "nom": "Bozas",
+      "lat": 45.0547,
+      "lon": 4.6439,
+      "population": 255
+    },
+    {
+      "insee": "07044",
+      "nom": "Brossainc",
+      "lat": 45.3286,
+      "lon": 4.677,
+      "population": 262
+    },
+    {
+      "insee": "07045",
+      "nom": "Burzet",
+      "lat": 44.7473,
+      "lon": 4.2346,
+      "population": 536
+    },
+    {
+      "insee": "07047",
+      "nom": "Cellier-du-Luc",
+      "lat": 44.6733,
+      "lon": 3.9028,
+      "population": 91
+    },
+    {
+      "insee": "07048",
+      "nom": "Chalencon",
+      "lat": 44.8804,
+      "lon": 4.5582,
+      "population": 328
+    },
+    {
+      "insee": "07050",
+      "nom": "Chambonas",
+      "lat": 44.4253,
+      "lon": 4.1301,
+      "population": 992
+    },
+    {
+      "insee": "07051",
+      "nom": "Champagne",
+      "lat": 45.277,
+      "lon": 4.7979,
+      "population": 652
+    },
+    {
+      "insee": "07052",
+      "nom": "Champis",
+      "lat": 44.9566,
+      "lon": 4.7549,
+      "population": 680
+    },
+    {
+      "insee": "07053",
+      "nom": "Chandolas",
+      "lat": 44.4151,
+      "lon": 4.245,
+      "population": 547
+    },
+    {
+      "insee": "07054",
+      "nom": "Chanéac",
+      "lat": 44.9313,
+      "lon": 4.3127,
+      "population": 254
+    },
+    {
+      "insee": "07055",
+      "nom": "Charmes-sur-Rhône",
+      "lat": 44.8632,
+      "lon": 4.8312,
+      "population": 3143
+    },
+    {
+      "insee": "07056",
+      "nom": "Charnas",
+      "lat": 45.3429,
+      "lon": 4.7309,
+      "population": 925
+    },
+    {
+      "insee": "07058",
+      "nom": "Chassiers",
+      "lat": 44.5656,
+      "lon": 4.2936,
+      "population": 989
+    },
+    {
+      "insee": "07059",
+      "nom": "Châteaubourg",
+      "lat": 44.9881,
+      "lon": 4.8346,
+      "population": 227
+    },
+    {
+      "insee": "07060",
+      "nom": "Châteauneuf-de-Vernoux",
+      "lat": 44.9258,
+      "lon": 4.6483,
+      "population": 288
+    },
+    {
+      "insee": "07061",
+      "nom": "Chauzon",
+      "lat": 44.4937,
+      "lon": 4.3467,
+      "population": 422
+    },
+    {
+      "insee": "07062",
+      "nom": "Chazeaux",
+      "lat": 44.5949,
+      "lon": 4.2974,
+      "population": 134
+    },
+    {
+      "insee": "07063",
+      "nom": "Cheminas",
+      "lat": 45.1316,
+      "lon": 4.7414,
+      "population": 423
+    },
+    {
+      "insee": "07065",
+      "nom": "Chirols",
+      "lat": 44.6879,
+      "lon": 4.2917,
+      "population": 289
+    },
+    {
+      "insee": "07066",
+      "nom": "Chomérac",
+      "lat": 44.7113,
+      "lon": 4.668,
+      "population": 3183
+    },
+    {
+      "insee": "07067",
+      "nom": "Colombier-le-Cardinal",
+      "lat": 45.2645,
+      "lon": 4.7427,
+      "population": 327
+    },
+    {
+      "insee": "07068",
+      "nom": "Colombier-le-Jeune",
+      "lat": 45.0103,
+      "lon": 4.7142,
+      "population": 563
+    },
+    {
+      "insee": "07069",
+      "nom": "Colombier-le-Vieux",
+      "lat": 45.0559,
+      "lon": 4.7069,
+      "population": 690
+    },
+    {
+      "insee": "07070",
+      "nom": "Cornas",
+      "lat": 44.9668,
+      "lon": 4.8441,
+      "population": 2410
+    },
+    {
+      "insee": "07071",
+      "nom": "Coucouron",
+      "lat": 44.7978,
+      "lon": 3.9571,
+      "population": 777
+    },
+    {
+      "insee": "07072",
+      "nom": "Coux",
+      "lat": 44.7434,
+      "lon": 4.6195,
+      "population": 1635
+    },
+    {
+      "insee": "07074",
+      "nom": "Creysseilles",
+      "lat": 44.7645,
+      "lon": 4.5329,
+      "population": 158
+    },
+    {
+      "insee": "07075",
+      "nom": "Cros-de-Géorand",
+      "lat": 44.8008,
+      "lon": 4.1226,
+      "population": 156
+    },
+    {
+      "insee": "07076",
+      "nom": "Cruas",
+      "lat": 44.6552,
+      "lon": 4.7554,
+      "population": 2898
+    },
+    {
+      "insee": "07077",
+      "nom": "Darbres",
+      "lat": 44.6597,
+      "lon": 4.5216,
+      "population": 272
+    },
+    {
+      "insee": "07078",
+      "nom": "Davézieux",
+      "lat": 45.2533,
+      "lon": 4.6989,
+      "population": 3205
+    },
+    {
+      "insee": "07079",
+      "nom": "Désaignes",
+      "lat": 44.9946,
+      "lon": 4.4972,
+      "population": 1151
+    },
+    {
+      "insee": "07080",
+      "nom": "Devesset",
+      "lat": 45.0707,
+      "lon": 4.3987,
+      "population": 310
+    },
+    {
+      "insee": "07081",
+      "nom": "Dompnac",
+      "lat": 44.5607,
+      "lon": 4.1132,
+      "population": 78
+    },
+    {
+      "insee": "07082",
+      "nom": "Dornas",
+      "lat": 44.8494,
+      "lon": 4.3602,
+      "population": 195
+    },
+    {
+      "insee": "07083",
+      "nom": "Dunière-sur-Eyrieux",
+      "lat": 44.8351,
+      "lon": 4.6479,
+      "population": 437
+    },
+    {
+      "insee": "07084",
+      "nom": "Eclassan",
+      "lat": 45.1618,
+      "lon": 4.7442,
+      "population": 1054
+    },
+    {
+      "insee": "07085",
+      "nom": "Empurany",
+      "lat": 45.0254,
+      "lon": 4.5968,
+      "population": 571
+    },
+    {
+      "insee": "07086",
+      "nom": "Étables",
+      "lat": 45.094,
+      "lon": 4.7381,
+      "population": 1000
+    },
+    {
+      "insee": "07087",
+      "nom": "Fabras",
+      "lat": 44.6501,
+      "lon": 4.2807,
+      "population": 467
+    },
+    {
+      "insee": "07088",
+      "nom": "Faugères",
+      "lat": 44.4828,
+      "lon": 4.1436,
+      "population": 123
+    },
+    {
+      "insee": "07089",
+      "nom": "Félines",
+      "lat": 45.3155,
+      "lon": 4.7205,
+      "population": 1934
+    },
+    {
+      "insee": "07090",
+      "nom": "Flaviac",
+      "lat": 44.7522,
+      "lon": 4.6622,
+      "population": 1235
+    },
+    {
+      "insee": "07091",
+      "nom": "Fons",
+      "lat": 44.5826,
+      "lon": 4.3492,
+      "population": 316
+    },
+    {
+      "insee": "07092",
+      "nom": "Freyssenet",
+      "lat": 44.6881,
+      "lon": 4.5466,
+      "population": 48
+    },
+    {
+      "insee": "07093",
+      "nom": "Genestelle",
+      "lat": 44.7401,
+      "lon": 4.3915,
+      "population": 266
+    },
+    {
+      "insee": "07094",
+      "nom": "Gilhac-et-Bruzac",
+      "lat": 44.8624,
+      "lon": 4.7474,
+      "population": 172
+    },
+    {
+      "insee": "07095",
+      "nom": "Gilhoc-sur-Ormèze",
+      "lat": 44.9882,
+      "lon": 4.6757,
+      "population": 470
+    },
+    {
+      "insee": "07096",
+      "nom": "Gluiras",
+      "lat": 44.8456,
+      "lon": 4.522,
+      "population": 366
+    },
+    {
+      "insee": "07097",
+      "nom": "Glun",
+      "lat": 45.008,
+      "lon": 4.823,
+      "population": 677
+    },
+    {
+      "insee": "07098",
+      "nom": "Gourdon",
+      "lat": 44.7328,
+      "lon": 4.4646,
+      "population": 85
+    },
+    {
+      "insee": "07099",
+      "nom": "Gras",
+      "lat": 44.4403,
+      "lon": 4.536,
+      "population": 591
+    },
+    {
+      "insee": "07100",
+      "nom": "Gravières",
+      "lat": 44.4199,
+      "lon": 4.0715,
+      "population": 508
+    },
+    {
+      "insee": "07101",
+      "nom": "Grospierres",
+      "lat": 44.3941,
+      "lon": 4.2868,
+      "population": 941
+    },
+    {
+      "insee": "07102",
+      "nom": "Guilherand-Granges",
+      "lat": 44.9301,
+      "lon": 4.8655,
+      "population": 11235
+    },
+    {
+      "insee": "07104",
+      "nom": "Issamoulenc",
+      "lat": 44.7887,
+      "lon": 4.4519,
+      "population": 107
+    },
+    {
+      "insee": "07105",
+      "nom": "Issanlas",
+      "lat": 44.7644,
+      "lon": 4.0046,
+      "population": 104
+    },
+    {
+      "insee": "07106",
+      "nom": "Issarlès",
+      "lat": 44.8488,
+      "lon": 4.0597,
+      "population": 125
+    },
+    {
+      "insee": "07107",
+      "nom": "Jaujac",
+      "lat": 44.6278,
+      "lon": 4.2409,
+      "population": 1199
+    },
+    {
+      "insee": "07108",
+      "nom": "Jaunac",
+      "lat": 44.9199,
+      "lon": 4.3937,
+      "population": 125
+    },
+    {
+      "insee": "07109",
+      "nom": "Joannas",
+      "lat": 44.5737,
+      "lon": 4.2498,
+      "population": 328
+    },
+    {
+      "insee": "07110",
+      "nom": "Joyeuse",
+      "lat": 44.4713,
+      "lon": 4.2499,
+      "population": 1811
+    },
+    {
+      "insee": "07111",
+      "nom": "Juvinas",
+      "lat": 44.7048,
+      "lon": 4.307,
+      "population": 187
+    },
+    {
+      "insee": "07195",
+      "nom": "La Rochette",
+      "lat": 44.9234,
+      "lon": 4.2296,
+      "population": 63
+    },
+    {
+      "insee": "07315",
+      "nom": "La Souche",
+      "lat": 44.6258,
+      "lon": 4.1565,
+      "population": 385
+    },
+    {
+      "insee": "07349",
+      "nom": "La Voulte-sur-Rhône",
+      "lat": 44.7996,
+      "lon": 4.7829,
+      "population": 4854
+    },
+    {
+      "insee": "07113",
+      "nom": "Labastide-de-Virac",
+      "lat": 44.3551,
+      "lon": 4.4236,
+      "population": 328
+    },
+    {
+      "insee": "07112",
+      "nom": "Labastide-sur-Bésorgues",
+      "lat": 44.7514,
+      "lon": 4.2994,
+      "population": 285
+    },
+    {
+      "insee": "07114",
+      "nom": "Labatie-d'Andaure",
+      "lat": 45.0344,
+      "lon": 4.493,
+      "population": 228
+    },
+    {
+      "insee": "07115",
+      "nom": "Labeaume",
+      "lat": 44.4682,
+      "lon": 4.3074,
+      "population": 698
+    },
+    {
+      "insee": "07116",
+      "nom": "Labégude",
+      "lat": 44.6412,
+      "lon": 4.3571,
+      "population": 1397
+    },
+    {
+      "insee": "07117",
+      "nom": "Lablachère",
+      "lat": 44.4611,
+      "lon": 4.2159,
+      "population": 2193
+    },
+    {
+      "insee": "07118",
+      "nom": "Laboule",
+      "lat": 44.5928,
+      "lon": 4.1718,
+      "population": 146
+    },
+    {
+      "insee": "07120",
+      "nom": "Lachamp-Raphaël",
+      "lat": 44.7969,
+      "lon": 4.286,
+      "population": 70
+    },
+    {
+      "insee": "07121",
+      "nom": "Lachapelle-Graillouse",
+      "lat": 44.8121,
+      "lon": 4.0241,
+      "population": 182
+    },
+    {
+      "insee": "07122",
+      "nom": "Lachapelle-sous-Aubenas",
+      "lat": 44.5601,
+      "lon": 4.3552,
+      "population": 1911
+    },
+    {
+      "insee": "07123",
+      "nom": "Lachapelle-sous-Chanéac",
+      "lat": 44.9535,
+      "lon": 4.3203,
+      "population": 158
+    },
+    {
+      "insee": "07124",
+      "nom": "Lafarre",
+      "lat": 45.0769,
+      "lon": 4.5169,
+      "population": 45
+    },
+    {
+      "insee": "07126",
+      "nom": "Lagorce",
+      "lat": 44.4469,
+      "lon": 4.4293,
+      "population": 1257
+    },
+    {
+      "insee": "07127",
+      "nom": "Lalevade-d'Ardèche",
+      "lat": 44.6527,
+      "lon": 4.3161,
+      "population": 1120
+    },
+    {
+      "insee": "07128",
+      "nom": "Lalouvesc",
+      "lat": 45.1169,
+      "lon": 4.5216,
+      "population": 388
+    },
+    {
+      "insee": "07129",
+      "nom": "Lamastre",
+      "lat": 44.9767,
+      "lon": 4.5911,
+      "population": 2327
+    },
+    {
+      "insee": "07130",
+      "nom": "Lanarce",
+      "lat": 44.731,
+      "lon": 4.0027,
+      "population": 212
+    },
+    {
+      "insee": "07131",
+      "nom": "Lanas",
+      "lat": 44.5339,
+      "lon": 4.3812,
+      "population": 429
+    },
+    {
+      "insee": "07132",
+      "nom": "Largentière",
+      "lat": 44.5307,
+      "lon": 4.2984,
+      "population": 1450
+    },
+    {
+      "insee": "07133",
+      "nom": "Larnas",
+      "lat": 44.4553,
+      "lon": 4.5959,
+      "population": 283
+    },
+    {
+      "insee": "07134",
+      "nom": "Laurac-en-Vivarais",
+      "lat": 44.5051,
+      "lon": 4.2875,
+      "population": 1045
+    },
+    {
+      "insee": "07136",
+      "nom": "Laveyrune",
+      "lat": 44.6174,
+      "lon": 3.9255,
+      "population": 111
+    },
+    {
+      "insee": "07137",
+      "nom": "Lavillatte",
+      "lat": 44.7419,
+      "lon": 3.9524,
+      "population": 44
+    },
+    {
+      "insee": "07138",
+      "nom": "Lavilledieu",
+      "lat": 44.5818,
+      "lon": 4.4474,
+      "population": 2264
+    },
+    {
+      "insee": "07139",
+      "nom": "Laviolle",
+      "lat": 44.761,
+      "lon": 4.3338,
+      "population": 98
+    },
+    {
+      "insee": "07026",
+      "nom": "Le Béage",
+      "lat": 44.8542,
+      "lon": 4.1346,
+      "population": 254
+    },
+    {
+      "insee": "07049",
+      "nom": "Le Chambon",
+      "lat": 44.8306,
+      "lon": 4.2996,
+      "population": 58
+    },
+    {
+      "insee": "07064",
+      "nom": "Le Cheylard",
+      "lat": 44.9061,
+      "lon": 4.422,
+      "population": 2803
+    },
+    {
+      "insee": "07073",
+      "nom": "Le Crestet",
+      "lat": 45.0115,
+      "lon": 4.6322,
+      "population": 518
+    },
+    {
+      "insee": "07119",
+      "nom": "Le Lac-d'Issarlès",
+      "lat": 44.8282,
+      "lon": 4.0749,
+      "population": 247
+    },
+    {
+      "insee": "07175",
+      "nom": "Le Plagnal",
+      "lat": 44.697,
+      "lon": 3.9553,
+      "population": 66
+    },
+    {
+      "insee": "07181",
+      "nom": "Le Pouzin",
+      "lat": 44.7537,
+      "lon": 4.7491,
+      "population": 2886
+    },
+    {
+      "insee": "07200",
+      "nom": "Le Roux",
+      "lat": 44.7201,
+      "lon": 4.1409,
+      "population": 67
+    },
+    {
+      "insee": "07319",
+      "nom": "Le Teil",
+      "lat": 44.5476,
+      "lon": 4.6664,
+      "population": 8726
+    },
+    {
+      "insee": "07140",
+      "nom": "Lemps",
+      "lat": 45.0902,
+      "lon": 4.7876,
+      "population": 798
+    },
+    {
+      "insee": "07141",
+      "nom": "Lentillères",
+      "lat": 44.6071,
+      "lon": 4.2948,
+      "population": 236
+    },
+    {
+      "insee": "07017",
+      "nom": "Les Assions",
+      "lat": 44.4243,
+      "lon": 4.1882,
+      "population": 767
+    },
+    {
+      "insee": "07167",
+      "nom": "Les Ollières-sur-Eyrieux",
+      "lat": 44.8068,
+      "lon": 4.6207,
+      "population": 1031
+    },
+    {
+      "insee": "07305",
+      "nom": "Les Salelles",
+      "lat": 44.4355,
+      "lon": 4.0989,
+      "population": 414
+    },
+    {
+      "insee": "07334",
+      "nom": "Les Vans",
+      "lat": 44.3884,
+      "lon": 4.1145,
+      "population": 2662
+    },
+    {
+      "insee": "07142",
+      "nom": "Lespéron",
+      "lat": 44.731,
+      "lon": 3.9001,
+      "population": 330
+    },
+    {
+      "insee": "07143",
+      "nom": "Limony",
+      "lat": 45.351,
+      "lon": 4.749,
+      "population": 833
+    },
+    {
+      "insee": "07144",
+      "nom": "Loubaresse",
+      "lat": 44.5921,
+      "lon": 4.0555,
+      "population": 43
+    },
+    {
+      "insee": "07145",
+      "nom": "Lussas",
+      "lat": 44.6208,
+      "lon": 4.4653,
+      "population": 1145
+    },
+    {
+      "insee": "07146",
+      "nom": "Lyas",
+      "lat": 44.7545,
+      "lon": 4.5976,
+      "population": 592
+    },
+    {
+      "insee": "07147",
+      "nom": "Malarce-sur-la-Thines",
+      "lat": 44.4777,
+      "lon": 4.0512,
+      "population": 268
+    },
+    {
+      "insee": "07148",
+      "nom": "Malbosc",
+      "lat": 44.3484,
+      "lon": 4.0729,
+      "population": 146
+    },
+    {
+      "insee": "07149",
+      "nom": "Marcols-les-Eaux",
+      "lat": 44.806,
+      "lon": 4.3881,
+      "population": 291
+    },
+    {
+      "insee": "07150",
+      "nom": "Mariac",
+      "lat": 44.8877,
+      "lon": 4.351,
+      "population": 541
+    },
+    {
+      "insee": "07151",
+      "nom": "Mars",
+      "lat": 45.0087,
+      "lon": 4.3299,
+      "population": 243
+    },
+    {
+      "insee": "07152",
+      "nom": "Mauves",
+      "lat": 45.0294,
+      "lon": 4.8182,
+      "population": 1210
+    },
+    {
+      "insee": "07153",
+      "nom": "Mayres",
+      "lat": 44.6646,
+      "lon": 4.1001,
+      "population": 262
+    },
+    {
+      "insee": "07154",
+      "nom": "Mazan-l'Abbaye",
+      "lat": 44.7272,
+      "lon": 4.084,
+      "population": 120
+    },
+    {
+      "insee": "07155",
+      "nom": "Mercuer",
+      "lat": 44.6242,
+      "lon": 4.3509,
+      "population": 1325
+    },
+    {
+      "insee": "07156",
+      "nom": "Meyras",
+      "lat": 44.6786,
+      "lon": 4.26,
+      "population": 889
+    },
+    {
+      "insee": "07157",
+      "nom": "Meysse",
+      "lat": 44.6188,
+      "lon": 4.704,
+      "population": 1366
+    },
+    {
+      "insee": "07158",
+      "nom": "Mézilhac",
+      "lat": 44.8078,
+      "lon": 4.342,
+      "population": 107
+    },
+    {
+      "insee": "07159",
+      "nom": "Mirabel",
+      "lat": 44.5986,
+      "lon": 4.4967,
+      "population": 769
+    },
+    {
+      "insee": "07160",
+      "nom": "Monestier",
+      "lat": 45.2032,
+      "lon": 4.5089,
+      "population": 58
+    },
+    {
+      "insee": "07161",
+      "nom": "Montpezat-sous-Bauzon",
+      "lat": 44.7214,
+      "lon": 4.1977,
+      "population": 770
+    },
+    {
+      "insee": "07162",
+      "nom": "Montréal",
+      "lat": 44.5124,
+      "lon": 4.2937,
+      "population": 573
+    },
+    {
+      "insee": "07163",
+      "nom": "Montselgues",
+      "lat": 44.5234,
+      "lon": 4.0037,
+      "population": 86
+    },
+    {
+      "insee": "07166",
+      "nom": "Nozières",
+      "lat": 45.032,
+      "lon": 4.5405,
+      "population": 237
+    },
+    {
+      "insee": "07168",
+      "nom": "Orgnac-l'Aven",
+      "lat": 44.3094,
+      "lon": 4.4214,
+      "population": 575
+    },
+    {
+      "insee": "07169",
+      "nom": "Ozon",
+      "lat": 45.1637,
+      "lon": 4.7985,
+      "population": 382
+    },
+    {
+      "insee": "07170",
+      "nom": "Pailharès",
+      "lat": 45.0786,
+      "lon": 4.5574,
+      "population": 310
+    },
+    {
+      "insee": "07171",
+      "nom": "Payzac",
+      "lat": 44.4543,
+      "lon": 4.1474,
+      "population": 539
+    },
+    {
+      "insee": "07172",
+      "nom": "Peaugres",
+      "lat": 45.2827,
+      "lon": 4.7335,
+      "population": 2385
+    },
+    {
+      "insee": "07173",
+      "nom": "Péreyres",
+      "lat": 44.7803,
+      "lon": 4.259,
+      "population": 49
+    },
+    {
+      "insee": "07174",
+      "nom": "Peyraud",
+      "lat": 45.297,
+      "lon": 4.7823,
+      "population": 516
+    },
+    {
+      "insee": "07176",
+      "nom": "Planzolles",
+      "lat": 44.4845,
+      "lon": 4.1576,
+      "population": 164
+    },
+    {
+      "insee": "07177",
+      "nom": "Plats",
+      "lat": 45.0167,
+      "lon": 4.7815,
+      "population": 828
+    },
+    {
+      "insee": "07178",
+      "nom": "Pont-de-Labeaume",
+      "lat": 44.6662,
+      "lon": 4.2961,
+      "population": 567
+    },
+    {
+      "insee": "07179",
+      "nom": "Pourchères",
+      "lat": 44.7423,
+      "lon": 4.5051,
+      "population": 136
+    },
+    {
+      "insee": "07182",
+      "nom": "Prades",
+      "lat": 44.6334,
+      "lon": 4.3115,
+      "population": 1195
+    },
+    {
+      "insee": "07183",
+      "nom": "Pradons",
+      "lat": 44.4725,
+      "lon": 4.3754,
+      "population": 545
+    },
+    {
+      "insee": "07184",
+      "nom": "Pranles",
+      "lat": 44.781,
+      "lon": 4.5818,
+      "population": 499
+    },
+    {
+      "insee": "07185",
+      "nom": "Préaux",
+      "lat": 45.1376,
+      "lon": 4.6458,
+      "population": 708
+    },
+    {
+      "insee": "07186",
+      "nom": "Privas",
+      "lat": 44.7214,
+      "lon": 4.5949,
+      "population": 8538
+    },
+    {
+      "insee": "07187",
+      "nom": "Prunet",
+      "lat": 44.5957,
+      "lon": 4.255,
+      "population": 134
+    },
+    {
+      "insee": "07188",
+      "nom": "Quintenas",
+      "lat": 45.1916,
+      "lon": 4.702,
+      "population": 1770
+    },
+    {
+      "insee": "07189",
+      "nom": "Ribes",
+      "lat": 44.5035,
+      "lon": 4.1969,
+      "population": 331
+    },
+    {
+      "insee": "07190",
+      "nom": "Rochecolombe",
+      "lat": 44.518,
+      "lon": 4.4519,
+      "population": 227
+    },
+    {
+      "insee": "07191",
+      "nom": "Rochemaure",
+      "lat": 44.5863,
+      "lon": 4.6972,
+      "population": 2239
+    },
+    {
+      "insee": "07192",
+      "nom": "Rochepaule",
+      "lat": 45.0852,
+      "lon": 4.46,
+      "population": 237
+    },
+    {
+      "insee": "07193",
+      "nom": "Rocher",
+      "lat": 44.581,
+      "lon": 4.2779,
+      "population": 306
+    },
+    {
+      "insee": "07194",
+      "nom": "Rochessauve",
+      "lat": 44.6779,
+      "lon": 4.6063,
+      "population": 495
+    },
+    {
+      "insee": "07196",
+      "nom": "Rocles",
+      "lat": 44.5709,
+      "lon": 4.2085,
+      "population": 261
+    },
+    {
+      "insee": "07197",
+      "nom": "Roiffieux",
+      "lat": 45.2208,
+      "lon": 4.6528,
+      "population": 2743
+    },
+    {
+      "insee": "07198",
+      "nom": "Rompon",
+      "lat": 44.768,
+      "lon": 4.7285,
+      "population": 1139
+    },
+    {
+      "insee": "07199",
+      "nom": "Rosières",
+      "lat": 44.4878,
+      "lon": 4.2607,
+      "population": 1319
+    },
+    {
+      "insee": "07201",
+      "nom": "Ruoms",
+      "lat": 44.4506,
+      "lon": 4.347,
+      "population": 2311
+    },
+    {
+      "insee": "07202",
+      "nom": "Sablières",
+      "lat": 44.5451,
+      "lon": 4.0675,
+      "population": 166
+    },
+    {
+      "insee": "07203",
+      "nom": "Sagnes-et-Goudoulet",
+      "lat": 44.8027,
+      "lon": 4.2169,
+      "population": 121
+    },
+    {
+      "insee": "07204",
+      "nom": "Saint-Agrève",
+      "lat": 44.9963,
+      "lon": 4.4188,
+      "population": 2277
+    },
+    {
+      "insee": "07207",
+      "nom": "Saint-Alban-Auriolles",
+      "lat": 44.4324,
+      "lon": 4.2965,
+      "population": 1138
+    },
+    {
+      "insee": "07205",
+      "nom": "Saint-Alban-d'Ay",
+      "lat": 45.1862,
+      "lon": 4.6318,
+      "population": 1384
+    },
+    {
+      "insee": "07206",
+      "nom": "Saint-Alban-en-Montagne",
+      "lat": 44.7103,
+      "lon": 3.9172,
+      "population": 63
+    },
+    {
+      "insee": "07208",
+      "nom": "Saint-Andéol-de-Berg",
+      "lat": 44.53,
+      "lon": 4.5336,
+      "population": 134
+    },
+    {
+      "insee": "07209",
+      "nom": "Saint-Andéol-de-Fourchades",
+      "lat": 44.8434,
+      "lon": 4.2894,
+      "population": 52
+    },
+    {
+      "insee": "07210",
+      "nom": "Saint-Andéol-de-Vals",
+      "lat": 44.6976,
+      "lon": 4.4015,
+      "population": 535
+    },
+    {
+      "insee": "07211",
+      "nom": "Saint-André-de-Cruzières",
+      "lat": 44.3158,
+      "lon": 4.2147,
+      "population": 467
+    },
+    {
+      "insee": "07212",
+      "nom": "Saint-André-en-Vivarais",
+      "lat": 45.1131,
+      "lon": 4.4162,
+      "population": 212
+    },
+    {
+      "insee": "07213",
+      "nom": "Saint-André-Lachamp",
+      "lat": 44.5057,
+      "lon": 4.155,
+      "population": 167
+    },
+    {
+      "insee": "07214",
+      "nom": "Saint-Apollinaire-de-Rias",
+      "lat": 44.917,
+      "lon": 4.5843,
+      "population": 195
+    },
+    {
+      "insee": "07216",
+      "nom": "Saint-Barthélemy-Grozon",
+      "lat": 44.9618,
+      "lon": 4.6507,
+      "population": 494
+    },
+    {
+      "insee": "07215",
+      "nom": "Saint-Barthélemy-le-Meil",
+      "lat": 44.8823,
+      "lon": 4.4823,
+      "population": 201
+    },
+    {
+      "insee": "07217",
+      "nom": "Saint-Barthélemy-le-Plain",
+      "lat": 45.0493,
+      "lon": 4.7455,
+      "population": 858
+    },
+    {
+      "insee": "07218",
+      "nom": "Saint-Basile",
+      "lat": 44.9479,
+      "lon": 4.5618,
+      "population": 356
+    },
+    {
+      "insee": "07219",
+      "nom": "Saint-Bauzile",
+      "lat": 44.6708,
+      "lon": 4.6662,
+      "population": 311
+    },
+    {
+      "insee": "07220",
+      "nom": "Saint-Christol",
+      "lat": 44.8702,
+      "lon": 4.4366,
+      "population": 102
+    },
+    {
+      "insee": "07221",
+      "nom": "Saint-Cierge-la-Serre",
+      "lat": 44.792,
+      "lon": 4.6792,
+      "population": 243
+    },
+    {
+      "insee": "07222",
+      "nom": "Saint-Cierge-sous-le-Cheylard",
+      "lat": 44.9248,
+      "lon": 4.451,
+      "population": 214
+    },
+    {
+      "insee": "07223",
+      "nom": "Saint-Cirgues-de-Prades",
+      "lat": 44.6214,
+      "lon": 4.2729,
+      "population": 142
+    },
+    {
+      "insee": "07224",
+      "nom": "Saint-Cirgues-en-Montagne",
+      "lat": 44.7709,
+      "lon": 4.1012,
+      "population": 211
+    },
+    {
+      "insee": "07225",
+      "nom": "Saint-Clair",
+      "lat": 45.2764,
+      "lon": 4.6855,
+      "population": 1348
+    },
+    {
+      "insee": "07226",
+      "nom": "Saint-Clément",
+      "lat": 44.9502,
+      "lon": 4.2623,
+      "population": 90
+    },
+    {
+      "insee": "07227",
+      "nom": "Saint-Cyr",
+      "lat": 45.2505,
+      "lon": 4.7379,
+      "population": 1476
+    },
+    {
+      "insee": "07228",
+      "nom": "Saint-Désirat",
+      "lat": 45.2568,
+      "lon": 4.7837,
+      "population": 891
+    },
+    {
+      "insee": "07229",
+      "nom": "Saint-Didier-sous-Aubenas",
+      "lat": 44.6101,
+      "lon": 4.4202,
+      "population": 919
+    },
+    {
+      "insee": "07230",
+      "nom": "Saint-Étienne-de-Boulogne",
+      "lat": 44.7015,
+      "lon": 4.4709,
+      "population": 399
+    },
+    {
+      "insee": "07231",
+      "nom": "Saint-Étienne-de-Fontbellon",
+      "lat": 44.5962,
+      "lon": 4.378,
+      "population": 2920
+    },
+    {
+      "insee": "07232",
+      "nom": "Saint-Étienne-de-Lugdarès",
+      "lat": 44.6468,
+      "lon": 3.974,
+      "population": 406
+    },
+    {
+      "insee": "07233",
+      "nom": "Saint-Étienne-de-Serre",
+      "lat": 44.8026,
+      "lon": 4.5216,
+      "population": 230
+    },
+    {
+      "insee": "07234",
+      "nom": "Saint-Étienne-de-Valoux",
+      "lat": 45.2409,
+      "lon": 4.7754,
+      "population": 263
+    },
+    {
+      "insee": "07236",
+      "nom": "Saint-Félicien",
+      "lat": 45.0798,
+      "lon": 4.6064,
+      "population": 1119
+    },
+    {
+      "insee": "07237",
+      "nom": "Saint-Fortunat-sur-Eyrieux",
+      "lat": 44.8385,
+      "lon": 4.684,
+      "population": 817
+    },
+    {
+      "insee": "07238",
+      "nom": "Saint-Genest-de-Beauzon",
+      "lat": 44.4459,
+      "lon": 4.1951,
+      "population": 332
+    },
+    {
+      "insee": "07239",
+      "nom": "Saint-Genest-Lachamp",
+      "lat": 44.8458,
+      "lon": 4.4249,
+      "population": 112
+    },
+    {
+      "insee": "07240",
+      "nom": "Saint-Georges-les-Bains",
+      "lat": 44.8569,
+      "lon": 4.8088,
+      "population": 2416
+    },
+    {
+      "insee": "07241",
+      "nom": "Saint-Germain",
+      "lat": 44.5549,
+      "lon": 4.448,
+      "population": 705
+    },
+    {
+      "insee": "07242",
+      "nom": "Saint-Gineys-en-Coiron",
+      "lat": 44.6346,
+      "lon": 4.5402,
+      "population": 125
+    },
+    {
+      "insee": "07243",
+      "nom": "Saint-Jacques-d'Atticieux",
+      "lat": 45.333,
+      "lon": 4.6684,
+      "population": 301
+    },
+    {
+      "insee": "07244",
+      "nom": "Saint-Jean-Chambre",
+      "lat": 44.9095,
+      "lon": 4.5604,
+      "population": 255
+    },
+    {
+      "insee": "07245",
+      "nom": "Saint-Jean-de-Muzols",
+      "lat": 45.0775,
+      "lon": 4.8001,
+      "population": 2489
+    },
+    {
+      "insee": "07247",
+      "nom": "Saint-Jean-le-Centenier",
+      "lat": 44.586,
+      "lon": 4.5358,
+      "population": 871
+    },
+    {
+      "insee": "07248",
+      "nom": "Saint-Jean-Roure",
+      "lat": 44.9535,
+      "lon": 4.4183,
+      "population": 275
+    },
+    {
+      "insee": "07249",
+      "nom": "Saint-Jeure-d'Andaure",
+      "lat": 45.0472,
+      "lon": 4.4673,
+      "population": 104
+    },
+    {
+      "insee": "07250",
+      "nom": "Saint-Jeure-d'Ay",
+      "lat": 45.1453,
+      "lon": 4.7123,
+      "population": 495
+    },
+    {
+      "insee": "07251",
+      "nom": "Saint-Joseph-des-Bancs",
+      "lat": 44.7515,
+      "lon": 4.4147,
+      "population": 200
+    },
+    {
+      "insee": "07103",
+      "nom": "Saint-Julien-d'Intres",
+      "lat": 44.9792,
+      "lon": 4.3415,
+      "population": 303
+    },
+    {
+      "insee": "07253",
+      "nom": "Saint-Julien-du-Gua",
+      "lat": 44.7702,
+      "lon": 4.4419,
+      "population": 169
+    },
+    {
+      "insee": "07254",
+      "nom": "Saint-Julien-du-Serre",
+      "lat": 44.6603,
+      "lon": 4.402,
+      "population": 879
+    },
+    {
+      "insee": "07255",
+      "nom": "Saint-Julien-en-Saint-Alban",
+      "lat": 44.7516,
+      "lon": 4.69,
+      "population": 1465
+    },
+    {
+      "insee": "07257",
+      "nom": "Saint-Julien-le-Roux",
+      "lat": 44.8663,
+      "lon": 4.6773,
+      "population": 127
+    },
+    {
+      "insee": "07258",
+      "nom": "Saint-Julien-Vocance",
+      "lat": 45.1676,
+      "lon": 4.4897,
+      "population": 221
+    },
+    {
+      "insee": "07259",
+      "nom": "Saint-Just-d'Ardèche",
+      "lat": 44.2917,
+      "lon": 4.6242,
+      "population": 1577
+    },
+    {
+      "insee": "07260",
+      "nom": "Saint-Lager-Bressac",
+      "lat": 44.6916,
+      "lon": 4.7196,
+      "population": 971
+    },
+    {
+      "insee": "07261",
+      "nom": "Saint-Laurent-du-Pape",
+      "lat": 44.8234,
+      "lon": 4.7475,
+      "population": 1618
+    },
+    {
+      "insee": "07262",
+      "nom": "Saint-Laurent-les-Bains-Laval-d'Aurelle",
+      "lat": 44.5906,
+      "lon": 3.9592,
+      "population": 183
+    },
+    {
+      "insee": "07263",
+      "nom": "Saint-Laurent-sous-Coiron",
+      "lat": 44.6726,
+      "lon": 4.4838,
+      "population": 122
+    },
+    {
+      "insee": "07264",
+      "nom": "Saint-Marcel-d'Ardèche",
+      "lat": 44.3301,
+      "lon": 4.6007,
+      "population": 2346
+    },
+    {
+      "insee": "07265",
+      "nom": "Saint-Marcel-lès-Annonay",
+      "lat": 45.2909,
+      "lon": 4.634,
+      "population": 1357
+    },
+    {
+      "insee": "07267",
+      "nom": "Saint-Martial",
+      "lat": 44.8573,
+      "lon": 4.2507,
+      "population": 269
+    },
+    {
+      "insee": "07268",
+      "nom": "Saint-Martin-d'Ardèche",
+      "lat": 44.3073,
+      "lon": 4.5722,
+      "population": 979
+    },
+    {
+      "insee": "07269",
+      "nom": "Saint-Martin-de-Valamas",
+      "lat": 44.9368,
+      "lon": 4.3696,
+      "population": 1075
+    },
+    {
+      "insee": "07270",
+      "nom": "Saint-Martin-sur-Lavezon",
+      "lat": 44.6383,
+      "lon": 4.6526,
+      "population": 422
+    },
+    {
+      "insee": "07272",
+      "nom": "Saint-Maurice-d'Ardèche",
+      "lat": 44.5198,
+      "lon": 4.4015,
+      "population": 375
+    },
+    {
+      "insee": "07273",
+      "nom": "Saint-Maurice-d'Ibie",
+      "lat": 44.4782,
+      "lon": 4.4861,
+      "population": 212
+    },
+    {
+      "insee": "07274",
+      "nom": "Saint-Maurice-en-Chalencon",
+      "lat": 44.8548,
+      "lon": 4.5812,
+      "population": 203
+    },
+    {
+      "insee": "07275",
+      "nom": "Saint-Mélany",
+      "lat": 44.5391,
+      "lon": 4.1276,
+      "population": 118
+    },
+    {
+      "insee": "07276",
+      "nom": "Saint-Michel-d'Aurance",
+      "lat": 44.8995,
+      "lon": 4.4587,
+      "population": 262
+    },
+    {
+      "insee": "07277",
+      "nom": "Saint-Michel-de-Boulogne",
+      "lat": 44.6993,
+      "lon": 4.4323,
+      "population": 149
+    },
+    {
+      "insee": "07278",
+      "nom": "Saint-Michel-de-Chabrillanoux",
+      "lat": 44.8365,
+      "lon": 4.6116,
+      "population": 406
+    },
+    {
+      "insee": "07279",
+      "nom": "Saint-Montan",
+      "lat": 44.4379,
+      "lon": 4.6185,
+      "population": 1978
+    },
+    {
+      "insee": "07280",
+      "nom": "Saint-Paul-le-Jeune",
+      "lat": 44.3332,
+      "lon": 4.1573,
+      "population": 968
+    },
+    {
+      "insee": "07281",
+      "nom": "Saint-Péray",
+      "lat": 44.9394,
+      "lon": 4.8314,
+      "population": 7580
+    },
+    {
+      "insee": "07282",
+      "nom": "Saint-Pierre-de-Colombier",
+      "lat": 44.7102,
+      "lon": 4.2651,
+      "population": 444
+    },
+    {
+      "insee": "07283",
+      "nom": "Saint-Pierre-la-Roche",
+      "lat": 44.6553,
+      "lon": 4.6188,
+      "population": 67
+    },
+    {
+      "insee": "07284",
+      "nom": "Saint-Pierre-Saint-Jean",
+      "lat": 44.4785,
+      "lon": 4.0971,
+      "population": 195
+    },
+    {
+      "insee": "07285",
+      "nom": "Saint-Pierre-sur-Doux",
+      "lat": 45.126,
+      "lon": 4.4848,
+      "population": 108
+    },
+    {
+      "insee": "07286",
+      "nom": "Saint-Pierreville",
+      "lat": 44.8242,
+      "lon": 4.4845,
+      "population": 510
+    },
+    {
+      "insee": "07287",
+      "nom": "Saint-Pons",
+      "lat": 44.5985,
+      "lon": 4.5725,
+      "population": 308
+    },
+    {
+      "insee": "07288",
+      "nom": "Saint-Priest",
+      "lat": 44.7148,
+      "lon": 4.5389,
+      "population": 1345
+    },
+    {
+      "insee": "07289",
+      "nom": "Saint-Privat",
+      "lat": 44.6284,
+      "lon": 4.4239,
+      "population": 1663
+    },
+    {
+      "insee": "07290",
+      "nom": "Saint-Prix",
+      "lat": 44.9506,
+      "lon": 4.503,
+      "population": 269
+    },
+    {
+      "insee": "07291",
+      "nom": "Saint-Remèze",
+      "lat": 44.3768,
+      "lon": 4.4979,
+      "population": 847
+    },
+    {
+      "insee": "07292",
+      "nom": "Saint-Romain-d'Ay",
+      "lat": 45.1662,
+      "lon": 4.6804,
+      "population": 1164
+    },
+    {
+      "insee": "07293",
+      "nom": "Saint-Romain-de-Lerps",
+      "lat": 44.9768,
+      "lon": 4.7952,
+      "population": 1034
+    },
+    {
+      "insee": "07294",
+      "nom": "Saint-Sauveur-de-Cruzières",
+      "lat": 44.295,
+      "lon": 4.2535,
+      "population": 572
+    },
+    {
+      "insee": "07295",
+      "nom": "Saint-Sauveur-de-Montagut",
+      "lat": 44.8199,
+      "lon": 4.5772,
+      "population": 1115
+    },
+    {
+      "insee": "07296",
+      "nom": "Saint-Sernin",
+      "lat": 44.5755,
+      "lon": 4.3762,
+      "population": 1872
+    },
+    {
+      "insee": "07297",
+      "nom": "Saint-Sylvestre",
+      "lat": 44.9865,
+      "lon": 4.7481,
+      "population": 513
+    },
+    {
+      "insee": "07299",
+      "nom": "Saint-Symphorien-de-Mahun",
+      "lat": 45.1563,
+      "lon": 4.5534,
+      "population": 116
+    },
+    {
+      "insee": "07298",
+      "nom": "Saint-Symphorien-sous-Chomérac",
+      "lat": 44.7301,
+      "lon": 4.7073,
+      "population": 887
+    },
+    {
+      "insee": "07300",
+      "nom": "Saint-Thomé",
+      "lat": 44.5037,
+      "lon": 4.6184,
+      "population": 480
+    },
+    {
+      "insee": "07301",
+      "nom": "Saint-Victor",
+      "lat": 45.104,
+      "lon": 4.6867,
+      "population": 968
+    },
+    {
+      "insee": "07302",
+      "nom": "Saint-Vincent-de-Barrès",
+      "lat": 44.6583,
+      "lon": 4.7033,
+      "population": 824
+    },
+    {
+      "insee": "07303",
+      "nom": "Saint-Vincent-de-Durfort",
+      "lat": 44.7912,
+      "lon": 4.6373,
+      "population": 274
+    },
+    {
+      "insee": "07235",
+      "nom": "Sainte-Eulalie",
+      "lat": 44.8297,
+      "lon": 4.1918,
+      "population": 209
+    },
+    {
+      "insee": "07266",
+      "nom": "Sainte-Marguerite-Lafigère",
+      "lat": 44.4866,
+      "lon": 3.9975,
+      "population": 111
+    },
+    {
+      "insee": "07304",
+      "nom": "Salavas",
+      "lat": 44.3882,
+      "lon": 4.3652,
+      "population": 740
+    },
+    {
+      "insee": "07306",
+      "nom": "Sampzon",
+      "lat": 44.4119,
+      "lon": 4.3342,
+      "population": 241
+    },
+    {
+      "insee": "07307",
+      "nom": "Sanilhac",
+      "lat": 44.5309,
+      "lon": 4.2343,
+      "population": 437
+    },
+    {
+      "insee": "07308",
+      "nom": "Sarras",
+      "lat": 45.1866,
+      "lon": 4.7775,
+      "population": 2220
+    },
+    {
+      "insee": "07309",
+      "nom": "Satillieu",
+      "lat": 45.142,
+      "lon": 4.5925,
+      "population": 1534
+    },
+    {
+      "insee": "07310",
+      "nom": "Savas",
+      "lat": 45.3001,
+      "lon": 4.6706,
+      "population": 896
+    },
+    {
+      "insee": "07311",
+      "nom": "Sceautres",
+      "lat": 44.6158,
+      "lon": 4.609,
+      "population": 143
+    },
+    {
+      "insee": "07312",
+      "nom": "Sécheras",
+      "lat": 45.1296,
+      "lon": 4.7759,
+      "population": 516
+    },
+    {
+      "insee": "07313",
+      "nom": "Serrières",
+      "lat": 45.3178,
+      "lon": 4.7654,
+      "population": 1095
+    },
+    {
+      "insee": "07314",
+      "nom": "Silhac",
+      "lat": 44.8738,
+      "lon": 4.6089,
+      "population": 407
+    },
+    {
+      "insee": "07316",
+      "nom": "Soyons",
+      "lat": 44.8919,
+      "lon": 4.8504,
+      "population": 2341
+    },
+    {
+      "insee": "07317",
+      "nom": "Talencieux",
+      "lat": 45.2199,
+      "lon": 4.7724,
+      "population": 1112
+    },
+    {
+      "insee": "07318",
+      "nom": "Tauriers",
+      "lat": 44.5518,
+      "lon": 4.271,
+      "population": 203
+    },
+    {
+      "insee": "07321",
+      "nom": "Thorrenc",
+      "lat": 45.2327,
+      "lon": 4.7606,
+      "population": 356
+    },
+    {
+      "insee": "07322",
+      "nom": "Thueyts",
+      "lat": 44.6727,
+      "lon": 4.2107,
+      "population": 1205
+    },
+    {
+      "insee": "07323",
+      "nom": "Toulaud",
+      "lat": 44.9009,
+      "lon": 4.7942,
+      "population": 1687
+    },
+    {
+      "insee": "07324",
+      "nom": "Tournon-sur-Rhône",
+      "lat": 45.0534,
+      "lon": 4.8156,
+      "population": 11279
+    },
+    {
+      "insee": "07325",
+      "nom": "Ucel",
+      "lat": 44.6412,
+      "lon": 4.3867,
+      "population": 2019
+    },
+    {
+      "insee": "07326",
+      "nom": "Usclades-et-Rieutord",
+      "lat": 44.7722,
+      "lon": 4.1673,
+      "population": 106
+    },
+    {
+      "insee": "07327",
+      "nom": "Uzer",
+      "lat": 44.5177,
+      "lon": 4.3287,
+      "population": 421
+    },
+    {
+      "insee": "07328",
+      "nom": "Vagnas",
+      "lat": 44.3627,
+      "lon": 4.3466,
+      "population": 636
+    },
+    {
+      "insee": "07329",
+      "nom": "Valgorge",
+      "lat": 44.5918,
+      "lon": 4.1118,
+      "population": 412
+    },
+    {
+      "insee": "07011",
+      "nom": "Vallées-d'Antraigues-Asperjoc",
+      "lat": 44.7302,
+      "lon": 4.3463,
+      "population": 845
+    },
+    {
+      "insee": "07330",
+      "nom": "Vallon-Pont-d'Arc",
+      "lat": 44.3982,
+      "lon": 4.4024,
+      "population": 2403
+    },
+    {
+      "insee": "07331",
+      "nom": "Vals-les-Bains",
+      "lat": 44.666,
+      "lon": 4.3426,
+      "population": 3474
+    },
+    {
+      "insee": "07332",
+      "nom": "Valvignères",
+      "lat": 44.505,
+      "lon": 4.5538,
+      "population": 440
+    },
+    {
+      "insee": "07333",
+      "nom": "Vanosc",
+      "lat": 45.2244,
+      "lon": 4.5355,
+      "population": 907
+    },
+    {
+      "insee": "07335",
+      "nom": "Vaudevant",
+      "lat": 45.1097,
+      "lon": 4.6074,
+      "population": 223
+    },
+    {
+      "insee": "07336",
+      "nom": "Vernon",
+      "lat": 44.5074,
+      "lon": 4.2251,
+      "population": 235
+    },
+    {
+      "insee": "07337",
+      "nom": "Vernosc-lès-Annonay",
+      "lat": 45.224,
+      "lon": 4.7254,
+      "population": 2725
+    },
+    {
+      "insee": "07338",
+      "nom": "Vernoux-en-Vivarais",
+      "lat": 44.9069,
+      "lon": 4.6443,
+      "population": 1982
+    },
+    {
+      "insee": "07339",
+      "nom": "Vesseaux",
+      "lat": 44.6531,
+      "lon": 4.4438,
+      "population": 2069
+    },
+    {
+      "insee": "07340",
+      "nom": "Veyras",
+      "lat": 44.7346,
+      "lon": 4.5541,
+      "population": 1505
+    },
+    {
+      "insee": "07341",
+      "nom": "Villeneuve-de-Berg",
+      "lat": 44.5455,
+      "lon": 4.5119,
+      "population": 3031
+    },
+    {
+      "insee": "07342",
+      "nom": "Villevocance",
+      "lat": 45.2253,
+      "lon": 4.5952,
+      "population": 1165
+    },
+    {
+      "insee": "07343",
+      "nom": "Vinezac",
+      "lat": 44.5498,
+      "lon": 4.3332,
+      "population": 1378
+    },
+    {
+      "insee": "07344",
+      "nom": "Vinzieux",
+      "lat": 45.3291,
+      "lon": 4.7044,
+      "population": 538
+    },
+    {
+      "insee": "07345",
+      "nom": "Vion",
+      "lat": 45.1152,
+      "lon": 4.7977,
+      "population": 923
+    },
+    {
+      "insee": "07346",
+      "nom": "Viviers",
+      "lat": 44.4816,
+      "lon": 4.6616,
+      "population": 3633
+    },
+    {
+      "insee": "07347",
+      "nom": "Vocance",
+      "lat": 45.1947,
+      "lon": 4.5616,
+      "population": 613
+    },
+    {
+      "insee": "07348",
+      "nom": "Vogüé",
+      "lat": 44.5562,
+      "lon": 4.411,
+      "population": 1040
+    }
+  ]
+}

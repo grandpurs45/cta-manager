@@ -1,0 +1,336 @@
+{
+  "country": "FR",
+  "departmentCode": "94",
+  "label": "Departement 94",
+  "communes": [
+    {
+      "insee": "94001",
+      "nom": "Ablon-sur-Seine",
+      "lat": 48.7236,
+      "lon": 2.4229,
+      "population": 5988
+    },
+    {
+      "insee": "94002",
+      "nom": "Alfortville",
+      "lat": 48.7963,
+      "lon": 2.4214,
+      "population": 45531
+    },
+    {
+      "insee": "94003",
+      "nom": "Arcueil",
+      "lat": 48.8053,
+      "lon": 2.3328,
+      "population": 22200
+    },
+    {
+      "insee": "94004",
+      "nom": "Boissy-Saint-Léger",
+      "lat": 48.7453,
+      "lon": 2.5251,
+      "population": 17325
+    },
+    {
+      "insee": "94011",
+      "nom": "Bonneuil-sur-Marne",
+      "lat": 48.7721,
+      "lon": 2.493,
+      "population": 18270
+    },
+    {
+      "insee": "94015",
+      "nom": "Bry-sur-Marne",
+      "lat": 48.8392,
+      "lon": 2.5224,
+      "population": 18503
+    },
+    {
+      "insee": "94016",
+      "nom": "Cachan",
+      "lat": 48.7914,
+      "lon": 2.3318,
+      "population": 31103
+    },
+    {
+      "insee": "94017",
+      "nom": "Champigny-sur-Marne",
+      "lat": 48.8173,
+      "lon": 2.5206,
+      "population": 78072
+    },
+    {
+      "insee": "94018",
+      "nom": "Charenton-le-Pont",
+      "lat": 48.8229,
+      "lon": 2.405,
+      "population": 28830
+    },
+    {
+      "insee": "94019",
+      "nom": "Chennevières-sur-Marne",
+      "lat": 48.7951,
+      "lon": 2.5443,
+      "population": 18710
+    },
+    {
+      "insee": "94021",
+      "nom": "Chevilly-Larue",
+      "lat": 48.7679,
+      "lon": 2.3507,
+      "population": 19826
+    },
+    {
+      "insee": "94022",
+      "nom": "Choisy-le-Roi",
+      "lat": 48.7635,
+      "lon": 2.4202,
+      "population": 45946
+    },
+    {
+      "insee": "94028",
+      "nom": "Créteil",
+      "lat": 48.7845,
+      "lon": 2.4523,
+      "population": 93397
+    },
+    {
+      "insee": "94033",
+      "nom": "Fontenay-sous-Bois",
+      "lat": 48.8503,
+      "lon": 2.4736,
+      "population": 53757
+    },
+    {
+      "insee": "94034",
+      "nom": "Fresnes",
+      "lat": 48.7572,
+      "lon": 2.3263,
+      "population": 29528
+    },
+    {
+      "insee": "94037",
+      "nom": "Gentilly",
+      "lat": 48.812,
+      "lon": 2.3426,
+      "population": 19963
+    },
+    {
+      "insee": "94041",
+      "nom": "Ivry-sur-Seine",
+      "lat": 48.8125,
+      "lon": 2.3872,
+      "population": 65064
+    },
+    {
+      "insee": "94042",
+      "nom": "Joinville-le-Pont",
+      "lat": 48.8199,
+      "lon": 2.4685,
+      "population": 20525
+    },
+    {
+      "insee": "94038",
+      "nom": "L'Haÿ-les-Roses",
+      "lat": 48.7777,
+      "lon": 2.3416,
+      "population": 31188
+    },
+    {
+      "insee": "94060",
+      "nom": "La Queue-en-Brie",
+      "lat": 48.7769,
+      "lon": 2.5855,
+      "population": 12241
+    },
+    {
+      "insee": "94043",
+      "nom": "Le Kremlin-Bicêtre",
+      "lat": 48.8087,
+      "lon": 2.356,
+      "population": 24110
+    },
+    {
+      "insee": "94058",
+      "nom": "Le Perreux-sur-Marne",
+      "lat": 48.8433,
+      "lon": 2.5045,
+      "population": 35260
+    },
+    {
+      "insee": "94059",
+      "nom": "Le Plessis-Trévise",
+      "lat": 48.808,
+      "lon": 2.5763,
+      "population": 21112
+    },
+    {
+      "insee": "94044",
+      "nom": "Limeil-Brévannes",
+      "lat": 48.7463,
+      "lon": 2.4924,
+      "population": 27406
+    },
+    {
+      "insee": "94046",
+      "nom": "Maisons-Alfort",
+      "lat": 48.8017,
+      "lon": 2.44,
+      "population": 56799
+    },
+    {
+      "insee": "94047",
+      "nom": "Mandres-les-Roses",
+      "lat": 48.7068,
+      "lon": 2.5477,
+      "population": 4922
+    },
+    {
+      "insee": "94048",
+      "nom": "Marolles-en-Brie",
+      "lat": 48.7385,
+      "lon": 2.5539,
+      "population": 4781
+    },
+    {
+      "insee": "94052",
+      "nom": "Nogent-sur-Marne",
+      "lat": 48.837,
+      "lon": 2.4811,
+      "population": 32455
+    },
+    {
+      "insee": "94053",
+      "nom": "Noiseau",
+      "lat": 48.7757,
+      "lon": 2.556,
+      "population": 4628
+    },
+    {
+      "insee": "94054",
+      "nom": "Orly",
+      "lat": 48.7402,
+      "lon": 2.403,
+      "population": 24658
+    },
+    {
+      "insee": "94055",
+      "nom": "Ormesson-sur-Marne",
+      "lat": 48.7873,
+      "lon": 2.5371,
+      "population": 10977
+    },
+    {
+      "insee": "94056",
+      "nom": "Périgny",
+      "lat": 48.6974,
+      "lon": 2.562,
+      "population": 2724
+    },
+    {
+      "insee": "94065",
+      "nom": "Rungis",
+      "lat": 48.7493,
+      "lon": 2.3499,
+      "population": 5611
+    },
+    {
+      "insee": "94067",
+      "nom": "Saint-Mandé",
+      "lat": 48.8414,
+      "lon": 2.4195,
+      "population": 21071
+    },
+    {
+      "insee": "94068",
+      "nom": "Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
+      "population": 76572
+    },
+    {
+      "insee": "94069",
+      "nom": "Saint-Maurice",
+      "lat": 48.8179,
+      "lon": 2.4423,
+      "population": 14506
+    },
+    {
+      "insee": "94070",
+      "nom": "Santeny",
+      "lat": 48.7362,
+      "lon": 2.5771,
+      "population": 3913
+    },
+    {
+      "insee": "94071",
+      "nom": "Sucy-en-Brie",
+      "lat": 48.7688,
+      "lon": 2.5374,
+      "population": 27764
+    },
+    {
+      "insee": "94073",
+      "nom": "Thiais",
+      "lat": 48.7605,
+      "lon": 2.3869,
+      "population": 32918
+    },
+    {
+      "insee": "94074",
+      "nom": "Valenton",
+      "lat": 48.7497,
+      "lon": 2.46,
+      "population": 14406
+    },
+    {
+      "insee": "94075",
+      "nom": "Villecresnes",
+      "lat": 48.7221,
+      "lon": 2.5328,
+      "population": 11647
+    },
+    {
+      "insee": "94076",
+      "nom": "Villejuif",
+      "lat": 48.7934,
+      "lon": 2.3603,
+      "population": 60183
+    },
+    {
+      "insee": "94077",
+      "nom": "Villeneuve-le-Roi",
+      "lat": 48.732,
+      "lon": 2.4076,
+      "population": 21000
+    },
+    {
+      "insee": "94078",
+      "nom": "Villeneuve-Saint-Georges",
+      "lat": 48.7389,
+      "lon": 2.4493,
+      "population": 36221
+    },
+    {
+      "insee": "94079",
+      "nom": "Villiers-sur-Marne",
+      "lat": 48.8278,
+      "lon": 2.5482,
+      "population": 33162
+    },
+    {
+      "insee": "94080",
+      "nom": "Vincennes",
+      "lat": 48.8471,
+      "lon": 2.4383,
+      "population": 48193
+    },
+    {
+      "insee": "94081",
+      "nom": "Vitry-sur-Seine",
+      "lat": 48.7893,
+      "lon": 2.3951,
+      "population": 93963
+    }
+  ]
+}

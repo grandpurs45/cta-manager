@@ -1,0 +1,1589 @@
+{
+  "country": "FR",
+  "departmentCode": "66",
+  "label": "Departement 66",
+  "communes": [
+    {
+      "insee": "66002",
+      "nom": "Alénya",
+      "lat": 42.6413,
+      "lon": 2.9824,
+      "population": 3782
+    },
+    {
+      "insee": "66003",
+      "nom": "Amélie-les-Bains-Palalda",
+      "lat": 42.4508,
+      "lon": 2.687,
+      "population": 3529
+    },
+    {
+      "insee": "66005",
+      "nom": "Angoustrine-Villeneuve-des-Escaldes",
+      "lat": 42.546,
+      "lon": 1.9443,
+      "population": 542
+    },
+    {
+      "insee": "66006",
+      "nom": "Ansignan",
+      "lat": 42.7646,
+      "lon": 2.5233,
+      "population": 164
+    },
+    {
+      "insee": "66007",
+      "nom": "Arboussols",
+      "lat": 42.6669,
+      "lon": 2.4953,
+      "population": 130
+    },
+    {
+      "insee": "66008",
+      "nom": "Argelès-sur-Mer",
+      "lat": 42.53,
+      "lon": 3.0234,
+      "population": 10616
+    },
+    {
+      "insee": "66009",
+      "nom": "Arles-sur-Tech",
+      "lat": 42.4531,
+      "lon": 2.6228,
+      "population": 2815
+    },
+    {
+      "insee": "66010",
+      "nom": "Ayguatébia-Talau",
+      "lat": 42.5561,
+      "lon": 2.1962,
+      "population": 49
+    },
+    {
+      "insee": "66011",
+      "nom": "Bages",
+      "lat": 42.6075,
+      "lon": 2.8893,
+      "population": 4560
+    },
+    {
+      "insee": "66012",
+      "nom": "Baho",
+      "lat": 42.7066,
+      "lon": 2.8229,
+      "population": 3231
+    },
+    {
+      "insee": "66013",
+      "nom": "Baillestavy",
+      "lat": 42.5682,
+      "lon": 2.5266,
+      "population": 112
+    },
+    {
+      "insee": "66014",
+      "nom": "Baixas",
+      "lat": 42.744,
+      "lon": 2.8079,
+      "population": 2777
+    },
+    {
+      "insee": "66015",
+      "nom": "Banyuls-dels-Aspres",
+      "lat": 42.5653,
+      "lon": 2.8649,
+      "population": 1483
+    },
+    {
+      "insee": "66016",
+      "nom": "Banyuls-sur-Mer",
+      "lat": 42.4602,
+      "lon": 3.1014,
+      "population": 4496
+    },
+    {
+      "insee": "66019",
+      "nom": "Bélesta",
+      "lat": 42.7241,
+      "lon": 2.6228,
+      "population": 270
+    },
+    {
+      "insee": "66020",
+      "nom": "Bolquère",
+      "lat": 42.5225,
+      "lon": 2.0614,
+      "population": 816
+    },
+    {
+      "insee": "66021",
+      "nom": "Bompas",
+      "lat": 42.7271,
+      "lon": 2.9426,
+      "population": 7832
+    },
+    {
+      "insee": "66022",
+      "nom": "Boule-d'Amont",
+      "lat": 42.5884,
+      "lon": 2.5905,
+      "population": 63
+    },
+    {
+      "insee": "66023",
+      "nom": "Bouleternère",
+      "lat": 42.6435,
+      "lon": 2.5878,
+      "population": 951
+    },
+    {
+      "insee": "66025",
+      "nom": "Bourg-Madame",
+      "lat": 42.438,
+      "lon": 1.9608,
+      "population": 1182
+    },
+    {
+      "insee": "66026",
+      "nom": "Brouilla",
+      "lat": 42.5759,
+      "lon": 2.8927,
+      "population": 1572
+    },
+    {
+      "insee": "66028",
+      "nom": "Cabestany",
+      "lat": 42.6804,
+      "lon": 2.9507,
+      "population": 10465
+    },
+    {
+      "insee": "66029",
+      "nom": "Caixas",
+      "lat": 42.6031,
+      "lon": 2.6633,
+      "population": 134
+    },
+    {
+      "insee": "66030",
+      "nom": "Calce",
+      "lat": 42.7477,
+      "lon": 2.7545,
+      "population": 226
+    },
+    {
+      "insee": "66032",
+      "nom": "Calmeilles",
+      "lat": 42.5507,
+      "lon": 2.6735,
+      "population": 60
+    },
+    {
+      "insee": "66033",
+      "nom": "Camélas",
+      "lat": 42.6404,
+      "lon": 2.6911,
+      "population": 461
+    },
+    {
+      "insee": "66034",
+      "nom": "Campôme",
+      "lat": 42.6506,
+      "lon": 2.3826,
+      "population": 124
+    },
+    {
+      "insee": "66035",
+      "nom": "Campoussy",
+      "lat": 42.6978,
+      "lon": 2.452,
+      "population": 42
+    },
+    {
+      "insee": "66036",
+      "nom": "Canaveilles",
+      "lat": 42.5348,
+      "lon": 2.2179,
+      "population": 53
+    },
+    {
+      "insee": "66037",
+      "nom": "Canet-en-Roussillon",
+      "lat": 42.6809,
+      "lon": 3.002,
+      "population": 13227
+    },
+    {
+      "insee": "66038",
+      "nom": "Canohès",
+      "lat": 42.6514,
+      "lon": 2.8294,
+      "population": 6616
+    },
+    {
+      "insee": "66039",
+      "nom": "Caramany",
+      "lat": 42.7388,
+      "lon": 2.5572,
+      "population": 129
+    },
+    {
+      "insee": "66040",
+      "nom": "Casefabre",
+      "lat": 42.6156,
+      "lon": 2.6127,
+      "population": 44
+    },
+    {
+      "insee": "66041",
+      "nom": "Cases-de-Pène",
+      "lat": 42.7931,
+      "lon": 2.7771,
+      "population": 973
+    },
+    {
+      "insee": "66042",
+      "nom": "Cassagnes",
+      "lat": 42.7415,
+      "lon": 2.626,
+      "population": 294
+    },
+    {
+      "insee": "66043",
+      "nom": "Casteil",
+      "lat": 42.5035,
+      "lon": 2.4229,
+      "population": 139
+    },
+    {
+      "insee": "66044",
+      "nom": "Castelnou",
+      "lat": 42.6247,
+      "lon": 2.7046,
+      "population": 280
+    },
+    {
+      "insee": "66045",
+      "nom": "Catllar",
+      "lat": 42.6407,
+      "lon": 2.4186,
+      "population": 723
+    },
+    {
+      "insee": "66047",
+      "nom": "Caudiès-de-Conflent",
+      "lat": 42.5623,
+      "lon": 2.1451,
+      "population": 23
+    },
+    {
+      "insee": "66046",
+      "nom": "Caudiès-de-Fenouillèdes",
+      "lat": 42.8213,
+      "lon": 2.3781,
+      "population": 586
+    },
+    {
+      "insee": "66048",
+      "nom": "Cerbère",
+      "lat": 42.4471,
+      "lon": 3.1493,
+      "population": 1209
+    },
+    {
+      "insee": "66049",
+      "nom": "Céret",
+      "lat": 42.473,
+      "lon": 2.7565,
+      "population": 7521
+    },
+    {
+      "insee": "66050",
+      "nom": "Claira",
+      "lat": 42.7626,
+      "lon": 2.9458,
+      "population": 4922
+    },
+    {
+      "insee": "66051",
+      "nom": "Clara-Villerach",
+      "lat": 42.5831,
+      "lon": 2.4489,
+      "population": 265
+    },
+    {
+      "insee": "66052",
+      "nom": "Codalet",
+      "lat": 42.6015,
+      "lon": 2.4169,
+      "population": 350
+    },
+    {
+      "insee": "66053",
+      "nom": "Collioure",
+      "lat": 42.5087,
+      "lon": 3.0744,
+      "population": 2756
+    },
+    {
+      "insee": "66054",
+      "nom": "Conat",
+      "lat": 42.6203,
+      "lon": 2.3426,
+      "population": 65
+    },
+    {
+      "insee": "66055",
+      "nom": "Corbère",
+      "lat": 42.6515,
+      "lon": 2.6614,
+      "population": 781
+    },
+    {
+      "insee": "66056",
+      "nom": "Corbère-les-Cabanes",
+      "lat": 42.66,
+      "lon": 2.6837,
+      "population": 1213
+    },
+    {
+      "insee": "66057",
+      "nom": "Corneilla-de-Conflent",
+      "lat": 42.5786,
+      "lon": 2.382,
+      "population": 527
+    },
+    {
+      "insee": "66059",
+      "nom": "Corneilla-del-Vercol",
+      "lat": 42.6228,
+      "lon": 2.9512,
+      "population": 2696
+    },
+    {
+      "insee": "66058",
+      "nom": "Corneilla-la-Rivière",
+      "lat": 42.7098,
+      "lon": 2.7247,
+      "population": 2004
+    },
+    {
+      "insee": "66060",
+      "nom": "Corsavy",
+      "lat": 42.483,
+      "lon": 2.541,
+      "population": 246
+    },
+    {
+      "insee": "66061",
+      "nom": "Coustouges",
+      "lat": 42.3602,
+      "lon": 2.632,
+      "population": 95
+    },
+    {
+      "insee": "66062",
+      "nom": "Dorres",
+      "lat": 42.5125,
+      "lon": 1.9224,
+      "population": 182
+    },
+    {
+      "insee": "66064",
+      "nom": "Égat",
+      "lat": 42.5008,
+      "lon": 2.0195,
+      "population": 435
+    },
+    {
+      "insee": "66065",
+      "nom": "Elne",
+      "lat": 42.6083,
+      "lon": 2.978,
+      "population": 9511
+    },
+    {
+      "insee": "66066",
+      "nom": "Enveitg",
+      "lat": 42.491,
+      "lon": 1.8922,
+      "population": 602
+    },
+    {
+      "insee": "66067",
+      "nom": "Err",
+      "lat": 42.4131,
+      "lon": 2.0678,
+      "population": 716
+    },
+    {
+      "insee": "66068",
+      "nom": "Escaro",
+      "lat": 42.5337,
+      "lon": 2.319,
+      "population": 128
+    },
+    {
+      "insee": "66070",
+      "nom": "Espira-de-Conflent",
+      "lat": 42.6168,
+      "lon": 2.4923,
+      "population": 227
+    },
+    {
+      "insee": "66069",
+      "nom": "Espira-de-l'Agly",
+      "lat": 42.7987,
+      "lon": 2.8231,
+      "population": 3524
+    },
+    {
+      "insee": "66071",
+      "nom": "Estagel",
+      "lat": 42.7642,
+      "lon": 2.7077,
+      "population": 2160
+    },
+    {
+      "insee": "66072",
+      "nom": "Estavar",
+      "lat": 42.4764,
+      "lon": 2.0121,
+      "population": 443
+    },
+    {
+      "insee": "66073",
+      "nom": "Estoher",
+      "lat": 42.5695,
+      "lon": 2.4829,
+      "population": 163
+    },
+    {
+      "insee": "66074",
+      "nom": "Eus",
+      "lat": 42.6552,
+      "lon": 2.4478,
+      "population": 386
+    },
+    {
+      "insee": "66075",
+      "nom": "Eyne",
+      "lat": 42.4544,
+      "lon": 2.111,
+      "population": 163
+    },
+    {
+      "insee": "66076",
+      "nom": "Feilluns",
+      "lat": 42.7613,
+      "lon": 2.4877,
+      "population": 59
+    },
+    {
+      "insee": "66077",
+      "nom": "Fenouillet",
+      "lat": 42.7786,
+      "lon": 2.382,
+      "population": 100
+    },
+    {
+      "insee": "66078",
+      "nom": "Fillols",
+      "lat": 42.5587,
+      "lon": 2.4257,
+      "population": 207
+    },
+    {
+      "insee": "66079",
+      "nom": "Finestret",
+      "lat": 42.6068,
+      "lon": 2.5194,
+      "population": 204
+    },
+    {
+      "insee": "66124",
+      "nom": "Font-Romeu-Odeillo-Via",
+      "lat": 42.5145,
+      "lon": 2.0212,
+      "population": 1762
+    },
+    {
+      "insee": "66080",
+      "nom": "Fontpédrouse",
+      "lat": 42.4718,
+      "lon": 2.202,
+      "population": 125
+    },
+    {
+      "insee": "66081",
+      "nom": "Fontrabiouse",
+      "lat": 42.6413,
+      "lon": 2.0514,
+      "population": 144
+    },
+    {
+      "insee": "66082",
+      "nom": "Formiguères",
+      "lat": 42.6227,
+      "lon": 2.0629,
+      "population": 494
+    },
+    {
+      "insee": "66083",
+      "nom": "Fosse",
+      "lat": 42.7842,
+      "lon": 2.4335,
+      "population": 52
+    },
+    {
+      "insee": "66084",
+      "nom": "Fourques",
+      "lat": 42.5845,
+      "lon": 2.7759,
+      "population": 1347
+    },
+    {
+      "insee": "66085",
+      "nom": "Fuilla",
+      "lat": 42.5673,
+      "lon": 2.3549,
+      "population": 435
+    },
+    {
+      "insee": "66086",
+      "nom": "Glorianes",
+      "lat": 42.5904,
+      "lon": 2.5528,
+      "population": 15
+    },
+    {
+      "insee": "66088",
+      "nom": "Ille-sur-Têt",
+      "lat": 42.6746,
+      "lon": 2.6167,
+      "population": 5556
+    },
+    {
+      "insee": "66089",
+      "nom": "Joch",
+      "lat": 42.6151,
+      "lon": 2.5244,
+      "population": 416
+    },
+    {
+      "insee": "66090",
+      "nom": "Jujols",
+      "lat": 42.5852,
+      "lon": 2.2823,
+      "population": 47
+    },
+    {
+      "insee": "66001",
+      "nom": "L'Albère",
+      "lat": 42.4762,
+      "lon": 2.897,
+      "population": 64
+    },
+    {
+      "insee": "66018",
+      "nom": "La Bastide",
+      "lat": 42.5371,
+      "lon": 2.5752,
+      "population": 60
+    },
+    {
+      "insee": "66027",
+      "nom": "La Cabanasse",
+      "lat": 42.501,
+      "lon": 2.1056,
+      "population": 713
+    },
+    {
+      "insee": "66098",
+      "nom": "La Llagonne",
+      "lat": 42.5401,
+      "lon": 2.083,
+      "population": 230
+    },
+    {
+      "insee": "66091",
+      "nom": "Lamanère",
+      "lat": 42.3628,
+      "lon": 2.5191,
+      "population": 62
+    },
+    {
+      "insee": "66092",
+      "nom": "Lansac",
+      "lat": 42.7685,
+      "lon": 2.5651,
+      "population": 89
+    },
+    {
+      "insee": "66093",
+      "nom": "Laroque-des-Albères",
+      "lat": 42.5179,
+      "lon": 2.9314,
+      "population": 2256
+    },
+    {
+      "insee": "66094",
+      "nom": "Latour-Bas-Elne",
+      "lat": 42.6041,
+      "lon": 3.0067,
+      "population": 3228
+    },
+    {
+      "insee": "66095",
+      "nom": "Latour-de-Carol",
+      "lat": 42.4746,
+      "lon": 1.8736,
+      "population": 480
+    },
+    {
+      "insee": "66096",
+      "nom": "Latour-de-France",
+      "lat": 42.7701,
+      "lon": 2.6498,
+      "population": 1043
+    },
+    {
+      "insee": "66017",
+      "nom": "Le Barcarès",
+      "lat": 42.8118,
+      "lon": 3.028,
+      "population": 6109
+    },
+    {
+      "insee": "66024",
+      "nom": "Le Boulou",
+      "lat": 42.5267,
+      "lon": 2.8328,
+      "population": 5487
+    },
+    {
+      "insee": "66137",
+      "nom": "Le Perthus",
+      "lat": 42.4664,
+      "lon": 2.8639,
+      "population": 555
+    },
+    {
+      "insee": "66195",
+      "nom": "Le Soler",
+      "lat": 42.6756,
+      "lon": 2.7999,
+      "population": 7942
+    },
+    {
+      "insee": "66206",
+      "nom": "Le Tech",
+      "lat": 42.4439,
+      "lon": 2.5154,
+      "population": 95
+    },
+    {
+      "insee": "66234",
+      "nom": "Le Vivier",
+      "lat": 42.7637,
+      "lon": 2.4423,
+      "population": 71
+    },
+    {
+      "insee": "66004",
+      "nom": "Les Angles",
+      "lat": 42.5797,
+      "lon": 2.049,
+      "population": 597
+    },
+    {
+      "insee": "66063",
+      "nom": "Les Cluses",
+      "lat": 42.4847,
+      "lon": 2.8437,
+      "population": 282
+    },
+    {
+      "insee": "66097",
+      "nom": "Lesquerde",
+      "lat": 42.7927,
+      "lon": 2.5381,
+      "population": 141
+    },
+    {
+      "insee": "66099",
+      "nom": "Llauro",
+      "lat": 42.5458,
+      "lon": 2.7494,
+      "population": 311
+    },
+    {
+      "insee": "66100",
+      "nom": "Llo",
+      "lat": 42.4358,
+      "lon": 2.0895,
+      "population": 153
+    },
+    {
+      "insee": "66101",
+      "nom": "Llupia",
+      "lat": 42.6275,
+      "lon": 2.7827,
+      "population": 2199
+    },
+    {
+      "insee": "66104",
+      "nom": "Los Masos",
+      "lat": 42.6145,
+      "lon": 2.4593,
+      "population": 966
+    },
+    {
+      "insee": "66102",
+      "nom": "Mantet",
+      "lat": 42.4555,
+      "lon": 2.2922,
+      "population": 35
+    },
+    {
+      "insee": "66103",
+      "nom": "Marquixanes",
+      "lat": 42.6344,
+      "lon": 2.4848,
+      "population": 599
+    },
+    {
+      "insee": "66105",
+      "nom": "Matemale",
+      "lat": 42.5788,
+      "lon": 2.1154,
+      "population": 274
+    },
+    {
+      "insee": "66106",
+      "nom": "Maureillas-las-Illas",
+      "lat": 42.4635,
+      "lon": 2.7999,
+      "population": 3006
+    },
+    {
+      "insee": "66107",
+      "nom": "Maury",
+      "lat": 42.816,
+      "lon": 2.6194,
+      "population": 773
+    },
+    {
+      "insee": "66108",
+      "nom": "Millas",
+      "lat": 42.6966,
+      "lon": 2.6865,
+      "population": 4417
+    },
+    {
+      "insee": "66109",
+      "nom": "Molitg-les-Bains",
+      "lat": 42.6624,
+      "lon": 2.3955,
+      "population": 251
+    },
+    {
+      "insee": "66117",
+      "nom": "Mont-Louis",
+      "lat": 42.5098,
+      "lon": 2.1197,
+      "population": 153
+    },
+    {
+      "insee": "66111",
+      "nom": "Montalba-le-Château",
+      "lat": 42.699,
+      "lon": 2.5658,
+      "population": 163
+    },
+    {
+      "insee": "66112",
+      "nom": "Montauriol",
+      "lat": 42.5777,
+      "lon": 2.725,
+      "population": 254
+    },
+    {
+      "insee": "66113",
+      "nom": "Montbolo",
+      "lat": 42.4924,
+      "lon": 2.6265,
+      "population": 189
+    },
+    {
+      "insee": "66114",
+      "nom": "Montescot",
+      "lat": 42.6158,
+      "lon": 2.9188,
+      "population": 1586
+    },
+    {
+      "insee": "66115",
+      "nom": "Montesquieu-des-Albères",
+      "lat": 42.5206,
+      "lon": 2.8685,
+      "population": 1353
+    },
+    {
+      "insee": "66116",
+      "nom": "Montferrer",
+      "lat": 42.4415,
+      "lon": 2.567,
+      "population": 218
+    },
+    {
+      "insee": "66118",
+      "nom": "Montner",
+      "lat": 42.7439,
+      "lon": 2.6946,
+      "population": 324
+    },
+    {
+      "insee": "66119",
+      "nom": "Mosset",
+      "lat": 42.6719,
+      "lon": 2.2848,
+      "population": 321
+    },
+    {
+      "insee": "66120",
+      "nom": "Nahuja",
+      "lat": 42.4243,
+      "lon": 1.9995,
+      "population": 74
+    },
+    {
+      "insee": "66121",
+      "nom": "Néfiach",
+      "lat": 42.696,
+      "lon": 2.6566,
+      "population": 1383
+    },
+    {
+      "insee": "66122",
+      "nom": "Nohèdes",
+      "lat": 42.6256,
+      "lon": 2.2547,
+      "population": 61
+    },
+    {
+      "insee": "66123",
+      "nom": "Nyer",
+      "lat": 42.4957,
+      "lon": 2.2764,
+      "population": 148
+    },
+    {
+      "insee": "66125",
+      "nom": "Olette",
+      "lat": 42.5938,
+      "lon": 2.2449,
+      "population": 360
+    },
+    {
+      "insee": "66126",
+      "nom": "Oms",
+      "lat": 42.5319,
+      "lon": 2.7102,
+      "population": 364
+    },
+    {
+      "insee": "66127",
+      "nom": "Opoul-Périllos",
+      "lat": 42.8817,
+      "lon": 2.8601,
+      "population": 1239
+    },
+    {
+      "insee": "66128",
+      "nom": "Oreilla",
+      "lat": 42.5788,
+      "lon": 2.2272,
+      "population": 28
+    },
+    {
+      "insee": "66129",
+      "nom": "Ortaffa",
+      "lat": 42.5855,
+      "lon": 2.9191,
+      "population": 1980
+    },
+    {
+      "insee": "66130",
+      "nom": "Osséja",
+      "lat": 42.3923,
+      "lon": 2.0006,
+      "population": 1390
+    },
+    {
+      "insee": "66132",
+      "nom": "Palau-de-Cerdagne",
+      "lat": 42.3864,
+      "lon": 1.9818,
+      "population": 405
+    },
+    {
+      "insee": "66133",
+      "nom": "Palau-del-Vidre",
+      "lat": 42.5662,
+      "lon": 2.9595,
+      "population": 3329
+    },
+    {
+      "insee": "66134",
+      "nom": "Passa",
+      "lat": 42.5674,
+      "lon": 2.804,
+      "population": 1118
+    },
+    {
+      "insee": "66136",
+      "nom": "Perpignan",
+      "lat": 42.699,
+      "lon": 2.9045,
+      "population": 121616
+    },
+    {
+      "insee": "66138",
+      "nom": "Peyrestortes",
+      "lat": 42.7484,
+      "lon": 2.8471,
+      "population": 1927
+    },
+    {
+      "insee": "66139",
+      "nom": "Pézilla-de-Conflent",
+      "lat": 42.7356,
+      "lon": 2.4884,
+      "population": 46
+    },
+    {
+      "insee": "66140",
+      "nom": "Pézilla-la-Rivière",
+      "lat": 42.7089,
+      "lon": 2.76,
+      "population": 4129
+    },
+    {
+      "insee": "66141",
+      "nom": "Pia",
+      "lat": 42.7506,
+      "lon": 2.9172,
+      "population": 11615
+    },
+    {
+      "insee": "66142",
+      "nom": "Planès",
+      "lat": 42.4701,
+      "lon": 2.1444,
+      "population": 57
+    },
+    {
+      "insee": "66143",
+      "nom": "Planèzes",
+      "lat": 42.7736,
+      "lon": 2.6215,
+      "population": 99
+    },
+    {
+      "insee": "66144",
+      "nom": "Pollestres",
+      "lat": 42.6373,
+      "lon": 2.8736,
+      "population": 5548
+    },
+    {
+      "insee": "66145",
+      "nom": "Ponteilla",
+      "lat": 42.6347,
+      "lon": 2.8288,
+      "population": 3101
+    },
+    {
+      "insee": "66148",
+      "nom": "Port-Vendres",
+      "lat": 42.5034,
+      "lon": 3.1048,
+      "population": 4018
+    },
+    {
+      "insee": "66146",
+      "nom": "Porta",
+      "lat": 42.5212,
+      "lon": 1.7935,
+      "population": 94
+    },
+    {
+      "insee": "66147",
+      "nom": "Porté-Puymorens",
+      "lat": 42.5546,
+      "lon": 1.8381,
+      "population": 100
+    },
+    {
+      "insee": "66149",
+      "nom": "Prades",
+      "lat": 42.6107,
+      "lon": 2.4276,
+      "population": 6148
+    },
+    {
+      "insee": "66150",
+      "nom": "Prats-de-Mollo-la-Preste",
+      "lat": 42.4174,
+      "lon": 2.4229,
+      "population": 1099
+    },
+    {
+      "insee": "66151",
+      "nom": "Prats-de-Sournia",
+      "lat": 42.7399,
+      "lon": 2.4535,
+      "population": 76
+    },
+    {
+      "insee": "66152",
+      "nom": "Prugnanes",
+      "lat": 42.8254,
+      "lon": 2.435,
+      "population": 90
+    },
+    {
+      "insee": "66153",
+      "nom": "Prunet-et-Belpuig",
+      "lat": 42.5655,
+      "lon": 2.6373,
+      "population": 44
+    },
+    {
+      "insee": "66154",
+      "nom": "Puyvalador",
+      "lat": 42.6488,
+      "lon": 2.1097,
+      "population": 68
+    },
+    {
+      "insee": "66155",
+      "nom": "Py",
+      "lat": 42.4683,
+      "lon": 2.3635,
+      "population": 83
+    },
+    {
+      "insee": "66156",
+      "nom": "Rabouillet",
+      "lat": 42.7265,
+      "lon": 2.3646,
+      "population": 85
+    },
+    {
+      "insee": "66157",
+      "nom": "Railleu",
+      "lat": 42.5923,
+      "lon": 2.1619,
+      "population": 23
+    },
+    {
+      "insee": "66158",
+      "nom": "Rasiguères",
+      "lat": 42.7732,
+      "lon": 2.5979,
+      "population": 165
+    },
+    {
+      "insee": "66159",
+      "nom": "Réal",
+      "lat": 42.64,
+      "lon": 2.1488,
+      "population": 81
+    },
+    {
+      "insee": "66160",
+      "nom": "Reynès",
+      "lat": 42.466,
+      "lon": 2.6971,
+      "population": 1220
+    },
+    {
+      "insee": "66161",
+      "nom": "Ria-Sirach",
+      "lat": 42.6101,
+      "lon": 2.3828,
+      "population": 1264
+    },
+    {
+      "insee": "66162",
+      "nom": "Rigarda",
+      "lat": 42.6292,
+      "lon": 2.5375,
+      "population": 698
+    },
+    {
+      "insee": "66164",
+      "nom": "Rivesaltes",
+      "lat": 42.7761,
+      "lon": 2.8769,
+      "population": 9270
+    },
+    {
+      "insee": "66165",
+      "nom": "Rodès",
+      "lat": 42.6563,
+      "lon": 2.5485,
+      "population": 758
+    },
+    {
+      "insee": "66166",
+      "nom": "Sahorre",
+      "lat": 42.5255,
+      "lon": 2.3565,
+      "population": 401
+    },
+    {
+      "insee": "66167",
+      "nom": "Saillagouse",
+      "lat": 42.4564,
+      "lon": 2.0382,
+      "population": 1155
+    },
+    {
+      "insee": "66168",
+      "nom": "Saint-André",
+      "lat": 42.5541,
+      "lon": 2.9794,
+      "population": 3388
+    },
+    {
+      "insee": "66169",
+      "nom": "Saint-Arnac",
+      "lat": 42.7737,
+      "lon": 2.5343,
+      "population": 99
+    },
+    {
+      "insee": "66171",
+      "nom": "Saint-Cyprien",
+      "lat": 42.6205,
+      "lon": 3.0139,
+      "population": 12068
+    },
+    {
+      "insee": "66172",
+      "nom": "Saint-Estève",
+      "lat": 42.7154,
+      "lon": 2.8445,
+      "population": 11630
+    },
+    {
+      "insee": "66173",
+      "nom": "Saint-Féliu-d'Amont",
+      "lat": 42.6752,
+      "lon": 2.7166,
+      "population": 1292
+    },
+    {
+      "insee": "66174",
+      "nom": "Saint-Féliu-d'Avall",
+      "lat": 42.6733,
+      "lon": 2.7498,
+      "population": 2950
+    },
+    {
+      "insee": "66175",
+      "nom": "Saint-Génis-des-Fontaines",
+      "lat": 42.5488,
+      "lon": 2.9221,
+      "population": 3059
+    },
+    {
+      "insee": "66176",
+      "nom": "Saint-Hippolyte",
+      "lat": 42.8104,
+      "lon": 2.9754,
+      "population": 3126
+    },
+    {
+      "insee": "66177",
+      "nom": "Saint-Jean-Lasseille",
+      "lat": 42.5863,
+      "lon": 2.8646,
+      "population": 1622
+    },
+    {
+      "insee": "66178",
+      "nom": "Saint-Jean-Pla-de-Corts",
+      "lat": 42.5183,
+      "lon": 2.7938,
+      "population": 2311
+    },
+    {
+      "insee": "66179",
+      "nom": "Saint-Laurent-de-Cerdans",
+      "lat": 42.3944,
+      "lon": 2.6222,
+      "population": 1045
+    },
+    {
+      "insee": "66180",
+      "nom": "Saint-Laurent-de-la-Salanque",
+      "lat": 42.8073,
+      "lon": 2.9993,
+      "population": 9898
+    },
+    {
+      "insee": "66183",
+      "nom": "Saint-Marsal",
+      "lat": 42.5256,
+      "lon": 2.6182,
+      "population": 77
+    },
+    {
+      "insee": "66184",
+      "nom": "Saint-Martin-de-Fenouillet",
+      "lat": 42.7848,
+      "lon": 2.4777,
+      "population": 49
+    },
+    {
+      "insee": "66185",
+      "nom": "Saint-Michel-de-Llotes",
+      "lat": 42.6465,
+      "lon": 2.6268,
+      "population": 364
+    },
+    {
+      "insee": "66186",
+      "nom": "Saint-Nazaire",
+      "lat": 42.6619,
+      "lon": 2.9895,
+      "population": 2779
+    },
+    {
+      "insee": "66187",
+      "nom": "Saint-Paul-de-Fenouillet",
+      "lat": 42.8229,
+      "lon": 2.5025,
+      "population": 1742
+    },
+    {
+      "insee": "66188",
+      "nom": "Saint-Pierre-dels-Forcats",
+      "lat": 42.4778,
+      "lon": 2.114,
+      "population": 260
+    },
+    {
+      "insee": "66170",
+      "nom": "Sainte-Colombe-de-la-Commanderie",
+      "lat": 42.6161,
+      "lon": 2.7421,
+      "population": 183
+    },
+    {
+      "insee": "66181",
+      "nom": "Sainte-Léocadie",
+      "lat": 42.4298,
+      "lon": 2.0057,
+      "population": 157
+    },
+    {
+      "insee": "66182",
+      "nom": "Sainte-Marie-la-Mer",
+      "lat": 42.7262,
+      "lon": 3.0168,
+      "population": 4952
+    },
+    {
+      "insee": "66189",
+      "nom": "Saleilles",
+      "lat": 42.6553,
+      "lon": 2.947,
+      "population": 5698
+    },
+    {
+      "insee": "66190",
+      "nom": "Salses-le-Château",
+      "lat": 42.8359,
+      "lon": 2.9134,
+      "population": 3965
+    },
+    {
+      "insee": "66191",
+      "nom": "Sansa",
+      "lat": 42.6189,
+      "lon": 2.1788,
+      "population": 31
+    },
+    {
+      "insee": "66192",
+      "nom": "Sauto",
+      "lat": 42.5166,
+      "lon": 2.1461,
+      "population": 102
+    },
+    {
+      "insee": "66193",
+      "nom": "Serdinya",
+      "lat": 42.5736,
+      "lon": 2.324,
+      "population": 236
+    },
+    {
+      "insee": "66194",
+      "nom": "Serralongue",
+      "lat": 42.3846,
+      "lon": 2.5559,
+      "population": 244
+    },
+    {
+      "insee": "66196",
+      "nom": "Sorède",
+      "lat": 42.5083,
+      "lon": 2.988,
+      "population": 3512
+    },
+    {
+      "insee": "66197",
+      "nom": "Souanyas",
+      "lat": 42.5493,
+      "lon": 2.2826,
+      "population": 29
+    },
+    {
+      "insee": "66198",
+      "nom": "Sournia",
+      "lat": 42.7138,
+      "lon": 2.4171,
+      "population": 478
+    },
+    {
+      "insee": "66199",
+      "nom": "Taillet",
+      "lat": 42.5191,
+      "lon": 2.6808,
+      "population": 105
+    },
+    {
+      "insee": "66201",
+      "nom": "Tarerach",
+      "lat": 42.6816,
+      "lon": 2.5081,
+      "population": 42
+    },
+    {
+      "insee": "66202",
+      "nom": "Targasonne",
+      "lat": 42.5014,
+      "lon": 1.9877,
+      "population": 201
+    },
+    {
+      "insee": "66203",
+      "nom": "Taulis",
+      "lat": 42.5149,
+      "lon": 2.6145,
+      "population": 58
+    },
+    {
+      "insee": "66204",
+      "nom": "Taurinya",
+      "lat": 42.555,
+      "lon": 2.4408,
+      "population": 328
+    },
+    {
+      "insee": "66205",
+      "nom": "Tautavel",
+      "lat": 42.8163,
+      "lon": 2.7161,
+      "population": 945
+    },
+    {
+      "insee": "66207",
+      "nom": "Terrats",
+      "lat": 42.6046,
+      "lon": 2.7584,
+      "population": 806
+    },
+    {
+      "insee": "66208",
+      "nom": "Théza",
+      "lat": 42.6403,
+      "lon": 2.947,
+      "population": 2126
+    },
+    {
+      "insee": "66209",
+      "nom": "Thuès-Entre-Valls",
+      "lat": 42.5006,
+      "lon": 2.2317,
+      "population": 25
+    },
+    {
+      "insee": "66210",
+      "nom": "Thuir",
+      "lat": 42.6384,
+      "lon": 2.7618,
+      "population": 8243
+    },
+    {
+      "insee": "66211",
+      "nom": "Tordères",
+      "lat": 42.5653,
+      "lon": 2.7619,
+      "population": 187
+    },
+    {
+      "insee": "66212",
+      "nom": "Torreilles",
+      "lat": 42.7571,
+      "lon": 3.0059,
+      "population": 3753
+    },
+    {
+      "insee": "66213",
+      "nom": "Toulouges",
+      "lat": 42.6723,
+      "lon": 2.8234,
+      "population": 7450
+    },
+    {
+      "insee": "66214",
+      "nom": "Tresserre",
+      "lat": 42.5559,
+      "lon": 2.842,
+      "population": 1166
+    },
+    {
+      "insee": "66215",
+      "nom": "Trévillach",
+      "lat": 42.7091,
+      "lon": 2.5105,
+      "population": 201
+    },
+    {
+      "insee": "66216",
+      "nom": "Trilla",
+      "lat": 42.7369,
+      "lon": 2.5229,
+      "population": 77
+    },
+    {
+      "insee": "66217",
+      "nom": "Trouillas",
+      "lat": 42.6055,
+      "lon": 2.8235,
+      "population": 2324
+    },
+    {
+      "insee": "66218",
+      "nom": "Ur",
+      "lat": 42.4594,
+      "lon": 1.9382,
+      "population": 382
+    },
+    {
+      "insee": "66219",
+      "nom": "Urbanya",
+      "lat": 42.6429,
+      "lon": 2.2964,
+      "population": 45
+    },
+    {
+      "insee": "66220",
+      "nom": "Valcebollère",
+      "lat": 42.382,
+      "lon": 2.0472,
+      "population": 34
+    },
+    {
+      "insee": "66221",
+      "nom": "Valmanya",
+      "lat": 42.5251,
+      "lon": 2.5089,
+      "population": 34
+    },
+    {
+      "insee": "66222",
+      "nom": "Vernet-les-Bains",
+      "lat": 42.5363,
+      "lon": 2.4152,
+      "population": 1498
+    },
+    {
+      "insee": "66223",
+      "nom": "Villefranche-de-Conflent",
+      "lat": 42.5955,
+      "lon": 2.3575,
+      "population": 215
+    },
+    {
+      "insee": "66224",
+      "nom": "Villelongue-de-la-Salanque",
+      "lat": 42.7261,
+      "lon": 2.977,
+      "population": 3335
+    },
+    {
+      "insee": "66225",
+      "nom": "Villelongue-dels-Monts",
+      "lat": 42.5238,
+      "lon": 2.8979,
+      "population": 1976
+    },
+    {
+      "insee": "66226",
+      "nom": "Villemolaque",
+      "lat": 42.5976,
+      "lon": 2.848,
+      "population": 1278
+    },
+    {
+      "insee": "66227",
+      "nom": "Villeneuve-de-la-Raho",
+      "lat": 42.6402,
+      "lon": 2.909,
+      "population": 4470
+    },
+    {
+      "insee": "66228",
+      "nom": "Villeneuve-la-Rivière",
+      "lat": 42.7046,
+      "lon": 2.7964,
+      "population": 1360
+    },
+    {
+      "insee": "66230",
+      "nom": "Vinça",
+      "lat": 42.6431,
+      "lon": 2.5225,
+      "population": 2260
+    },
+    {
+      "insee": "66231",
+      "nom": "Vingrau",
+      "lat": 42.8588,
+      "lon": 2.7904,
+      "population": 536
+    },
+    {
+      "insee": "66232",
+      "nom": "Vira",
+      "lat": 42.7653,
+      "lon": 2.3899,
+      "population": 29
+    },
+    {
+      "insee": "66233",
+      "nom": "Vivès",
+      "lat": 42.5303,
+      "lon": 2.766,
+      "population": 190
+    }
+  ]
+}

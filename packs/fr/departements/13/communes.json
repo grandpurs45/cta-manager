@@ -1,0 +1,840 @@
+{
+  "country": "FR",
+  "departmentCode": "13",
+  "label": "Departement 13",
+  "communes": [
+    {
+      "insee": "13001",
+      "nom": "Aix-en-Provence",
+      "lat": 43.536,
+      "lon": 5.3879,
+      "population": 149695
+    },
+    {
+      "insee": "13002",
+      "nom": "Allauch",
+      "lat": 43.3522,
+      "lon": 5.5103,
+      "population": 21443
+    },
+    {
+      "insee": "13003",
+      "nom": "Alleins",
+      "lat": 43.7098,
+      "lon": 5.1558,
+      "population": 2852
+    },
+    {
+      "insee": "13004",
+      "nom": "Arles",
+      "lat": 43.5441,
+      "lon": 4.6513,
+      "population": 51811
+    },
+    {
+      "insee": "13005",
+      "nom": "Aubagne",
+      "lat": 43.2904,
+      "lon": 5.5643,
+      "population": 47529
+    },
+    {
+      "insee": "13006",
+      "nom": "Aureille",
+      "lat": 43.6983,
+      "lon": 4.942,
+      "population": 1533
+    },
+    {
+      "insee": "13007",
+      "nom": "Auriol",
+      "lat": 43.3594,
+      "lon": 5.6559,
+      "population": 13037
+    },
+    {
+      "insee": "13008",
+      "nom": "Aurons",
+      "lat": 43.6722,
+      "lon": 5.149,
+      "population": 555
+    },
+    {
+      "insee": "13010",
+      "nom": "Barbentane",
+      "lat": 43.891,
+      "lon": 4.7454,
+      "population": 4266
+    },
+    {
+      "insee": "13012",
+      "nom": "Beaurecueil",
+      "lat": 43.5197,
+      "lon": 5.5481,
+      "population": 585
+    },
+    {
+      "insee": "13013",
+      "nom": "Belcodène",
+      "lat": 43.4231,
+      "lon": 5.5846,
+      "population": 2009
+    },
+    {
+      "insee": "13014",
+      "nom": "Berre-l'Étang",
+      "lat": 43.4976,
+      "lon": 5.1596,
+      "population": 13832
+    },
+    {
+      "insee": "13015",
+      "nom": "Bouc-Bel-Air",
+      "lat": 43.4442,
+      "lon": 5.4118,
+      "population": 15381
+    },
+    {
+      "insee": "13017",
+      "nom": "Boulbon",
+      "lat": 43.8721,
+      "lon": 4.6962,
+      "population": 1543
+    },
+    {
+      "insee": "13018",
+      "nom": "Cabannes",
+      "lat": 43.8596,
+      "lon": 4.9592,
+      "population": 4595
+    },
+    {
+      "insee": "13019",
+      "nom": "Cabriès",
+      "lat": 43.453,
+      "lon": 5.3467,
+      "population": 10240
+    },
+    {
+      "insee": "13020",
+      "nom": "Cadolive",
+      "lat": 43.3943,
+      "lon": 5.5303,
+      "population": 2236
+    },
+    {
+      "insee": "13119",
+      "nom": "Carnoux-en-Provence",
+      "lat": 43.259,
+      "lon": 5.5655,
+      "population": 6873
+    },
+    {
+      "insee": "13021",
+      "nom": "Carry-le-Rouet",
+      "lat": 43.3462,
+      "lon": 5.1587,
+      "population": 5702
+    },
+    {
+      "insee": "13022",
+      "nom": "Cassis",
+      "lat": 43.2185,
+      "lon": 5.5503,
+      "population": 6661
+    },
+    {
+      "insee": "13023",
+      "nom": "Ceyreste",
+      "lat": 43.2215,
+      "lon": 5.6354,
+      "population": 4863
+    },
+    {
+      "insee": "13024",
+      "nom": "Charleval",
+      "lat": 43.7205,
+      "lon": 5.2461,
+      "population": 2640
+    },
+    {
+      "insee": "13025",
+      "nom": "Châteauneuf-le-Rouge",
+      "lat": 43.4892,
+      "lon": 5.5691,
+      "population": 2376
+    },
+    {
+      "insee": "13026",
+      "nom": "Châteauneuf-les-Martigues",
+      "lat": 43.3904,
+      "lon": 5.1464,
+      "population": 18455
+    },
+    {
+      "insee": "13027",
+      "nom": "Châteaurenard",
+      "lat": 43.8829,
+      "lon": 4.8344,
+      "population": 16545
+    },
+    {
+      "insee": "13029",
+      "nom": "Cornillon-Confoux",
+      "lat": 43.5762,
+      "lon": 5.0753,
+      "population": 1667
+    },
+    {
+      "insee": "13118",
+      "nom": "Coudoux",
+      "lat": 43.5587,
+      "lon": 5.2559,
+      "population": 3825
+    },
+    {
+      "insee": "13030",
+      "nom": "Cuges-les-Pins",
+      "lat": 43.2822,
+      "lon": 5.7099,
+      "population": 6236
+    },
+    {
+      "insee": "13032",
+      "nom": "Éguilles",
+      "lat": 43.5662,
+      "lon": 5.3177,
+      "population": 8479
+    },
+    {
+      "insee": "13033",
+      "nom": "Ensuès-la-Redonne",
+      "lat": 43.3554,
+      "lon": 5.188,
+      "population": 5757
+    },
+    {
+      "insee": "13034",
+      "nom": "Eygalières",
+      "lat": 43.7638,
+      "lon": 4.9554,
+      "population": 1773
+    },
+    {
+      "insee": "13035",
+      "nom": "Eyguières",
+      "lat": 43.7005,
+      "lon": 5.0132,
+      "population": 7119
+    },
+    {
+      "insee": "13036",
+      "nom": "Eyragues",
+      "lat": 43.8414,
+      "lon": 4.8423,
+      "population": 4298
+    },
+    {
+      "insee": "13038",
+      "nom": "Fontvieille",
+      "lat": 43.7278,
+      "lon": 4.7128,
+      "population": 3571
+    },
+    {
+      "insee": "13039",
+      "nom": "Fos-sur-Mer",
+      "lat": 43.4545,
+      "lon": 4.8979,
+      "population": 15862
+    },
+    {
+      "insee": "13040",
+      "nom": "Fuveau",
+      "lat": 43.4575,
+      "lon": 5.5537,
+      "population": 10337
+    },
+    {
+      "insee": "13041",
+      "nom": "Gardanne",
+      "lat": 43.4585,
+      "lon": 5.4857,
+      "population": 21597
+    },
+    {
+      "insee": "13042",
+      "nom": "Gémenos",
+      "lat": 43.2969,
+      "lon": 5.6518,
+      "population": 6579
+    },
+    {
+      "insee": "13043",
+      "nom": "Gignac-la-Nerthe",
+      "lat": 43.3873,
+      "lon": 5.2334,
+      "population": 10343
+    },
+    {
+      "insee": "13044",
+      "nom": "Grans",
+      "lat": 43.6172,
+      "lon": 5.0431,
+      "population": 5489
+    },
+    {
+      "insee": "13045",
+      "nom": "Graveson",
+      "lat": 43.8532,
+      "lon": 4.7686,
+      "population": 4698
+    },
+    {
+      "insee": "13046",
+      "nom": "Gréasque",
+      "lat": 43.4252,
+      "lon": 5.547,
+      "population": 4554
+    },
+    {
+      "insee": "13047",
+      "nom": "Istres",
+      "lat": 43.5455,
+      "lon": 4.9477,
+      "population": 44292
+    },
+    {
+      "insee": "13048",
+      "nom": "Jouques",
+      "lat": 43.6289,
+      "lon": 5.6605,
+      "population": 4547
+    },
+    {
+      "insee": "13009",
+      "nom": "La Barben",
+      "lat": 43.6189,
+      "lon": 5.2123,
+      "population": 868
+    },
+    {
+      "insee": "13016",
+      "nom": "La Bouilladisse",
+      "lat": 43.3942,
+      "lon": 5.626,
+      "population": 6547
+    },
+    {
+      "insee": "13028",
+      "nom": "La Ciotat",
+      "lat": 43.1882,
+      "lon": 5.6175,
+      "population": 38477
+    },
+    {
+      "insee": "13031",
+      "nom": "La Destrousse",
+      "lat": 43.3788,
+      "lon": 5.5984,
+      "population": 4133
+    },
+    {
+      "insee": "13037",
+      "nom": "La Fare-les-Oliviers",
+      "lat": 43.5541,
+      "lon": 5.2051,
+      "population": 9039
+    },
+    {
+      "insee": "13070",
+      "nom": "La Penne-sur-Huveaune",
+      "lat": 43.2778,
+      "lon": 5.5185,
+      "population": 6605
+    },
+    {
+      "insee": "13084",
+      "nom": "La Roque-d'Anthéron",
+      "lat": 43.7166,
+      "lon": 5.3165,
+      "population": 5459
+    },
+    {
+      "insee": "13049",
+      "nom": "Lamanon",
+      "lat": 43.7073,
+      "lon": 5.0898,
+      "population": 2097
+    },
+    {
+      "insee": "13050",
+      "nom": "Lambesc",
+      "lat": 43.6636,
+      "lon": 5.2493,
+      "population": 10024
+    },
+    {
+      "insee": "13051",
+      "nom": "Lançon-Provence",
+      "lat": 43.5728,
+      "lon": 5.1725,
+      "population": 9915
+    },
+    {
+      "insee": "13080",
+      "nom": "Le Puy-Sainte-Réparade",
+      "lat": 43.6533,
+      "lon": 5.4401,
+      "population": 5935
+    },
+    {
+      "insee": "13088",
+      "nom": "Le Rove",
+      "lat": 43.3622,
+      "lon": 5.2498,
+      "population": 5246
+    },
+    {
+      "insee": "13109",
+      "nom": "Le Tholonet",
+      "lat": 43.5218,
+      "lon": 5.5053,
+      "population": 2391
+    },
+    {
+      "insee": "13011",
+      "nom": "Les Baux-de-Provence",
+      "lat": 43.7491,
+      "lon": 4.805,
+      "population": 264
+    },
+    {
+      "insee": "13071",
+      "nom": "Les Pennes-Mirabeau",
+      "lat": 43.4005,
+      "lon": 5.3222,
+      "population": 22537
+    },
+    {
+      "insee": "13052",
+      "nom": "Maillane",
+      "lat": 43.8231,
+      "lon": 4.7832,
+      "population": 2775
+    },
+    {
+      "insee": "13053",
+      "nom": "Mallemort",
+      "lat": 43.728,
+      "lon": 5.1849,
+      "population": 6166
+    },
+    {
+      "insee": "13054",
+      "nom": "Marignane",
+      "lat": 43.4218,
+      "lon": 5.2178,
+      "population": 33692
+    },
+    {
+      "insee": "13055",
+      "nom": "Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
+      "population": 886040
+    },
+    {
+      "insee": "13056",
+      "nom": "Martigues",
+      "lat": 43.3839,
+      "lon": 5.0451,
+      "population": 48298
+    },
+    {
+      "insee": "13057",
+      "nom": "Mas-Blanc-des-Alpilles",
+      "lat": 43.7887,
+      "lon": 4.7637,
+      "population": 564
+    },
+    {
+      "insee": "13058",
+      "nom": "Maussane-les-Alpilles",
+      "lat": 43.7158,
+      "lon": 4.838,
+      "population": 2347
+    },
+    {
+      "insee": "13059",
+      "nom": "Meyrargues",
+      "lat": 43.6229,
+      "lon": 5.5321,
+      "population": 3847
+    },
+    {
+      "insee": "13060",
+      "nom": "Meyreuil",
+      "lat": 43.488,
+      "lon": 5.5002,
+      "population": 6747
+    },
+    {
+      "insee": "13062",
+      "nom": "Mimet",
+      "lat": 43.4123,
+      "lon": 5.5001,
+      "population": 4241
+    },
+    {
+      "insee": "13063",
+      "nom": "Miramas",
+      "lat": 43.5841,
+      "lon": 5.0148,
+      "population": 26203
+    },
+    {
+      "insee": "13064",
+      "nom": "Mollégès",
+      "lat": 43.8034,
+      "lon": 4.9466,
+      "population": 2647
+    },
+    {
+      "insee": "13065",
+      "nom": "Mouriès",
+      "lat": 43.7053,
+      "lon": 4.8781,
+      "population": 3527
+    },
+    {
+      "insee": "13066",
+      "nom": "Noves",
+      "lat": 43.86,
+      "lon": 4.9018,
+      "population": 6080
+    },
+    {
+      "insee": "13067",
+      "nom": "Orgon",
+      "lat": 43.7844,
+      "lon": 5.0294,
+      "population": 2762
+    },
+    {
+      "insee": "13068",
+      "nom": "Paradou",
+      "lat": 43.7071,
+      "lon": 4.7756,
+      "population": 2159
+    },
+    {
+      "insee": "13069",
+      "nom": "Pélissanne",
+      "lat": 43.63,
+      "lon": 5.1628,
+      "population": 11085
+    },
+    {
+      "insee": "13072",
+      "nom": "Peynier",
+      "lat": 43.4375,
+      "lon": 5.6204,
+      "population": 3739
+    },
+    {
+      "insee": "13073",
+      "nom": "Peypin",
+      "lat": 43.3834,
+      "lon": 5.57,
+      "population": 5771
+    },
+    {
+      "insee": "13074",
+      "nom": "Peyrolles-en-Provence",
+      "lat": 43.6262,
+      "lon": 5.5763,
+      "population": 5409
+    },
+    {
+      "insee": "13076",
+      "nom": "Plan-d'Orgon",
+      "lat": 43.818,
+      "lon": 5.0011,
+      "population": 3573
+    },
+    {
+      "insee": "13075",
+      "nom": "Plan-de-Cuques",
+      "lat": 43.3642,
+      "lon": 5.4639,
+      "population": 11632
+    },
+    {
+      "insee": "13077",
+      "nom": "Port-de-Bouc",
+      "lat": 43.4207,
+      "lon": 4.9993,
+      "population": 15802
+    },
+    {
+      "insee": "13078",
+      "nom": "Port-Saint-Louis-du-Rhône",
+      "lat": 43.4066,
+      "lon": 4.826,
+      "population": 8573
+    },
+    {
+      "insee": "13079",
+      "nom": "Puyloubier",
+      "lat": 43.5192,
+      "lon": 5.6718,
+      "population": 1768
+    },
+    {
+      "insee": "13081",
+      "nom": "Rognac",
+      "lat": 43.4995,
+      "lon": 5.233,
+      "population": 12576
+    },
+    {
+      "insee": "13082",
+      "nom": "Rognes",
+      "lat": 43.6672,
+      "lon": 5.3546,
+      "population": 4693
+    },
+    {
+      "insee": "13083",
+      "nom": "Rognonas",
+      "lat": 43.8992,
+      "lon": 4.7948,
+      "population": 4261
+    },
+    {
+      "insee": "13085",
+      "nom": "Roquefort-la-Bédoule",
+      "lat": 43.2518,
+      "lon": 5.6297,
+      "population": 5798
+    },
+    {
+      "insee": "13086",
+      "nom": "Roquevaire",
+      "lat": 43.3452,
+      "lon": 5.598,
+      "population": 8915
+    },
+    {
+      "insee": "13087",
+      "nom": "Rousset",
+      "lat": 43.4869,
+      "lon": 5.6202,
+      "population": 5425
+    },
+    {
+      "insee": "13089",
+      "nom": "Saint-Andiol",
+      "lat": 43.8327,
+      "lon": 4.9498,
+      "population": 3353
+    },
+    {
+      "insee": "13090",
+      "nom": "Saint-Antonin-sur-Bayon",
+      "lat": 43.5191,
+      "lon": 5.5972,
+      "population": 126
+    },
+    {
+      "insee": "13091",
+      "nom": "Saint-Cannat",
+      "lat": 43.6155,
+      "lon": 5.3108,
+      "population": 6097
+    },
+    {
+      "insee": "13092",
+      "nom": "Saint-Chamas",
+      "lat": 43.5414,
+      "lon": 5.072,
+      "population": 8676
+    },
+    {
+      "insee": "13093",
+      "nom": "Saint-Estève-Janson",
+      "lat": 43.6926,
+      "lon": 5.3891,
+      "population": 357
+    },
+    {
+      "insee": "13094",
+      "nom": "Saint-Étienne-du-Grès",
+      "lat": 43.787,
+      "lon": 4.7352,
+      "population": 2489
+    },
+    {
+      "insee": "13095",
+      "nom": "Saint-Marc-Jaumegarde",
+      "lat": 43.5567,
+      "lon": 5.5202,
+      "population": 1273
+    },
+    {
+      "insee": "13097",
+      "nom": "Saint-Martin-de-Crau",
+      "lat": 43.6074,
+      "lon": 4.8688,
+      "population": 14145
+    },
+    {
+      "insee": "13098",
+      "nom": "Saint-Mitre-les-Remparts",
+      "lat": 43.4565,
+      "lon": 5.0152,
+      "population": 6175
+    },
+    {
+      "insee": "13099",
+      "nom": "Saint-Paul-lès-Durance",
+      "lat": 43.6869,
+      "lon": 5.748,
+      "population": 885
+    },
+    {
+      "insee": "13061",
+      "nom": "Saint-Pierre-de-Mézoargues",
+      "lat": 43.8616,
+      "lon": 4.6578,
+      "population": 229
+    },
+    {
+      "insee": "13100",
+      "nom": "Saint-Rémy-de-Provence",
+      "lat": 43.7815,
+      "lon": 4.8455,
+      "population": 9599
+    },
+    {
+      "insee": "13101",
+      "nom": "Saint-Savournin",
+      "lat": 43.4025,
+      "lon": 5.5321,
+      "population": 3397
+    },
+    {
+      "insee": "13102",
+      "nom": "Saint-Victoret",
+      "lat": 43.4121,
+      "lon": 5.2508,
+      "population": 6730
+    },
+    {
+      "insee": "13096",
+      "nom": "Saintes-Maries-de-la-Mer",
+      "lat": 43.4958,
+      "lon": 4.4374,
+      "population": 2433
+    },
+    {
+      "insee": "13103",
+      "nom": "Salon-de-Provence",
+      "lat": 43.643,
+      "lon": 5.049,
+      "population": 44194
+    },
+    {
+      "insee": "13104",
+      "nom": "Sausset-les-Pins",
+      "lat": 43.3469,
+      "lon": 5.1158,
+      "population": 7574
+    },
+    {
+      "insee": "13105",
+      "nom": "Sénas",
+      "lat": 43.7402,
+      "lon": 5.073,
+      "population": 6925
+    },
+    {
+      "insee": "13106",
+      "nom": "Septèmes-les-Vallons",
+      "lat": 43.3931,
+      "lon": 5.3828,
+      "population": 11995
+    },
+    {
+      "insee": "13107",
+      "nom": "Simiane-Collongue",
+      "lat": 43.4154,
+      "lon": 5.4359,
+      "population": 5780
+    },
+    {
+      "insee": "13108",
+      "nom": "Tarascon",
+      "lat": 43.7972,
+      "lon": 4.6852,
+      "population": 15396
+    },
+    {
+      "insee": "13110",
+      "nom": "Trets",
+      "lat": 43.4452,
+      "lon": 5.7137,
+      "population": 10946
+    },
+    {
+      "insee": "13111",
+      "nom": "Vauvenargues",
+      "lat": 43.5619,
+      "lon": 5.6207,
+      "population": 1058
+    },
+    {
+      "insee": "13112",
+      "nom": "Velaux",
+      "lat": 43.5215,
+      "lon": 5.246,
+      "population": 8941
+    },
+    {
+      "insee": "13113",
+      "nom": "Venelles",
+      "lat": 43.5951,
+      "lon": 5.4991,
+      "population": 8418
+    },
+    {
+      "insee": "13114",
+      "nom": "Ventabren",
+      "lat": 43.5446,
+      "lon": 5.3045,
+      "population": 5839
+    },
+    {
+      "insee": "13115",
+      "nom": "Vernègues",
+      "lat": 43.6841,
+      "lon": 5.1892,
+      "population": 2166
+    },
+    {
+      "insee": "13116",
+      "nom": "Verquières",
+      "lat": 43.8377,
+      "lon": 4.9192,
+      "population": 772
+    },
+    {
+      "insee": "13117",
+      "nom": "Vitrolles",
+      "lat": 43.4509,
+      "lon": 5.2656,
+      "population": 36758
+    }
+  ]
+}

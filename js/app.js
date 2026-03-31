@@ -184,10 +184,16 @@ function ensureProgressionStateShape(loadedProgression) {
 
 function createInstallationState() {
   const defaultMode = SETTINGS.installation?.defaultMode;
+  const defaultDepartmentCode = SETTINGS.installation?.defaultDepartmentCode || null;
 
   return {
     mode: normalizeInstallationMode(defaultMode),
-    isFirstLaunch: false
+    isFirstLaunch: true,
+    territory: {
+      country: "FR",
+      departmentCode: defaultDepartmentCode,
+      label: null
+    }
   };
 }
 
@@ -199,6 +205,11 @@ function ensureInstallationStateShape(loadedInstallation) {
   installation.isFirstLaunch = typeof installation.isFirstLaunch === "boolean"
     ? installation.isFirstLaunch
     : base.isFirstLaunch;
+  installation.territory = {
+    country: installation.territory?.country || base.territory.country,
+    departmentCode: installation.territory?.departmentCode || base.territory.departmentCode,
+    label: installation.territory?.label || base.territory.label
+  };
 
   return installation;
 }
@@ -219,6 +230,7 @@ function createInitialState() {
       etat: "disponible"
     })),
     interventions: [],
+    dynamicZones: null,
     activeMissions: [],
     dispatchSelections: {},
     isPaused: false,
@@ -239,6 +251,9 @@ function loadState() {
 
     if (!loadedState.dispatchSelections) {
       loadedState.dispatchSelections = {};
+    }
+    if (!Array.isArray(loadedState.dynamicZones)) {
+      loadedState.dynamicZones = null;
     }
 
     if (!loadedState.progression) {
@@ -332,8 +347,6 @@ function togglePause() {
 function renderAppMeta() {
   const titleEl = document.getElementById("appTitle");
   const versionEl = document.getElementById("appVersionLine");
-  const installationMode = state?.installation?.mode || "offline";
-  const modeLabel = installationMode === "online" ? "mode online" : "mode offline local";
   document.title = `${APP_META.name} ${APP_META.version}`;
 
   if (titleEl) {
@@ -341,7 +354,175 @@ function renderAppMeta() {
   }
 
   if (versionEl) {
-    versionEl.textContent = `${APP_META.version} - ${modeLabel}`;
+    versionEl.textContent = `${APP_META.version}`;
+  }
+}
+
+let territoryCatalog = [];
+let territoryCatalogLoading = false;
+
+function slugifyZoneId(value) {
+  const safe = String(value || "")
+    .toUpperCase()
+    .replace(/[^A-Z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  return safe || `ZONE_${Math.floor(Math.random() * 100000)}`;
+}
+
+function communeToZone(commune) {
+  const lat = Number(commune?.lat);
+  const lon = Number(commune?.lon);
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+    return null;
+  }
+
+  const population = Number(commune?.population);
+  const safePopulation = Number.isFinite(population) && population > 0 ? Math.round(population) : 300;
+  const idSource = commune?.insee || commune?.code || commune?.id || commune?.nom;
+
+  return {
+    id: slugifyZoneId(idSource),
+    nom: commune?.nom || `Commune ${idSource || ""}`.trim(),
+    lat,
+    lon,
+    population: safePopulation,
+    poidsIntervention: Math.max(0.2, safePopulation / 1000)
+  };
+}
+
+function getCurrentTerritoryLabel() {
+  const territory = state?.installation?.territory || {};
+  const departmentCode = territory.departmentCode;
+  if (!departmentCode) {
+    return "Territoire non configure";
+  }
+
+  const inCatalog = territoryCatalog.find(item => item.code === departmentCode);
+  const label = territory.label || inCatalog?.label || departmentCode;
+  return `FR-${departmentCode} (${label})`;
+}
+
+async function loadTerritoryCatalog() {
+  if (territoryCatalogLoading) {
+    return territoryCatalog;
+  }
+
+  territoryCatalogLoading = true;
+  try {
+    const response = await fetch("packs/fr/index.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const payload = await response.json();
+    const departments = Array.isArray(payload?.departments) ? payload.departments : [];
+    territoryCatalog = departments
+      .filter(item => item && item.code)
+      .map(item => ({
+        code: String(item.code),
+        label: item.label || String(item.code),
+        count: typeof item.count === "number" ? item.count : null
+      }))
+      .sort((a, b) => a.code.localeCompare(b.code, "fr-FR"));
+  } catch (error) {
+    territoryCatalog = [];
+    console.error("Impossible de charger l'index des packs territoires:", error);
+  } finally {
+    territoryCatalogLoading = false;
+  }
+
+  return territoryCatalog;
+}
+
+async function applyDepartmentSelection(departmentCode) {
+  const normalizedCode = String(departmentCode || "").trim();
+  if (!normalizedCode) {
+    alert("Choisis un departement.");
+    return false;
+  }
+
+  try {
+    const response = await fetch(`packs/fr/departements/${normalizedCode}/communes.json`, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const payload = await response.json();
+    const communes = Array.isArray(payload?.communes) ? payload.communes : [];
+    const zones = communes.map(communeToZone).filter(Boolean);
+
+    if (zones.length === 0) {
+      alert("Le pack selectionne ne contient pas de communes exploitables.");
+      return false;
+    }
+
+    const catalogItem = territoryCatalog.find(item => item.code === normalizedCode);
+    state.dynamicZones = zones;
+    state.installation.territory = {
+      country: "FR",
+      departmentCode: normalizedCode,
+      label: catalogItem?.label || payload?.label || normalizedCode
+    };
+    state.installation.isFirstLaunch = false;
+    state.currentCenterPanel = "detail";
+    state.selectedInterventionId = null;
+    state.isPaused = false;
+
+    saveState();
+    renderAppMeta();
+    renderAll();
+    return true;
+  } catch (error) {
+    console.error("Chargement du pack departement impossible:", error);
+    alert(`Impossible de charger le pack du departement ${normalizedCode}.`);
+    return false;
+  }
+}
+
+async function ensureTerritoryReady() {
+  const territory = state?.installation?.territory || {};
+  const hasDepartment = !!territory.departmentCode;
+
+  await loadTerritoryCatalog();
+
+  if (!hasDepartment) {
+    if (territoryCatalog.length === 0) {
+      // Fallback mode (ex: ouverture directe en file:// sans serveur HTTP).
+      // On ne bloque pas le jeu: on garde les zones statiques.
+      state.installation.isFirstLaunch = false;
+      state.currentCenterPanel = "detail";
+      state.isPaused = false;
+      saveState();
+      renderAll();
+      return;
+    }
+
+    state.currentCenterPanel = "territorySetup";
+    state.isPaused = true;
+    saveState();
+    renderAll();
+    return;
+  }
+
+  if (Array.isArray(state.dynamicZones) && state.dynamicZones.length > 0) {
+    return;
+  }
+
+  const loaded = await applyDepartmentSelection(territory.departmentCode);
+  if (!loaded) {
+    if (territoryCatalog.length === 0) {
+      // Fallback statique si aucun pack n'est chargeable.
+      state.currentCenterPanel = "detail";
+      state.isPaused = false;
+      saveState();
+      renderAll();
+      return;
+    }
+
+    state.currentCenterPanel = "territorySetup";
+    state.isPaused = true;
+    saveState();
+    renderAll();
   }
 }
 
@@ -359,9 +540,17 @@ window.removeVehicleFromSelection = removeVehicleFromSelection;
 window.clearDispatchSelection = clearDispatchSelection;
 window.engageSelection = engageSelection;
 window.getInstallationMode = () => state?.installation?.mode || "offline";
+window.getTerritoryCatalog = () => territoryCatalog;
+window.getCurrentTerritoryLabel = getCurrentTerritoryLabel;
+window.applyDepartmentSelection = applyDepartmentSelection;
+window.reloadTerritoryCatalog = async () => {
+  territoryCatalog = [];
+  return loadTerritoryCatalog();
+};
 
 renderAppMeta();
 renderAll();
+ensureTerritoryReady();
 
 setInterval(() => {
   if (!state.isPaused) {

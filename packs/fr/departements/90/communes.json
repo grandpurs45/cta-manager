@@ -1,0 +1,714 @@
+{
+  "country": "FR",
+  "departmentCode": "90",
+  "label": "Departement 90",
+  "communes": [
+    {
+      "insee": "90001",
+      "nom": "Andelnans",
+      "lat": 47.6017,
+      "lon": 6.8628,
+      "population": 1093
+    },
+    {
+      "insee": "90002",
+      "nom": "Angeot",
+      "lat": 47.6958,
+      "lon": 7.0032,
+      "population": 354
+    },
+    {
+      "insee": "90003",
+      "nom": "Anjoutey",
+      "lat": 47.7055,
+      "lon": 6.9227,
+      "population": 611
+    },
+    {
+      "insee": "90004",
+      "nom": "Argiésans",
+      "lat": 47.6072,
+      "lon": 6.8207,
+      "population": 607
+    },
+    {
+      "insee": "90082",
+      "nom": "Autrechêne",
+      "lat": 47.5911,
+      "lon": 6.9626,
+      "population": 281
+    },
+    {
+      "insee": "90005",
+      "nom": "Auxelles-Bas",
+      "lat": 47.7274,
+      "lon": 6.7846,
+      "population": 417
+    },
+    {
+      "insee": "90006",
+      "nom": "Auxelles-Haut",
+      "lat": 47.7529,
+      "lon": 6.7813,
+      "population": 287
+    },
+    {
+      "insee": "90007",
+      "nom": "Banvillars",
+      "lat": 47.5881,
+      "lon": 6.8127,
+      "population": 289
+    },
+    {
+      "insee": "90008",
+      "nom": "Bavilliers",
+      "lat": 47.6214,
+      "lon": 6.8275,
+      "population": 4678
+    },
+    {
+      "insee": "90009",
+      "nom": "Beaucourt",
+      "lat": 47.4868,
+      "lon": 6.9251,
+      "population": 4966
+    },
+    {
+      "insee": "90010",
+      "nom": "Belfort",
+      "lat": 47.6458,
+      "lon": 6.841,
+      "population": 45912
+    },
+    {
+      "insee": "90011",
+      "nom": "Bermont",
+      "lat": 47.5757,
+      "lon": 6.8416,
+      "population": 358
+    },
+    {
+      "insee": "90012",
+      "nom": "Bessoncourt",
+      "lat": 47.6458,
+      "lon": 6.9417,
+      "population": 1309
+    },
+    {
+      "insee": "90013",
+      "nom": "Bethonvilliers",
+      "lat": 47.6805,
+      "lon": 6.9672,
+      "population": 232
+    },
+    {
+      "insee": "90014",
+      "nom": "Boron",
+      "lat": 47.5556,
+      "lon": 7.016,
+      "population": 484
+    },
+    {
+      "insee": "90015",
+      "nom": "Botans",
+      "lat": 47.5955,
+      "lon": 6.8502,
+      "population": 249
+    },
+    {
+      "insee": "90016",
+      "nom": "Bourg-sous-Châtelet",
+      "lat": 47.7068,
+      "lon": 6.948,
+      "population": 115
+    },
+    {
+      "insee": "90017",
+      "nom": "Bourogne",
+      "lat": 47.5623,
+      "lon": 6.9063,
+      "population": 1741
+    },
+    {
+      "insee": "90018",
+      "nom": "Brebotte",
+      "lat": 47.5769,
+      "lon": 6.9754,
+      "population": 353
+    },
+    {
+      "insee": "90019",
+      "nom": "Bretagne",
+      "lat": 47.5909,
+      "lon": 6.9972,
+      "population": 319
+    },
+    {
+      "insee": "90020",
+      "nom": "Buc",
+      "lat": 47.616,
+      "lon": 6.7886,
+      "population": 244
+    },
+    {
+      "insee": "90021",
+      "nom": "Charmois",
+      "lat": 47.5795,
+      "lon": 6.9403,
+      "population": 369
+    },
+    {
+      "insee": "90022",
+      "nom": "Châtenois-les-Forges",
+      "lat": 47.5602,
+      "lon": 6.834,
+      "population": 2608
+    },
+    {
+      "insee": "90023",
+      "nom": "Chaux",
+      "lat": 47.7141,
+      "lon": 6.8386,
+      "population": 1184
+    },
+    {
+      "insee": "90024",
+      "nom": "Chavanatte",
+      "lat": 47.5815,
+      "lon": 7.0706,
+      "population": 130
+    },
+    {
+      "insee": "90025",
+      "nom": "Chavannes-les-Grands",
+      "lat": 47.5889,
+      "lon": 7.0519,
+      "population": 345
+    },
+    {
+      "insee": "90026",
+      "nom": "Chèvremont",
+      "lat": 47.6268,
+      "lon": 6.9303,
+      "population": 1539
+    },
+    {
+      "insee": "90027",
+      "nom": "Courcelles",
+      "lat": 47.4983,
+      "lon": 7.0668,
+      "population": 132
+    },
+    {
+      "insee": "90028",
+      "nom": "Courtelevant",
+      "lat": 47.5262,
+      "lon": 7.0846,
+      "population": 379
+    },
+    {
+      "insee": "90029",
+      "nom": "Cravanche",
+      "lat": 47.653,
+      "lon": 6.8238,
+      "population": 1942
+    },
+    {
+      "insee": "90030",
+      "nom": "Croix",
+      "lat": 47.4447,
+      "lon": 6.9518,
+      "population": 180
+    },
+    {
+      "insee": "90031",
+      "nom": "Cunelières",
+      "lat": 47.6256,
+      "lon": 6.9928,
+      "population": 341
+    },
+    {
+      "insee": "90032",
+      "nom": "Danjoutin",
+      "lat": 47.6187,
+      "lon": 6.8647,
+      "population": 3519
+    },
+    {
+      "insee": "90033",
+      "nom": "Delle",
+      "lat": 47.509,
+      "lon": 6.996,
+      "population": 5623
+    },
+    {
+      "insee": "90034",
+      "nom": "Denney",
+      "lat": 47.6549,
+      "lon": 6.9054,
+      "population": 763
+    },
+    {
+      "insee": "90035",
+      "nom": "Dorans",
+      "lat": 47.5865,
+      "lon": 6.8398,
+      "population": 824
+    },
+    {
+      "insee": "90036",
+      "nom": "Eguenigue",
+      "lat": 47.6785,
+      "lon": 6.9351,
+      "population": 272
+    },
+    {
+      "insee": "90037",
+      "nom": "Éloie",
+      "lat": 47.687,
+      "lon": 6.873,
+      "population": 952
+    },
+    {
+      "insee": "90039",
+      "nom": "Essert",
+      "lat": 47.6382,
+      "lon": 6.8127,
+      "population": 3417
+    },
+    {
+      "insee": "90041",
+      "nom": "Étueffont",
+      "lat": 47.7248,
+      "lon": 6.9171,
+      "population": 1393
+    },
+    {
+      "insee": "90042",
+      "nom": "Évette-Salbert",
+      "lat": 47.6693,
+      "lon": 6.8034,
+      "population": 2029
+    },
+    {
+      "insee": "90043",
+      "nom": "Faverois",
+      "lat": 47.5291,
+      "lon": 7.0364,
+      "population": 593
+    },
+    {
+      "insee": "90045",
+      "nom": "Fêche-l'Église",
+      "lat": 47.5008,
+      "lon": 6.9573,
+      "population": 702
+    },
+    {
+      "insee": "90044",
+      "nom": "Felon",
+      "lat": 47.7061,
+      "lon": 6.979,
+      "population": 222
+    },
+    {
+      "insee": "90046",
+      "nom": "Florimont",
+      "lat": 47.5408,
+      "lon": 7.0519,
+      "population": 473
+    },
+    {
+      "insee": "90047",
+      "nom": "Fontaine",
+      "lat": 47.6567,
+      "lon": 6.997,
+      "population": 605
+    },
+    {
+      "insee": "90048",
+      "nom": "Fontenelle",
+      "lat": 47.6207,
+      "lon": 6.9564,
+      "population": 135
+    },
+    {
+      "insee": "90049",
+      "nom": "Foussemagne",
+      "lat": 47.6389,
+      "lon": 6.9959,
+      "population": 869
+    },
+    {
+      "insee": "90050",
+      "nom": "Frais",
+      "lat": 47.646,
+      "lon": 6.9823,
+      "population": 249
+    },
+    {
+      "insee": "90051",
+      "nom": "Froidefontaine",
+      "lat": 47.5684,
+      "lon": 6.9594,
+      "population": 433
+    },
+    {
+      "insee": "90052",
+      "nom": "Giromagny",
+      "lat": 47.7425,
+      "lon": 6.8198,
+      "population": 2907
+    },
+    {
+      "insee": "90053",
+      "nom": "Grandvillars",
+      "lat": 47.5378,
+      "lon": 6.9754,
+      "population": 2947
+    },
+    {
+      "insee": "90054",
+      "nom": "Grosmagny",
+      "lat": 47.7226,
+      "lon": 6.8787,
+      "population": 569
+    },
+    {
+      "insee": "90055",
+      "nom": "Grosne",
+      "lat": 47.5717,
+      "lon": 6.994,
+      "population": 321
+    },
+    {
+      "insee": "90056",
+      "nom": "Joncherey",
+      "lat": 47.5322,
+      "lon": 7.008,
+      "population": 1451
+    },
+    {
+      "insee": "90057",
+      "nom": "Lachapelle-sous-Chaux",
+      "lat": 47.706,
+      "lon": 6.7995,
+      "population": 745
+    },
+    {
+      "insee": "90058",
+      "nom": "Lachapelle-sous-Rougemont",
+      "lat": 47.7152,
+      "lon": 7.0149,
+      "population": 539
+    },
+    {
+      "insee": "90059",
+      "nom": "Lacollonge",
+      "lat": 47.6624,
+      "lon": 6.9577,
+      "population": 234
+    },
+    {
+      "insee": "90060",
+      "nom": "Lagrange",
+      "lat": 47.6844,
+      "lon": 6.9767,
+      "population": 144
+    },
+    {
+      "insee": "90061",
+      "nom": "Lamadeleine-Val-des-Anges",
+      "lat": 47.762,
+      "lon": 6.9067,
+      "population": 46
+    },
+    {
+      "insee": "90062",
+      "nom": "Larivière",
+      "lat": 47.6782,
+      "lon": 6.9962,
+      "population": 282
+    },
+    {
+      "insee": "90063",
+      "nom": "Lebetain",
+      "lat": 47.4855,
+      "lon": 6.9705,
+      "population": 422
+    },
+    {
+      "insee": "90065",
+      "nom": "Lepuix",
+      "lat": 47.7858,
+      "lon": 6.82,
+      "population": 1115
+    },
+    {
+      "insee": "90064",
+      "nom": "Lepuix-Neuf",
+      "lat": 47.542,
+      "lon": 7.1071,
+      "population": 307
+    },
+    {
+      "insee": "90066",
+      "nom": "Leval",
+      "lat": 47.7324,
+      "lon": 6.9945,
+      "population": 250
+    },
+    {
+      "insee": "90067",
+      "nom": "Menoncourt",
+      "lat": 47.6804,
+      "lon": 6.954,
+      "population": 391
+    },
+    {
+      "insee": "90068",
+      "nom": "Meroux-Moval",
+      "lat": 47.5945,
+      "lon": 6.9136,
+      "population": 1440
+    },
+    {
+      "insee": "90069",
+      "nom": "Méziré",
+      "lat": 47.5318,
+      "lon": 6.9239,
+      "population": 1255
+    },
+    {
+      "insee": "90070",
+      "nom": "Montbouton",
+      "lat": 47.467,
+      "lon": 6.9235,
+      "population": 422
+    },
+    {
+      "insee": "90071",
+      "nom": "Montreux-Château",
+      "lat": 47.6089,
+      "lon": 6.9941,
+      "population": 1180
+    },
+    {
+      "insee": "90072",
+      "nom": "Morvillars",
+      "lat": 47.5398,
+      "lon": 6.9353,
+      "population": 1113
+    },
+    {
+      "insee": "90074",
+      "nom": "Novillard",
+      "lat": 47.6047,
+      "lon": 6.9622,
+      "population": 300
+    },
+    {
+      "insee": "90075",
+      "nom": "Offemont",
+      "lat": 47.6639,
+      "lon": 6.8734,
+      "population": 4051
+    },
+    {
+      "insee": "90076",
+      "nom": "Pérouse",
+      "lat": 47.6363,
+      "lon": 6.8925,
+      "population": 1196
+    },
+    {
+      "insee": "90077",
+      "nom": "Petit-Croix",
+      "lat": 47.6218,
+      "lon": 6.9751,
+      "population": 308
+    },
+    {
+      "insee": "90078",
+      "nom": "Petitefontaine",
+      "lat": 47.7245,
+      "lon": 7.0071,
+      "population": 193
+    },
+    {
+      "insee": "90079",
+      "nom": "Petitmagny",
+      "lat": 47.7257,
+      "lon": 6.9003,
+      "population": 315
+    },
+    {
+      "insee": "90080",
+      "nom": "Phaffans",
+      "lat": 47.6593,
+      "lon": 6.9476,
+      "population": 432
+    },
+    {
+      "insee": "90081",
+      "nom": "Réchésy",
+      "lat": 47.5169,
+      "lon": 7.1175,
+      "population": 764
+    },
+    {
+      "insee": "90083",
+      "nom": "Recouvrance",
+      "lat": 47.5718,
+      "lon": 6.977,
+      "population": 147
+    },
+    {
+      "insee": "90084",
+      "nom": "Reppe",
+      "lat": 47.6623,
+      "lon": 7.0279,
+      "population": 322
+    },
+    {
+      "insee": "90085",
+      "nom": "Riervescemont",
+      "lat": 47.7697,
+      "lon": 6.8805,
+      "population": 83
+    },
+    {
+      "insee": "90086",
+      "nom": "Romagny-sous-Rougemont",
+      "lat": 47.7191,
+      "lon": 6.9658,
+      "population": 213
+    },
+    {
+      "insee": "90087",
+      "nom": "Roppe",
+      "lat": 47.6773,
+      "lon": 6.9073,
+      "population": 1041
+    },
+    {
+      "insee": "90088",
+      "nom": "Rougegoutte",
+      "lat": 47.7335,
+      "lon": 6.861,
+      "population": 987
+    },
+    {
+      "insee": "90089",
+      "nom": "Rougemont-le-Château",
+      "lat": 47.7468,
+      "lon": 6.96,
+      "population": 1487
+    },
+    {
+      "insee": "90090",
+      "nom": "Saint-Dizier-l'Évêque",
+      "lat": 47.4683,
+      "lon": 6.9642,
+      "population": 427
+    },
+    {
+      "insee": "90091",
+      "nom": "Saint-Germain-le-Châtelet",
+      "lat": 47.7035,
+      "lon": 6.9637,
+      "population": 654
+    },
+    {
+      "insee": "90093",
+      "nom": "Sermamagny",
+      "lat": 47.6867,
+      "lon": 6.8304,
+      "population": 929
+    },
+    {
+      "insee": "90094",
+      "nom": "Sevenans",
+      "lat": 47.5898,
+      "lon": 6.8718,
+      "population": 688
+    },
+    {
+      "insee": "90095",
+      "nom": "Suarce",
+      "lat": 47.5638,
+      "lon": 7.0789,
+      "population": 442
+    },
+    {
+      "insee": "90096",
+      "nom": "Thiancourt",
+      "lat": 47.5222,
+      "lon": 6.9783,
+      "population": 286
+    },
+    {
+      "insee": "90097",
+      "nom": "Trévenans",
+      "lat": 47.5663,
+      "lon": 6.8696,
+      "population": 1310
+    },
+    {
+      "insee": "90098",
+      "nom": "Urcerey",
+      "lat": 47.6118,
+      "lon": 6.8026,
+      "population": 257
+    },
+    {
+      "insee": "90099",
+      "nom": "Valdoie",
+      "lat": 47.6727,
+      "lon": 6.8476,
+      "population": 5175
+    },
+    {
+      "insee": "90100",
+      "nom": "Vauthiermont",
+      "lat": 47.6801,
+      "lon": 7.0258,
+      "population": 232
+    },
+    {
+      "insee": "90101",
+      "nom": "Vellescot",
+      "lat": 47.5752,
+      "lon": 7.0176,
+      "population": 257
+    },
+    {
+      "insee": "90102",
+      "nom": "Vescemont",
+      "lat": 47.7539,
+      "lon": 6.8621,
+      "population": 717
+    },
+    {
+      "insee": "90103",
+      "nom": "Vétrigne",
+      "lat": 47.6693,
+      "lon": 6.8962,
+      "population": 636
+    },
+    {
+      "insee": "90104",
+      "nom": "Vézelois",
+      "lat": 47.6082,
+      "lon": 6.9155,
+      "population": 1029
+    },
+    {
+      "insee": "90105",
+      "nom": "Villars-le-Sec",
+      "lat": 47.4572,
+      "lon": 6.9862,
+      "population": 176
+    }
+  ]
+}

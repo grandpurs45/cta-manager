@@ -1,0 +1,3605 @@
+{
+  "country": "FR",
+  "departmentCode": "67",
+  "label": "Departement 67",
+  "communes": [
+    {
+      "insee": "67001",
+      "nom": "Achenheim",
+      "lat": 48.5818,
+      "lon": 7.6291,
+      "population": 2637
+    },
+    {
+      "insee": "67002",
+      "nom": "Adamswiller",
+      "lat": 48.9068,
+      "lon": 7.2017,
+      "population": 407
+    },
+    {
+      "insee": "67003",
+      "nom": "Albé",
+      "lat": 48.3635,
+      "lon": 7.3409,
+      "population": 473
+    },
+    {
+      "insee": "67005",
+      "nom": "Alteckendorf",
+      "lat": 48.7936,
+      "lon": 7.5951,
+      "population": 857
+    },
+    {
+      "insee": "67006",
+      "nom": "Altenheim",
+      "lat": 48.7225,
+      "lon": 7.4637,
+      "population": 229
+    },
+    {
+      "insee": "67008",
+      "nom": "Altorf",
+      "lat": 48.5243,
+      "lon": 7.5404,
+      "population": 1447
+    },
+    {
+      "insee": "67009",
+      "nom": "Altwiller",
+      "lat": 48.9173,
+      "lon": 6.9766,
+      "population": 373
+    },
+    {
+      "insee": "67010",
+      "nom": "Andlau",
+      "lat": 48.3935,
+      "lon": 7.3871,
+      "population": 1757
+    },
+    {
+      "insee": "67011",
+      "nom": "Artolsheim",
+      "lat": 48.21,
+      "lon": 7.603,
+      "population": 1005
+    },
+    {
+      "insee": "67012",
+      "nom": "Aschbach",
+      "lat": 48.9411,
+      "lon": 7.9789,
+      "population": 633
+    },
+    {
+      "insee": "67013",
+      "nom": "Asswiller",
+      "lat": 48.8792,
+      "lon": 7.2254,
+      "population": 268
+    },
+    {
+      "insee": "67016",
+      "nom": "Avolsheim",
+      "lat": 48.561,
+      "lon": 7.4921,
+      "population": 745
+    },
+    {
+      "insee": "67017",
+      "nom": "Baerendorf",
+      "lat": 48.8309,
+      "lon": 7.0889,
+      "population": 304
+    },
+    {
+      "insee": "67018",
+      "nom": "Balbronn",
+      "lat": 48.5823,
+      "lon": 7.4089,
+      "population": 681
+    },
+    {
+      "insee": "67019",
+      "nom": "Baldenheim",
+      "lat": 48.2434,
+      "lon": 7.5273,
+      "population": 1254
+    },
+    {
+      "insee": "67020",
+      "nom": "Barembach",
+      "lat": 48.4683,
+      "lon": 7.2451,
+      "population": 810
+    },
+    {
+      "insee": "67021",
+      "nom": "Barr",
+      "lat": 48.4136,
+      "lon": 7.3988,
+      "population": 7057
+    },
+    {
+      "insee": "67022",
+      "nom": "Bassemberg",
+      "lat": 48.3352,
+      "lon": 7.2781,
+      "population": 222
+    },
+    {
+      "insee": "67023",
+      "nom": "Batzendorf",
+      "lat": 48.7854,
+      "lon": 7.7118,
+      "population": 975
+    },
+    {
+      "insee": "67025",
+      "nom": "Beinheim",
+      "lat": 48.8517,
+      "lon": 8.0903,
+      "population": 1883
+    },
+    {
+      "insee": "67026",
+      "nom": "Bellefosse",
+      "lat": 48.3964,
+      "lon": 7.2367,
+      "population": 170
+    },
+    {
+      "insee": "67027",
+      "nom": "Belmont",
+      "lat": 48.4093,
+      "lon": 7.2592,
+      "population": 169
+    },
+    {
+      "insee": "67028",
+      "nom": "Benfeld",
+      "lat": 48.3625,
+      "lon": 7.5991,
+      "population": 5973
+    },
+    {
+      "insee": "67029",
+      "nom": "Berg",
+      "lat": 48.8937,
+      "lon": 7.1425,
+      "population": 347
+    },
+    {
+      "insee": "67030",
+      "nom": "Bergbieten",
+      "lat": 48.5744,
+      "lon": 7.4516,
+      "population": 718
+    },
+    {
+      "insee": "67031",
+      "nom": "Bernardswiller",
+      "lat": 48.4482,
+      "lon": 7.4509,
+      "population": 1473
+    },
+    {
+      "insee": "67032",
+      "nom": "Bernardvillé",
+      "lat": 48.3686,
+      "lon": 7.4069,
+      "population": 197
+    },
+    {
+      "insee": "67033",
+      "nom": "Bernolsheim",
+      "lat": 48.7521,
+      "lon": 7.686,
+      "population": 656
+    },
+    {
+      "insee": "67034",
+      "nom": "Berstett",
+      "lat": 48.6841,
+      "lon": 7.6335,
+      "population": 2517
+    },
+    {
+      "insee": "67035",
+      "nom": "Berstheim",
+      "lat": 48.7923,
+      "lon": 7.6792,
+      "population": 513
+    },
+    {
+      "insee": "67339",
+      "nom": "Betschdorf",
+      "lat": 48.8937,
+      "lon": 7.9335,
+      "population": 4231
+    },
+    {
+      "insee": "67036",
+      "nom": "Bettwiller",
+      "lat": 48.8885,
+      "lon": 7.1754,
+      "population": 299
+    },
+    {
+      "insee": "67037",
+      "nom": "Biblisheim",
+      "lat": 48.8991,
+      "lon": 7.788,
+      "population": 349
+    },
+    {
+      "insee": "67038",
+      "nom": "Bietlenheim",
+      "lat": 48.7216,
+      "lon": 7.7815,
+      "population": 314
+    },
+    {
+      "insee": "67039",
+      "nom": "Bilwisheim",
+      "lat": 48.7106,
+      "lon": 7.665,
+      "population": 535
+    },
+    {
+      "insee": "67040",
+      "nom": "Bindernheim",
+      "lat": 48.2876,
+      "lon": 7.6156,
+      "population": 1055
+    },
+    {
+      "insee": "67043",
+      "nom": "Bischheim",
+      "lat": 48.6207,
+      "lon": 7.7617,
+      "population": 18558
+    },
+    {
+      "insee": "67044",
+      "nom": "Bischholtz",
+      "lat": 48.8912,
+      "lon": 7.5336,
+      "population": 251
+    },
+    {
+      "insee": "67045",
+      "nom": "Bischoffsheim",
+      "lat": 48.4838,
+      "lon": 7.5317,
+      "population": 3342
+    },
+    {
+      "insee": "67046",
+      "nom": "Bischwiller",
+      "lat": 48.7587,
+      "lon": 7.8632,
+      "population": 12242
+    },
+    {
+      "insee": "67047",
+      "nom": "Bissert",
+      "lat": 48.9466,
+      "lon": 7.0168,
+      "population": 153
+    },
+    {
+      "insee": "67048",
+      "nom": "Bitschhoffen",
+      "lat": 48.8637,
+      "lon": 7.6255,
+      "population": 462
+    },
+    {
+      "insee": "67049",
+      "nom": "Blaesheim",
+      "lat": 48.5015,
+      "lon": 7.6084,
+      "population": 1461
+    },
+    {
+      "insee": "67050",
+      "nom": "Blancherupt",
+      "lat": 48.4076,
+      "lon": 7.1941,
+      "population": 29
+    },
+    {
+      "insee": "67051",
+      "nom": "Blienschwiller",
+      "lat": 48.345,
+      "lon": 7.4138,
+      "population": 300
+    },
+    {
+      "insee": "67052",
+      "nom": "Bœrsch",
+      "lat": 48.4662,
+      "lon": 7.3721,
+      "population": 2459
+    },
+    {
+      "insee": "67053",
+      "nom": "Bœsenbiesen",
+      "lat": 48.2289,
+      "lon": 7.5622,
+      "population": 314
+    },
+    {
+      "insee": "67054",
+      "nom": "Bolsenheim",
+      "lat": 48.4249,
+      "lon": 7.6042,
+      "population": 577
+    },
+    {
+      "insee": "67055",
+      "nom": "Boofzheim",
+      "lat": 48.3326,
+      "lon": 7.677,
+      "population": 1379
+    },
+    {
+      "insee": "67056",
+      "nom": "Bootzheim",
+      "lat": 48.1933,
+      "lon": 7.5941,
+      "population": 795
+    },
+    {
+      "insee": "67057",
+      "nom": "Bosselshausen",
+      "lat": 48.8062,
+      "lon": 7.5089,
+      "population": 180
+    },
+    {
+      "insee": "67058",
+      "nom": "Bossendorf",
+      "lat": 48.781,
+      "lon": 7.5655,
+      "population": 379
+    },
+    {
+      "insee": "67059",
+      "nom": "Bourg-Bruche",
+      "lat": 48.3616,
+      "lon": 7.136,
+      "population": 378
+    },
+    {
+      "insee": "67060",
+      "nom": "Bourgheim",
+      "lat": 48.417,
+      "lon": 7.4842,
+      "population": 650
+    },
+    {
+      "insee": "67061",
+      "nom": "Bouxwiller",
+      "lat": 48.8143,
+      "lon": 7.4665,
+      "population": 3754
+    },
+    {
+      "insee": "67062",
+      "nom": "Breitenau",
+      "lat": 48.3148,
+      "lon": 7.2773,
+      "population": 341
+    },
+    {
+      "insee": "67063",
+      "nom": "Breitenbach",
+      "lat": 48.3736,
+      "lon": 7.2895,
+      "population": 686
+    },
+    {
+      "insee": "67065",
+      "nom": "Breuschwickersheim",
+      "lat": 48.5779,
+      "lon": 7.5988,
+      "population": 1344
+    },
+    {
+      "insee": "67067",
+      "nom": "Brumath",
+      "lat": 48.7199,
+      "lon": 7.7146,
+      "population": 10499
+    },
+    {
+      "insee": "67069",
+      "nom": "Buhl",
+      "lat": 48.9181,
+      "lon": 8.014,
+      "population": 506
+    },
+    {
+      "insee": "67070",
+      "nom": "Burbach",
+      "lat": 48.8982,
+      "lon": 7.1123,
+      "population": 280
+    },
+    {
+      "insee": "67071",
+      "nom": "Bust",
+      "lat": 48.8335,
+      "lon": 7.2342,
+      "population": 454
+    },
+    {
+      "insee": "67068",
+      "nom": "Buswiller",
+      "lat": 48.8217,
+      "lon": 7.5612,
+      "population": 281
+    },
+    {
+      "insee": "67072",
+      "nom": "Butten",
+      "lat": 48.9717,
+      "lon": 7.2448,
+      "population": 640
+    },
+    {
+      "insee": "67073",
+      "nom": "Châtenois",
+      "lat": 48.2831,
+      "lon": 7.3845,
+      "population": 4294
+    },
+    {
+      "insee": "67074",
+      "nom": "Cleebourg",
+      "lat": 48.9928,
+      "lon": 7.8864,
+      "population": 626
+    },
+    {
+      "insee": "67075",
+      "nom": "Climbach",
+      "lat": 49.0136,
+      "lon": 7.8518,
+      "population": 479
+    },
+    {
+      "insee": "67076",
+      "nom": "Colroy-la-Roche",
+      "lat": 48.3914,
+      "lon": 7.1767,
+      "population": 473
+    },
+    {
+      "insee": "67077",
+      "nom": "Cosswiller",
+      "lat": 48.6101,
+      "lon": 7.3652,
+      "population": 610
+    },
+    {
+      "insee": "67078",
+      "nom": "Crastatt",
+      "lat": 48.6597,
+      "lon": 7.4238,
+      "population": 297
+    },
+    {
+      "insee": "67079",
+      "nom": "Crœttwiller",
+      "lat": 48.9313,
+      "lon": 8.0386,
+      "population": 174
+    },
+    {
+      "insee": "67080",
+      "nom": "Dachstein",
+      "lat": 48.5542,
+      "lon": 7.5415,
+      "population": 1737
+    },
+    {
+      "insee": "67081",
+      "nom": "Dahlenheim",
+      "lat": 48.5882,
+      "lon": 7.5134,
+      "population": 762
+    },
+    {
+      "insee": "67082",
+      "nom": "Dalhunden",
+      "lat": 48.7724,
+      "lon": 7.988,
+      "population": 1215
+    },
+    {
+      "insee": "67083",
+      "nom": "Dambach",
+      "lat": 49.0111,
+      "lon": 7.6417,
+      "population": 757
+    },
+    {
+      "insee": "67084",
+      "nom": "Dambach-la-Ville",
+      "lat": 48.3239,
+      "lon": 7.4255,
+      "population": 2165
+    },
+    {
+      "insee": "67085",
+      "nom": "Dangolsheim",
+      "lat": 48.5645,
+      "lon": 7.4572,
+      "population": 681
+    },
+    {
+      "insee": "67086",
+      "nom": "Daubensand",
+      "lat": 48.3513,
+      "lon": 7.7276,
+      "population": 388
+    },
+    {
+      "insee": "67087",
+      "nom": "Dauendorf",
+      "lat": 48.8303,
+      "lon": 7.6738,
+      "population": 1418
+    },
+    {
+      "insee": "67088",
+      "nom": "Dehlingen",
+      "lat": 48.9866,
+      "lon": 7.183,
+      "population": 342
+    },
+    {
+      "insee": "67089",
+      "nom": "Dettwiller",
+      "lat": 48.7604,
+      "lon": 7.4517,
+      "population": 2558
+    },
+    {
+      "insee": "67090",
+      "nom": "Diebolsheim",
+      "lat": 48.2867,
+      "lon": 7.6568,
+      "population": 675
+    },
+    {
+      "insee": "67091",
+      "nom": "Diedendorf",
+      "lat": 48.8849,
+      "lon": 7.0246,
+      "population": 314
+    },
+    {
+      "insee": "67092",
+      "nom": "Dieffenbach-au-Val",
+      "lat": 48.3138,
+      "lon": 7.3275,
+      "population": 642
+    },
+    {
+      "insee": "67093",
+      "nom": "Dieffenbach-lès-Wœrth",
+      "lat": 48.9311,
+      "lon": 7.7967,
+      "population": 322
+    },
+    {
+      "insee": "67094",
+      "nom": "Dieffenthal",
+      "lat": 48.3069,
+      "lon": 7.4109,
+      "population": 282
+    },
+    {
+      "insee": "67095",
+      "nom": "Diemeringen",
+      "lat": 48.9453,
+      "lon": 7.2023,
+      "population": 1579
+    },
+    {
+      "insee": "67096",
+      "nom": "Dimbsthal",
+      "lat": 48.6729,
+      "lon": 7.3547,
+      "population": 326
+    },
+    {
+      "insee": "67097",
+      "nom": "Dingsheim",
+      "lat": 48.6215,
+      "lon": 7.6615,
+      "population": 1237
+    },
+    {
+      "insee": "67098",
+      "nom": "Dinsheim-sur-Bruche",
+      "lat": 48.549,
+      "lon": 7.4201,
+      "population": 1472
+    },
+    {
+      "insee": "67099",
+      "nom": "Domfessel",
+      "lat": 48.949,
+      "lon": 7.1435,
+      "population": 273
+    },
+    {
+      "insee": "67100",
+      "nom": "Donnenheim",
+      "lat": 48.7238,
+      "lon": 7.6648,
+      "population": 367
+    },
+    {
+      "insee": "67101",
+      "nom": "Dorlisheim",
+      "lat": 48.5199,
+      "lon": 7.4761,
+      "population": 2636
+    },
+    {
+      "insee": "67102",
+      "nom": "Dossenheim-Kochersberg",
+      "lat": 48.6413,
+      "lon": 7.5778,
+      "population": 322
+    },
+    {
+      "insee": "67103",
+      "nom": "Dossenheim-sur-Zinsel",
+      "lat": 48.8147,
+      "lon": 7.3763,
+      "population": 1059
+    },
+    {
+      "insee": "67104",
+      "nom": "Drachenbronn-Birlenbach",
+      "lat": 48.9812,
+      "lon": 7.8804,
+      "population": 581
+    },
+    {
+      "insee": "67105",
+      "nom": "Drulingen",
+      "lat": 48.8672,
+      "lon": 7.193,
+      "population": 1397
+    },
+    {
+      "insee": "67106",
+      "nom": "Drusenheim",
+      "lat": 48.7565,
+      "lon": 7.9441,
+      "population": 5388
+    },
+    {
+      "insee": "67107",
+      "nom": "Duntzenheim",
+      "lat": 48.7118,
+      "lon": 7.5451,
+      "population": 660
+    },
+    {
+      "insee": "67108",
+      "nom": "Duppigheim",
+      "lat": 48.5328,
+      "lon": 7.595,
+      "population": 1906
+    },
+    {
+      "insee": "67109",
+      "nom": "Durningen",
+      "lat": 48.6841,
+      "lon": 7.5636,
+      "population": 687
+    },
+    {
+      "insee": "67110",
+      "nom": "Durrenbach",
+      "lat": 48.9003,
+      "lon": 7.7656,
+      "population": 1101
+    },
+    {
+      "insee": "67111",
+      "nom": "Durstel",
+      "lat": 48.8895,
+      "lon": 7.2102,
+      "population": 418
+    },
+    {
+      "insee": "67112",
+      "nom": "Duttlenheim",
+      "lat": 48.5248,
+      "lon": 7.5706,
+      "population": 3011
+    },
+    {
+      "insee": "67113",
+      "nom": "Eberbach-Seltz",
+      "lat": 48.9284,
+      "lon": 8.0638,
+      "population": 436
+    },
+    {
+      "insee": "67115",
+      "nom": "Ebersheim",
+      "lat": 48.302,
+      "lon": 7.498,
+      "population": 2284
+    },
+    {
+      "insee": "67116",
+      "nom": "Ebersmunster",
+      "lat": 48.304,
+      "lon": 7.5302,
+      "population": 574
+    },
+    {
+      "insee": "67117",
+      "nom": "Eckartswiller",
+      "lat": 48.7785,
+      "lon": 7.3328,
+      "population": 420
+    },
+    {
+      "insee": "67118",
+      "nom": "Eckbolsheim",
+      "lat": 48.58,
+      "lon": 7.6829,
+      "population": 7157
+    },
+    {
+      "insee": "67119",
+      "nom": "Eckwersheim",
+      "lat": 48.6866,
+      "lon": 7.6947,
+      "population": 1419
+    },
+    {
+      "insee": "67120",
+      "nom": "Eichhoffen",
+      "lat": 48.3777,
+      "lon": 7.4396,
+      "population": 489
+    },
+    {
+      "insee": "67121",
+      "nom": "Elsenheim",
+      "lat": 48.1653,
+      "lon": 7.4974,
+      "population": 803
+    },
+    {
+      "insee": "67123",
+      "nom": "Engwiller",
+      "lat": 48.8831,
+      "lon": 7.6167,
+      "population": 465
+    },
+    {
+      "insee": "67124",
+      "nom": "Entzheim",
+      "lat": 48.5353,
+      "lon": 7.6341,
+      "population": 2544
+    },
+    {
+      "insee": "67125",
+      "nom": "Epfig",
+      "lat": 48.3485,
+      "lon": 7.4675,
+      "population": 2263
+    },
+    {
+      "insee": "67126",
+      "nom": "Erckartswiller",
+      "lat": 48.8866,
+      "lon": 7.3581,
+      "population": 285
+    },
+    {
+      "insee": "67127",
+      "nom": "Ergersheim",
+      "lat": 48.5748,
+      "lon": 7.5326,
+      "population": 1479
+    },
+    {
+      "insee": "67128",
+      "nom": "Ernolsheim-Bruche",
+      "lat": 48.5635,
+      "lon": 7.5716,
+      "population": 1936
+    },
+    {
+      "insee": "67129",
+      "nom": "Ernolsheim-lès-Saverne",
+      "lat": 48.7874,
+      "lon": 7.3756,
+      "population": 601
+    },
+    {
+      "insee": "67130",
+      "nom": "Erstein",
+      "lat": 48.4191,
+      "lon": 7.6869,
+      "population": 10790
+    },
+    {
+      "insee": "67131",
+      "nom": "Eschau",
+      "lat": 48.4787,
+      "lon": 7.7315,
+      "population": 5878
+    },
+    {
+      "insee": "67132",
+      "nom": "Eschbach",
+      "lat": 48.8756,
+      "lon": 7.7393,
+      "population": 955
+    },
+    {
+      "insee": "67133",
+      "nom": "Eschbourg",
+      "lat": 48.8247,
+      "lon": 7.2873,
+      "population": 455
+    },
+    {
+      "insee": "67134",
+      "nom": "Eschwiller",
+      "lat": 48.8569,
+      "lon": 7.1119,
+      "population": 173
+    },
+    {
+      "insee": "67135",
+      "nom": "Ettendorf",
+      "lat": 48.8159,
+      "lon": 7.587,
+      "population": 734
+    },
+    {
+      "insee": "67136",
+      "nom": "Eywiller",
+      "lat": 48.8708,
+      "lon": 7.1247,
+      "population": 274
+    },
+    {
+      "insee": "67137",
+      "nom": "Fegersheim",
+      "lat": 48.4972,
+      "lon": 7.6864,
+      "population": 5780
+    },
+    {
+      "insee": "67138",
+      "nom": "Fessenheim-le-Bas",
+      "lat": 48.6326,
+      "lon": 7.5471,
+      "population": 570
+    },
+    {
+      "insee": "67139",
+      "nom": "Flexbourg",
+      "lat": 48.5678,
+      "lon": 7.422,
+      "population": 485
+    },
+    {
+      "insee": "67140",
+      "nom": "Forstfeld",
+      "lat": 48.8646,
+      "lon": 8.0459,
+      "population": 798
+    },
+    {
+      "insee": "67141",
+      "nom": "Forstheim",
+      "lat": 48.8944,
+      "lon": 7.7083,
+      "population": 599
+    },
+    {
+      "insee": "67142",
+      "nom": "Fort-Louis",
+      "lat": 48.797,
+      "lon": 8.0488,
+      "population": 285
+    },
+    {
+      "insee": "67143",
+      "nom": "Fouchy",
+      "lat": 48.3173,
+      "lon": 7.2412,
+      "population": 635
+    },
+    {
+      "insee": "67144",
+      "nom": "Fouday",
+      "lat": 48.4213,
+      "lon": 7.1907,
+      "population": 333
+    },
+    {
+      "insee": "67145",
+      "nom": "Friedolsheim",
+      "lat": 48.7059,
+      "lon": 7.4852,
+      "population": 263
+    },
+    {
+      "insee": "67146",
+      "nom": "Friesenheim",
+      "lat": 48.3075,
+      "lon": 7.6583,
+      "population": 615
+    },
+    {
+      "insee": "67147",
+      "nom": "Frœschwiller",
+      "lat": 48.9379,
+      "lon": 7.7175,
+      "population": 482
+    },
+    {
+      "insee": "67148",
+      "nom": "Frohmuhl",
+      "lat": 48.9118,
+      "lon": 7.278,
+      "population": 156
+    },
+    {
+      "insee": "67149",
+      "nom": "Furchhausen",
+      "lat": 48.7208,
+      "lon": 7.4308,
+      "population": 376
+    },
+    {
+      "insee": "67150",
+      "nom": "Furdenheim",
+      "lat": 48.6101,
+      "lon": 7.5617,
+      "population": 1620
+    },
+    {
+      "insee": "67151",
+      "nom": "Gambsheim",
+      "lat": 48.6907,
+      "lon": 7.8825,
+      "population": 5312
+    },
+    {
+      "insee": "67152",
+      "nom": "Geispolsheim",
+      "lat": 48.5117,
+      "lon": 7.6586,
+      "population": 7919
+    },
+    {
+      "insee": "67153",
+      "nom": "Geiswiller-Zœbersdorf",
+      "lat": 48.7918,
+      "lon": 7.5144,
+      "population": 383
+    },
+    {
+      "insee": "67154",
+      "nom": "Gerstheim",
+      "lat": 48.3808,
+      "lon": 7.693,
+      "population": 3490
+    },
+    {
+      "insee": "67155",
+      "nom": "Gertwiller",
+      "lat": 48.4112,
+      "lon": 7.4748,
+      "population": 1282
+    },
+    {
+      "insee": "67156",
+      "nom": "Geudertheim",
+      "lat": 48.7063,
+      "lon": 7.7652,
+      "population": 2727
+    },
+    {
+      "insee": "67159",
+      "nom": "Gœrlingen",
+      "lat": 48.7998,
+      "lon": 7.0859,
+      "population": 210
+    },
+    {
+      "insee": "67160",
+      "nom": "Gœrsdorf",
+      "lat": 48.9609,
+      "lon": 7.7754,
+      "population": 1039
+    },
+    {
+      "insee": "67161",
+      "nom": "Gottenhouse",
+      "lat": 48.7173,
+      "lon": 7.3578,
+      "population": 366
+    },
+    {
+      "insee": "67162",
+      "nom": "Gottesheim",
+      "lat": 48.7741,
+      "lon": 7.4814,
+      "population": 358
+    },
+    {
+      "insee": "67163",
+      "nom": "Gougenheim",
+      "lat": 48.7053,
+      "lon": 7.5749,
+      "population": 531
+    },
+    {
+      "insee": "67164",
+      "nom": "Goxwiller",
+      "lat": 48.4312,
+      "lon": 7.4828,
+      "population": 822
+    },
+    {
+      "insee": "67165",
+      "nom": "Grandfontaine",
+      "lat": 48.489,
+      "lon": 7.1203,
+      "population": 398
+    },
+    {
+      "insee": "67166",
+      "nom": "Grassendorf",
+      "lat": 48.8144,
+      "lon": 7.6097,
+      "population": 264
+    },
+    {
+      "insee": "67167",
+      "nom": "Grendelbruch",
+      "lat": 48.4779,
+      "lon": 7.3035,
+      "population": 1195
+    },
+    {
+      "insee": "67168",
+      "nom": "Gresswiller",
+      "lat": 48.5205,
+      "lon": 7.4105,
+      "population": 1695
+    },
+    {
+      "insee": "67169",
+      "nom": "Gries",
+      "lat": 48.7516,
+      "lon": 7.8268,
+      "population": 2868
+    },
+    {
+      "insee": "67172",
+      "nom": "Griesheim-près-Molsheim",
+      "lat": 48.5021,
+      "lon": 7.5333,
+      "population": 2351
+    },
+    {
+      "insee": "67173",
+      "nom": "Griesheim-sur-Souffel",
+      "lat": 48.6325,
+      "lon": 7.6695,
+      "population": 1216
+    },
+    {
+      "insee": "67174",
+      "nom": "Gumbrechtshoffen",
+      "lat": 48.9037,
+      "lon": 7.6225,
+      "population": 1113
+    },
+    {
+      "insee": "67176",
+      "nom": "Gundershoffen",
+      "lat": 48.9112,
+      "lon": 7.6807,
+      "population": 3834
+    },
+    {
+      "insee": "67178",
+      "nom": "Gungwiller",
+      "lat": 48.8792,
+      "lon": 7.1512,
+      "population": 284
+    },
+    {
+      "insee": "67177",
+      "nom": "Gunstett",
+      "lat": 48.9137,
+      "lon": 7.7763,
+      "population": 633
+    },
+    {
+      "insee": "67179",
+      "nom": "Haegen",
+      "lat": 48.705,
+      "lon": 7.2969,
+      "population": 671
+    },
+    {
+      "insee": "67180",
+      "nom": "Haguenau",
+      "lat": 48.8388,
+      "lon": 7.8213,
+      "population": 36391
+    },
+    {
+      "insee": "67181",
+      "nom": "Handschuheim",
+      "lat": 48.5999,
+      "lon": 7.5772,
+      "population": 281
+    },
+    {
+      "insee": "67182",
+      "nom": "Hangenbieten",
+      "lat": 48.5564,
+      "lon": 7.612,
+      "population": 1822
+    },
+    {
+      "insee": "67183",
+      "nom": "Harskirchen",
+      "lat": 48.9262,
+      "lon": 7.0234,
+      "population": 895
+    },
+    {
+      "insee": "67184",
+      "nom": "Hatten",
+      "lat": 48.8897,
+      "lon": 8.0025,
+      "population": 1912
+    },
+    {
+      "insee": "67185",
+      "nom": "Hattmatt",
+      "lat": 48.7873,
+      "lon": 7.4365,
+      "population": 619
+    },
+    {
+      "insee": "67186",
+      "nom": "Hegeney",
+      "lat": 48.8894,
+      "lon": 7.7394,
+      "population": 437
+    },
+    {
+      "insee": "67187",
+      "nom": "Heidolsheim",
+      "lat": 48.2025,
+      "lon": 7.509,
+      "population": 582
+    },
+    {
+      "insee": "67188",
+      "nom": "Heiligenberg",
+      "lat": 48.5347,
+      "lon": 7.3814,
+      "population": 687
+    },
+    {
+      "insee": "67189",
+      "nom": "Heiligenstein",
+      "lat": 48.4225,
+      "lon": 7.4387,
+      "population": 925
+    },
+    {
+      "insee": "67190",
+      "nom": "Hengwiller",
+      "lat": 48.668,
+      "lon": 7.3278,
+      "population": 198
+    },
+    {
+      "insee": "67191",
+      "nom": "Herbitzheim",
+      "lat": 49.0209,
+      "lon": 7.0846,
+      "population": 1829
+    },
+    {
+      "insee": "67192",
+      "nom": "Herbsheim",
+      "lat": 48.3476,
+      "lon": 7.6339,
+      "population": 963
+    },
+    {
+      "insee": "67194",
+      "nom": "Herrlisheim",
+      "lat": 48.7339,
+      "lon": 7.9113,
+      "population": 4694
+    },
+    {
+      "insee": "67195",
+      "nom": "Hessenheim",
+      "lat": 48.2063,
+      "lon": 7.5536,
+      "population": 614
+    },
+    {
+      "insee": "67196",
+      "nom": "Hilsenheim",
+      "lat": 48.2956,
+      "lon": 7.5743,
+      "population": 2604
+    },
+    {
+      "insee": "67197",
+      "nom": "Hindisheim",
+      "lat": 48.4646,
+      "lon": 7.6291,
+      "population": 1565
+    },
+    {
+      "insee": "67198",
+      "nom": "Hinsbourg",
+      "lat": 48.9034,
+      "lon": 7.2978,
+      "population": 122
+    },
+    {
+      "insee": "67199",
+      "nom": "Hinsingen",
+      "lat": 48.95,
+      "lon": 7.0009,
+      "population": 78
+    },
+    {
+      "insee": "67200",
+      "nom": "Hipsheim",
+      "lat": 48.4645,
+      "lon": 7.6763,
+      "population": 1029
+    },
+    {
+      "insee": "67201",
+      "nom": "Hirschland",
+      "lat": 48.8373,
+      "lon": 7.1245,
+      "population": 303
+    },
+    {
+      "insee": "67202",
+      "nom": "Hochfelden",
+      "lat": 48.7485,
+      "lon": 7.561,
+      "population": 4038
+    },
+    {
+      "insee": "67203",
+      "nom": "Hochstett",
+      "lat": 48.7751,
+      "lon": 7.6772,
+      "population": 422
+    },
+    {
+      "insee": "67204",
+      "nom": "Hœnheim",
+      "lat": 48.6274,
+      "lon": 7.7509,
+      "population": 11742
+    },
+    {
+      "insee": "67205",
+      "nom": "Hœrdt",
+      "lat": 48.6908,
+      "lon": 7.7855,
+      "population": 4570
+    },
+    {
+      "insee": "67206",
+      "nom": "Hoffen",
+      "lat": 48.93,
+      "lon": 7.9278,
+      "population": 1160
+    },
+    {
+      "insee": "67208",
+      "nom": "Hohengœft",
+      "lat": 48.6606,
+      "lon": 7.4661,
+      "population": 539
+    },
+    {
+      "insee": "67209",
+      "nom": "Hohfrankenheim",
+      "lat": 48.7274,
+      "lon": 7.5804,
+      "population": 273
+    },
+    {
+      "insee": "67212",
+      "nom": "Holtzheim",
+      "lat": 48.5571,
+      "lon": 7.646,
+      "population": 3850
+    },
+    {
+      "insee": "67213",
+      "nom": "Hunspach",
+      "lat": 48.9579,
+      "lon": 7.9298,
+      "population": 628
+    },
+    {
+      "insee": "67214",
+      "nom": "Hurtigheim",
+      "lat": 48.6171,
+      "lon": 7.6039,
+      "population": 988
+    },
+    {
+      "insee": "67215",
+      "nom": "Huttendorf",
+      "lat": 48.8007,
+      "lon": 7.6355,
+      "population": 502
+    },
+    {
+      "insee": "67216",
+      "nom": "Huttenheim",
+      "lat": 48.3497,
+      "lon": 7.5703,
+      "population": 2735
+    },
+    {
+      "insee": "67217",
+      "nom": "Ichtratzheim",
+      "lat": 48.4786,
+      "lon": 7.679,
+      "population": 396
+    },
+    {
+      "insee": "67218",
+      "nom": "Illkirch-Graffenstaden",
+      "lat": 48.522,
+      "lon": 7.7302,
+      "population": 27872
+    },
+    {
+      "insee": "67220",
+      "nom": "Ingenheim",
+      "lat": 48.7339,
+      "lon": 7.5268,
+      "population": 376
+    },
+    {
+      "insee": "67221",
+      "nom": "Ingolsheim",
+      "lat": 48.9712,
+      "lon": 7.9293,
+      "population": 353
+    },
+    {
+      "insee": "67222",
+      "nom": "Ingwiller",
+      "lat": 48.8822,
+      "lon": 7.4637,
+      "population": 3995
+    },
+    {
+      "insee": "67223",
+      "nom": "Innenheim",
+      "lat": 48.4994,
+      "lon": 7.5714,
+      "population": 1288
+    },
+    {
+      "insee": "67225",
+      "nom": "Issenhausen",
+      "lat": 48.8054,
+      "lon": 7.5324,
+      "population": 106
+    },
+    {
+      "insee": "67226",
+      "nom": "Ittenheim",
+      "lat": 48.6007,
+      "lon": 7.6174,
+      "population": 2108
+    },
+    {
+      "insee": "67227",
+      "nom": "Itterswiller",
+      "lat": 48.3673,
+      "lon": 7.4271,
+      "population": 215
+    },
+    {
+      "insee": "67229",
+      "nom": "Jetterswiller",
+      "lat": 48.6689,
+      "lon": 7.4193,
+      "population": 180
+    },
+    {
+      "insee": "67230",
+      "nom": "Kaltenhouse",
+      "lat": 48.7918,
+      "lon": 7.8332,
+      "population": 2412
+    },
+    {
+      "insee": "67231",
+      "nom": "Kauffenheim",
+      "lat": 48.8543,
+      "lon": 8.0342,
+      "population": 222
+    },
+    {
+      "insee": "67232",
+      "nom": "Keffenach",
+      "lat": 48.9666,
+      "lon": 7.883,
+      "population": 198
+    },
+    {
+      "insee": "67233",
+      "nom": "Kertzfeld",
+      "lat": 48.3912,
+      "lon": 7.5603,
+      "population": 1255
+    },
+    {
+      "insee": "67234",
+      "nom": "Keskastel",
+      "lat": 48.9768,
+      "lon": 7.0647,
+      "population": 1487
+    },
+    {
+      "insee": "67235",
+      "nom": "Kesseldorf",
+      "lat": 48.8837,
+      "lon": 8.06,
+      "population": 452
+    },
+    {
+      "insee": "67236",
+      "nom": "Kienheim",
+      "lat": 48.6878,
+      "lon": 7.5854,
+      "population": 537
+    },
+    {
+      "insee": "67237",
+      "nom": "Kilstett",
+      "lat": 48.6822,
+      "lon": 7.8452,
+      "population": 2607
+    },
+    {
+      "insee": "67238",
+      "nom": "Kindwiller",
+      "lat": 48.8613,
+      "lon": 7.5953,
+      "population": 653
+    },
+    {
+      "insee": "67239",
+      "nom": "Kintzheim",
+      "lat": 48.2574,
+      "lon": 7.3749,
+      "population": 1684
+    },
+    {
+      "insee": "67240",
+      "nom": "Kirchheim",
+      "lat": 48.6052,
+      "lon": 7.4912,
+      "population": 692
+    },
+    {
+      "insee": "67241",
+      "nom": "Kirrberg",
+      "lat": 48.8305,
+      "lon": 7.067,
+      "population": 167
+    },
+    {
+      "insee": "67242",
+      "nom": "Kirrwiller",
+      "lat": 48.8206,
+      "lon": 7.524,
+      "population": 533
+    },
+    {
+      "insee": "67244",
+      "nom": "Kleingœft",
+      "lat": 48.6953,
+      "lon": 7.4454,
+      "population": 169
+    },
+    {
+      "insee": "67245",
+      "nom": "Knœrsheim",
+      "lat": 48.6803,
+      "lon": 7.4559,
+      "population": 188
+    },
+    {
+      "insee": "67246",
+      "nom": "Kogenheim",
+      "lat": 48.3314,
+      "lon": 7.5314,
+      "population": 1172
+    },
+    {
+      "insee": "67247",
+      "nom": "Kolbsheim",
+      "lat": 48.5626,
+      "lon": 7.5857,
+      "population": 1022
+    },
+    {
+      "insee": "67248",
+      "nom": "Krautergersheim",
+      "lat": 48.4754,
+      "lon": 7.5662,
+      "population": 1781
+    },
+    {
+      "insee": "67249",
+      "nom": "Krautwiller",
+      "lat": 48.739,
+      "lon": 7.6754,
+      "population": 220
+    },
+    {
+      "insee": "67250",
+      "nom": "Kriegsheim",
+      "lat": 48.7557,
+      "lon": 7.7384,
+      "population": 765
+    },
+    {
+      "insee": "67252",
+      "nom": "Kurtzenhouse",
+      "lat": 48.7379,
+      "lon": 7.807,
+      "population": 1093
+    },
+    {
+      "insee": "67253",
+      "nom": "Kuttolsheim",
+      "lat": 48.6469,
+      "lon": 7.5155,
+      "population": 651
+    },
+    {
+      "insee": "67254",
+      "nom": "Kutzenhausen",
+      "lat": 48.9409,
+      "lon": 7.8496,
+      "population": 928
+    },
+    {
+      "insee": "67066",
+      "nom": "La Broque",
+      "lat": 48.4597,
+      "lon": 7.163,
+      "population": 2625
+    },
+    {
+      "insee": "67371",
+      "nom": "La Petite-Pierre",
+      "lat": 48.8675,
+      "lon": 7.3347,
+      "population": 586
+    },
+    {
+      "insee": "67505",
+      "nom": "La Vancelle",
+      "lat": 48.2829,
+      "lon": 7.3221,
+      "population": 402
+    },
+    {
+      "insee": "67519",
+      "nom": "La Wantzenau",
+      "lat": 48.6598,
+      "lon": 7.84,
+      "population": 5864
+    },
+    {
+      "insee": "67255",
+      "nom": "Lalaye",
+      "lat": 48.3384,
+      "lon": 7.2341,
+      "population": 481
+    },
+    {
+      "insee": "67256",
+      "nom": "Lampertheim",
+      "lat": 48.6561,
+      "lon": 7.6966,
+      "population": 3457
+    },
+    {
+      "insee": "67257",
+      "nom": "Lampertsloch",
+      "lat": 48.9684,
+      "lon": 7.8191,
+      "population": 696
+    },
+    {
+      "insee": "67258",
+      "nom": "Landersheim",
+      "lat": 48.6911,
+      "lon": 7.5034,
+      "population": 192
+    },
+    {
+      "insee": "67259",
+      "nom": "Langensoultzbach",
+      "lat": 48.9785,
+      "lon": 7.7315,
+      "population": 904
+    },
+    {
+      "insee": "67260",
+      "nom": "Laubach",
+      "lat": 48.8801,
+      "lon": 7.7178,
+      "population": 311
+    },
+    {
+      "insee": "67261",
+      "nom": "Lauterbourg",
+      "lat": 48.9617,
+      "lon": 8.1931,
+      "population": 2324
+    },
+    {
+      "insee": "67210",
+      "nom": "Le Hohwald",
+      "lat": 48.4003,
+      "lon": 7.3092,
+      "population": 521
+    },
+    {
+      "insee": "67263",
+      "nom": "Lembach",
+      "lat": 49.0127,
+      "lon": 7.7627,
+      "population": 1490
+    },
+    {
+      "insee": "67264",
+      "nom": "Leutenheim",
+      "lat": 48.8474,
+      "lon": 8.0011,
+      "population": 834
+    },
+    {
+      "insee": "67265",
+      "nom": "Lichtenberg",
+      "lat": 48.9234,
+      "lon": 7.4795,
+      "population": 527
+    },
+    {
+      "insee": "67266",
+      "nom": "Limersheim",
+      "lat": 48.4549,
+      "lon": 7.6307,
+      "population": 681
+    },
+    {
+      "insee": "67267",
+      "nom": "Lingolsheim",
+      "lat": 48.5543,
+      "lon": 7.6837,
+      "population": 20826
+    },
+    {
+      "insee": "67268",
+      "nom": "Lipsheim",
+      "lat": 48.4892,
+      "lon": 7.6568,
+      "population": 2702
+    },
+    {
+      "insee": "67269",
+      "nom": "Littenheim",
+      "lat": 48.7262,
+      "lon": 7.4926,
+      "population": 297
+    },
+    {
+      "insee": "67270",
+      "nom": "Lixhausen",
+      "lat": 48.7931,
+      "lon": 7.5567,
+      "population": 364
+    },
+    {
+      "insee": "67271",
+      "nom": "Lobsann",
+      "lat": 48.9629,
+      "lon": 7.84,
+      "population": 663
+    },
+    {
+      "insee": "67272",
+      "nom": "Lochwiller",
+      "lat": 48.6967,
+      "lon": 7.4131,
+      "population": 371
+    },
+    {
+      "insee": "67273",
+      "nom": "Lohr",
+      "lat": 48.85,
+      "lon": 7.263,
+      "population": 444
+    },
+    {
+      "insee": "67274",
+      "nom": "Lorentzen",
+      "lat": 48.9567,
+      "lon": 7.1852,
+      "population": 230
+    },
+    {
+      "insee": "67275",
+      "nom": "Lupstein",
+      "lat": 48.7354,
+      "lon": 7.4801,
+      "population": 830
+    },
+    {
+      "insee": "67276",
+      "nom": "Lutzelhouse",
+      "lat": 48.5419,
+      "lon": 7.2445,
+      "population": 1959
+    },
+    {
+      "insee": "67277",
+      "nom": "Mackenheim",
+      "lat": 48.1819,
+      "lon": 7.585,
+      "population": 768
+    },
+    {
+      "insee": "67278",
+      "nom": "Mackwiller",
+      "lat": 48.9254,
+      "lon": 7.1676,
+      "population": 525
+    },
+    {
+      "insee": "67279",
+      "nom": "Maennolsheim",
+      "lat": 48.6966,
+      "lon": 7.4695,
+      "population": 237
+    },
+    {
+      "insee": "67280",
+      "nom": "Maisonsgoutte",
+      "lat": 48.3553,
+      "lon": 7.255,
+      "population": 790
+    },
+    {
+      "insee": "67281",
+      "nom": "Marckolsheim",
+      "lat": 48.1498,
+      "lon": 7.5633,
+      "population": 4398
+    },
+    {
+      "insee": "67282",
+      "nom": "Marlenheim",
+      "lat": 48.6209,
+      "lon": 7.5016,
+      "population": 4185
+    },
+    {
+      "insee": "67283",
+      "nom": "Marmoutier",
+      "lat": 48.6953,
+      "lon": 7.3684,
+      "population": 2699
+    },
+    {
+      "insee": "67285",
+      "nom": "Matzenheim",
+      "lat": 48.3856,
+      "lon": 7.6389,
+      "population": 1494
+    },
+    {
+      "insee": "67286",
+      "nom": "Meistratzheim",
+      "lat": 48.4539,
+      "lon": 7.561,
+      "population": 1570
+    },
+    {
+      "insee": "67287",
+      "nom": "Melsheim",
+      "lat": 48.7614,
+      "lon": 7.5144,
+      "population": 554
+    },
+    {
+      "insee": "67288",
+      "nom": "Memmelshoffen",
+      "lat": 48.9587,
+      "lon": 7.8734,
+      "population": 314
+    },
+    {
+      "insee": "67289",
+      "nom": "Menchhoffen",
+      "lat": 48.8653,
+      "lon": 7.4981,
+      "population": 598
+    },
+    {
+      "insee": "67290",
+      "nom": "Merkwiller-Pechelbronn",
+      "lat": 48.9292,
+      "lon": 7.8287,
+      "population": 927
+    },
+    {
+      "insee": "67291",
+      "nom": "Mertzwiller",
+      "lat": 48.8705,
+      "lon": 7.687,
+      "population": 3343
+    },
+    {
+      "insee": "67292",
+      "nom": "Mietesheim",
+      "lat": 48.878,
+      "lon": 7.6487,
+      "population": 661
+    },
+    {
+      "insee": "67293",
+      "nom": "Minversheim",
+      "lat": 48.7854,
+      "lon": 7.6239,
+      "population": 721
+    },
+    {
+      "insee": "67295",
+      "nom": "Mittelbergheim",
+      "lat": 48.3944,
+      "lon": 7.4432,
+      "population": 593
+    },
+    {
+      "insee": "67296",
+      "nom": "Mittelhausbergen",
+      "lat": 48.6133,
+      "lon": 7.694,
+      "population": 2188
+    },
+    {
+      "insee": "67298",
+      "nom": "Mittelschaeffolsheim",
+      "lat": 48.6977,
+      "lon": 7.6507,
+      "population": 560
+    },
+    {
+      "insee": "67299",
+      "nom": "Mollkirch",
+      "lat": 48.5078,
+      "lon": 7.3635,
+      "population": 874
+    },
+    {
+      "insee": "67300",
+      "nom": "Molsheim",
+      "lat": 48.5456,
+      "lon": 7.4988,
+      "population": 9318
+    },
+    {
+      "insee": "67301",
+      "nom": "Mommenheim",
+      "lat": 48.754,
+      "lon": 7.6466,
+      "population": 2340
+    },
+    {
+      "insee": "67302",
+      "nom": "Monswiller",
+      "lat": 48.7524,
+      "lon": 7.3855,
+      "population": 1995
+    },
+    {
+      "insee": "67303",
+      "nom": "Morsbronn-les-Bains",
+      "lat": 48.9077,
+      "lon": 7.7354,
+      "population": 686
+    },
+    {
+      "insee": "67304",
+      "nom": "Morschwiller",
+      "lat": 48.8197,
+      "lon": 7.6309,
+      "population": 611
+    },
+    {
+      "insee": "67305",
+      "nom": "Mothern",
+      "lat": 48.9421,
+      "lon": 8.1471,
+      "population": 1939
+    },
+    {
+      "insee": "67306",
+      "nom": "Muhlbach-sur-Bruche",
+      "lat": 48.5115,
+      "lon": 7.3139,
+      "population": 683
+    },
+    {
+      "insee": "67307",
+      "nom": "Mulhausen",
+      "lat": 48.8873,
+      "lon": 7.5561,
+      "population": 435
+    },
+    {
+      "insee": "67308",
+      "nom": "Munchhausen",
+      "lat": 48.9128,
+      "lon": 8.1464,
+      "population": 775
+    },
+    {
+      "insee": "67309",
+      "nom": "Mundolsheim",
+      "lat": 48.6405,
+      "lon": 7.715,
+      "population": 5322
+    },
+    {
+      "insee": "67310",
+      "nom": "Mussig",
+      "lat": 48.2296,
+      "lon": 7.5223,
+      "population": 1111
+    },
+    {
+      "insee": "67311",
+      "nom": "Muttersholtz",
+      "lat": 48.2708,
+      "lon": 7.5311,
+      "population": 2290
+    },
+    {
+      "insee": "67312",
+      "nom": "Mutzenhouse",
+      "lat": 48.7422,
+      "lon": 7.5889,
+      "population": 450
+    },
+    {
+      "insee": "67313",
+      "nom": "Mutzig",
+      "lat": 48.5374,
+      "lon": 7.458,
+      "population": 6087
+    },
+    {
+      "insee": "67314",
+      "nom": "Natzwiller",
+      "lat": 48.4468,
+      "lon": 7.249,
+      "population": 521
+    },
+    {
+      "insee": "67315",
+      "nom": "Neewiller-près-Lauterbourg",
+      "lat": 48.9511,
+      "lon": 8.122,
+      "population": 645
+    },
+    {
+      "insee": "67317",
+      "nom": "Neubois",
+      "lat": 48.3021,
+      "lon": 7.3207,
+      "population": 646
+    },
+    {
+      "insee": "67228",
+      "nom": "Neugartheim-Ittlenheim",
+      "lat": 48.6572,
+      "lon": 7.5408,
+      "population": 784
+    },
+    {
+      "insee": "67319",
+      "nom": "Neuhaeusel",
+      "lat": 48.8154,
+      "lon": 8.0903,
+      "population": 388
+    },
+    {
+      "insee": "67320",
+      "nom": "Neuve-Église",
+      "lat": 48.3238,
+      "lon": 7.3093,
+      "population": 613
+    },
+    {
+      "insee": "67321",
+      "nom": "Neuviller-la-Roche",
+      "lat": 48.4324,
+      "lon": 7.2605,
+      "population": 333
+    },
+    {
+      "insee": "67322",
+      "nom": "Neuwiller-lès-Saverne",
+      "lat": 48.8255,
+      "lon": 7.3749,
+      "population": 1079
+    },
+    {
+      "insee": "67324",
+      "nom": "Niederbronn-les-Bains",
+      "lat": 48.9544,
+      "lon": 7.6398,
+      "population": 4347
+    },
+    {
+      "insee": "67325",
+      "nom": "Niederhaslach",
+      "lat": 48.5371,
+      "lon": 7.3466,
+      "population": 1383
+    },
+    {
+      "insee": "67326",
+      "nom": "Niederhausbergen",
+      "lat": 48.6234,
+      "lon": 7.7051,
+      "population": 1721
+    },
+    {
+      "insee": "67327",
+      "nom": "Niederlauterbach",
+      "lat": 48.9686,
+      "lon": 8.1067,
+      "population": 941
+    },
+    {
+      "insee": "67328",
+      "nom": "Niedermodern",
+      "lat": 48.8388,
+      "lon": 7.637,
+      "population": 913
+    },
+    {
+      "insee": "67329",
+      "nom": "Niedernai",
+      "lat": 48.4496,
+      "lon": 7.5326,
+      "population": 1225
+    },
+    {
+      "insee": "67330",
+      "nom": "Niederrœdern",
+      "lat": 48.9124,
+      "lon": 8.0538,
+      "population": 886
+    },
+    {
+      "insee": "67331",
+      "nom": "Niederschaeffolsheim",
+      "lat": 48.7719,
+      "lon": 7.7429,
+      "population": 1325
+    },
+    {
+      "insee": "67333",
+      "nom": "Niedersoultzbach",
+      "lat": 48.8502,
+      "lon": 7.4715,
+      "population": 299
+    },
+    {
+      "insee": "67334",
+      "nom": "Niedersteinbach",
+      "lat": 49.0389,
+      "lon": 7.7109,
+      "population": 124
+    },
+    {
+      "insee": "67335",
+      "nom": "Nordheim",
+      "lat": 48.6403,
+      "lon": 7.5012,
+      "population": 945
+    },
+    {
+      "insee": "67336",
+      "nom": "Nordhouse",
+      "lat": 48.4473,
+      "lon": 7.6902,
+      "population": 1753
+    },
+    {
+      "insee": "67337",
+      "nom": "Nothalten",
+      "lat": 48.3557,
+      "lon": 7.4127,
+      "population": 409
+    },
+    {
+      "insee": "67338",
+      "nom": "Obenheim",
+      "lat": 48.3566,
+      "lon": 7.6852,
+      "population": 1403
+    },
+    {
+      "insee": "67340",
+      "nom": "Oberbronn",
+      "lat": 48.9374,
+      "lon": 7.5941,
+      "population": 1404
+    },
+    {
+      "insee": "67341",
+      "nom": "Oberdorf-Spachbach",
+      "lat": 48.9276,
+      "lon": 7.771,
+      "population": 430
+    },
+    {
+      "insee": "67342",
+      "nom": "Oberhaslach",
+      "lat": 48.5667,
+      "lon": 7.2957,
+      "population": 1733
+    },
+    {
+      "insee": "67343",
+      "nom": "Oberhausbergen",
+      "lat": 48.6092,
+      "lon": 7.6874,
+      "population": 5857
+    },
+    {
+      "insee": "67344",
+      "nom": "Oberhoffen-lès-Wissembourg",
+      "lat": 49.01,
+      "lon": 7.9154,
+      "population": 309
+    },
+    {
+      "insee": "67345",
+      "nom": "Oberhoffen-sur-Moder",
+      "lat": 48.7779,
+      "lon": 7.8849,
+      "population": 3992
+    },
+    {
+      "insee": "67346",
+      "nom": "Oberlauterbach",
+      "lat": 48.9452,
+      "lon": 8.0654,
+      "population": 548
+    },
+    {
+      "insee": "67347",
+      "nom": "Obermodern-Zutzendorf",
+      "lat": 48.8483,
+      "lon": 7.5422,
+      "population": 1774
+    },
+    {
+      "insee": "67348",
+      "nom": "Obernai",
+      "lat": 48.4546,
+      "lon": 7.4817,
+      "population": 12587
+    },
+    {
+      "insee": "67349",
+      "nom": "Oberrœdern",
+      "lat": 48.9278,
+      "lon": 7.9693,
+      "population": 508
+    },
+    {
+      "insee": "67350",
+      "nom": "Oberschaeffolsheim",
+      "lat": 48.5897,
+      "lon": 7.6486,
+      "population": 2597
+    },
+    {
+      "insee": "67352",
+      "nom": "Obersoultzbach",
+      "lat": 48.8511,
+      "lon": 7.4465,
+      "population": 386
+    },
+    {
+      "insee": "67353",
+      "nom": "Obersteinbach",
+      "lat": 49.0387,
+      "lon": 7.6686,
+      "population": 234
+    },
+    {
+      "insee": "67354",
+      "nom": "Odratzheim",
+      "lat": 48.6002,
+      "lon": 7.4927,
+      "population": 518
+    },
+    {
+      "insee": "67355",
+      "nom": "Oermingen",
+      "lat": 49,
+      "lon": 7.1249,
+      "population": 1086
+    },
+    {
+      "insee": "67356",
+      "nom": "Offendorf",
+      "lat": 48.7144,
+      "lon": 7.9178,
+      "population": 2484
+    },
+    {
+      "insee": "67358",
+      "nom": "Offwiller",
+      "lat": 48.9178,
+      "lon": 7.5412,
+      "population": 807
+    },
+    {
+      "insee": "67359",
+      "nom": "Ohlungen",
+      "lat": 48.8141,
+      "lon": 7.6879,
+      "population": 1418
+    },
+    {
+      "insee": "67360",
+      "nom": "Ohnenheim",
+      "lat": 48.1872,
+      "lon": 7.5046,
+      "population": 1164
+    },
+    {
+      "insee": "67361",
+      "nom": "Olwisheim",
+      "lat": 48.6979,
+      "lon": 7.6765,
+      "population": 484
+    },
+    {
+      "insee": "67362",
+      "nom": "Orschwiller",
+      "lat": 48.2468,
+      "lon": 7.3627,
+      "population": 635
+    },
+    {
+      "insee": "67363",
+      "nom": "Osthoffen",
+      "lat": 48.5914,
+      "lon": 7.5626,
+      "population": 815
+    },
+    {
+      "insee": "67364",
+      "nom": "Osthouse",
+      "lat": 48.3945,
+      "lon": 7.6472,
+      "population": 975
+    },
+    {
+      "insee": "67365",
+      "nom": "Ostwald",
+      "lat": 48.5469,
+      "lon": 7.7093,
+      "population": 13946
+    },
+    {
+      "insee": "67366",
+      "nom": "Ottersthal",
+      "lat": 48.759,
+      "lon": 7.3427,
+      "population": 805
+    },
+    {
+      "insee": "67367",
+      "nom": "Otterswiller",
+      "lat": 48.7227,
+      "lon": 7.3784,
+      "population": 1309
+    },
+    {
+      "insee": "67368",
+      "nom": "Ottrott",
+      "lat": 48.4452,
+      "lon": 7.3643,
+      "population": 1620
+    },
+    {
+      "insee": "67369",
+      "nom": "Ottwiller",
+      "lat": 48.8636,
+      "lon": 7.2314,
+      "population": 246
+    },
+    {
+      "insee": "67370",
+      "nom": "Petersbach",
+      "lat": 48.877,
+      "lon": 7.2697,
+      "population": 664
+    },
+    {
+      "insee": "67373",
+      "nom": "Pfalzweyer",
+      "lat": 48.8079,
+      "lon": 7.2585,
+      "population": 329
+    },
+    {
+      "insee": "67375",
+      "nom": "Pfulgriesheim",
+      "lat": 48.6451,
+      "lon": 7.6665,
+      "population": 1282
+    },
+    {
+      "insee": "67377",
+      "nom": "Plaine",
+      "lat": 48.4252,
+      "lon": 7.1389,
+      "population": 983
+    },
+    {
+      "insee": "67378",
+      "nom": "Plobsheim",
+      "lat": 48.4592,
+      "lon": 7.7328,
+      "population": 4492
+    },
+    {
+      "insee": "67379",
+      "nom": "Preuschdorf",
+      "lat": 48.9499,
+      "lon": 7.8032,
+      "population": 886
+    },
+    {
+      "insee": "67380",
+      "nom": "Printzheim",
+      "lat": 48.7936,
+      "lon": 7.4729,
+      "population": 209
+    },
+    {
+      "insee": "67381",
+      "nom": "Puberg",
+      "lat": 48.9126,
+      "lon": 7.3059,
+      "population": 319
+    },
+    {
+      "insee": "67382",
+      "nom": "Quatzenheim",
+      "lat": 48.6268,
+      "lon": 7.5785,
+      "population": 782
+    },
+    {
+      "insee": "67383",
+      "nom": "Rangen",
+      "lat": 48.6727,
+      "lon": 7.476,
+      "population": 217
+    },
+    {
+      "insee": "67384",
+      "nom": "Ranrupt",
+      "lat": 48.3729,
+      "lon": 7.1976,
+      "population": 312
+    },
+    {
+      "insee": "67385",
+      "nom": "Ratzwiller",
+      "lat": 48.9514,
+      "lon": 7.2578,
+      "population": 233
+    },
+    {
+      "insee": "67386",
+      "nom": "Rauwiller",
+      "lat": 48.8089,
+      "lon": 7.1143,
+      "population": 232
+    },
+    {
+      "insee": "67387",
+      "nom": "Reichsfeld",
+      "lat": 48.3601,
+      "lon": 7.3796,
+      "population": 284
+    },
+    {
+      "insee": "67388",
+      "nom": "Reichshoffen",
+      "lat": 48.9383,
+      "lon": 7.6737,
+      "population": 5418
+    },
+    {
+      "insee": "67389",
+      "nom": "Reichstett",
+      "lat": 48.651,
+      "lon": 7.7565,
+      "population": 4732
+    },
+    {
+      "insee": "67391",
+      "nom": "Reinhardsmunster",
+      "lat": 48.684,
+      "lon": 7.3048,
+      "population": 430
+    },
+    {
+      "insee": "67392",
+      "nom": "Reipertswiller",
+      "lat": 48.9464,
+      "lon": 7.441,
+      "population": 842
+    },
+    {
+      "insee": "67394",
+      "nom": "Retschwiller",
+      "lat": 48.9503,
+      "lon": 7.8858,
+      "population": 274
+    },
+    {
+      "insee": "67395",
+      "nom": "Reutenbourg",
+      "lat": 48.6832,
+      "lon": 7.4087,
+      "population": 388
+    },
+    {
+      "insee": "67396",
+      "nom": "Rexingen",
+      "lat": 48.905,
+      "lon": 7.1777,
+      "population": 202
+    },
+    {
+      "insee": "67397",
+      "nom": "Rhinau",
+      "lat": 48.3086,
+      "lon": 7.7027,
+      "population": 2723
+    },
+    {
+      "insee": "67398",
+      "nom": "Richtolsheim",
+      "lat": 48.2243,
+      "lon": 7.6048,
+      "population": 383
+    },
+    {
+      "insee": "67400",
+      "nom": "Riedseltz",
+      "lat": 48.9883,
+      "lon": 7.9477,
+      "population": 1143
+    },
+    {
+      "insee": "67401",
+      "nom": "Rimsdorf",
+      "lat": 48.9284,
+      "lon": 7.1117,
+      "population": 287
+    },
+    {
+      "insee": "67403",
+      "nom": "Ringendorf",
+      "lat": 48.8127,
+      "lon": 7.5577,
+      "population": 457
+    },
+    {
+      "insee": "67404",
+      "nom": "Rittershoffen",
+      "lat": 48.8904,
+      "lon": 7.9797,
+      "population": 928
+    },
+    {
+      "insee": "67405",
+      "nom": "Rœschwoog",
+      "lat": 48.823,
+      "lon": 8.0402,
+      "population": 2275
+    },
+    {
+      "insee": "67406",
+      "nom": "Rohr",
+      "lat": 48.694,
+      "lon": 7.5369,
+      "population": 377
+    },
+    {
+      "insee": "67407",
+      "nom": "Rohrwiller",
+      "lat": 48.7496,
+      "lon": 7.9035,
+      "population": 1615
+    },
+    {
+      "insee": "67408",
+      "nom": "Romanswiller",
+      "lat": 48.6407,
+      "lon": 7.3812,
+      "population": 1180
+    },
+    {
+      "insee": "67409",
+      "nom": "Roppenheim",
+      "lat": 48.8377,
+      "lon": 8.0687,
+      "population": 1031
+    },
+    {
+      "insee": "67410",
+      "nom": "Rosenwiller",
+      "lat": 48.5093,
+      "lon": 7.4244,
+      "population": 654
+    },
+    {
+      "insee": "67411",
+      "nom": "Rosheim",
+      "lat": 48.4873,
+      "lon": 7.4167,
+      "population": 5457
+    },
+    {
+      "insee": "67412",
+      "nom": "Rossfeld",
+      "lat": 48.3342,
+      "lon": 7.6153,
+      "population": 1043
+    },
+    {
+      "insee": "67413",
+      "nom": "Rosteig",
+      "lat": 48.9339,
+      "lon": 7.3378,
+      "population": 464
+    },
+    {
+      "insee": "67414",
+      "nom": "Rothau",
+      "lat": 48.4533,
+      "lon": 7.2042,
+      "population": 1471
+    },
+    {
+      "insee": "67415",
+      "nom": "Rothbach",
+      "lat": 48.9078,
+      "lon": 7.5107,
+      "population": 466
+    },
+    {
+      "insee": "67416",
+      "nom": "Rott",
+      "lat": 49.0175,
+      "lon": 7.9072,
+      "population": 462
+    },
+    {
+      "insee": "67417",
+      "nom": "Rottelsheim",
+      "lat": 48.7588,
+      "lon": 7.7103,
+      "population": 301
+    },
+    {
+      "insee": "67418",
+      "nom": "Rountzenheim-Auenheim",
+      "lat": 48.8178,
+      "lon": 8.0057,
+      "population": 2025
+    },
+    {
+      "insee": "67420",
+      "nom": "Russ",
+      "lat": 48.4847,
+      "lon": 7.2679,
+      "population": 1228
+    },
+    {
+      "insee": "67421",
+      "nom": "Saales",
+      "lat": 48.3527,
+      "lon": 7.1119,
+      "population": 826
+    },
+    {
+      "insee": "67422",
+      "nom": "Saasenheim",
+      "lat": 48.2413,
+      "lon": 7.6281,
+      "population": 573
+    },
+    {
+      "insee": "67423",
+      "nom": "Saessolsheim",
+      "lat": 48.7103,
+      "lon": 7.5121,
+      "population": 604
+    },
+    {
+      "insee": "67424",
+      "nom": "Saint-Blaise-la-Roche",
+      "lat": 48.409,
+      "lon": 7.1713,
+      "population": 239
+    },
+    {
+      "insee": "67425",
+      "nom": "Saint-Jean-Saverne",
+      "lat": 48.7812,
+      "lon": 7.358,
+      "population": 542
+    },
+    {
+      "insee": "67426",
+      "nom": "Saint-Martin",
+      "lat": 48.3506,
+      "lon": 7.2846,
+      "population": 374
+    },
+    {
+      "insee": "67427",
+      "nom": "Saint-Maurice",
+      "lat": 48.3322,
+      "lon": 7.3344,
+      "population": 332
+    },
+    {
+      "insee": "67428",
+      "nom": "Saint-Nabor",
+      "lat": 48.4411,
+      "lon": 7.4169,
+      "population": 512
+    },
+    {
+      "insee": "67429",
+      "nom": "Saint-Pierre",
+      "lat": 48.3841,
+      "lon": 7.466,
+      "population": 614
+    },
+    {
+      "insee": "67430",
+      "nom": "Saint-Pierre-Bois",
+      "lat": 48.3311,
+      "lon": 7.3666,
+      "population": 804
+    },
+    {
+      "insee": "67432",
+      "nom": "Salmbach",
+      "lat": 48.977,
+      "lon": 8.0684,
+      "population": 585
+    },
+    {
+      "insee": "67433",
+      "nom": "Sand",
+      "lat": 48.3777,
+      "lon": 7.6232,
+      "population": 1417
+    },
+    {
+      "insee": "67434",
+      "nom": "Sarre-Union",
+      "lat": 48.9443,
+      "lon": 7.0862,
+      "population": 2731
+    },
+    {
+      "insee": "67435",
+      "nom": "Sarrewerden",
+      "lat": 48.9089,
+      "lon": 7.0768,
+      "population": 816
+    },
+    {
+      "insee": "67436",
+      "nom": "Saulxures",
+      "lat": 48.3911,
+      "lon": 7.1222,
+      "population": 508
+    },
+    {
+      "insee": "67437",
+      "nom": "Saverne",
+      "lat": 48.7439,
+      "lon": 7.3537,
+      "population": 11460
+    },
+    {
+      "insee": "67438",
+      "nom": "Schaeffersheim",
+      "lat": 48.4324,
+      "lon": 7.61,
+      "population": 878
+    },
+    {
+      "insee": "67440",
+      "nom": "Schaffhouse-près-Seltz",
+      "lat": 48.9119,
+      "lon": 8.0885,
+      "population": 557
+    },
+    {
+      "insee": "67441",
+      "nom": "Schalkendorf",
+      "lat": 48.8365,
+      "lon": 7.5674,
+      "population": 335
+    },
+    {
+      "insee": "67442",
+      "nom": "Scharrachbergheim-Irmstett",
+      "lat": 48.5893,
+      "lon": 7.4905,
+      "population": 1359
+    },
+    {
+      "insee": "67443",
+      "nom": "Scheibenhard",
+      "lat": 48.9695,
+      "lon": 8.1452,
+      "population": 871
+    },
+    {
+      "insee": "67444",
+      "nom": "Scherlenheim",
+      "lat": 48.7647,
+      "lon": 7.5323,
+      "population": 112
+    },
+    {
+      "insee": "67445",
+      "nom": "Scherwiller",
+      "lat": 48.2927,
+      "lon": 7.415,
+      "population": 3099
+    },
+    {
+      "insee": "67446",
+      "nom": "Schillersdorf",
+      "lat": 48.8694,
+      "lon": 7.5253,
+      "population": 407
+    },
+    {
+      "insee": "67447",
+      "nom": "Schiltigheim",
+      "lat": 48.6118,
+      "lon": 7.7511,
+      "population": 34708
+    },
+    {
+      "insee": "67448",
+      "nom": "Schirmeck",
+      "lat": 48.494,
+      "lon": 7.2026,
+      "population": 2056
+    },
+    {
+      "insee": "67449",
+      "nom": "Schirrhein",
+      "lat": 48.793,
+      "lon": 7.9096,
+      "population": 2251
+    },
+    {
+      "insee": "67450",
+      "nom": "Schirrhoffen",
+      "lat": 48.8065,
+      "lon": 7.9267,
+      "population": 838
+    },
+    {
+      "insee": "67451",
+      "nom": "Schleithal",
+      "lat": 48.9854,
+      "lon": 8.0319,
+      "population": 1382
+    },
+    {
+      "insee": "67452",
+      "nom": "Schnersheim",
+      "lat": 48.6577,
+      "lon": 7.5707,
+      "population": 1853
+    },
+    {
+      "insee": "67453",
+      "nom": "Schœnau",
+      "lat": 48.229,
+      "lon": 7.6511,
+      "population": 587
+    },
+    {
+      "insee": "67454",
+      "nom": "Schœnbourg",
+      "lat": 48.8345,
+      "lon": 7.265,
+      "population": 366
+    },
+    {
+      "insee": "67455",
+      "nom": "Schœnenbourg",
+      "lat": 48.9513,
+      "lon": 7.9172,
+      "population": 720
+    },
+    {
+      "insee": "67456",
+      "nom": "Schopperten",
+      "lat": 48.9471,
+      "lon": 7.0515,
+      "population": 407
+    },
+    {
+      "insee": "67458",
+      "nom": "Schweighouse-sur-Moder",
+      "lat": 48.8195,
+      "lon": 7.7388,
+      "population": 5182
+    },
+    {
+      "insee": "67459",
+      "nom": "Schwenheim",
+      "lat": 48.7156,
+      "lon": 7.4106,
+      "population": 742
+    },
+    {
+      "insee": "67460",
+      "nom": "Schwindratzheim",
+      "lat": 48.7632,
+      "lon": 7.601,
+      "population": 1768
+    },
+    {
+      "insee": "67461",
+      "nom": "Schwobsheim",
+      "lat": 48.236,
+      "lon": 7.5745,
+      "population": 323
+    },
+    {
+      "insee": "67351",
+      "nom": "Seebach",
+      "lat": 48.9636,
+      "lon": 7.9894,
+      "population": 1616
+    },
+    {
+      "insee": "67462",
+      "nom": "Sélestat",
+      "lat": 48.2507,
+      "lon": 7.4588,
+      "population": 19589
+    },
+    {
+      "insee": "67463",
+      "nom": "Seltz",
+      "lat": 48.8952,
+      "lon": 8.0922,
+      "population": 3204
+    },
+    {
+      "insee": "67464",
+      "nom": "Sermersheim",
+      "lat": 48.3419,
+      "lon": 7.5511,
+      "population": 955
+    },
+    {
+      "insee": "67465",
+      "nom": "Sessenheim",
+      "lat": 48.7972,
+      "lon": 7.9808,
+      "population": 2342
+    },
+    {
+      "insee": "67466",
+      "nom": "Siegen",
+      "lat": 48.9547,
+      "lon": 8.0425,
+      "population": 519
+    },
+    {
+      "insee": "67467",
+      "nom": "Siewiller",
+      "lat": 48.8383,
+      "lon": 7.2097,
+      "population": 380
+    },
+    {
+      "insee": "67468",
+      "nom": "Siltzheim",
+      "lat": 49.0614,
+      "lon": 7.0934,
+      "population": 614
+    },
+    {
+      "insee": "67470",
+      "nom": "Solbach",
+      "lat": 48.4308,
+      "lon": 7.199,
+      "population": 111
+    },
+    {
+      "insee": "67004",
+      "nom": "Sommerau",
+      "lat": 48.6601,
+      "lon": 7.3565,
+      "population": 1523
+    },
+    {
+      "insee": "67471",
+      "nom": "Souffelweyersheim",
+      "lat": 48.6323,
+      "lon": 7.7492,
+      "population": 8239
+    },
+    {
+      "insee": "67472",
+      "nom": "Soufflenheim",
+      "lat": 48.8097,
+      "lon": 7.9587,
+      "population": 4740
+    },
+    {
+      "insee": "67473",
+      "nom": "Soultz-les-Bains",
+      "lat": 48.5687,
+      "lon": 7.4771,
+      "population": 942
+    },
+    {
+      "insee": "67474",
+      "nom": "Soultz-sous-Forêts",
+      "lat": 48.9509,
+      "lon": 7.8705,
+      "population": 3121
+    },
+    {
+      "insee": "67475",
+      "nom": "Sparsbach",
+      "lat": 48.8752,
+      "lon": 7.41,
+      "population": 238
+    },
+    {
+      "insee": "67476",
+      "nom": "Stattmatten",
+      "lat": 48.7935,
+      "lon": 8.0202,
+      "population": 744
+    },
+    {
+      "insee": "67477",
+      "nom": "Steige",
+      "lat": 48.365,
+      "lon": 7.2268,
+      "population": 623
+    },
+    {
+      "insee": "67478",
+      "nom": "Steinbourg",
+      "lat": 48.7654,
+      "lon": 7.4119,
+      "population": 1897
+    },
+    {
+      "insee": "67479",
+      "nom": "Steinseltz",
+      "lat": 49.0054,
+      "lon": 7.9282,
+      "population": 614
+    },
+    {
+      "insee": "67480",
+      "nom": "Still",
+      "lat": 48.5667,
+      "lon": 7.3712,
+      "population": 1793
+    },
+    {
+      "insee": "67481",
+      "nom": "Stotzheim",
+      "lat": 48.3776,
+      "lon": 7.5028,
+      "population": 1121
+    },
+    {
+      "insee": "67482",
+      "nom": "Strasbourg",
+      "lat": 48.5691,
+      "lon": 7.7621,
+      "population": 293771
+    },
+    {
+      "insee": "67483",
+      "nom": "Struth",
+      "lat": 48.896,
+      "lon": 7.2683,
+      "population": 213
+    },
+    {
+      "insee": "67484",
+      "nom": "Stundwiller",
+      "lat": 48.9243,
+      "lon": 7.9979,
+      "population": 523
+    },
+    {
+      "insee": "67485",
+      "nom": "Stutzheim-Offenheim",
+      "lat": 48.6255,
+      "lon": 7.6268,
+      "population": 1607
+    },
+    {
+      "insee": "67486",
+      "nom": "Sundhouse",
+      "lat": 48.2551,
+      "lon": 7.6302,
+      "population": 1808
+    },
+    {
+      "insee": "67487",
+      "nom": "Surbourg",
+      "lat": 48.909,
+      "lon": 7.8378,
+      "population": 1733
+    },
+    {
+      "insee": "67488",
+      "nom": "Thal-Drulingen",
+      "lat": 48.9127,
+      "lon": 7.1407,
+      "population": 186
+    },
+    {
+      "insee": "67489",
+      "nom": "Thal-Marmoutier",
+      "lat": 48.6957,
+      "lon": 7.3411,
+      "population": 826
+    },
+    {
+      "insee": "67490",
+      "nom": "Thanvillé",
+      "lat": 48.3231,
+      "lon": 7.3484,
+      "population": 623
+    },
+    {
+      "insee": "67491",
+      "nom": "Tieffenbach",
+      "lat": 48.9019,
+      "lon": 7.2452,
+      "population": 243
+    },
+    {
+      "insee": "67492",
+      "nom": "Traenheim",
+      "lat": 48.5941,
+      "lon": 7.4672,
+      "population": 655
+    },
+    {
+      "insee": "67493",
+      "nom": "Triembach-au-Val",
+      "lat": 48.3419,
+      "lon": 7.3363,
+      "population": 421
+    },
+    {
+      "insee": "67494",
+      "nom": "Trimbach",
+      "lat": 48.9411,
+      "lon": 8.0143,
+      "population": 566
+    },
+    {
+      "insee": "67495",
+      "nom": "Truchtersheim",
+      "lat": 48.6584,
+      "lon": 7.6293,
+      "population": 4398
+    },
+    {
+      "insee": "67497",
+      "nom": "Uhlwiller",
+      "lat": 48.8191,
+      "lon": 7.6805,
+      "population": 665
+    },
+    {
+      "insee": "67498",
+      "nom": "Uhrwiller",
+      "lat": 48.8839,
+      "lon": 7.575,
+      "population": 709
+    },
+    {
+      "insee": "67499",
+      "nom": "Urbeis",
+      "lat": 48.3317,
+      "lon": 7.2068,
+      "population": 309
+    },
+    {
+      "insee": "67500",
+      "nom": "Urmatt",
+      "lat": 48.5409,
+      "lon": 7.2986,
+      "population": 1505
+    },
+    {
+      "insee": "67501",
+      "nom": "Uttenheim",
+      "lat": 48.4134,
+      "lon": 7.5954,
+      "population": 596
+    },
+    {
+      "insee": "67502",
+      "nom": "Uttenhoffen",
+      "lat": 48.8934,
+      "lon": 7.646,
+      "population": 210
+    },
+    {
+      "insee": "67503",
+      "nom": "Uttwiller",
+      "lat": 48.8453,
+      "lon": 7.4971,
+      "population": 154
+    },
+    {
+      "insee": "67372",
+      "nom": "Val-de-Moder",
+      "lat": 48.8407,
+      "lon": 7.614,
+      "population": 5102
+    },
+    {
+      "insee": "67504",
+      "nom": "Valff",
+      "lat": 48.4212,
+      "lon": 7.5304,
+      "population": 1357
+    },
+    {
+      "insee": "67506",
+      "nom": "Vendenheim",
+      "lat": 48.6692,
+      "lon": 7.7417,
+      "population": 6137
+    },
+    {
+      "insee": "67507",
+      "nom": "Villé",
+      "lat": 48.344,
+      "lon": 7.3038,
+      "population": 1799
+    },
+    {
+      "insee": "67508",
+      "nom": "Vœllerdingen",
+      "lat": 48.9722,
+      "lon": 7.1322,
+      "population": 418
+    },
+    {
+      "insee": "67509",
+      "nom": "Volksberg",
+      "lat": 48.9397,
+      "lon": 7.2926,
+      "population": 353
+    },
+    {
+      "insee": "67510",
+      "nom": "Wahlenheim",
+      "lat": 48.766,
+      "lon": 7.6875,
+      "population": 649
+    },
+    {
+      "insee": "67511",
+      "nom": "Walbourg",
+      "lat": 48.8852,
+      "lon": 7.783,
+      "population": 928
+    },
+    {
+      "insee": "67513",
+      "nom": "Waldersbach",
+      "lat": 48.4168,
+      "lon": 7.2209,
+      "population": 118
+    },
+    {
+      "insee": "67514",
+      "nom": "Waldhambach",
+      "lat": 48.9258,
+      "lon": 7.2405,
+      "population": 598
+    },
+    {
+      "insee": "67515",
+      "nom": "Waldolwisheim",
+      "lat": 48.7326,
+      "lon": 7.4318,
+      "population": 540
+    },
+    {
+      "insee": "67516",
+      "nom": "Waltenheim-sur-Zorn",
+      "lat": 48.7435,
+      "lon": 7.6222,
+      "population": 655
+    },
+    {
+      "insee": "67517",
+      "nom": "Wangen",
+      "lat": 48.6202,
+      "lon": 7.4613,
+      "population": 639
+    },
+    {
+      "insee": "67122",
+      "nom": "Wangenbourg-Engenthal",
+      "lat": 48.6255,
+      "lon": 7.303,
+      "population": 1327
+    },
+    {
+      "insee": "67520",
+      "nom": "Wasselonne",
+      "lat": 48.6375,
+      "lon": 7.4445,
+      "population": 5780
+    },
+    {
+      "insee": "67521",
+      "nom": "Weinbourg",
+      "lat": 48.8724,
+      "lon": 7.4363,
+      "population": 467
+    },
+    {
+      "insee": "67522",
+      "nom": "Weislingen",
+      "lat": 48.9178,
+      "lon": 7.257,
+      "population": 525
+    },
+    {
+      "insee": "67523",
+      "nom": "Weitbruch",
+      "lat": 48.7606,
+      "lon": 7.7806,
+      "population": 2711
+    },
+    {
+      "insee": "67524",
+      "nom": "Weiterswiller",
+      "lat": 48.8546,
+      "lon": 7.4058,
+      "population": 515
+    },
+    {
+      "insee": "67525",
+      "nom": "Westhoffen",
+      "lat": 48.6055,
+      "lon": 7.4157,
+      "population": 1720
+    },
+    {
+      "insee": "67526",
+      "nom": "Westhouse",
+      "lat": 48.4083,
+      "lon": 7.5763,
+      "population": 1639
+    },
+    {
+      "insee": "67527",
+      "nom": "Westhouse-Marmoutier",
+      "lat": 48.6848,
+      "lon": 7.458,
+      "population": 372
+    },
+    {
+      "insee": "67528",
+      "nom": "Weyer",
+      "lat": 48.8602,
+      "lon": 7.1627,
+      "population": 509
+    },
+    {
+      "insee": "67529",
+      "nom": "Weyersheim",
+      "lat": 48.7161,
+      "lon": 7.8368,
+      "population": 3512
+    },
+    {
+      "insee": "67530",
+      "nom": "Wickersheim-Wilshausen",
+      "lat": 48.7808,
+      "lon": 7.5361,
+      "population": 391
+    },
+    {
+      "insee": "67531",
+      "nom": "Wildersbach",
+      "lat": 48.437,
+      "lon": 7.2238,
+      "population": 284
+    },
+    {
+      "insee": "67532",
+      "nom": "Willgottheim",
+      "lat": 48.6747,
+      "lon": 7.5142,
+      "population": 1057
+    },
+    {
+      "insee": "67534",
+      "nom": "Wilwisheim",
+      "lat": 48.7558,
+      "lon": 7.5032,
+      "population": 772
+    },
+    {
+      "insee": "67535",
+      "nom": "Wimmenau",
+      "lat": 48.9246,
+      "lon": 7.4204,
+      "population": 1070
+    },
+    {
+      "insee": "67536",
+      "nom": "Windstein",
+      "lat": 48.9897,
+      "lon": 7.6949,
+      "population": 177
+    },
+    {
+      "insee": "67537",
+      "nom": "Wingen",
+      "lat": 49.0401,
+      "lon": 7.8169,
+      "population": 445
+    },
+    {
+      "insee": "67538",
+      "nom": "Wingen-sur-Moder",
+      "lat": 48.928,
+      "lon": 7.3773,
+      "population": 1530
+    },
+    {
+      "insee": "67539",
+      "nom": "Wingersheim les Quatre Bans",
+      "lat": 48.7228,
+      "lon": 7.6175,
+      "population": 2342
+    },
+    {
+      "insee": "67540",
+      "nom": "Wintershouse",
+      "lat": 48.7957,
+      "lon": 7.7065,
+      "population": 869
+    },
+    {
+      "insee": "67541",
+      "nom": "Wintzenbach",
+      "lat": 48.9338,
+      "lon": 8.1098,
+      "population": 532
+    },
+    {
+      "insee": "67542",
+      "nom": "Wintzenheim-Kochersberg",
+      "lat": 48.6576,
+      "lon": 7.5055,
+      "population": 532
+    },
+    {
+      "insee": "67543",
+      "nom": "Wisches",
+      "lat": 48.5124,
+      "lon": 7.2241,
+      "population": 2050
+    },
+    {
+      "insee": "67544",
+      "nom": "Wissembourg",
+      "lat": 49.0184,
+      "lon": 7.9629,
+      "population": 7566
+    },
+    {
+      "insee": "67545",
+      "nom": "Witternheim",
+      "lat": 48.3126,
+      "lon": 7.6155,
+      "population": 508
+    },
+    {
+      "insee": "67546",
+      "nom": "Wittersheim",
+      "lat": 48.7808,
+      "lon": 7.6538,
+      "population": 747
+    },
+    {
+      "insee": "67547",
+      "nom": "Wittisheim",
+      "lat": 48.2592,
+      "lon": 7.6015,
+      "population": 2085
+    },
+    {
+      "insee": "67548",
+      "nom": "Wiwersheim",
+      "lat": 48.6375,
+      "lon": 7.5985,
+      "population": 922
+    },
+    {
+      "insee": "67550",
+      "nom": "Wœrth",
+      "lat": 48.9427,
+      "lon": 7.7456,
+      "population": 1656
+    },
+    {
+      "insee": "67551",
+      "nom": "Wolfisheim",
+      "lat": 48.5857,
+      "lon": 7.6625,
+      "population": 4217
+    },
+    {
+      "insee": "67552",
+      "nom": "Wolfskirchen",
+      "lat": 48.8759,
+      "lon": 7.0804,
+      "population": 332
+    },
+    {
+      "insee": "67553",
+      "nom": "Wolschheim",
+      "lat": 48.707,
+      "lon": 7.4523,
+      "population": 311
+    },
+    {
+      "insee": "67554",
+      "nom": "Wolxheim",
+      "lat": 48.5697,
+      "lon": 7.5053,
+      "population": 961
+    },
+    {
+      "insee": "67555",
+      "nom": "Zehnacker",
+      "lat": 48.6694,
+      "lon": 7.4523,
+      "population": 254
+    },
+    {
+      "insee": "67556",
+      "nom": "Zeinheim",
+      "lat": 48.6766,
+      "lon": 7.4895,
+      "population": 234
+    },
+    {
+      "insee": "67557",
+      "nom": "Zellwiller",
+      "lat": 48.4004,
+      "lon": 7.5121,
+      "population": 808
+    },
+    {
+      "insee": "67558",
+      "nom": "Zinswiller",
+      "lat": 48.9177,
+      "lon": 7.584,
+      "population": 712
+    },
+    {
+      "insee": "67559",
+      "nom": "Zittersheim",
+      "lat": 48.9014,
+      "lon": 7.3408,
+      "population": 232
+    }
+  ]
+}

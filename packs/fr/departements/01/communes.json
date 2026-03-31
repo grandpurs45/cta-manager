@@ -1,0 +1,2744 @@
+{
+  "country": "FR",
+  "departmentCode": "01",
+  "label": "Departement 01",
+  "communes": [
+    {
+      "insee": "01004",
+      "nom": "Ambérieu-en-Bugey",
+      "lat": 45.9575,
+      "lon": 5.3706,
+      "population": 15934
+    },
+    {
+      "insee": "01005",
+      "nom": "Ambérieux-en-Dombes",
+      "lat": 45.9992,
+      "lon": 4.9119,
+      "population": 1906
+    },
+    {
+      "insee": "01006",
+      "nom": "Ambléon",
+      "lat": 45.7483,
+      "lon": 5.5928,
+      "population": 115
+    },
+    {
+      "insee": "01007",
+      "nom": "Ambronay",
+      "lat": 46.0099,
+      "lon": 5.3627,
+      "population": 2841
+    },
+    {
+      "insee": "01008",
+      "nom": "Ambutrix",
+      "lat": 45.9347,
+      "lon": 5.3359,
+      "population": 760
+    },
+    {
+      "insee": "01009",
+      "nom": "Andert-et-Condon",
+      "lat": 45.7841,
+      "lon": 5.6607,
+      "population": 348
+    },
+    {
+      "insee": "01010",
+      "nom": "Anglefort",
+      "lat": 45.9086,
+      "lon": 5.7948,
+      "population": 1174
+    },
+    {
+      "insee": "01011",
+      "nom": "Apremont",
+      "lat": 46.2045,
+      "lon": 5.6619,
+      "population": 415
+    },
+    {
+      "insee": "01012",
+      "nom": "Aranc",
+      "lat": 45.9972,
+      "lon": 5.514,
+      "population": 331
+    },
+    {
+      "insee": "01013",
+      "nom": "Arandas",
+      "lat": 45.8885,
+      "lon": 5.4982,
+      "population": 138
+    },
+    {
+      "insee": "01014",
+      "nom": "Arbent",
+      "lat": 46.2838,
+      "lon": 5.6879,
+      "population": 3555
+    },
+    {
+      "insee": "01016",
+      "nom": "Arbigny",
+      "lat": 46.4808,
+      "lon": 4.9613,
+      "population": 462
+    },
+    {
+      "insee": "01015",
+      "nom": "Arboys en Bugey",
+      "lat": 45.7189,
+      "lon": 5.6404,
+      "population": 710
+    },
+    {
+      "insee": "01017",
+      "nom": "Argis",
+      "lat": 45.9322,
+      "lon": 5.4819,
+      "population": 419
+    },
+    {
+      "insee": "01019",
+      "nom": "Armix",
+      "lat": 45.8523,
+      "lon": 5.5837,
+      "population": 25
+    },
+    {
+      "insee": "01021",
+      "nom": "Ars-sur-Formans",
+      "lat": 45.9904,
+      "lon": 4.8195,
+      "population": 1528
+    },
+    {
+      "insee": "01022",
+      "nom": "Artemare",
+      "lat": 45.8701,
+      "lon": 5.692,
+      "population": 1139
+    },
+    {
+      "insee": "01453",
+      "nom": "Arvière-en-Valromey",
+      "lat": 45.9153,
+      "lon": 5.7346,
+      "population": 717
+    },
+    {
+      "insee": "01023",
+      "nom": "Asnières-sur-Saône",
+      "lat": 46.3859,
+      "lon": 4.882,
+      "population": 78
+    },
+    {
+      "insee": "01024",
+      "nom": "Attignat",
+      "lat": 46.2858,
+      "lon": 5.1823,
+      "population": 3409
+    },
+    {
+      "insee": "01025",
+      "nom": "Bâgé-Dommartin",
+      "lat": 46.3277,
+      "lon": 4.9704,
+      "population": 4050
+    },
+    {
+      "insee": "01026",
+      "nom": "Bâgé-le-Châtel",
+      "lat": 46.3081,
+      "lon": 4.9305,
+      "population": 971
+    },
+    {
+      "insee": "01027",
+      "nom": "Balan",
+      "lat": 45.8268,
+      "lon": 5.1076,
+      "population": 3077
+    },
+    {
+      "insee": "01028",
+      "nom": "Baneins",
+      "lat": 46.1117,
+      "lon": 4.9045,
+      "population": 621
+    },
+    {
+      "insee": "01170",
+      "nom": "Béard-Géovreissiat",
+      "lat": 46.1884,
+      "lon": 5.5497,
+      "population": 1048
+    },
+    {
+      "insee": "01029",
+      "nom": "Beaupont",
+      "lat": 46.4274,
+      "lon": 5.2634,
+      "population": 734
+    },
+    {
+      "insee": "01030",
+      "nom": "Beauregard",
+      "lat": 46.0012,
+      "lon": 4.7567,
+      "population": 872
+    },
+    {
+      "insee": "01032",
+      "nom": "Béligneux",
+      "lat": 45.8622,
+      "lon": 5.1415,
+      "population": 3535
+    },
+    {
+      "insee": "01034",
+      "nom": "Belley",
+      "lat": 45.743,
+      "lon": 5.6927,
+      "population": 9388
+    },
+    {
+      "insee": "01035",
+      "nom": "Belleydoux",
+      "lat": 46.2519,
+      "lon": 5.7816,
+      "population": 306
+    },
+    {
+      "insee": "01031",
+      "nom": "Bellignat",
+      "lat": 46.2402,
+      "lon": 5.6371,
+      "population": 3525
+    },
+    {
+      "insee": "01037",
+      "nom": "Bénonces",
+      "lat": 45.842,
+      "lon": 5.4834,
+      "population": 311
+    },
+    {
+      "insee": "01038",
+      "nom": "Bény",
+      "lat": 46.3189,
+      "lon": 5.2789,
+      "population": 777
+    },
+    {
+      "insee": "01040",
+      "nom": "Béréziat",
+      "lat": 46.3699,
+      "lon": 5.0431,
+      "population": 475
+    },
+    {
+      "insee": "01041",
+      "nom": "Bettant",
+      "lat": 45.9366,
+      "lon": 5.3648,
+      "population": 774
+    },
+    {
+      "insee": "01042",
+      "nom": "Bey",
+      "lat": 46.2182,
+      "lon": 4.844,
+      "population": 286
+    },
+    {
+      "insee": "01043",
+      "nom": "Beynost",
+      "lat": 45.8359,
+      "lon": 4.9964,
+      "population": 5198
+    },
+    {
+      "insee": "01044",
+      "nom": "Billiat",
+      "lat": 46.0778,
+      "lon": 5.7632,
+      "population": 713
+    },
+    {
+      "insee": "01045",
+      "nom": "Birieux",
+      "lat": 45.9509,
+      "lon": 5.0401,
+      "population": 275
+    },
+    {
+      "insee": "01046",
+      "nom": "Biziat",
+      "lat": 46.224,
+      "lon": 4.9393,
+      "population": 889
+    },
+    {
+      "insee": "01047",
+      "nom": "Blyes",
+      "lat": 45.8442,
+      "lon": 5.2515,
+      "population": 1401
+    },
+    {
+      "insee": "01245",
+      "nom": "Bohas-Meyriat-Rignat",
+      "lat": 46.1422,
+      "lon": 5.375,
+      "population": 938
+    },
+    {
+      "insee": "01050",
+      "nom": "Boissey",
+      "lat": 46.3723,
+      "lon": 4.9975,
+      "population": 396
+    },
+    {
+      "insee": "01051",
+      "nom": "Bolozon",
+      "lat": 46.1971,
+      "lon": 5.4701,
+      "population": 103
+    },
+    {
+      "insee": "01052",
+      "nom": "Bouligneux",
+      "lat": 46.0202,
+      "lon": 4.9957,
+      "population": 318
+    },
+    {
+      "insee": "01053",
+      "nom": "Bourg-en-Bresse",
+      "lat": 46.2027,
+      "lon": 5.2469,
+      "population": 42372
+    },
+    {
+      "insee": "01054",
+      "nom": "Bourg-Saint-Christophe",
+      "lat": 45.8842,
+      "lon": 5.1393,
+      "population": 1562
+    },
+    {
+      "insee": "01056",
+      "nom": "Boyeux-Saint-Jérôme",
+      "lat": 46.0356,
+      "lon": 5.4616,
+      "population": 367
+    },
+    {
+      "insee": "01057",
+      "nom": "Boz",
+      "lat": 46.4089,
+      "lon": 4.9166,
+      "population": 513
+    },
+    {
+      "insee": "01058",
+      "nom": "Brégnier-Cordon",
+      "lat": 45.6406,
+      "lon": 5.6174,
+      "population": 804
+    },
+    {
+      "insee": "01060",
+      "nom": "Brénod",
+      "lat": 46.0791,
+      "lon": 5.6116,
+      "population": 576
+    },
+    {
+      "insee": "01061",
+      "nom": "Brens",
+      "lat": 45.7163,
+      "lon": 5.69,
+      "population": 1123
+    },
+    {
+      "insee": "01130",
+      "nom": "Bresse Vallons",
+      "lat": 46.3271,
+      "lon": 5.1822,
+      "population": 2388
+    },
+    {
+      "insee": "01062",
+      "nom": "Bressolles",
+      "lat": 45.8714,
+      "lon": 5.0984,
+      "population": 1028
+    },
+    {
+      "insee": "01063",
+      "nom": "Brion",
+      "lat": 46.1689,
+      "lon": 5.5477,
+      "population": 592
+    },
+    {
+      "insee": "01064",
+      "nom": "Briord",
+      "lat": 45.768,
+      "lon": 5.4832,
+      "population": 1119
+    },
+    {
+      "insee": "01065",
+      "nom": "Buellas",
+      "lat": 46.2116,
+      "lon": 5.1468,
+      "population": 1899
+    },
+    {
+      "insee": "01067",
+      "nom": "Ceignes",
+      "lat": 46.1258,
+      "lon": 5.4957,
+      "population": 257
+    },
+    {
+      "insee": "01068",
+      "nom": "Cerdon",
+      "lat": 46.075,
+      "lon": 5.4755,
+      "population": 747
+    },
+    {
+      "insee": "01069",
+      "nom": "Certines",
+      "lat": 46.1336,
+      "lon": 5.2638,
+      "population": 1531
+    },
+    {
+      "insee": "01071",
+      "nom": "Cessy",
+      "lat": 46.3157,
+      "lon": 6.082,
+      "population": 5832
+    },
+    {
+      "insee": "01072",
+      "nom": "Ceyzériat",
+      "lat": 46.1822,
+      "lon": 5.3191,
+      "population": 3328
+    },
+    {
+      "insee": "01073",
+      "nom": "Ceyzérieu",
+      "lat": 45.8368,
+      "lon": 5.7197,
+      "population": 1064
+    },
+    {
+      "insee": "01074",
+      "nom": "Chalamont",
+      "lat": 46.0149,
+      "lon": 5.1735,
+      "population": 2533
+    },
+    {
+      "insee": "01075",
+      "nom": "Chaleins",
+      "lat": 46.0361,
+      "lon": 4.7999,
+      "population": 1505
+    },
+    {
+      "insee": "01076",
+      "nom": "Chaley",
+      "lat": 45.9511,
+      "lon": 5.5408,
+      "population": 129
+    },
+    {
+      "insee": "01077",
+      "nom": "Challes-la-Montagne",
+      "lat": 46.1237,
+      "lon": 5.456,
+      "population": 184
+    },
+    {
+      "insee": "01078",
+      "nom": "Challex",
+      "lat": 46.1765,
+      "lon": 5.9735,
+      "population": 1632
+    },
+    {
+      "insee": "01079",
+      "nom": "Champagne-en-Valromey",
+      "lat": 45.9317,
+      "lon": 5.6921,
+      "population": 831
+    },
+    {
+      "insee": "01080",
+      "nom": "Champdor-Corcelles",
+      "lat": 46.0371,
+      "lon": 5.5882,
+      "population": 665
+    },
+    {
+      "insee": "01081",
+      "nom": "Champfromier",
+      "lat": 46.2264,
+      "lon": 5.8216,
+      "population": 725
+    },
+    {
+      "insee": "01082",
+      "nom": "Chanay",
+      "lat": 46.0024,
+      "lon": 5.7674,
+      "population": 574
+    },
+    {
+      "insee": "01083",
+      "nom": "Chaneins",
+      "lat": 46.0947,
+      "lon": 4.8517,
+      "population": 1046
+    },
+    {
+      "insee": "01084",
+      "nom": "Chanoz-Châtenay",
+      "lat": 46.1868,
+      "lon": 5.0302,
+      "population": 989
+    },
+    {
+      "insee": "01087",
+      "nom": "Charix",
+      "lat": 46.1893,
+      "lon": 5.6773,
+      "population": 280
+    },
+    {
+      "insee": "01088",
+      "nom": "Charnoz-sur-Ain",
+      "lat": 45.8756,
+      "lon": 5.2251,
+      "population": 951
+    },
+    {
+      "insee": "01089",
+      "nom": "Château-Gaillard",
+      "lat": 45.9723,
+      "lon": 5.3091,
+      "population": 2443
+    },
+    {
+      "insee": "01090",
+      "nom": "Châtenay",
+      "lat": 46.0276,
+      "lon": 5.2085,
+      "population": 373
+    },
+    {
+      "insee": "01092",
+      "nom": "Châtillon-la-Palud",
+      "lat": 45.9757,
+      "lon": 5.246,
+      "population": 1698
+    },
+    {
+      "insee": "01093",
+      "nom": "Châtillon-sur-Chalaronne",
+      "lat": 46.1264,
+      "lon": 4.9549,
+      "population": 5250
+    },
+    {
+      "insee": "01094",
+      "nom": "Chavannes-sur-Reyssouze",
+      "lat": 46.4403,
+      "lon": 5.0069,
+      "population": 726
+    },
+    {
+      "insee": "01096",
+      "nom": "Chaveyriat",
+      "lat": 46.1991,
+      "lon": 5.0534,
+      "population": 1078
+    },
+    {
+      "insee": "01098",
+      "nom": "Chazey-Bons",
+      "lat": 45.8007,
+      "lon": 5.6678,
+      "population": 1142
+    },
+    {
+      "insee": "01099",
+      "nom": "Chazey-sur-Ain",
+      "lat": 45.8937,
+      "lon": 5.2604,
+      "population": 1632
+    },
+    {
+      "insee": "01100",
+      "nom": "Cheignieu-la-Balme",
+      "lat": 45.8233,
+      "lon": 5.6022,
+      "population": 131
+    },
+    {
+      "insee": "01101",
+      "nom": "Chevillard",
+      "lat": 46.1087,
+      "lon": 5.5815,
+      "population": 149
+    },
+    {
+      "insee": "01102",
+      "nom": "Chevroux",
+      "lat": 46.3822,
+      "lon": 4.9598,
+      "population": 990
+    },
+    {
+      "insee": "01103",
+      "nom": "Chevry",
+      "lat": 46.2841,
+      "lon": 6.0474,
+      "population": 2372
+    },
+    {
+      "insee": "01104",
+      "nom": "Chézery-Forens",
+      "lat": 46.2244,
+      "lon": 5.8693,
+      "population": 433
+    },
+    {
+      "insee": "01105",
+      "nom": "Civrieux",
+      "lat": 45.9208,
+      "lon": 4.8895,
+      "population": 2016
+    },
+    {
+      "insee": "01106",
+      "nom": "Cize",
+      "lat": 46.2015,
+      "lon": 5.45,
+      "population": 168
+    },
+    {
+      "insee": "01107",
+      "nom": "Cleyzieu",
+      "lat": 45.9027,
+      "lon": 5.4317,
+      "population": 143
+    },
+    {
+      "insee": "01108",
+      "nom": "Coligny",
+      "lat": 46.3889,
+      "lon": 5.3352,
+      "population": 1360
+    },
+    {
+      "insee": "01109",
+      "nom": "Collonges",
+      "lat": 46.1397,
+      "lon": 5.9007,
+      "population": 2398
+    },
+    {
+      "insee": "01110",
+      "nom": "Colomieu",
+      "lat": 45.7338,
+      "lon": 5.6269,
+      "population": 159
+    },
+    {
+      "insee": "01111",
+      "nom": "Conand",
+      "lat": 45.8836,
+      "lon": 5.4787,
+      "population": 134
+    },
+    {
+      "insee": "01112",
+      "nom": "Condamine",
+      "lat": 46.1056,
+      "lon": 5.5596,
+      "population": 480
+    },
+    {
+      "insee": "01113",
+      "nom": "Condeissiat",
+      "lat": 46.1541,
+      "lon": 5.0863,
+      "population": 839
+    },
+    {
+      "insee": "01114",
+      "nom": "Confort",
+      "lat": 46.1536,
+      "lon": 5.8358,
+      "population": 668
+    },
+    {
+      "insee": "01115",
+      "nom": "Confrançon",
+      "lat": 46.2732,
+      "lon": 5.06,
+      "population": 1356
+    },
+    {
+      "insee": "01116",
+      "nom": "Contrevoz",
+      "lat": 45.7971,
+      "lon": 5.6164,
+      "population": 494
+    },
+    {
+      "insee": "01117",
+      "nom": "Conzieu",
+      "lat": 45.7246,
+      "lon": 5.602,
+      "population": 155
+    },
+    {
+      "insee": "01118",
+      "nom": "Corbonod",
+      "lat": 45.9668,
+      "lon": 5.7902,
+      "population": 1333
+    },
+    {
+      "insee": "01121",
+      "nom": "Corlier",
+      "lat": 46.0369,
+      "lon": 5.5003,
+      "population": 116
+    },
+    {
+      "insee": "01123",
+      "nom": "Cormoranche-sur-Saône",
+      "lat": 46.2459,
+      "lon": 4.8305,
+      "population": 1179
+    },
+    {
+      "insee": "01124",
+      "nom": "Cormoz",
+      "lat": 46.4375,
+      "lon": 5.2209,
+      "population": 703
+    },
+    {
+      "insee": "01125",
+      "nom": "Corveissiat",
+      "lat": 46.2514,
+      "lon": 5.4771,
+      "population": 601
+    },
+    {
+      "insee": "01127",
+      "nom": "Courmangoux",
+      "lat": 46.3243,
+      "lon": 5.3585,
+      "population": 522
+    },
+    {
+      "insee": "01128",
+      "nom": "Courtes",
+      "lat": 46.4564,
+      "lon": 5.1128,
+      "population": 289
+    },
+    {
+      "insee": "01129",
+      "nom": "Crans",
+      "lat": 45.9667,
+      "lon": 5.1917,
+      "population": 326
+    },
+    {
+      "insee": "01133",
+      "nom": "Cressin-Rochefort",
+      "lat": 45.7833,
+      "lon": 5.765,
+      "population": 380
+    },
+    {
+      "insee": "01134",
+      "nom": "Crottet",
+      "lat": 46.2848,
+      "lon": 4.876,
+      "population": 1847
+    },
+    {
+      "insee": "01135",
+      "nom": "Crozet",
+      "lat": 46.2906,
+      "lon": 5.9929,
+      "population": 2416
+    },
+    {
+      "insee": "01136",
+      "nom": "Cruzilles-lès-Mépillat",
+      "lat": 46.2233,
+      "lon": 4.876,
+      "population": 984
+    },
+    {
+      "insee": "01138",
+      "nom": "Culoz-Béon",
+      "lat": 45.8553,
+      "lon": 5.7716,
+      "population": 3453
+    },
+    {
+      "insee": "01139",
+      "nom": "Curciat-Dongalon",
+      "lat": 46.4883,
+      "lon": 5.1666,
+      "population": 472
+    },
+    {
+      "insee": "01140",
+      "nom": "Curtafond",
+      "lat": 46.2742,
+      "lon": 5.1051,
+      "population": 825
+    },
+    {
+      "insee": "01141",
+      "nom": "Cuzieu",
+      "lat": 45.8216,
+      "lon": 5.6802,
+      "population": 424
+    },
+    {
+      "insee": "01142",
+      "nom": "Dagneux",
+      "lat": 45.854,
+      "lon": 5.0748,
+      "population": 4778
+    },
+    {
+      "insee": "01143",
+      "nom": "Divonne-les-Bains",
+      "lat": 46.3754,
+      "lon": 6.1114,
+      "population": 10464
+    },
+    {
+      "insee": "01146",
+      "nom": "Dompierre-sur-Chalaronne",
+      "lat": 46.142,
+      "lon": 4.9004,
+      "population": 456
+    },
+    {
+      "insee": "01145",
+      "nom": "Dompierre-sur-Veyle",
+      "lat": 46.0672,
+      "lon": 5.2167,
+      "population": 1245
+    },
+    {
+      "insee": "01147",
+      "nom": "Domsure",
+      "lat": 46.4211,
+      "lon": 5.2945,
+      "population": 554
+    },
+    {
+      "insee": "01148",
+      "nom": "Dortan",
+      "lat": 46.3184,
+      "lon": 5.6443,
+      "population": 2074
+    },
+    {
+      "insee": "01149",
+      "nom": "Douvres",
+      "lat": 45.9847,
+      "lon": 5.3724,
+      "population": 1104
+    },
+    {
+      "insee": "01150",
+      "nom": "Drom",
+      "lat": 46.2202,
+      "lon": 5.3674,
+      "population": 215
+    },
+    {
+      "insee": "01151",
+      "nom": "Druillat",
+      "lat": 46.0691,
+      "lon": 5.2947,
+      "population": 1129
+    },
+    {
+      "insee": "01152",
+      "nom": "Échallon",
+      "lat": 46.2293,
+      "lon": 5.7346,
+      "population": 784
+    },
+    {
+      "insee": "01153",
+      "nom": "Échenevex",
+      "lat": 46.3197,
+      "lon": 6.018,
+      "population": 2328
+    },
+    {
+      "insee": "01155",
+      "nom": "Évosges",
+      "lat": 45.963,
+      "lon": 5.5008,
+      "population": 142
+    },
+    {
+      "insee": "01156",
+      "nom": "Faramans",
+      "lat": 45.9086,
+      "lon": 5.126,
+      "population": 934
+    },
+    {
+      "insee": "01157",
+      "nom": "Fareins",
+      "lat": 46.0235,
+      "lon": 4.7682,
+      "population": 2533
+    },
+    {
+      "insee": "01158",
+      "nom": "Farges",
+      "lat": 46.1657,
+      "lon": 5.9054,
+      "population": 1082
+    },
+    {
+      "insee": "01159",
+      "nom": "Feillens",
+      "lat": 46.3393,
+      "lon": 4.8866,
+      "population": 3411
+    },
+    {
+      "insee": "01160",
+      "nom": "Ferney-Voltaire",
+      "lat": 46.252,
+      "lon": 6.1061,
+      "population": 12094
+    },
+    {
+      "insee": "01162",
+      "nom": "Flaxieu",
+      "lat": 45.8125,
+      "lon": 5.7466,
+      "population": 71
+    },
+    {
+      "insee": "01163",
+      "nom": "Foissiat",
+      "lat": 46.3792,
+      "lon": 5.1851,
+      "population": 2034
+    },
+    {
+      "insee": "01165",
+      "nom": "Francheleins",
+      "lat": 46.0707,
+      "lon": 4.8111,
+      "population": 1597
+    },
+    {
+      "insee": "01166",
+      "nom": "Frans",
+      "lat": 45.9905,
+      "lon": 4.7819,
+      "population": 2582
+    },
+    {
+      "insee": "01167",
+      "nom": "Garnerans",
+      "lat": 46.2124,
+      "lon": 4.8289,
+      "population": 711
+    },
+    {
+      "insee": "01169",
+      "nom": "Genouilleux",
+      "lat": 46.1211,
+      "lon": 4.7926,
+      "population": 701
+    },
+    {
+      "insee": "01171",
+      "nom": "Géovreisset",
+      "lat": 46.2518,
+      "lon": 5.6163,
+      "population": 852
+    },
+    {
+      "insee": "01173",
+      "nom": "Gex",
+      "lat": 46.3515,
+      "lon": 6.0488,
+      "population": 13627
+    },
+    {
+      "insee": "01174",
+      "nom": "Giron",
+      "lat": 46.2209,
+      "lon": 5.7891,
+      "population": 174
+    },
+    {
+      "insee": "01175",
+      "nom": "Gorrevod",
+      "lat": 46.4157,
+      "lon": 4.9507,
+      "population": 815
+    },
+    {
+      "insee": "01177",
+      "nom": "Grand-Corent",
+      "lat": 46.2089,
+      "lon": 5.4388,
+      "population": 183
+    },
+    {
+      "insee": "01179",
+      "nom": "Grièges",
+      "lat": 46.2669,
+      "lon": 4.8475,
+      "population": 1910
+    },
+    {
+      "insee": "01180",
+      "nom": "Grilly",
+      "lat": 46.3318,
+      "lon": 6.1139,
+      "population": 889
+    },
+    {
+      "insee": "01181",
+      "nom": "Groissiat",
+      "lat": 46.227,
+      "lon": 5.6179,
+      "population": 1205
+    },
+    {
+      "insee": "01338",
+      "nom": "Groslée-Saint-Benoit",
+      "lat": 45.7011,
+      "lon": 5.5823,
+      "population": 1227
+    },
+    {
+      "insee": "01183",
+      "nom": "Guéreins",
+      "lat": 46.106,
+      "lon": 4.7839,
+      "population": 1512
+    },
+    {
+      "insee": "01187",
+      "nom": "Haut Valromey",
+      "lat": 46.0436,
+      "lon": 5.6846,
+      "population": 801
+    },
+    {
+      "insee": "01184",
+      "nom": "Hautecourt-Romanèche",
+      "lat": 46.1592,
+      "lon": 5.4311,
+      "population": 748
+    },
+    {
+      "insee": "01188",
+      "nom": "Illiat",
+      "lat": 46.1838,
+      "lon": 4.8884,
+      "population": 702
+    },
+    {
+      "insee": "01189",
+      "nom": "Injoux-Génissiat",
+      "lat": 46.0505,
+      "lon": 5.7678,
+      "population": 1115
+    },
+    {
+      "insee": "01190",
+      "nom": "Innimond",
+      "lat": 45.7875,
+      "lon": 5.5723,
+      "population": 95
+    },
+    {
+      "insee": "01191",
+      "nom": "Izenave",
+      "lat": 46.038,
+      "lon": 5.5234,
+      "population": 162
+    },
+    {
+      "insee": "01192",
+      "nom": "Izernore",
+      "lat": 46.216,
+      "lon": 5.5609,
+      "population": 2299
+    },
+    {
+      "insee": "01193",
+      "nom": "Izieu",
+      "lat": 45.6555,
+      "lon": 5.6387,
+      "population": 225
+    },
+    {
+      "insee": "01194",
+      "nom": "Jassans-Riottier",
+      "lat": 45.9771,
+      "lon": 4.7626,
+      "population": 6247
+    },
+    {
+      "insee": "01195",
+      "nom": "Jasseron",
+      "lat": 46.2176,
+      "lon": 5.317,
+      "population": 1917
+    },
+    {
+      "insee": "01196",
+      "nom": "Jayat",
+      "lat": 46.3698,
+      "lon": 5.1117,
+      "population": 1261
+    },
+    {
+      "insee": "01197",
+      "nom": "Journans",
+      "lat": 46.1455,
+      "lon": 5.3333,
+      "population": 387
+    },
+    {
+      "insee": "01198",
+      "nom": "Joyeux",
+      "lat": 45.946,
+      "lon": 5.0998,
+      "population": 262
+    },
+    {
+      "insee": "01199",
+      "nom": "Jujurieux",
+      "lat": 46.0503,
+      "lon": 5.4122,
+      "population": 2260
+    },
+    {
+      "insee": "01001",
+      "nom": "L'Abergement-Clémenciat",
+      "lat": 46.1517,
+      "lon": 4.9306,
+      "population": 860
+    },
+    {
+      "insee": "01002",
+      "nom": "L'Abergement-de-Varey",
+      "lat": 46.0071,
+      "lon": 5.4247,
+      "population": 270
+    },
+    {
+      "insee": "01049",
+      "nom": "La Boisse",
+      "lat": 45.8483,
+      "lon": 5.0262,
+      "population": 3449
+    },
+    {
+      "insee": "01066",
+      "nom": "La Burbanche",
+      "lat": 45.8629,
+      "lon": 5.548,
+      "population": 98
+    },
+    {
+      "insee": "01085",
+      "nom": "La Chapelle-du-Châtelard",
+      "lat": 46.0683,
+      "lon": 5.0174,
+      "population": 388
+    },
+    {
+      "insee": "01425",
+      "nom": "La Tranclière",
+      "lat": 46.0915,
+      "lon": 5.2656,
+      "population": 290
+    },
+    {
+      "insee": "01200",
+      "nom": "Labalme",
+      "lat": 46.0915,
+      "lon": 5.4945,
+      "population": 204
+    },
+    {
+      "insee": "01202",
+      "nom": "Lagnieu",
+      "lat": 45.8863,
+      "lon": 5.3396,
+      "population": 7411
+    },
+    {
+      "insee": "01203",
+      "nom": "Laiz",
+      "lat": 46.2462,
+      "lon": 4.9006,
+      "population": 1293
+    },
+    {
+      "insee": "01206",
+      "nom": "Lantenay",
+      "lat": 46.0531,
+      "lon": 5.5379,
+      "population": 260
+    },
+    {
+      "insee": "01207",
+      "nom": "Lapeyrouse",
+      "lat": 45.9849,
+      "lon": 4.9821,
+      "population": 348
+    },
+    {
+      "insee": "01208",
+      "nom": "Lavours",
+      "lat": 45.8108,
+      "lon": 5.7707,
+      "population": 138
+    },
+    {
+      "insee": "01260",
+      "nom": "Le Montellier",
+      "lat": 45.9284,
+      "lon": 5.0699,
+      "population": 336
+    },
+    {
+      "insee": "01299",
+      "nom": "Le Plantay",
+      "lat": 46.0236,
+      "lon": 5.0891,
+      "population": 559
+    },
+    {
+      "insee": "01204",
+      "nom": "Le Poizat-Lalleyriat",
+      "lat": 46.1392,
+      "lon": 5.6955,
+      "population": 732
+    },
+    {
+      "insee": "01209",
+      "nom": "Léaz",
+      "lat": 46.1114,
+      "lon": 5.8768,
+      "population": 912
+    },
+    {
+      "insee": "01210",
+      "nom": "Lélex",
+      "lat": 46.2856,
+      "lon": 5.9274,
+      "population": 241
+    },
+    {
+      "insee": "01211",
+      "nom": "Lent",
+      "lat": 46.1165,
+      "lon": 5.1974,
+      "population": 1512
+    },
+    {
+      "insee": "01274",
+      "nom": "Les Neyrolles",
+      "lat": 46.1367,
+      "lon": 5.6354,
+      "population": 628
+    },
+    {
+      "insee": "01212",
+      "nom": "Lescheroux",
+      "lat": 46.4089,
+      "lon": 5.1573,
+      "population": 726
+    },
+    {
+      "insee": "01213",
+      "nom": "Leyment",
+      "lat": 45.9287,
+      "lon": 5.2927,
+      "population": 1441
+    },
+    {
+      "insee": "01214",
+      "nom": "Leyssard",
+      "lat": 46.1605,
+      "lon": 5.4767,
+      "population": 164
+    },
+    {
+      "insee": "01216",
+      "nom": "Lhuis",
+      "lat": 45.7469,
+      "lon": 5.5398,
+      "population": 886
+    },
+    {
+      "insee": "01219",
+      "nom": "Lompnas",
+      "lat": 45.8118,
+      "lon": 5.5263,
+      "population": 171
+    },
+    {
+      "insee": "01224",
+      "nom": "Loyettes",
+      "lat": 45.7953,
+      "lon": 5.2163,
+      "population": 3554
+    },
+    {
+      "insee": "01225",
+      "nom": "Lurcy",
+      "lat": 46.0628,
+      "lon": 4.7802,
+      "population": 406
+    },
+    {
+      "insee": "01227",
+      "nom": "Magnieu",
+      "lat": 45.7763,
+      "lon": 5.7197,
+      "population": 651
+    },
+    {
+      "insee": "01228",
+      "nom": "Maillat",
+      "lat": 46.1204,
+      "lon": 5.535,
+      "population": 669
+    },
+    {
+      "insee": "01229",
+      "nom": "Malafretaz",
+      "lat": 46.3299,
+      "lon": 5.1462,
+      "population": 1257
+    },
+    {
+      "insee": "01230",
+      "nom": "Mantenay-Montlin",
+      "lat": 46.4318,
+      "lon": 5.1064,
+      "population": 331
+    },
+    {
+      "insee": "01231",
+      "nom": "Manziat",
+      "lat": 46.3651,
+      "lon": 4.9026,
+      "population": 2018
+    },
+    {
+      "insee": "01232",
+      "nom": "Marboz",
+      "lat": 46.3452,
+      "lon": 5.2461,
+      "population": 2264
+    },
+    {
+      "insee": "01233",
+      "nom": "Marchamp",
+      "lat": 45.7762,
+      "lon": 5.5509,
+      "population": 137
+    },
+    {
+      "insee": "01234",
+      "nom": "Marignieu",
+      "lat": 45.8023,
+      "lon": 5.718,
+      "population": 162
+    },
+    {
+      "insee": "01235",
+      "nom": "Marlieux",
+      "lat": 46.0542,
+      "lon": 5.0756,
+      "population": 1185
+    },
+    {
+      "insee": "01236",
+      "nom": "Marsonnas",
+      "lat": 46.3401,
+      "lon": 5.0608,
+      "population": 1039
+    },
+    {
+      "insee": "01237",
+      "nom": "Martignat",
+      "lat": 46.203,
+      "lon": 5.6099,
+      "population": 1664
+    },
+    {
+      "insee": "01238",
+      "nom": "Massieux",
+      "lat": 45.9101,
+      "lon": 4.8279,
+      "population": 2843
+    },
+    {
+      "insee": "01239",
+      "nom": "Massignieu-de-Rives",
+      "lat": 45.7564,
+      "lon": 5.7566,
+      "population": 650
+    },
+    {
+      "insee": "01240",
+      "nom": "Matafelon-Granges",
+      "lat": 46.2505,
+      "lon": 5.5272,
+      "population": 623
+    },
+    {
+      "insee": "01241",
+      "nom": "Meillonnas",
+      "lat": 46.2451,
+      "lon": 5.3347,
+      "population": 1426
+    },
+    {
+      "insee": "01242",
+      "nom": "Mérignat",
+      "lat": 46.065,
+      "lon": 5.4425,
+      "population": 129
+    },
+    {
+      "insee": "01243",
+      "nom": "Messimy-sur-Saône",
+      "lat": 46.048,
+      "lon": 4.7609,
+      "population": 1338
+    },
+    {
+      "insee": "01244",
+      "nom": "Meximieux",
+      "lat": 45.9047,
+      "lon": 5.2116,
+      "population": 8247
+    },
+    {
+      "insee": "01246",
+      "nom": "Mézériat",
+      "lat": 46.2424,
+      "lon": 5.0481,
+      "population": 2172
+    },
+    {
+      "insee": "01247",
+      "nom": "Mijoux",
+      "lat": 46.3593,
+      "lon": 6.0106,
+      "population": 299
+    },
+    {
+      "insee": "01248",
+      "nom": "Mionnay",
+      "lat": 45.8959,
+      "lon": 4.9274,
+      "population": 2294
+    },
+    {
+      "insee": "01249",
+      "nom": "Miribel",
+      "lat": 45.8444,
+      "lon": 4.941,
+      "population": 10395
+    },
+    {
+      "insee": "01250",
+      "nom": "Misérieux",
+      "lat": 45.9745,
+      "lon": 4.8138,
+      "population": 2008
+    },
+    {
+      "insee": "01252",
+      "nom": "Mogneneins",
+      "lat": 46.1454,
+      "lon": 4.8203,
+      "population": 841
+    },
+    {
+      "insee": "01254",
+      "nom": "Montagnat",
+      "lat": 46.172,
+      "lon": 5.2776,
+      "population": 2186
+    },
+    {
+      "insee": "01255",
+      "nom": "Montagnieu",
+      "lat": 45.802,
+      "lon": 5.4598,
+      "population": 668
+    },
+    {
+      "insee": "01257",
+      "nom": "Montanges",
+      "lat": 46.171,
+      "lon": 5.7903,
+      "population": 369
+    },
+    {
+      "insee": "01258",
+      "nom": "Montceaux",
+      "lat": 46.0978,
+      "lon": 4.8041,
+      "population": 1196
+    },
+    {
+      "insee": "01259",
+      "nom": "Montcet",
+      "lat": 46.2199,
+      "lon": 5.1123,
+      "population": 709
+    },
+    {
+      "insee": "01261",
+      "nom": "Monthieux",
+      "lat": 45.9631,
+      "lon": 4.948,
+      "population": 664
+    },
+    {
+      "insee": "01262",
+      "nom": "Montluel",
+      "lat": 45.8868,
+      "lon": 5.0185,
+      "population": 6895
+    },
+    {
+      "insee": "01263",
+      "nom": "Montmerle-sur-Saône",
+      "lat": 46.0843,
+      "lon": 4.759,
+      "population": 3799
+    },
+    {
+      "insee": "01264",
+      "nom": "Montracol",
+      "lat": 46.182,
+      "lon": 5.1234,
+      "population": 1018
+    },
+    {
+      "insee": "01265",
+      "nom": "Montréal-la-Cluse",
+      "lat": 46.181,
+      "lon": 5.5976,
+      "population": 3568
+    },
+    {
+      "insee": "01266",
+      "nom": "Montrevel-en-Bresse",
+      "lat": 46.3262,
+      "lon": 5.1122,
+      "population": 2743
+    },
+    {
+      "insee": "01268",
+      "nom": "Murs-et-Gélignieux",
+      "lat": 45.6404,
+      "lon": 5.6585,
+      "population": 239
+    },
+    {
+      "insee": "01269",
+      "nom": "Nantua",
+      "lat": 46.1486,
+      "lon": 5.6079,
+      "population": 3416
+    },
+    {
+      "insee": "01272",
+      "nom": "Neuville-les-Dames",
+      "lat": 46.1599,
+      "lon": 5.0103,
+      "population": 1565
+    },
+    {
+      "insee": "01273",
+      "nom": "Neuville-sur-Ain",
+      "lat": 46.0909,
+      "lon": 5.3702,
+      "population": 1794
+    },
+    {
+      "insee": "01275",
+      "nom": "Neyron",
+      "lat": 45.8204,
+      "lon": 4.9356,
+      "population": 2421
+    },
+    {
+      "insee": "01276",
+      "nom": "Niévroz",
+      "lat": 45.8241,
+      "lon": 5.0615,
+      "population": 1662
+    },
+    {
+      "insee": "01095",
+      "nom": "Nivigne et Suran",
+      "lat": 46.2824,
+      "lon": 5.4323,
+      "population": 820
+    },
+    {
+      "insee": "01277",
+      "nom": "Nivollet-Montgriffon",
+      "lat": 46.0002,
+      "lon": 5.4567,
+      "population": 122
+    },
+    {
+      "insee": "01267",
+      "nom": "Nurieux-Volognat",
+      "lat": 46.1855,
+      "lon": 5.5155,
+      "population": 965
+    },
+    {
+      "insee": "01279",
+      "nom": "Oncieu",
+      "lat": 45.9685,
+      "lon": 5.4716,
+      "population": 72
+    },
+    {
+      "insee": "01280",
+      "nom": "Ordonnaz",
+      "lat": 45.8357,
+      "lon": 5.5439,
+      "population": 151
+    },
+    {
+      "insee": "01281",
+      "nom": "Ornex",
+      "lat": 46.2779,
+      "lon": 6.0953,
+      "population": 5082
+    },
+    {
+      "insee": "01282",
+      "nom": "Outriaz",
+      "lat": 46.0631,
+      "lon": 5.5543,
+      "population": 263
+    },
+    {
+      "insee": "01283",
+      "nom": "Oyonnax",
+      "lat": 46.2599,
+      "lon": 5.6517,
+      "population": 22480
+    },
+    {
+      "insee": "01284",
+      "nom": "Ozan",
+      "lat": 46.3863,
+      "lon": 4.9191,
+      "population": 732
+    },
+    {
+      "insee": "01285",
+      "nom": "Parcieux",
+      "lat": 45.9197,
+      "lon": 4.8299,
+      "population": 1315
+    },
+    {
+      "insee": "01286",
+      "nom": "Parves et Nattages",
+      "lat": 45.7318,
+      "lon": 5.7495,
+      "population": 962
+    },
+    {
+      "insee": "01288",
+      "nom": "Péron",
+      "lat": 46.1933,
+      "lon": 5.9141,
+      "population": 2916
+    },
+    {
+      "insee": "01289",
+      "nom": "Péronnas",
+      "lat": 46.1693,
+      "lon": 5.2195,
+      "population": 6444
+    },
+    {
+      "insee": "01290",
+      "nom": "Pérouges",
+      "lat": 45.8789,
+      "lon": 5.1791,
+      "population": 1387
+    },
+    {
+      "insee": "01291",
+      "nom": "Perrex",
+      "lat": 46.2462,
+      "lon": 4.9718,
+      "population": 869
+    },
+    {
+      "insee": "01293",
+      "nom": "Peyriat",
+      "lat": 46.1486,
+      "lon": 5.506,
+      "population": 153
+    },
+    {
+      "insee": "01294",
+      "nom": "Peyrieu",
+      "lat": 45.674,
+      "lon": 5.6829,
+      "population": 940
+    },
+    {
+      "insee": "01295",
+      "nom": "Peyzieux-sur-Saône",
+      "lat": 46.1227,
+      "lon": 4.8192,
+      "population": 654
+    },
+    {
+      "insee": "01296",
+      "nom": "Pirajoux",
+      "lat": 46.386,
+      "lon": 5.2703,
+      "population": 397
+    },
+    {
+      "insee": "01297",
+      "nom": "Pizay",
+      "lat": 45.8906,
+      "lon": 5.0901,
+      "population": 937
+    },
+    {
+      "insee": "01298",
+      "nom": "Plagne",
+      "lat": 46.1889,
+      "lon": 5.7179,
+      "population": 159
+    },
+    {
+      "insee": "01185",
+      "nom": "Plateau d'Hauteville",
+      "lat": 45.9305,
+      "lon": 5.5775,
+      "population": 4857
+    },
+    {
+      "insee": "01301",
+      "nom": "Polliat",
+      "lat": 46.2504,
+      "lon": 5.1355,
+      "population": 2741
+    },
+    {
+      "insee": "01302",
+      "nom": "Pollieu",
+      "lat": 45.7953,
+      "lon": 5.7463,
+      "population": 167
+    },
+    {
+      "insee": "01303",
+      "nom": "Poncin",
+      "lat": 46.0918,
+      "lon": 5.4129,
+      "population": 1803
+    },
+    {
+      "insee": "01304",
+      "nom": "Pont-d'Ain",
+      "lat": 46.0556,
+      "lon": 5.3491,
+      "population": 2843
+    },
+    {
+      "insee": "01305",
+      "nom": "Pont-de-Vaux",
+      "lat": 46.4415,
+      "lon": 4.9265,
+      "population": 2204
+    },
+    {
+      "insee": "01306",
+      "nom": "Pont-de-Veyle",
+      "lat": 46.2647,
+      "lon": 4.8818,
+      "population": 1594
+    },
+    {
+      "insee": "01307",
+      "nom": "Port",
+      "lat": 46.1535,
+      "lon": 5.581,
+      "population": 832
+    },
+    {
+      "insee": "01308",
+      "nom": "Pougny",
+      "lat": 46.1457,
+      "lon": 5.9492,
+      "population": 871
+    },
+    {
+      "insee": "01309",
+      "nom": "Pouillat",
+      "lat": 46.3263,
+      "lon": 5.4243,
+      "population": 77
+    },
+    {
+      "insee": "01310",
+      "nom": "Prémeyzel",
+      "lat": 45.6827,
+      "lon": 5.6423,
+      "population": 244
+    },
+    {
+      "insee": "01311",
+      "nom": "Prémillieu",
+      "lat": 45.8785,
+      "lon": 5.5657,
+      "population": 49
+    },
+    {
+      "insee": "01313",
+      "nom": "Prévessin-Moëns",
+      "lat": 46.2594,
+      "lon": 6.0722,
+      "population": 9153
+    },
+    {
+      "insee": "01314",
+      "nom": "Priay",
+      "lat": 46.019,
+      "lon": 5.2829,
+      "population": 1842
+    },
+    {
+      "insee": "01317",
+      "nom": "Ramasse",
+      "lat": 46.1893,
+      "lon": 5.3569,
+      "population": 336
+    },
+    {
+      "insee": "01318",
+      "nom": "Rancé",
+      "lat": 45.9674,
+      "lon": 4.8665,
+      "population": 775
+    },
+    {
+      "insee": "01319",
+      "nom": "Relevant",
+      "lat": 46.0808,
+      "lon": 4.9399,
+      "population": 465
+    },
+    {
+      "insee": "01320",
+      "nom": "Replonges",
+      "lat": 46.307,
+      "lon": 4.8784,
+      "population": 3956
+    },
+    {
+      "insee": "01321",
+      "nom": "Revonnas",
+      "lat": 46.1637,
+      "lon": 5.3351,
+      "population": 915
+    },
+    {
+      "insee": "01322",
+      "nom": "Reyrieux",
+      "lat": 45.9368,
+      "lon": 4.8314,
+      "population": 5358
+    },
+    {
+      "insee": "01323",
+      "nom": "Reyssouze",
+      "lat": 46.4284,
+      "lon": 4.9145,
+      "population": 996
+    },
+    {
+      "insee": "01325",
+      "nom": "Rignieux-le-Franc",
+      "lat": 45.9513,
+      "lon": 5.1675,
+      "population": 1180
+    },
+    {
+      "insee": "01328",
+      "nom": "Romans",
+      "lat": 46.1216,
+      "lon": 5.0217,
+      "population": 640
+    },
+    {
+      "insee": "01329",
+      "nom": "Rossillon",
+      "lat": 45.8359,
+      "lon": 5.5987,
+      "population": 166
+    },
+    {
+      "insee": "01331",
+      "nom": "Saint-Alban",
+      "lat": 46.0968,
+      "lon": 5.4568,
+      "population": 195
+    },
+    {
+      "insee": "01334",
+      "nom": "Saint-André-d'Huiriat",
+      "lat": 46.2163,
+      "lon": 4.9144,
+      "population": 667
+    },
+    {
+      "insee": "01332",
+      "nom": "Saint-André-de-Bâgé",
+      "lat": 46.2975,
+      "lon": 4.9132,
+      "population": 841
+    },
+    {
+      "insee": "01333",
+      "nom": "Saint-André-de-Corcy",
+      "lat": 45.9287,
+      "lon": 4.9529,
+      "population": 3370
+    },
+    {
+      "insee": "01335",
+      "nom": "Saint-André-le-Bouchoux",
+      "lat": 46.1137,
+      "lon": 5.0775,
+      "population": 409
+    },
+    {
+      "insee": "01336",
+      "nom": "Saint-André-sur-Vieux-Jonc",
+      "lat": 46.15,
+      "lon": 5.143,
+      "population": 1229
+    },
+    {
+      "insee": "01337",
+      "nom": "Saint-Bénigne",
+      "lat": 46.4517,
+      "lon": 4.952,
+      "population": 1359
+    },
+    {
+      "insee": "01339",
+      "nom": "Saint-Bernard",
+      "lat": 45.95,
+      "lon": 4.7419,
+      "population": 1590
+    },
+    {
+      "insee": "01343",
+      "nom": "Saint-Cyr-sur-Menthon",
+      "lat": 46.2751,
+      "lon": 4.9669,
+      "population": 1890
+    },
+    {
+      "insee": "01345",
+      "nom": "Saint-Denis-en-Bugey",
+      "lat": 45.9497,
+      "lon": 5.326,
+      "population": 2246
+    },
+    {
+      "insee": "01344",
+      "nom": "Saint-Denis-lès-Bourg",
+      "lat": 46.2097,
+      "lon": 5.1825,
+      "population": 6160
+    },
+    {
+      "insee": "01346",
+      "nom": "Saint-Didier-d'Aussiat",
+      "lat": 46.3075,
+      "lon": 5.0536,
+      "population": 843
+    },
+    {
+      "insee": "01347",
+      "nom": "Saint-Didier-de-Formans",
+      "lat": 45.9587,
+      "lon": 4.7767,
+      "population": 2203
+    },
+    {
+      "insee": "01348",
+      "nom": "Saint-Didier-sur-Chalaronne",
+      "lat": 46.1877,
+      "lon": 4.823,
+      "population": 2934
+    },
+    {
+      "insee": "01349",
+      "nom": "Saint-Éloi",
+      "lat": 45.9343,
+      "lon": 5.1507,
+      "population": 525
+    },
+    {
+      "insee": "01350",
+      "nom": "Saint-Étienne-du-Bois",
+      "lat": 46.2755,
+      "lon": 5.2793,
+      "population": 2584
+    },
+    {
+      "insee": "01351",
+      "nom": "Saint-Étienne-sur-Chalaronne",
+      "lat": 46.1451,
+      "lon": 4.8694,
+      "population": 1637
+    },
+    {
+      "insee": "01352",
+      "nom": "Saint-Étienne-sur-Reyssouze",
+      "lat": 46.3998,
+      "lon": 5.0031,
+      "population": 572
+    },
+    {
+      "insee": "01354",
+      "nom": "Saint-Genis-Pouilly",
+      "lat": 46.2556,
+      "lon": 6.0368,
+      "population": 14432
+    },
+    {
+      "insee": "01355",
+      "nom": "Saint-Genis-sur-Menthon",
+      "lat": 46.281,
+      "lon": 5.0162,
+      "population": 490
+    },
+    {
+      "insee": "01356",
+      "nom": "Saint-Georges-sur-Renon",
+      "lat": 46.1033,
+      "lon": 5.0286,
+      "population": 228
+    },
+    {
+      "insee": "01357",
+      "nom": "Saint-Germain-de-Joux",
+      "lat": 46.1812,
+      "lon": 5.7435,
+      "population": 507
+    },
+    {
+      "insee": "01358",
+      "nom": "Saint-Germain-les-Paroisses",
+      "lat": 45.773,
+      "lon": 5.6191,
+      "population": 422
+    },
+    {
+      "insee": "01359",
+      "nom": "Saint-Germain-sur-Renon",
+      "lat": 46.0764,
+      "lon": 5.0626,
+      "population": 264
+    },
+    {
+      "insee": "01360",
+      "nom": "Saint-Jean-de-Gonville",
+      "lat": 46.2184,
+      "lon": 5.9395,
+      "population": 2096
+    },
+    {
+      "insee": "01361",
+      "nom": "Saint-Jean-de-Niost",
+      "lat": 45.8384,
+      "lon": 5.2066,
+      "population": 1866
+    },
+    {
+      "insee": "01362",
+      "nom": "Saint-Jean-de-Thurigneux",
+      "lat": 45.9597,
+      "lon": 4.8959,
+      "population": 863
+    },
+    {
+      "insee": "01363",
+      "nom": "Saint-Jean-le-Vieux",
+      "lat": 46.028,
+      "lon": 5.3799,
+      "population": 1839
+    },
+    {
+      "insee": "01364",
+      "nom": "Saint-Jean-sur-Reyssouze",
+      "lat": 46.3912,
+      "lon": 5.0582,
+      "population": 762
+    },
+    {
+      "insee": "01365",
+      "nom": "Saint-Jean-sur-Veyle",
+      "lat": 46.2687,
+      "lon": 4.9203,
+      "population": 1143
+    },
+    {
+      "insee": "01367",
+      "nom": "Saint-Julien-sur-Reyssouze",
+      "lat": 46.3977,
+      "lon": 5.1062,
+      "population": 679
+    },
+    {
+      "insee": "01368",
+      "nom": "Saint-Julien-sur-Veyle",
+      "lat": 46.2072,
+      "lon": 4.9559,
+      "population": 859
+    },
+    {
+      "insee": "01369",
+      "nom": "Saint-Just",
+      "lat": 46.1948,
+      "lon": 5.285,
+      "population": 952
+    },
+    {
+      "insee": "01370",
+      "nom": "Saint-Laurent-sur-Saône",
+      "lat": 46.3053,
+      "lon": 4.8395,
+      "population": 1810
+    },
+    {
+      "insee": "01371",
+      "nom": "Saint-Marcel",
+      "lat": 45.9485,
+      "lon": 4.9862,
+      "population": 1340
+    },
+    {
+      "insee": "01372",
+      "nom": "Saint-Martin-de-Bavel",
+      "lat": 45.8467,
+      "lon": 5.6779,
+      "population": 428
+    },
+    {
+      "insee": "01373",
+      "nom": "Saint-Martin-du-Frêne",
+      "lat": 46.1345,
+      "lon": 5.5711,
+      "population": 1023
+    },
+    {
+      "insee": "01374",
+      "nom": "Saint-Martin-du-Mont",
+      "lat": 46.1063,
+      "lon": 5.33,
+      "population": 2023
+    },
+    {
+      "insee": "01375",
+      "nom": "Saint-Martin-le-Châtel",
+      "lat": 46.2903,
+      "lon": 5.1206,
+      "population": 796
+    },
+    {
+      "insee": "01376",
+      "nom": "Saint-Maurice-de-Beynost",
+      "lat": 45.8325,
+      "lon": 4.9763,
+      "population": 4332
+    },
+    {
+      "insee": "01378",
+      "nom": "Saint-Maurice-de-Gourdans",
+      "lat": 45.819,
+      "lon": 5.172,
+      "population": 2903
+    },
+    {
+      "insee": "01379",
+      "nom": "Saint-Maurice-de-Rémens",
+      "lat": 45.9542,
+      "lon": 5.2706,
+      "population": 756
+    },
+    {
+      "insee": "01380",
+      "nom": "Saint-Nizier-le-Bouchoux",
+      "lat": 46.4549,
+      "lon": 5.1716,
+      "population": 580
+    },
+    {
+      "insee": "01381",
+      "nom": "Saint-Nizier-le-Désert",
+      "lat": 46.0518,
+      "lon": 5.1471,
+      "population": 921
+    },
+    {
+      "insee": "01383",
+      "nom": "Saint-Paul-de-Varax",
+      "lat": 46.0949,
+      "lon": 5.1309,
+      "population": 1634
+    },
+    {
+      "insee": "01384",
+      "nom": "Saint-Rambert-en-Bugey",
+      "lat": 45.953,
+      "lon": 5.4418,
+      "population": 2190
+    },
+    {
+      "insee": "01385",
+      "nom": "Saint-Rémy",
+      "lat": 46.1857,
+      "lon": 5.1646,
+      "population": 915
+    },
+    {
+      "insee": "01386",
+      "nom": "Saint-Sorlin-en-Bugey",
+      "lat": 45.8863,
+      "lon": 5.369,
+      "population": 1152
+    },
+    {
+      "insee": "01387",
+      "nom": "Saint-Sulpice",
+      "lat": 46.3215,
+      "lon": 5.0406,
+      "population": 260
+    },
+    {
+      "insee": "01388",
+      "nom": "Saint-Trivier-de-Courtes",
+      "lat": 46.458,
+      "lon": 5.0672,
+      "population": 1125
+    },
+    {
+      "insee": "01389",
+      "nom": "Saint-Trivier-sur-Moignans",
+      "lat": 46.0632,
+      "lon": 4.8984,
+      "population": 1963
+    },
+    {
+      "insee": "01390",
+      "nom": "Saint-Vulbas",
+      "lat": 45.8234,
+      "lon": 5.267,
+      "population": 1247
+    },
+    {
+      "insee": "01342",
+      "nom": "Sainte-Croix",
+      "lat": 45.8978,
+      "lon": 5.0477,
+      "population": 544
+    },
+    {
+      "insee": "01353",
+      "nom": "Sainte-Euphémie",
+      "lat": 45.9651,
+      "lon": 4.7927,
+      "population": 1757
+    },
+    {
+      "insee": "01366",
+      "nom": "Sainte-Julie",
+      "lat": 45.8802,
+      "lon": 5.2837,
+      "population": 1094
+    },
+    {
+      "insee": "01382",
+      "nom": "Sainte-Olive",
+      "lat": 46.0147,
+      "lon": 4.9349,
+      "population": 357
+    },
+    {
+      "insee": "01391",
+      "nom": "Salavre",
+      "lat": 46.363,
+      "lon": 5.3457,
+      "population": 306
+    },
+    {
+      "insee": "01392",
+      "nom": "Samognat",
+      "lat": 46.2732,
+      "lon": 5.5826,
+      "population": 630
+    },
+    {
+      "insee": "01393",
+      "nom": "Sandrans",
+      "lat": 46.0709,
+      "lon": 4.9824,
+      "population": 582
+    },
+    {
+      "insee": "01396",
+      "nom": "Sault-Brénaz",
+      "lat": 45.8612,
+      "lon": 5.4007,
+      "population": 1021
+    },
+    {
+      "insee": "01397",
+      "nom": "Sauverny",
+      "lat": 46.3132,
+      "lon": 6.1102,
+      "population": 1022
+    },
+    {
+      "insee": "01398",
+      "nom": "Savigneux",
+      "lat": 45.9946,
+      "lon": 4.8559,
+      "population": 1469
+    },
+    {
+      "insee": "01399",
+      "nom": "Ségny",
+      "lat": 46.2944,
+      "lon": 6.0732,
+      "population": 2941
+    },
+    {
+      "insee": "01400",
+      "nom": "Seillonnaz",
+      "lat": 45.8006,
+      "lon": 5.504,
+      "population": 134
+    },
+    {
+      "insee": "01401",
+      "nom": "Sergy",
+      "lat": 46.2615,
+      "lon": 5.9872,
+      "population": 2288
+    },
+    {
+      "insee": "01402",
+      "nom": "Sermoyer",
+      "lat": 46.4987,
+      "lon": 4.9733,
+      "population": 670
+    },
+    {
+      "insee": "01403",
+      "nom": "Serrières-de-Briord",
+      "lat": 45.8129,
+      "lon": 5.4424,
+      "population": 1317
+    },
+    {
+      "insee": "01404",
+      "nom": "Serrières-sur-Ain",
+      "lat": 46.149,
+      "lon": 5.4472,
+      "population": 135
+    },
+    {
+      "insee": "01405",
+      "nom": "Servas",
+      "lat": 46.1366,
+      "lon": 5.1845,
+      "population": 1286
+    },
+    {
+      "insee": "01406",
+      "nom": "Servignat",
+      "lat": 46.4354,
+      "lon": 5.0587,
+      "population": 186
+    },
+    {
+      "insee": "01407",
+      "nom": "Seyssel",
+      "lat": 45.9477,
+      "lon": 5.8257,
+      "population": 1008
+    },
+    {
+      "insee": "01408",
+      "nom": "Simandre-sur-Suran",
+      "lat": 46.235,
+      "lon": 5.4214,
+      "population": 673
+    },
+    {
+      "insee": "01410",
+      "nom": "Sonthonnax-la-Montagne",
+      "lat": 46.2235,
+      "lon": 5.5015,
+      "population": 293
+    },
+    {
+      "insee": "01411",
+      "nom": "Souclin",
+      "lat": 45.8811,
+      "lon": 5.4368,
+      "population": 262
+    },
+    {
+      "insee": "01412",
+      "nom": "Sulignat",
+      "lat": 46.1727,
+      "lon": 4.9601,
+      "population": 602
+    },
+    {
+      "insee": "01215",
+      "nom": "Surjoux-Lhopital",
+      "lat": 46.0302,
+      "lon": 5.7666,
+      "population": 138
+    },
+    {
+      "insee": "01415",
+      "nom": "Talissieu",
+      "lat": 45.8627,
+      "lon": 5.7199,
+      "population": 508
+    },
+    {
+      "insee": "01416",
+      "nom": "Tenay",
+      "lat": 45.9222,
+      "lon": 5.5147,
+      "population": 1030
+    },
+    {
+      "insee": "01418",
+      "nom": "Thil",
+      "lat": 45.8184,
+      "lon": 5.0189,
+      "population": 1261
+    },
+    {
+      "insee": "01419",
+      "nom": "Thoiry",
+      "lat": 46.2448,
+      "lon": 5.9685,
+      "population": 6569
+    },
+    {
+      "insee": "01420",
+      "nom": "Thoissey",
+      "lat": 46.1697,
+      "lon": 4.7963,
+      "population": 1626
+    },
+    {
+      "insee": "01421",
+      "nom": "Torcieu",
+      "lat": 45.9189,
+      "lon": 5.4056,
+      "population": 739
+    },
+    {
+      "insee": "01422",
+      "nom": "Tossiat",
+      "lat": 46.1355,
+      "lon": 5.3076,
+      "population": 1425
+    },
+    {
+      "insee": "01423",
+      "nom": "Toussieux",
+      "lat": 45.961,
+      "lon": 4.8289,
+      "population": 1257
+    },
+    {
+      "insee": "01424",
+      "nom": "Tramoyes",
+      "lat": 45.8742,
+      "lon": 4.9624,
+      "population": 1852
+    },
+    {
+      "insee": "01427",
+      "nom": "Trévoux",
+      "lat": 45.9398,
+      "lon": 4.771,
+      "population": 7013
+    },
+    {
+      "insee": "01426",
+      "nom": "Val-Revermont",
+      "lat": 46.2816,
+      "lon": 5.3537,
+      "population": 2488
+    },
+    {
+      "insee": "01428",
+      "nom": "Valeins",
+      "lat": 46.1145,
+      "lon": 4.8646,
+      "population": 128
+    },
+    {
+      "insee": "01036",
+      "nom": "Valromey-sur-Séran",
+      "lat": 45.9236,
+      "lon": 5.6626,
+      "population": 1351
+    },
+    {
+      "insee": "01033",
+      "nom": "Valserhône",
+      "lat": 46.1234,
+      "lon": 5.7944,
+      "population": 16712
+    },
+    {
+      "insee": "01429",
+      "nom": "Vandeins",
+      "lat": 46.2155,
+      "lon": 5.0786,
+      "population": 732
+    },
+    {
+      "insee": "01430",
+      "nom": "Varambon",
+      "lat": 46.0443,
+      "lon": 5.2909,
+      "population": 675
+    },
+    {
+      "insee": "01431",
+      "nom": "Vaux-en-Bugey",
+      "lat": 45.9184,
+      "lon": 5.3612,
+      "population": 1201
+    },
+    {
+      "insee": "01432",
+      "nom": "Verjon",
+      "lat": 46.3466,
+      "lon": 5.3472,
+      "population": 346
+    },
+    {
+      "insee": "01433",
+      "nom": "Vernoux",
+      "lat": 46.4861,
+      "lon": 5.1036,
+      "population": 290
+    },
+    {
+      "insee": "01434",
+      "nom": "Versailleux",
+      "lat": 45.9883,
+      "lon": 5.115,
+      "population": 497
+    },
+    {
+      "insee": "01435",
+      "nom": "Versonnex",
+      "lat": 46.2992,
+      "lon": 6.1008,
+      "population": 2182
+    },
+    {
+      "insee": "01436",
+      "nom": "Vesancy",
+      "lat": 46.3634,
+      "lon": 6.0856,
+      "population": 520
+    },
+    {
+      "insee": "01437",
+      "nom": "Vescours",
+      "lat": 46.4743,
+      "lon": 5.0286,
+      "population": 221
+    },
+    {
+      "insee": "01439",
+      "nom": "Vésines",
+      "lat": 46.3593,
+      "lon": 4.8638,
+      "population": 96
+    },
+    {
+      "insee": "01441",
+      "nom": "Vieu-d'Izenave",
+      "lat": 46.0823,
+      "lon": 5.5555,
+      "population": 719
+    },
+    {
+      "insee": "01443",
+      "nom": "Villars-les-Dombes",
+      "lat": 46,
+      "lon": 5.0443,
+      "population": 5163
+    },
+    {
+      "insee": "01444",
+      "nom": "Villebois",
+      "lat": 45.8499,
+      "lon": 5.4483,
+      "population": 1206
+    },
+    {
+      "insee": "01445",
+      "nom": "Villemotier",
+      "lat": 46.3418,
+      "lon": 5.3087,
+      "population": 612
+    },
+    {
+      "insee": "01446",
+      "nom": "Villeneuve",
+      "lat": 46.0346,
+      "lon": 4.8598,
+      "population": 1638
+    },
+    {
+      "insee": "01447",
+      "nom": "Villereversure",
+      "lat": 46.1939,
+      "lon": 5.3936,
+      "population": 1420
+    },
+    {
+      "insee": "01448",
+      "nom": "Villes",
+      "lat": 46.0952,
+      "lon": 5.7598,
+      "population": 381
+    },
+    {
+      "insee": "01449",
+      "nom": "Villette-sur-Ain",
+      "lat": 46.0125,
+      "lon": 5.254,
+      "population": 780
+    },
+    {
+      "insee": "01450",
+      "nom": "Villieu-Loyes-Mollon",
+      "lat": 45.929,
+      "lon": 5.2265,
+      "population": 3849
+    },
+    {
+      "insee": "01451",
+      "nom": "Viriat",
+      "lat": 46.2522,
+      "lon": 5.2257,
+      "population": 7102
+    },
+    {
+      "insee": "01452",
+      "nom": "Virieu-le-Grand",
+      "lat": 45.8465,
+      "lon": 5.639,
+      "population": 1111
+    },
+    {
+      "insee": "01454",
+      "nom": "Virignin",
+      "lat": 45.7282,
+      "lon": 5.7149,
+      "population": 1144
+    },
+    {
+      "insee": "01456",
+      "nom": "Vongnes",
+      "lat": 45.8122,
+      "lon": 5.7255,
+      "population": 75
+    },
+    {
+      "insee": "01457",
+      "nom": "Vonnas",
+      "lat": 46.2132,
+      "lon": 4.9945,
+      "population": 3255
+    }
+  ]
+}

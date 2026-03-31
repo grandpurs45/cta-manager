@@ -1,5 +1,19 @@
 # Roadmap
 
+## v0.11.0
+- Choix du departement au premier lancement.
+- Chargement dynamique des communes (packs territoires).
+- Calcul automatique des zones de jeu depuis les communes.
+
+## v0.10.1
+- Zone d'influence automatique par caserne (population + distance).
+- Affichage population couverte par caserne.
+
+## v0.10.0
+- Panneau A propos / version dans le centre.
+- Badge mode offline/online visible en permanence dans le header.
+- Checklist release formalisee pour chaque version publique.
+
 ## v0.9.4
 - Correctif encodage UTF-8 des textes UI/HTML (mojibake).
 - Stabilisation de l'affichage des accents et symboles.

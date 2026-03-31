@@ -1,0 +1,2296 @@
+{
+  "country": "FR",
+  "departmentCode": "40",
+  "label": "Departement 40",
+  "communes": [
+    {
+      "insee": "40001",
+      "nom": "Aire-sur-l'Adour",
+      "lat": 43.6932,
+      "lon": -0.2561,
+      "population": 6211
+    },
+    {
+      "insee": "40002",
+      "nom": "Amou",
+      "lat": 43.5891,
+      "lon": -0.7464,
+      "population": 1550
+    },
+    {
+      "insee": "40003",
+      "nom": "Angoumé",
+      "lat": 43.7067,
+      "lon": -1.1396,
+      "population": 261
+    },
+    {
+      "insee": "40004",
+      "nom": "Angresse",
+      "lat": 43.6591,
+      "lon": -1.3624,
+      "population": 2277
+    },
+    {
+      "insee": "40005",
+      "nom": "Arboucave",
+      "lat": 43.6063,
+      "lon": -0.4412,
+      "population": 220
+    },
+    {
+      "insee": "40006",
+      "nom": "Arengosse",
+      "lat": 44.0299,
+      "lon": -0.7811,
+      "population": 711
+    },
+    {
+      "insee": "40007",
+      "nom": "Argelos",
+      "lat": 43.5813,
+      "lon": -0.6196,
+      "population": 160
+    },
+    {
+      "insee": "40008",
+      "nom": "Argelouse",
+      "lat": 44.3728,
+      "lon": -0.6359,
+      "population": 92
+    },
+    {
+      "insee": "40011",
+      "nom": "Arsague",
+      "lat": 43.581,
+      "lon": -0.789,
+      "population": 348
+    },
+    {
+      "insee": "40012",
+      "nom": "Artassenx",
+      "lat": 43.8461,
+      "lon": -0.395,
+      "population": 262
+    },
+    {
+      "insee": "40013",
+      "nom": "Arthez-d'Armagnac",
+      "lat": 43.8951,
+      "lon": -0.246,
+      "population": 92
+    },
+    {
+      "insee": "40014",
+      "nom": "Arue",
+      "lat": 44.051,
+      "lon": -0.3607,
+      "population": 356
+    },
+    {
+      "insee": "40015",
+      "nom": "Arx",
+      "lat": 44.1087,
+      "lon": 0.0843,
+      "population": 57
+    },
+    {
+      "insee": "40016",
+      "nom": "Aubagnan",
+      "lat": 43.6648,
+      "lon": -0.4996,
+      "population": 277
+    },
+    {
+      "insee": "40017",
+      "nom": "Audignon",
+      "lat": 43.7242,
+      "lon": -0.5935,
+      "population": 386
+    },
+    {
+      "insee": "40018",
+      "nom": "Audon",
+      "lat": 43.7996,
+      "lon": -0.828,
+      "population": 409
+    },
+    {
+      "insee": "40019",
+      "nom": "Aureilhan",
+      "lat": 44.2094,
+      "lon": -1.192,
+      "population": 1146
+    },
+    {
+      "insee": "40020",
+      "nom": "Aurice",
+      "lat": 43.7993,
+      "lon": -0.6022,
+      "population": 633
+    },
+    {
+      "insee": "40021",
+      "nom": "Azur",
+      "lat": 43.7996,
+      "lon": -1.2919,
+      "population": 988
+    },
+    {
+      "insee": "40022",
+      "nom": "Bahus-Soubiran",
+      "lat": 43.6744,
+      "lon": -0.3456,
+      "population": 394
+    },
+    {
+      "insee": "40023",
+      "nom": "Baigts",
+      "lat": 43.6897,
+      "lon": -0.7922,
+      "population": 331
+    },
+    {
+      "insee": "40024",
+      "nom": "Banos",
+      "lat": 43.7318,
+      "lon": -0.6184,
+      "population": 271
+    },
+    {
+      "insee": "40026",
+      "nom": "Bas-Mauco",
+      "lat": 43.7958,
+      "lon": -0.5516,
+      "population": 421
+    },
+    {
+      "insee": "40025",
+      "nom": "Bascons",
+      "lat": 43.8337,
+      "lon": -0.4233,
+      "population": 855
+    },
+    {
+      "insee": "40027",
+      "nom": "Bassercles",
+      "lat": 43.5606,
+      "lon": -0.6111,
+      "population": 151
+    },
+    {
+      "insee": "40028",
+      "nom": "Bastennes",
+      "lat": 43.6504,
+      "lon": -0.7802,
+      "population": 237
+    },
+    {
+      "insee": "40029",
+      "nom": "Bats",
+      "lat": 43.6533,
+      "lon": -0.4666,
+      "population": 328
+    },
+    {
+      "insee": "40030",
+      "nom": "Baudignan",
+      "lat": 44.0913,
+      "lon": 0.0404,
+      "population": 50
+    },
+    {
+      "insee": "40031",
+      "nom": "Bégaar",
+      "lat": 43.8305,
+      "lon": -0.869,
+      "population": 1251
+    },
+    {
+      "insee": "40032",
+      "nom": "Belhade",
+      "lat": 44.3654,
+      "lon": -0.6779,
+      "population": 227
+    },
+    {
+      "insee": "40033",
+      "nom": "Bélis",
+      "lat": 44.064,
+      "lon": -0.4688,
+      "population": 166
+    },
+    {
+      "insee": "40034",
+      "nom": "Bélus",
+      "lat": 43.5922,
+      "lon": -1.1184,
+      "population": 615
+    },
+    {
+      "insee": "40035",
+      "nom": "Bénesse-lès-Dax",
+      "lat": 43.6422,
+      "lon": -1.0393,
+      "population": 598
+    },
+    {
+      "insee": "40036",
+      "nom": "Bénesse-Maremne",
+      "lat": 43.634,
+      "lon": -1.3679,
+      "population": 3780
+    },
+    {
+      "insee": "40037",
+      "nom": "Benquet",
+      "lat": 43.8207,
+      "lon": -0.5069,
+      "population": 1913
+    },
+    {
+      "insee": "40038",
+      "nom": "Bergouey",
+      "lat": 43.6684,
+      "lon": -0.7232,
+      "population": 110
+    },
+    {
+      "insee": "40039",
+      "nom": "Betbezer-d'Armagnac",
+      "lat": 43.9754,
+      "lon": -0.165,
+      "population": 124
+    },
+    {
+      "insee": "40040",
+      "nom": "Beylongue",
+      "lat": 43.9201,
+      "lon": -0.82,
+      "population": 400
+    },
+    {
+      "insee": "40041",
+      "nom": "Beyries",
+      "lat": 43.5669,
+      "lon": -0.6423,
+      "population": 121
+    },
+    {
+      "insee": "40042",
+      "nom": "Biarrotte",
+      "lat": 43.5562,
+      "lon": -1.275,
+      "population": 347
+    },
+    {
+      "insee": "40043",
+      "nom": "Bias",
+      "lat": 44.1347,
+      "lon": -1.2379,
+      "population": 809
+    },
+    {
+      "insee": "40044",
+      "nom": "Biaudos",
+      "lat": 43.5432,
+      "lon": -1.3086,
+      "population": 1041
+    },
+    {
+      "insee": "40046",
+      "nom": "Biscarrosse",
+      "lat": 44.4077,
+      "lon": -1.1525,
+      "population": 15836
+    },
+    {
+      "insee": "40047",
+      "nom": "Bonnegarde",
+      "lat": 43.5635,
+      "lon": -0.7108,
+      "population": 254
+    },
+    {
+      "insee": "40049",
+      "nom": "Bordères-et-Lamensans",
+      "lat": 43.7763,
+      "lon": -0.3613,
+      "population": 359
+    },
+    {
+      "insee": "40050",
+      "nom": "Bostens",
+      "lat": 43.9703,
+      "lon": -0.3675,
+      "population": 206
+    },
+    {
+      "insee": "40051",
+      "nom": "Bougue",
+      "lat": 43.9018,
+      "lon": -0.4033,
+      "population": 833
+    },
+    {
+      "insee": "40052",
+      "nom": "Bourdalat",
+      "lat": 43.8321,
+      "lon": -0.2191,
+      "population": 204
+    },
+    {
+      "insee": "40053",
+      "nom": "Bourriot-Bergonce",
+      "lat": 44.153,
+      "lon": -0.2091,
+      "population": 326
+    },
+    {
+      "insee": "40054",
+      "nom": "Brassempouy",
+      "lat": 43.6347,
+      "lon": -0.702,
+      "population": 279
+    },
+    {
+      "insee": "40055",
+      "nom": "Bretagne-de-Marsan",
+      "lat": 43.8359,
+      "lon": -0.4655,
+      "population": 1618
+    },
+    {
+      "insee": "40056",
+      "nom": "Brocas",
+      "lat": 44.0533,
+      "lon": -0.5446,
+      "population": 721
+    },
+    {
+      "insee": "40057",
+      "nom": "Buanes",
+      "lat": 43.7147,
+      "lon": -0.4232,
+      "population": 236
+    },
+    {
+      "insee": "40058",
+      "nom": "Cachen",
+      "lat": 44.0863,
+      "lon": -0.4163,
+      "population": 233
+    },
+    {
+      "insee": "40059",
+      "nom": "Cagnotte",
+      "lat": 43.6055,
+      "lon": -1.0757,
+      "population": 784
+    },
+    {
+      "insee": "40060",
+      "nom": "Callen",
+      "lat": 44.2743,
+      "lon": -0.4688,
+      "population": 153
+    },
+    {
+      "insee": "40061",
+      "nom": "Campagne",
+      "lat": 43.8665,
+      "lon": -0.6436,
+      "population": 1061
+    },
+    {
+      "insee": "40062",
+      "nom": "Campet-et-Lamolère",
+      "lat": 43.9163,
+      "lon": -0.5823,
+      "population": 506
+    },
+    {
+      "insee": "40063",
+      "nom": "Candresse",
+      "lat": 43.7108,
+      "lon": -0.9775,
+      "population": 872
+    },
+    {
+      "insee": "40064",
+      "nom": "Canenx-et-Réaut",
+      "lat": 44.0024,
+      "lon": -0.4602,
+      "population": 179
+    },
+    {
+      "insee": "40065",
+      "nom": "Capbreton",
+      "lat": 43.6311,
+      "lon": -1.4289,
+      "population": 9184
+    },
+    {
+      "insee": "40066",
+      "nom": "Carcarès-Sainte-Croix",
+      "lat": 43.8568,
+      "lon": -0.7602,
+      "population": 533
+    },
+    {
+      "insee": "40067",
+      "nom": "Carcen-Ponson",
+      "lat": 43.8668,
+      "lon": -0.8182,
+      "population": 628
+    },
+    {
+      "insee": "40068",
+      "nom": "Cassen",
+      "lat": 43.7577,
+      "lon": -0.8675,
+      "population": 624
+    },
+    {
+      "insee": "40069",
+      "nom": "Castaignos-Souslens",
+      "lat": 43.5864,
+      "lon": -0.6458,
+      "population": 428
+    },
+    {
+      "insee": "40070",
+      "nom": "Castandet",
+      "lat": 43.8127,
+      "lon": -0.3582,
+      "population": 425
+    },
+    {
+      "insee": "40074",
+      "nom": "Castel-Sarrazin",
+      "lat": 43.6154,
+      "lon": -0.7859,
+      "population": 559
+    },
+    {
+      "insee": "40071",
+      "nom": "Castelnau-Chalosse",
+      "lat": 43.659,
+      "lon": -0.8517,
+      "population": 593
+    },
+    {
+      "insee": "40072",
+      "nom": "Castelnau-Tursan",
+      "lat": 43.6522,
+      "lon": -0.4018,
+      "population": 182
+    },
+    {
+      "insee": "40073",
+      "nom": "Castelner",
+      "lat": 43.5529,
+      "lon": -0.5912,
+      "population": 120
+    },
+    {
+      "insee": "40075",
+      "nom": "Castets",
+      "lat": 43.8806,
+      "lon": -1.1487,
+      "population": 2516
+    },
+    {
+      "insee": "40076",
+      "nom": "Cauna",
+      "lat": 43.7885,
+      "lon": -0.6448,
+      "population": 418
+    },
+    {
+      "insee": "40077",
+      "nom": "Cauneille",
+      "lat": 43.563,
+      "lon": -1.0678,
+      "population": 804
+    },
+    {
+      "insee": "40078",
+      "nom": "Caupenne",
+      "lat": 43.6878,
+      "lon": -0.7538,
+      "population": 402
+    },
+    {
+      "insee": "40079",
+      "nom": "Cazalis",
+      "lat": 43.6239,
+      "lon": -0.6675,
+      "population": 136
+    },
+    {
+      "insee": "40080",
+      "nom": "Cazères-sur-l'Adour",
+      "lat": 43.7729,
+      "lon": -0.2777,
+      "population": 1128
+    },
+    {
+      "insee": "40081",
+      "nom": "Cère",
+      "lat": 43.9933,
+      "lon": -0.5468,
+      "population": 420
+    },
+    {
+      "insee": "40082",
+      "nom": "Classun",
+      "lat": 43.7157,
+      "lon": -0.39,
+      "population": 242
+    },
+    {
+      "insee": "40083",
+      "nom": "Clèdes",
+      "lat": 43.609,
+      "lon": -0.3734,
+      "population": 115
+    },
+    {
+      "insee": "40084",
+      "nom": "Clermont",
+      "lat": 43.6475,
+      "lon": -0.9188,
+      "population": 736
+    },
+    {
+      "insee": "40085",
+      "nom": "Commensacq",
+      "lat": 44.2082,
+      "lon": -0.8272,
+      "population": 440
+    },
+    {
+      "insee": "40086",
+      "nom": "Coudures",
+      "lat": 43.6882,
+      "lon": -0.5052,
+      "population": 571
+    },
+    {
+      "insee": "40087",
+      "nom": "Créon-d'Armagnac",
+      "lat": 43.9948,
+      "lon": -0.0744,
+      "population": 331
+    },
+    {
+      "insee": "40088",
+      "nom": "Dax",
+      "lat": 43.7025,
+      "lon": -1.0637,
+      "population": 22109
+    },
+    {
+      "insee": "40089",
+      "nom": "Doazit",
+      "lat": 43.6939,
+      "lon": -0.6496,
+      "population": 839
+    },
+    {
+      "insee": "40090",
+      "nom": "Donzacq",
+      "lat": 43.6529,
+      "lon": -0.8057,
+      "population": 452
+    },
+    {
+      "insee": "40091",
+      "nom": "Duhort-Bachen",
+      "lat": 43.7158,
+      "lon": -0.3182,
+      "population": 700
+    },
+    {
+      "insee": "40092",
+      "nom": "Dumes",
+      "lat": 43.7024,
+      "lon": -0.5835,
+      "population": 265
+    },
+    {
+      "insee": "40093",
+      "nom": "Escalans",
+      "lat": 44.0023,
+      "lon": 0.0374,
+      "population": 215
+    },
+    {
+      "insee": "40094",
+      "nom": "Escource",
+      "lat": 44.1639,
+      "lon": -1.0361,
+      "population": 824
+    },
+    {
+      "insee": "40095",
+      "nom": "Estibeaux",
+      "lat": 43.6066,
+      "lon": -0.9122,
+      "population": 699
+    },
+    {
+      "insee": "40096",
+      "nom": "Estigarde",
+      "lat": 44.0431,
+      "lon": -0.1165,
+      "population": 100
+    },
+    {
+      "insee": "40097",
+      "nom": "Eugénie-les-Bains",
+      "lat": 43.6919,
+      "lon": -0.3811,
+      "population": 498
+    },
+    {
+      "insee": "40098",
+      "nom": "Eyres-Moncube",
+      "lat": 43.715,
+      "lon": -0.5497,
+      "population": 345
+    },
+    {
+      "insee": "40099",
+      "nom": "Fargues",
+      "lat": 43.7235,
+      "lon": -0.4543,
+      "population": 314
+    },
+    {
+      "insee": "40101",
+      "nom": "Gaas",
+      "lat": 43.6103,
+      "lon": -1.042,
+      "population": 470
+    },
+    {
+      "insee": "40102",
+      "nom": "Gabarret",
+      "lat": 43.9871,
+      "lon": -0.0049,
+      "population": 1283
+    },
+    {
+      "insee": "40103",
+      "nom": "Gaillères",
+      "lat": 43.9383,
+      "lon": -0.3772,
+      "population": 653
+    },
+    {
+      "insee": "40104",
+      "nom": "Gamarde-les-Bains",
+      "lat": 43.7275,
+      "lon": -0.8715,
+      "population": 1583
+    },
+    {
+      "insee": "40105",
+      "nom": "Garein",
+      "lat": 44.0521,
+      "lon": -0.6514,
+      "population": 424
+    },
+    {
+      "insee": "40106",
+      "nom": "Garrey",
+      "lat": 43.6693,
+      "lon": -0.8988,
+      "population": 215
+    },
+    {
+      "insee": "40108",
+      "nom": "Gastes",
+      "lat": 44.3117,
+      "lon": -1.1996,
+      "population": 925
+    },
+    {
+      "insee": "40109",
+      "nom": "Gaujacq",
+      "lat": 43.6394,
+      "lon": -0.7429,
+      "population": 437
+    },
+    {
+      "insee": "40110",
+      "nom": "Geaune",
+      "lat": 43.6322,
+      "lon": -0.3698,
+      "population": 767
+    },
+    {
+      "insee": "40111",
+      "nom": "Geloux",
+      "lat": 43.9784,
+      "lon": -0.6374,
+      "population": 719
+    },
+    {
+      "insee": "40112",
+      "nom": "Gibret",
+      "lat": 43.6812,
+      "lon": -0.8225,
+      "population": 92
+    },
+    {
+      "insee": "40113",
+      "nom": "Goos",
+      "lat": 43.7316,
+      "lon": -0.9182,
+      "population": 531
+    },
+    {
+      "insee": "40114",
+      "nom": "Gourbera",
+      "lat": 43.8068,
+      "lon": -1.0422,
+      "population": 364
+    },
+    {
+      "insee": "40115",
+      "nom": "Gousse",
+      "lat": 43.7752,
+      "lon": -0.9092,
+      "population": 275
+    },
+    {
+      "insee": "40116",
+      "nom": "Gouts",
+      "lat": 43.7757,
+      "lon": -0.7833,
+      "population": 271
+    },
+    {
+      "insee": "40117",
+      "nom": "Grenade-sur-l'Adour",
+      "lat": 43.7902,
+      "lon": -0.4232,
+      "population": 2398
+    },
+    {
+      "insee": "40118",
+      "nom": "Habas",
+      "lat": 43.5651,
+      "lon": -0.932,
+      "population": 1489
+    },
+    {
+      "insee": "40119",
+      "nom": "Hagetmau",
+      "lat": 43.6498,
+      "lon": -0.5866,
+      "population": 4624
+    },
+    {
+      "insee": "40120",
+      "nom": "Hastingues",
+      "lat": 43.5103,
+      "lon": -1.1412,
+      "population": 609
+    },
+    {
+      "insee": "40121",
+      "nom": "Hauriet",
+      "lat": 43.7327,
+      "lon": -0.6958,
+      "population": 271
+    },
+    {
+      "insee": "40122",
+      "nom": "Haut-Mauco",
+      "lat": 43.8258,
+      "lon": -0.5661,
+      "population": 1001
+    },
+    {
+      "insee": "40123",
+      "nom": "Herm",
+      "lat": 43.8013,
+      "lon": -1.1332,
+      "population": 1185
+    },
+    {
+      "insee": "40124",
+      "nom": "Herré",
+      "lat": 44.0203,
+      "lon": -0.0381,
+      "population": 143
+    },
+    {
+      "insee": "40125",
+      "nom": "Heugas",
+      "lat": 43.6416,
+      "lon": -1.0848,
+      "population": 1398
+    },
+    {
+      "insee": "40126",
+      "nom": "Hinx",
+      "lat": 43.71,
+      "lon": -0.9339,
+      "population": 1894
+    },
+    {
+      "insee": "40127",
+      "nom": "Hontanx",
+      "lat": 43.8197,
+      "lon": -0.27,
+      "population": 608
+    },
+    {
+      "insee": "40128",
+      "nom": "Horsarrieu",
+      "lat": 43.6908,
+      "lon": -0.6025,
+      "population": 717
+    },
+    {
+      "insee": "40129",
+      "nom": "Josse",
+      "lat": 43.6419,
+      "lon": -1.2373,
+      "population": 1018
+    },
+    {
+      "insee": "40130",
+      "nom": "Labastide-Chalosse",
+      "lat": 43.6146,
+      "lon": -0.6031,
+      "population": 172
+    },
+    {
+      "insee": "40131",
+      "nom": "Labastide-d'Armagnac",
+      "lat": 43.9467,
+      "lon": -0.1589,
+      "population": 673
+    },
+    {
+      "insee": "40132",
+      "nom": "Labatut",
+      "lat": 43.5544,
+      "lon": -0.9926,
+      "population": 1430
+    },
+    {
+      "insee": "40133",
+      "nom": "Labenne",
+      "lat": 43.5982,
+      "lon": -1.4371,
+      "population": 7183
+    },
+    {
+      "insee": "40134",
+      "nom": "Labouheyre",
+      "lat": 44.2243,
+      "lon": -0.9107,
+      "population": 2906
+    },
+    {
+      "insee": "40135",
+      "nom": "Labrit",
+      "lat": 44.1269,
+      "lon": -0.5557,
+      "population": 842
+    },
+    {
+      "insee": "40136",
+      "nom": "Lacajunte",
+      "lat": 43.5897,
+      "lon": -0.4204,
+      "population": 144
+    },
+    {
+      "insee": "40137",
+      "nom": "Lacquy",
+      "lat": 43.9584,
+      "lon": -0.2848,
+      "population": 289
+    },
+    {
+      "insee": "40138",
+      "nom": "Lacrabe",
+      "lat": 43.6107,
+      "lon": -0.5918,
+      "population": 287
+    },
+    {
+      "insee": "40139",
+      "nom": "Laglorieuse",
+      "lat": 43.8632,
+      "lon": -0.3957,
+      "population": 626
+    },
+    {
+      "insee": "40140",
+      "nom": "Lagrange",
+      "lat": 43.9661,
+      "lon": -0.0866,
+      "population": 185
+    },
+    {
+      "insee": "40141",
+      "nom": "Lahosse",
+      "lat": 43.7126,
+      "lon": -0.7864,
+      "population": 288
+    },
+    {
+      "insee": "40142",
+      "nom": "Laluque",
+      "lat": 43.8533,
+      "lon": -0.9816,
+      "population": 1102
+    },
+    {
+      "insee": "40143",
+      "nom": "Lamothe",
+      "lat": 43.7961,
+      "lon": -0.6612,
+      "population": 308
+    },
+    {
+      "insee": "40144",
+      "nom": "Larbey",
+      "lat": 43.7038,
+      "lon": -0.7288,
+      "population": 237
+    },
+    {
+      "insee": "40145",
+      "nom": "Larrivière-Saint-Savin",
+      "lat": 43.7554,
+      "lon": -0.4287,
+      "population": 583
+    },
+    {
+      "insee": "40146",
+      "nom": "Latrille",
+      "lat": 43.6275,
+      "lon": -0.2903,
+      "population": 168
+    },
+    {
+      "insee": "40147",
+      "nom": "Laurède",
+      "lat": 43.7566,
+      "lon": -0.7902,
+      "population": 367
+    },
+    {
+      "insee": "40148",
+      "nom": "Lauret",
+      "lat": 43.5641,
+      "lon": -0.3271,
+      "population": 76
+    },
+    {
+      "insee": "40100",
+      "nom": "Le Frêche",
+      "lat": 43.9246,
+      "lon": -0.2493,
+      "population": 367
+    },
+    {
+      "insee": "40153",
+      "nom": "Le Leuy",
+      "lat": 43.8188,
+      "lon": -0.6526,
+      "population": 225
+    },
+    {
+      "insee": "40297",
+      "nom": "Le Sen",
+      "lat": 44.139,
+      "lon": -0.5067,
+      "population": 215
+    },
+    {
+      "insee": "40329",
+      "nom": "Le Vignau",
+      "lat": 43.7799,
+      "lon": -0.2845,
+      "population": 522
+    },
+    {
+      "insee": "40149",
+      "nom": "Lencouacq",
+      "lat": 44.1482,
+      "lon": -0.3856,
+      "population": 378
+    },
+    {
+      "insee": "40150",
+      "nom": "Léon",
+      "lat": 43.8474,
+      "lon": -1.2768,
+      "population": 2306
+    },
+    {
+      "insee": "40151",
+      "nom": "Lesgor",
+      "lat": 43.8592,
+      "lon": -0.9089,
+      "population": 427
+    },
+    {
+      "insee": "40152",
+      "nom": "Lesperon",
+      "lat": 43.9654,
+      "lon": -1.0835,
+      "population": 1043
+    },
+    {
+      "insee": "40154",
+      "nom": "Lévignacq",
+      "lat": 44.0128,
+      "lon": -1.1452,
+      "population": 362
+    },
+    {
+      "insee": "40155",
+      "nom": "Linxe",
+      "lat": 43.9287,
+      "lon": -1.2195,
+      "population": 1552
+    },
+    {
+      "insee": "40156",
+      "nom": "Liposthey",
+      "lat": 44.304,
+      "lon": -0.8829,
+      "population": 603
+    },
+    {
+      "insee": "40157",
+      "nom": "Lit-et-Mixe",
+      "lat": 44.0273,
+      "lon": -1.2704,
+      "population": 1719
+    },
+    {
+      "insee": "40158",
+      "nom": "Losse",
+      "lat": 44.0948,
+      "lon": -0.0933,
+      "population": 286
+    },
+    {
+      "insee": "40159",
+      "nom": "Louer",
+      "lat": 43.7558,
+      "lon": -0.89,
+      "population": 335
+    },
+    {
+      "insee": "40160",
+      "nom": "Lourquen",
+      "lat": 43.7324,
+      "lon": -0.7944,
+      "population": 193
+    },
+    {
+      "insee": "40161",
+      "nom": "Lubbon",
+      "lat": 44.1097,
+      "lon": -0.0127,
+      "population": 85
+    },
+    {
+      "insee": "40162",
+      "nom": "Lucbardez-et-Bargues",
+      "lat": 43.9746,
+      "lon": -0.4143,
+      "population": 561
+    },
+    {
+      "insee": "40163",
+      "nom": "Lüe",
+      "lat": 44.2337,
+      "lon": -0.9858,
+      "population": 621
+    },
+    {
+      "insee": "40165",
+      "nom": "Luglon",
+      "lat": 44.0807,
+      "lon": -0.7306,
+      "population": 373
+    },
+    {
+      "insee": "40166",
+      "nom": "Lussagnet",
+      "lat": 43.772,
+      "lon": -0.2345,
+      "population": 80
+    },
+    {
+      "insee": "40167",
+      "nom": "Luxey",
+      "lat": 44.2382,
+      "lon": -0.5061,
+      "population": 654
+    },
+    {
+      "insee": "40168",
+      "nom": "Magescq",
+      "lat": 43.7753,
+      "lon": -1.1841,
+      "population": 2698
+    },
+    {
+      "insee": "40169",
+      "nom": "Maillas",
+      "lat": 44.212,
+      "lon": -0.1786,
+      "population": 125
+    },
+    {
+      "insee": "40170",
+      "nom": "Maillères",
+      "lat": 44.0217,
+      "lon": -0.4432,
+      "population": 230
+    },
+    {
+      "insee": "40171",
+      "nom": "Mano",
+      "lat": 44.4288,
+      "lon": -0.6703,
+      "population": 149
+    },
+    {
+      "insee": "40172",
+      "nom": "Mant",
+      "lat": 43.5931,
+      "lon": -0.5027,
+      "population": 268
+    },
+    {
+      "insee": "40173",
+      "nom": "Marpaps",
+      "lat": 43.5732,
+      "lon": -0.6813,
+      "population": 129
+    },
+    {
+      "insee": "40174",
+      "nom": "Mauries",
+      "lat": 43.6138,
+      "lon": -0.3347,
+      "population": 84
+    },
+    {
+      "insee": "40175",
+      "nom": "Maurrin",
+      "lat": 43.821,
+      "lon": -0.3648,
+      "population": 467
+    },
+    {
+      "insee": "40176",
+      "nom": "Mauvezin-d'Armagnac",
+      "lat": 43.9591,
+      "lon": -0.1323,
+      "population": 105
+    },
+    {
+      "insee": "40177",
+      "nom": "Maylis",
+      "lat": 43.6948,
+      "lon": -0.7047,
+      "population": 294
+    },
+    {
+      "insee": "40178",
+      "nom": "Mazerolles",
+      "lat": 43.8848,
+      "lon": -0.4334,
+      "population": 715
+    },
+    {
+      "insee": "40179",
+      "nom": "Mées",
+      "lat": 43.7106,
+      "lon": -1.1291,
+      "population": 2036
+    },
+    {
+      "insee": "40180",
+      "nom": "Meilhan",
+      "lat": 43.8685,
+      "lon": -0.6966,
+      "population": 1237
+    },
+    {
+      "insee": "40181",
+      "nom": "Messanges",
+      "lat": 43.8086,
+      "lon": -1.3629,
+      "population": 1086
+    },
+    {
+      "insee": "40182",
+      "nom": "Mézos",
+      "lat": 44.0848,
+      "lon": -1.141,
+      "population": 868
+    },
+    {
+      "insee": "40183",
+      "nom": "Mimbaste",
+      "lat": 43.6499,
+      "lon": -0.9551,
+      "population": 1001
+    },
+    {
+      "insee": "40184",
+      "nom": "Mimizan",
+      "lat": 44.1996,
+      "lon": -1.2323,
+      "population": 7673
+    },
+    {
+      "insee": "40185",
+      "nom": "Miramont-Sensacq",
+      "lat": 43.5969,
+      "lon": -0.327,
+      "population": 342
+    },
+    {
+      "insee": "40186",
+      "nom": "Misson",
+      "lat": 43.5872,
+      "lon": -0.9608,
+      "population": 828
+    },
+    {
+      "insee": "40187",
+      "nom": "Moliets-et-Maa",
+      "lat": 43.8626,
+      "lon": -1.3589,
+      "population": 1299
+    },
+    {
+      "insee": "40188",
+      "nom": "Momuy",
+      "lat": 43.617,
+      "lon": -0.6458,
+      "population": 487
+    },
+    {
+      "insee": "40189",
+      "nom": "Monget",
+      "lat": 43.5582,
+      "lon": -0.5348,
+      "population": 77
+    },
+    {
+      "insee": "40190",
+      "nom": "Monségur",
+      "lat": 43.613,
+      "lon": -0.544,
+      "population": 395
+    },
+    {
+      "insee": "40192",
+      "nom": "Mont-de-Marsan",
+      "lat": 43.8931,
+      "lon": -0.5009,
+      "population": 31592
+    },
+    {
+      "insee": "40191",
+      "nom": "Montaut",
+      "lat": 43.7277,
+      "lon": -0.6572,
+      "population": 594
+    },
+    {
+      "insee": "40193",
+      "nom": "Montégut",
+      "lat": 43.8747,
+      "lon": -0.2042,
+      "population": 79
+    },
+    {
+      "insee": "40194",
+      "nom": "Montfort-en-Chalosse",
+      "lat": 43.7065,
+      "lon": -0.8367,
+      "population": 1242
+    },
+    {
+      "insee": "40195",
+      "nom": "Montgaillard",
+      "lat": 43.7572,
+      "lon": -0.4822,
+      "population": 602
+    },
+    {
+      "insee": "40196",
+      "nom": "Montsoué",
+      "lat": 43.7327,
+      "lon": -0.5037,
+      "population": 566
+    },
+    {
+      "insee": "40197",
+      "nom": "Morcenx-la-Nouvelle",
+      "lat": 44.0318,
+      "lon": -0.9147,
+      "population": 5022
+    },
+    {
+      "insee": "40198",
+      "nom": "Morganx",
+      "lat": 43.6043,
+      "lon": -0.5708,
+      "population": 165
+    },
+    {
+      "insee": "40199",
+      "nom": "Mouscardès",
+      "lat": 43.5955,
+      "lon": -0.8883,
+      "population": 265
+    },
+    {
+      "insee": "40200",
+      "nom": "Moustey",
+      "lat": 44.387,
+      "lon": -0.7703,
+      "population": 798
+    },
+    {
+      "insee": "40201",
+      "nom": "Mugron",
+      "lat": 43.7404,
+      "lon": -0.7479,
+      "population": 1348
+    },
+    {
+      "insee": "40202",
+      "nom": "Narrosse",
+      "lat": 43.6924,
+      "lon": -1.005,
+      "population": 3387
+    },
+    {
+      "insee": "40203",
+      "nom": "Nassiet",
+      "lat": 43.5987,
+      "lon": -0.6863,
+      "population": 330
+    },
+    {
+      "insee": "40204",
+      "nom": "Nerbis",
+      "lat": 43.7498,
+      "lon": -0.7229,
+      "population": 267
+    },
+    {
+      "insee": "40205",
+      "nom": "Nousse",
+      "lat": 43.7208,
+      "lon": -0.8224,
+      "population": 252
+    },
+    {
+      "insee": "40206",
+      "nom": "Oeyregave",
+      "lat": 43.5264,
+      "lon": -1.1001,
+      "population": 321
+    },
+    {
+      "insee": "40207",
+      "nom": "Oeyreluy",
+      "lat": 43.6749,
+      "lon": -1.0792,
+      "population": 1493
+    },
+    {
+      "insee": "40208",
+      "nom": "Onard",
+      "lat": 43.7778,
+      "lon": -0.8298,
+      "population": 381
+    },
+    {
+      "insee": "40209",
+      "nom": "Ondres",
+      "lat": 43.5624,
+      "lon": -1.4581,
+      "population": 6533
+    },
+    {
+      "insee": "40210",
+      "nom": "Onesse-Laharie",
+      "lat": 44.063,
+      "lon": -1.0224,
+      "population": 1079
+    },
+    {
+      "insee": "40211",
+      "nom": "Orist",
+      "lat": 43.6328,
+      "lon": -1.1737,
+      "population": 814
+    },
+    {
+      "insee": "40212",
+      "nom": "Orthevielle",
+      "lat": 43.5675,
+      "lon": -1.1448,
+      "population": 1073
+    },
+    {
+      "insee": "40213",
+      "nom": "Orx",
+      "lat": 43.6046,
+      "lon": -1.3686,
+      "population": 647
+    },
+    {
+      "insee": "40214",
+      "nom": "Ossages",
+      "lat": 43.5582,
+      "lon": -0.8788,
+      "population": 492
+    },
+    {
+      "insee": "40215",
+      "nom": "Ousse-Suzan",
+      "lat": 43.9492,
+      "lon": -0.7523,
+      "population": 297
+    },
+    {
+      "insee": "40216",
+      "nom": "Ozourt",
+      "lat": 43.6569,
+      "lon": -0.879,
+      "population": 204
+    },
+    {
+      "insee": "40217",
+      "nom": "Parentis-en-Born",
+      "lat": 44.3527,
+      "lon": -1.0879,
+      "population": 7586
+    },
+    {
+      "insee": "40218",
+      "nom": "Parleboscq",
+      "lat": 43.9365,
+      "lon": 0.0263,
+      "population": 451
+    },
+    {
+      "insee": "40219",
+      "nom": "Payros-Cazautets",
+      "lat": 43.627,
+      "lon": -0.3975,
+      "population": 105
+    },
+    {
+      "insee": "40220",
+      "nom": "Pécorade",
+      "lat": 43.6495,
+      "lon": -0.3588,
+      "population": 133
+    },
+    {
+      "insee": "40221",
+      "nom": "Perquie",
+      "lat": 43.8677,
+      "lon": -0.2563,
+      "population": 342
+    },
+    {
+      "insee": "40222",
+      "nom": "Pey",
+      "lat": 43.6176,
+      "lon": -1.2044,
+      "population": 838
+    },
+    {
+      "insee": "40223",
+      "nom": "Peyre",
+      "lat": 43.5711,
+      "lon": -0.5566,
+      "population": 241
+    },
+    {
+      "insee": "40224",
+      "nom": "Peyrehorade",
+      "lat": 43.5612,
+      "lon": -1.1106,
+      "population": 3700
+    },
+    {
+      "insee": "40225",
+      "nom": "Philondenx",
+      "lat": 43.5693,
+      "lon": -0.4291,
+      "population": 187
+    },
+    {
+      "insee": "40226",
+      "nom": "Pimbo",
+      "lat": 43.5799,
+      "lon": -0.3744,
+      "population": 195
+    },
+    {
+      "insee": "40227",
+      "nom": "Pissos",
+      "lat": 44.3012,
+      "lon": -0.7906,
+      "population": 1505
+    },
+    {
+      "insee": "40228",
+      "nom": "Pomarez",
+      "lat": 43.6208,
+      "lon": -0.8394,
+      "population": 1642
+    },
+    {
+      "insee": "40229",
+      "nom": "Pontenx-les-Forges",
+      "lat": 44.2554,
+      "lon": -1.0914,
+      "population": 1775
+    },
+    {
+      "insee": "40230",
+      "nom": "Pontonx-sur-l'Adour",
+      "lat": 43.7927,
+      "lon": -0.9367,
+      "population": 3021
+    },
+    {
+      "insee": "40231",
+      "nom": "Port-de-Lanne",
+      "lat": 43.5758,
+      "lon": -1.1857,
+      "population": 1232
+    },
+    {
+      "insee": "40232",
+      "nom": "Poudenx",
+      "lat": 43.5819,
+      "lon": -0.5918,
+      "population": 219
+    },
+    {
+      "insee": "40233",
+      "nom": "Pouillon",
+      "lat": 43.6067,
+      "lon": -1,
+      "population": 3134
+    },
+    {
+      "insee": "40234",
+      "nom": "Pouydesseaux",
+      "lat": 43.9882,
+      "lon": -0.352,
+      "population": 869
+    },
+    {
+      "insee": "40235",
+      "nom": "Poyanne",
+      "lat": 43.7547,
+      "lon": -0.817,
+      "population": 693
+    },
+    {
+      "insee": "40236",
+      "nom": "Poyartin",
+      "lat": 43.6884,
+      "lon": -0.8589,
+      "population": 776
+    },
+    {
+      "insee": "40237",
+      "nom": "Préchacq-les-Bains",
+      "lat": 43.7551,
+      "lon": -0.9191,
+      "population": 808
+    },
+    {
+      "insee": "40238",
+      "nom": "Pujo-le-Plan",
+      "lat": 43.8608,
+      "lon": -0.3444,
+      "population": 641
+    },
+    {
+      "insee": "40239",
+      "nom": "Puyol-Cazalet",
+      "lat": 43.6059,
+      "lon": -0.4034,
+      "population": 105
+    },
+    {
+      "insee": "40240",
+      "nom": "Renung",
+      "lat": 43.7417,
+      "lon": -0.3663,
+      "population": 483
+    },
+    {
+      "insee": "40164",
+      "nom": "Retjons",
+      "lat": 44.1399,
+      "lon": -0.2929,
+      "population": 301
+    },
+    {
+      "insee": "40242",
+      "nom": "Rimbez-et-Baudiets",
+      "lat": 44.0594,
+      "lon": 0.0473,
+      "population": 104
+    },
+    {
+      "insee": "40243",
+      "nom": "Rion-des-Landes",
+      "lat": 43.9318,
+      "lon": -0.9436,
+      "population": 3142
+    },
+    {
+      "insee": "40244",
+      "nom": "Rivière-Saas-et-Gourby",
+      "lat": 43.6963,
+      "lon": -1.1756,
+      "population": 1476
+    },
+    {
+      "insee": "40245",
+      "nom": "Roquefort",
+      "lat": 44.0378,
+      "lon": -0.3287,
+      "population": 1990
+    },
+    {
+      "insee": "40246",
+      "nom": "Sabres",
+      "lat": 44.1532,
+      "lon": -0.7332,
+      "population": 1213
+    },
+    {
+      "insee": "40247",
+      "nom": "Saint-Agnet",
+      "lat": 43.6049,
+      "lon": -0.2701,
+      "population": 179
+    },
+    {
+      "insee": "40248",
+      "nom": "Saint-André-de-Seignanx",
+      "lat": 43.5621,
+      "lon": -1.3619,
+      "population": 1945
+    },
+    {
+      "insee": "40249",
+      "nom": "Saint-Aubin",
+      "lat": 43.7184,
+      "lon": -0.7246,
+      "population": 498
+    },
+    {
+      "insee": "40250",
+      "nom": "Saint-Avit",
+      "lat": 43.9439,
+      "lon": -0.4527,
+      "population": 684
+    },
+    {
+      "insee": "40251",
+      "nom": "Saint-Barthélemy",
+      "lat": 43.5201,
+      "lon": -1.3269,
+      "population": 412
+    },
+    {
+      "insee": "40253",
+      "nom": "Saint-Cricq-Chalosse",
+      "lat": 43.6561,
+      "lon": -0.6737,
+      "population": 614
+    },
+    {
+      "insee": "40254",
+      "nom": "Saint-Cricq-du-Gave",
+      "lat": 43.5245,
+      "lon": -1.0161,
+      "population": 445
+    },
+    {
+      "insee": "40255",
+      "nom": "Saint-Cricq-Villeneuve",
+      "lat": 43.9035,
+      "lon": -0.3507,
+      "population": 472
+    },
+    {
+      "insee": "40256",
+      "nom": "Saint-Étienne-d'Orthe",
+      "lat": 43.5902,
+      "lon": -1.1903,
+      "population": 740
+    },
+    {
+      "insee": "40259",
+      "nom": "Saint-Gein",
+      "lat": 43.832,
+      "lon": -0.3039,
+      "population": 409
+    },
+    {
+      "insee": "40260",
+      "nom": "Saint-Geours-d'Auribat",
+      "lat": 43.7547,
+      "lon": -0.8393,
+      "population": 409
+    },
+    {
+      "insee": "40261",
+      "nom": "Saint-Geours-de-Maremne",
+      "lat": 43.6854,
+      "lon": -1.2348,
+      "population": 3089
+    },
+    {
+      "insee": "40262",
+      "nom": "Saint-Gor",
+      "lat": 44.0752,
+      "lon": -0.2367,
+      "population": 308
+    },
+    {
+      "insee": "40263",
+      "nom": "Saint-Jean-de-Lier",
+      "lat": 43.7855,
+      "lon": -0.8796,
+      "population": 405
+    },
+    {
+      "insee": "40264",
+      "nom": "Saint-Jean-de-Marsacq",
+      "lat": 43.6161,
+      "lon": -1.2545,
+      "population": 1840
+    },
+    {
+      "insee": "40265",
+      "nom": "Saint-Julien-d'Armagnac",
+      "lat": 43.993,
+      "lon": -0.1387,
+      "population": 108
+    },
+    {
+      "insee": "40266",
+      "nom": "Saint-Julien-en-Born",
+      "lat": 44.0854,
+      "lon": -1.2551,
+      "population": 1781
+    },
+    {
+      "insee": "40267",
+      "nom": "Saint-Justin",
+      "lat": 43.9907,
+      "lon": -0.2265,
+      "population": 1008
+    },
+    {
+      "insee": "40268",
+      "nom": "Saint-Laurent-de-Gosse",
+      "lat": 43.5233,
+      "lon": -1.2851,
+      "population": 745
+    },
+    {
+      "insee": "40269",
+      "nom": "Saint-Lon-les-Mines",
+      "lat": 43.6188,
+      "lon": -1.1353,
+      "population": 1246
+    },
+    {
+      "insee": "40270",
+      "nom": "Saint-Loubouer",
+      "lat": 43.684,
+      "lon": -0.4121,
+      "population": 442
+    },
+    {
+      "insee": "40274",
+      "nom": "Saint-Martin-d'Oney",
+      "lat": 43.9293,
+      "lon": -0.6497,
+      "population": 1367
+    },
+    {
+      "insee": "40272",
+      "nom": "Saint-Martin-de-Hinx",
+      "lat": 43.5803,
+      "lon": -1.2684,
+      "population": 1808
+    },
+    {
+      "insee": "40273",
+      "nom": "Saint-Martin-de-Seignanx",
+      "lat": 43.5378,
+      "lon": -1.3829,
+      "population": 6238
+    },
+    {
+      "insee": "40275",
+      "nom": "Saint-Maurice-sur-Adour",
+      "lat": 43.7932,
+      "lon": -0.4691,
+      "population": 625
+    },
+    {
+      "insee": "40276",
+      "nom": "Saint-Michel-Escalus",
+      "lat": 43.8752,
+      "lon": -1.2475,
+      "population": 332
+    },
+    {
+      "insee": "40277",
+      "nom": "Saint-Pandelon",
+      "lat": 43.6676,
+      "lon": -1.0416,
+      "population": 749
+    },
+    {
+      "insee": "40278",
+      "nom": "Saint-Paul-en-Born",
+      "lat": 44.2083,
+      "lon": -1.155,
+      "population": 975
+    },
+    {
+      "insee": "40279",
+      "nom": "Saint-Paul-lès-Dax",
+      "lat": 43.7485,
+      "lon": -1.0941,
+      "population": 14481
+    },
+    {
+      "insee": "40280",
+      "nom": "Saint-Perdon",
+      "lat": 43.8734,
+      "lon": -0.6038,
+      "population": 1732
+    },
+    {
+      "insee": "40281",
+      "nom": "Saint-Pierre-du-Mont",
+      "lat": 43.8725,
+      "lon": -0.52,
+      "population": 10092
+    },
+    {
+      "insee": "40282",
+      "nom": "Saint-Sever",
+      "lat": 43.7646,
+      "lon": -0.5612,
+      "population": 5043
+    },
+    {
+      "insee": "40283",
+      "nom": "Saint-Vincent-de-Paul",
+      "lat": 43.7726,
+      "lon": -0.9965,
+      "population": 3402
+    },
+    {
+      "insee": "40284",
+      "nom": "Saint-Vincent-de-Tyrosse",
+      "lat": 43.663,
+      "lon": -1.3013,
+      "population": 8014
+    },
+    {
+      "insee": "40285",
+      "nom": "Saint-Yaguen",
+      "lat": 43.9019,
+      "lon": -0.7411,
+      "population": 625
+    },
+    {
+      "insee": "40252",
+      "nom": "Sainte-Colombe",
+      "lat": 43.6805,
+      "lon": -0.5578,
+      "population": 633
+    },
+    {
+      "insee": "40257",
+      "nom": "Sainte-Eulalie-en-Born",
+      "lat": 44.2725,
+      "lon": -1.2121,
+      "population": 1443
+    },
+    {
+      "insee": "40258",
+      "nom": "Sainte-Foy",
+      "lat": 43.9315,
+      "lon": -0.3238,
+      "population": 251
+    },
+    {
+      "insee": "40271",
+      "nom": "Sainte-Marie-de-Gosse",
+      "lat": 43.5497,
+      "lon": -1.2301,
+      "population": 1241
+    },
+    {
+      "insee": "40286",
+      "nom": "Samadet",
+      "lat": 43.6299,
+      "lon": -0.4896,
+      "population": 1123
+    },
+    {
+      "insee": "40287",
+      "nom": "Sanguinet",
+      "lat": 44.4776,
+      "lon": -1.0903,
+      "population": 4741
+    },
+    {
+      "insee": "40288",
+      "nom": "Sarbazan",
+      "lat": 44.0125,
+      "lon": -0.3202,
+      "population": 1167
+    },
+    {
+      "insee": "40289",
+      "nom": "Sarraziet",
+      "lat": 43.7062,
+      "lon": -0.4986,
+      "population": 235
+    },
+    {
+      "insee": "40290",
+      "nom": "Sarron",
+      "lat": 43.5865,
+      "lon": -0.2672,
+      "population": 104
+    },
+    {
+      "insee": "40291",
+      "nom": "Saubion",
+      "lat": 43.673,
+      "lon": -1.3323,
+      "population": 1826
+    },
+    {
+      "insee": "40292",
+      "nom": "Saubrigues",
+      "lat": 43.609,
+      "lon": -1.3246,
+      "population": 1659
+    },
+    {
+      "insee": "40293",
+      "nom": "Saubusse",
+      "lat": 43.6737,
+      "lon": -1.1815,
+      "population": 1093
+    },
+    {
+      "insee": "40294",
+      "nom": "Saugnac-et-Cambran",
+      "lat": 43.6717,
+      "lon": -0.9904,
+      "population": 1560
+    },
+    {
+      "insee": "40295",
+      "nom": "Saugnac-et-Muret",
+      "lat": 44.3893,
+      "lon": -0.8494,
+      "population": 1382
+    },
+    {
+      "insee": "40296",
+      "nom": "Seignosse",
+      "lat": 43.7055,
+      "lon": -1.3939,
+      "population": 4056
+    },
+    {
+      "insee": "40298",
+      "nom": "Serres-Gaston",
+      "lat": 43.6709,
+      "lon": -0.5198,
+      "population": 405
+    },
+    {
+      "insee": "40299",
+      "nom": "Serreslous-et-Arribans",
+      "lat": 43.663,
+      "lon": -0.6446,
+      "population": 196
+    },
+    {
+      "insee": "40300",
+      "nom": "Seyresse",
+      "lat": 43.6809,
+      "lon": -1.0612,
+      "population": 1029
+    },
+    {
+      "insee": "40301",
+      "nom": "Siest",
+      "lat": 43.6499,
+      "lon": -1.1331,
+      "population": 135
+    },
+    {
+      "insee": "40303",
+      "nom": "Solférino",
+      "lat": 44.1155,
+      "lon": -0.907,
+      "population": 374
+    },
+    {
+      "insee": "40304",
+      "nom": "Soorts-Hossegor",
+      "lat": 43.6679,
+      "lon": -1.4084,
+      "population": 3817
+    },
+    {
+      "insee": "40305",
+      "nom": "Sorbets",
+      "lat": 43.6418,
+      "lon": -0.3311,
+      "population": 198
+    },
+    {
+      "insee": "40306",
+      "nom": "Sorde-l'Abbaye",
+      "lat": 43.5238,
+      "lon": -1.0422,
+      "population": 645
+    },
+    {
+      "insee": "40307",
+      "nom": "Sore",
+      "lat": 44.3073,
+      "lon": -0.6021,
+      "population": 1179
+    },
+    {
+      "insee": "40308",
+      "nom": "Sort-en-Chalosse",
+      "lat": 43.6797,
+      "lon": -0.9225,
+      "population": 885
+    },
+    {
+      "insee": "40309",
+      "nom": "Souprosse",
+      "lat": 43.7927,
+      "lon": -0.7195,
+      "population": 1184
+    },
+    {
+      "insee": "40310",
+      "nom": "Soustons",
+      "lat": 43.754,
+      "lon": -1.3305,
+      "population": 8701
+    },
+    {
+      "insee": "40311",
+      "nom": "Taller",
+      "lat": 43.88,
+      "lon": -1.0621,
+      "population": 693
+    },
+    {
+      "insee": "40312",
+      "nom": "Tarnos",
+      "lat": 43.5338,
+      "lon": -1.4717,
+      "population": 12957
+    },
+    {
+      "insee": "40313",
+      "nom": "Tartas",
+      "lat": 43.8156,
+      "lon": -0.7791,
+      "population": 3169
+    },
+    {
+      "insee": "40314",
+      "nom": "Tercis-les-Bains",
+      "lat": 43.6708,
+      "lon": -1.1136,
+      "population": 1359
+    },
+    {
+      "insee": "40315",
+      "nom": "Téthieu",
+      "lat": 43.7476,
+      "lon": -0.9597,
+      "population": 758
+    },
+    {
+      "insee": "40316",
+      "nom": "Tilh",
+      "lat": 43.5819,
+      "lon": -0.8336,
+      "population": 832
+    },
+    {
+      "insee": "40317",
+      "nom": "Tosse",
+      "lat": 43.6952,
+      "lon": -1.316,
+      "population": 3556
+    },
+    {
+      "insee": "40318",
+      "nom": "Toulouzette",
+      "lat": 43.7557,
+      "lon": -0.6762,
+      "population": 309
+    },
+    {
+      "insee": "40319",
+      "nom": "Trensacq",
+      "lat": 44.232,
+      "lon": -0.7015,
+      "population": 284
+    },
+    {
+      "insee": "40320",
+      "nom": "Uchacq-et-Parentis",
+      "lat": 43.945,
+      "lon": -0.5476,
+      "population": 626
+    },
+    {
+      "insee": "40321",
+      "nom": "Urgons",
+      "lat": 43.6397,
+      "lon": -0.432,
+      "population": 244
+    },
+    {
+      "insee": "40322",
+      "nom": "Uza",
+      "lat": 44.0295,
+      "lon": -1.1993,
+      "population": 180
+    },
+    {
+      "insee": "40323",
+      "nom": "Vert",
+      "lat": 44.0955,
+      "lon": -0.6138,
+      "population": 235
+    },
+    {
+      "insee": "40324",
+      "nom": "Vicq-d'Auribat",
+      "lat": 43.7836,
+      "lon": -0.8576,
+      "population": 243
+    },
+    {
+      "insee": "40326",
+      "nom": "Vielle-Saint-Girons",
+      "lat": 43.9429,
+      "lon": -1.3219,
+      "population": 1518
+    },
+    {
+      "insee": "40327",
+      "nom": "Vielle-Soubiran",
+      "lat": 44.0549,
+      "lon": -0.1715,
+      "population": 226
+    },
+    {
+      "insee": "40325",
+      "nom": "Vielle-Tursan",
+      "lat": 43.6857,
+      "lon": -0.4639,
+      "population": 283
+    },
+    {
+      "insee": "40328",
+      "nom": "Vieux-Boucau-les-Bains",
+      "lat": 43.7885,
+      "lon": -1.3946,
+      "population": 1685
+    },
+    {
+      "insee": "40330",
+      "nom": "Villenave",
+      "lat": 43.9681,
+      "lon": -0.8227,
+      "population": 312
+    },
+    {
+      "insee": "40331",
+      "nom": "Villeneuve-de-Marsan",
+      "lat": 43.9087,
+      "lon": -0.3057,
+      "population": 2508
+    },
+    {
+      "insee": "40332",
+      "nom": "Ychoux",
+      "lat": 44.3545,
+      "lon": -0.9643,
+      "population": 2338
+    },
+    {
+      "insee": "40333",
+      "nom": "Ygos-Saint-Saturnin",
+      "lat": 43.9934,
+      "lon": -0.7297,
+      "population": 1334
+    },
+    {
+      "insee": "40334",
+      "nom": "Yzosse",
+      "lat": 43.7189,
+      "lon": -1.015,
+      "population": 386
+    }
+  ]
+}

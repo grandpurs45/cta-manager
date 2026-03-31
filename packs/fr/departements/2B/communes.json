@@ -1,0 +1,1659 @@
+{
+  "country": "FR",
+  "departmentCode": "2B",
+  "label": "Departement 2B",
+  "communes": [
+    {
+      "insee": "2B002",
+      "nom": "Aghione",
+      "lat": 42.0934,
+      "lon": 9.4064,
+      "population": 258
+    },
+    {
+      "insee": "2B003",
+      "nom": "Aiti",
+      "lat": 42.4026,
+      "lon": 9.2284,
+      "population": 27
+    },
+    {
+      "insee": "2B005",
+      "nom": "Alando",
+      "lat": 42.3083,
+      "lon": 9.2899,
+      "population": 30
+    },
+    {
+      "insee": "2B007",
+      "nom": "Albertacce",
+      "lat": 42.3145,
+      "lon": 8.9277,
+      "population": 196
+    },
+    {
+      "insee": "2B009",
+      "nom": "Aléria",
+      "lat": 42.0993,
+      "lon": 9.4972,
+      "population": 2267
+    },
+    {
+      "insee": "2B010",
+      "nom": "Algajola",
+      "lat": 42.6051,
+      "lon": 8.8587,
+      "population": 363
+    },
+    {
+      "insee": "2B012",
+      "nom": "Altiani",
+      "lat": 42.2198,
+      "lon": 9.2766,
+      "population": 53
+    },
+    {
+      "insee": "2B013",
+      "nom": "Alzi",
+      "lat": 42.3133,
+      "lon": 9.3175,
+      "population": 27
+    },
+    {
+      "insee": "2B015",
+      "nom": "Ampriani",
+      "lat": 42.2537,
+      "lon": 9.3566,
+      "population": 23
+    },
+    {
+      "insee": "2B016",
+      "nom": "Antisanti",
+      "lat": 42.157,
+      "lon": 9.3861,
+      "population": 591
+    },
+    {
+      "insee": "2B020",
+      "nom": "Aregno",
+      "lat": 42.5943,
+      "lon": 8.8765,
+      "population": 588
+    },
+    {
+      "insee": "2B023",
+      "nom": "Asco",
+      "lat": 42.4386,
+      "lon": 8.9924,
+      "population": 116
+    },
+    {
+      "insee": "2B025",
+      "nom": "Avapessa",
+      "lat": 42.5592,
+      "lon": 8.8962,
+      "population": 80
+    },
+    {
+      "insee": "2B029",
+      "nom": "Barbaggio",
+      "lat": 42.6826,
+      "lon": 9.3636,
+      "population": 362
+    },
+    {
+      "insee": "2B030",
+      "nom": "Barrettali",
+      "lat": 42.8732,
+      "lon": 9.3614,
+      "population": 174
+    },
+    {
+      "insee": "2B033",
+      "nom": "Bastia",
+      "lat": 42.6861,
+      "lon": 9.424,
+      "population": 46867
+    },
+    {
+      "insee": "2B034",
+      "nom": "Belgodère",
+      "lat": 42.6085,
+      "lon": 9.0196,
+      "population": 835
+    },
+    {
+      "insee": "2B036",
+      "nom": "Bigorno",
+      "lat": 42.5274,
+      "lon": 9.3044,
+      "population": 97
+    },
+    {
+      "insee": "2B037",
+      "nom": "Biguglia",
+      "lat": 42.6133,
+      "lon": 9.4401,
+      "population": 7642
+    },
+    {
+      "insee": "2B039",
+      "nom": "Bisinchi",
+      "lat": 42.4816,
+      "lon": 9.3137,
+      "population": 183
+    },
+    {
+      "insee": "2B042",
+      "nom": "Borgo",
+      "lat": 42.5809,
+      "lon": 9.4546,
+      "population": 10311
+    },
+    {
+      "insee": "2B043",
+      "nom": "Brando",
+      "lat": 42.7771,
+      "lon": 9.4527,
+      "population": 1584
+    },
+    {
+      "insee": "2B045",
+      "nom": "Bustanico",
+      "lat": 42.326,
+      "lon": 9.3112,
+      "population": 65
+    },
+    {
+      "insee": "2B046",
+      "nom": "Cagnano",
+      "lat": 42.8725,
+      "lon": 9.4431,
+      "population": 148
+    },
+    {
+      "insee": "2B047",
+      "nom": "Calacuccia",
+      "lat": 42.3242,
+      "lon": 9.0345,
+      "population": 272
+    },
+    {
+      "insee": "2B049",
+      "nom": "Calenzana",
+      "lat": 42.4736,
+      "lon": 8.7864,
+      "population": 2684
+    },
+    {
+      "insee": "2B050",
+      "nom": "Calvi",
+      "lat": 42.5498,
+      "lon": 8.7611,
+      "population": 5788
+    },
+    {
+      "insee": "2B051",
+      "nom": "Cambia",
+      "lat": 42.367,
+      "lon": 9.303,
+      "population": 61
+    },
+    {
+      "insee": "2B052",
+      "nom": "Campana",
+      "lat": 42.3892,
+      "lon": 9.3418,
+      "population": 22
+    },
+    {
+      "insee": "2B053",
+      "nom": "Campi",
+      "lat": 42.268,
+      "lon": 9.424,
+      "population": 19
+    },
+    {
+      "insee": "2B054",
+      "nom": "Campile",
+      "lat": 42.4947,
+      "lon": 9.3575,
+      "population": 181
+    },
+    {
+      "insee": "2B055",
+      "nom": "Campitello",
+      "lat": 42.5272,
+      "lon": 9.3279,
+      "population": 107
+    },
+    {
+      "insee": "2B057",
+      "nom": "Canale-di-Verde",
+      "lat": 42.2634,
+      "lon": 9.4997,
+      "population": 302
+    },
+    {
+      "insee": "2B058",
+      "nom": "Canari",
+      "lat": 42.8393,
+      "lon": 9.3506,
+      "population": 305
+    },
+    {
+      "insee": "2B059",
+      "nom": "Canavaggia",
+      "lat": 42.4987,
+      "lon": 9.2341,
+      "population": 123
+    },
+    {
+      "insee": "2B063",
+      "nom": "Carcheto-Brustico",
+      "lat": 42.3554,
+      "lon": 9.3593,
+      "population": 57
+    },
+    {
+      "insee": "2B067",
+      "nom": "Carpineto",
+      "lat": 42.3561,
+      "lon": 9.3793,
+      "population": 38
+    },
+    {
+      "insee": "2B068",
+      "nom": "Carticasi",
+      "lat": 42.3485,
+      "lon": 9.3052,
+      "population": 25
+    },
+    {
+      "insee": "2B069",
+      "nom": "Casabianca",
+      "lat": 42.4467,
+      "lon": 9.3748,
+      "population": 123
+    },
+    {
+      "insee": "2B072",
+      "nom": "Casalta",
+      "lat": 42.4367,
+      "lon": 9.4258,
+      "population": 51
+    },
+    {
+      "insee": "2B073",
+      "nom": "Casamaccioli",
+      "lat": 42.2832,
+      "lon": 8.9828,
+      "population": 115
+    },
+    {
+      "insee": "2B074",
+      "nom": "Casanova",
+      "lat": 42.2589,
+      "lon": 9.1502,
+      "population": 384
+    },
+    {
+      "insee": "2B075",
+      "nom": "Casevecchie",
+      "lat": 42.1368,
+      "lon": 9.3678,
+      "population": 69
+    },
+    {
+      "insee": "2B077",
+      "nom": "Castellare-di-Casinca",
+      "lat": 42.4718,
+      "lon": 9.5003,
+      "population": 701
+    },
+    {
+      "insee": "2B078",
+      "nom": "Castellare-di-Mercurio",
+      "lat": 42.3121,
+      "lon": 9.2439,
+      "population": 31
+    },
+    {
+      "insee": "2B079",
+      "nom": "Castello-di-Rostino",
+      "lat": 42.4732,
+      "lon": 9.2967,
+      "population": 522
+    },
+    {
+      "insee": "2B080",
+      "nom": "Castifao",
+      "lat": 42.5308,
+      "lon": 9.1339,
+      "population": 168
+    },
+    {
+      "insee": "2B081",
+      "nom": "Castiglione",
+      "lat": 42.4084,
+      "lon": 9.1129,
+      "population": 40
+    },
+    {
+      "insee": "2B082",
+      "nom": "Castineta",
+      "lat": 42.4254,
+      "lon": 9.2732,
+      "population": 34
+    },
+    {
+      "insee": "2B083",
+      "nom": "Castirla",
+      "lat": 42.3666,
+      "lon": 9.1246,
+      "population": 166
+    },
+    {
+      "insee": "2B084",
+      "nom": "Cateri",
+      "lat": 42.5678,
+      "lon": 8.897,
+      "population": 247
+    },
+    {
+      "insee": "2B086",
+      "nom": "Centuri",
+      "lat": 42.9715,
+      "lon": 9.3685,
+      "population": 175
+    },
+    {
+      "insee": "2B087",
+      "nom": "Cervione",
+      "lat": 42.3193,
+      "lon": 9.5114,
+      "population": 2149
+    },
+    {
+      "insee": "2B088",
+      "nom": "Chiatra",
+      "lat": 42.2854,
+      "lon": 9.4867,
+      "population": 231
+    },
+    {
+      "insee": "2B366",
+      "nom": "Chisa",
+      "lat": 41.9132,
+      "lon": 9.2626,
+      "population": 104
+    },
+    {
+      "insee": "2B093",
+      "nom": "Corbara",
+      "lat": 42.6197,
+      "lon": 8.8995,
+      "population": 962
+    },
+    {
+      "insee": "2B095",
+      "nom": "Corscia",
+      "lat": 42.3627,
+      "lon": 9.0453,
+      "population": 123
+    },
+    {
+      "insee": "2B096",
+      "nom": "Corte",
+      "lat": 42.2737,
+      "lon": 9.0691,
+      "population": 7819
+    },
+    {
+      "insee": "2B097",
+      "nom": "Costa",
+      "lat": 42.5764,
+      "lon": 8.9986,
+      "population": 49
+    },
+    {
+      "insee": "2B101",
+      "nom": "Croce",
+      "lat": 42.4081,
+      "lon": 9.3578,
+      "population": 78
+    },
+    {
+      "insee": "2B102",
+      "nom": "Crocicchia",
+      "lat": 42.4737,
+      "lon": 9.3528,
+      "population": 81
+    },
+    {
+      "insee": "2B105",
+      "nom": "Erbajolo",
+      "lat": 42.252,
+      "lon": 9.2642,
+      "population": 90
+    },
+    {
+      "insee": "2B106",
+      "nom": "Érone",
+      "lat": 42.3755,
+      "lon": 9.2665,
+      "population": 9
+    },
+    {
+      "insee": "2B107",
+      "nom": "Ersa",
+      "lat": 42.9913,
+      "lon": 9.3791,
+      "population": 124
+    },
+    {
+      "insee": "2B109",
+      "nom": "Farinole",
+      "lat": 42.7306,
+      "lon": 9.3631,
+      "population": 236
+    },
+    {
+      "insee": "2B110",
+      "nom": "Favalello",
+      "lat": 42.2886,
+      "lon": 9.2519,
+      "population": 71
+    },
+    {
+      "insee": "2B111",
+      "nom": "Felce",
+      "lat": 42.3467,
+      "lon": 9.4278,
+      "population": 54
+    },
+    {
+      "insee": "2B112",
+      "nom": "Feliceto",
+      "lat": 42.5515,
+      "lon": 8.9415,
+      "population": 232
+    },
+    {
+      "insee": "2B113",
+      "nom": "Ficaja",
+      "lat": 42.4205,
+      "lon": 9.3777,
+      "population": 54
+    },
+    {
+      "insee": "2B116",
+      "nom": "Focicchia",
+      "lat": 42.2472,
+      "lon": 9.2856,
+      "population": 36
+    },
+    {
+      "insee": "2B120",
+      "nom": "Furiani",
+      "lat": 42.6548,
+      "lon": 9.4213,
+      "population": 6585
+    },
+    {
+      "insee": "2B121",
+      "nom": "Galéria",
+      "lat": 42.4048,
+      "lon": 8.706,
+      "population": 395
+    },
+    {
+      "insee": "2B122",
+      "nom": "Gavignano",
+      "lat": 42.4228,
+      "lon": 9.2642,
+      "population": 61
+    },
+    {
+      "insee": "2B123",
+      "nom": "Ghisonaccia",
+      "lat": 42.0454,
+      "lon": 9.4192,
+      "population": 4405
+    },
+    {
+      "insee": "2B124",
+      "nom": "Ghisoni",
+      "lat": 42.094,
+      "lon": 9.2365,
+      "population": 182
+    },
+    {
+      "insee": "2B125",
+      "nom": "Giocatojo",
+      "lat": 42.4442,
+      "lon": 9.3439,
+      "population": 46
+    },
+    {
+      "insee": "2B126",
+      "nom": "Giuncaggio",
+      "lat": 42.1829,
+      "lon": 9.398,
+      "population": 91
+    },
+    {
+      "insee": "2B135",
+      "nom": "Isolaccio-di-Fiumorbo",
+      "lat": 42.0169,
+      "lon": 9.2694,
+      "population": 330
+    },
+    {
+      "insee": "2B134",
+      "nom": "L'Île-Rousse",
+      "lat": 42.6344,
+      "lon": 8.9364,
+      "population": 3231
+    },
+    {
+      "insee": "2B246",
+      "nom": "La Porta",
+      "lat": 42.4271,
+      "lon": 9.3602,
+      "population": 187
+    },
+    {
+      "insee": "2B136",
+      "nom": "Lama",
+      "lat": 42.5831,
+      "lon": 9.169,
+      "population": 155
+    },
+    {
+      "insee": "2B137",
+      "nom": "Lano",
+      "lat": 42.3753,
+      "lon": 9.2298,
+      "population": 21
+    },
+    {
+      "insee": "2B138",
+      "nom": "Lavatoggio",
+      "lat": 42.5754,
+      "lon": 8.8624,
+      "population": 154
+    },
+    {
+      "insee": "2B140",
+      "nom": "Lento",
+      "lat": 42.5259,
+      "lon": 9.2642,
+      "population": 117
+    },
+    {
+      "insee": "2B143",
+      "nom": "Linguizzetta",
+      "lat": 42.2144,
+      "lon": 9.5014,
+      "population": 1166
+    },
+    {
+      "insee": "2B145",
+      "nom": "Loreto-di-Casinca",
+      "lat": 42.4767,
+      "lon": 9.4268,
+      "population": 188
+    },
+    {
+      "insee": "2B147",
+      "nom": "Lozzi",
+      "lat": 42.3624,
+      "lon": 8.9773,
+      "population": 110
+    },
+    {
+      "insee": "2B148",
+      "nom": "Lucciana",
+      "lat": 42.5393,
+      "lon": 9.465,
+      "population": 6923
+    },
+    {
+      "insee": "2B149",
+      "nom": "Lugo-di-Nazza",
+      "lat": 42.0722,
+      "lon": 9.3225,
+      "population": 85
+    },
+    {
+      "insee": "2B150",
+      "nom": "Lumio",
+      "lat": 42.5801,
+      "lon": 8.8262,
+      "population": 1224
+    },
+    {
+      "insee": "2B152",
+      "nom": "Luri",
+      "lat": 42.8912,
+      "lon": 9.4192,
+      "population": 872
+    },
+    {
+      "insee": "2B153",
+      "nom": "Manso",
+      "lat": 42.3686,
+      "lon": 8.814,
+      "population": 116
+    },
+    {
+      "insee": "2B155",
+      "nom": "Matra",
+      "lat": 42.2823,
+      "lon": 9.3866,
+      "population": 54
+    },
+    {
+      "insee": "2B156",
+      "nom": "Mausoléo",
+      "lat": 42.498,
+      "lon": 8.968,
+      "population": 24
+    },
+    {
+      "insee": "2B157",
+      "nom": "Mazzola",
+      "lat": 42.306,
+      "lon": 9.3251,
+      "population": 22
+    },
+    {
+      "insee": "2B159",
+      "nom": "Meria",
+      "lat": 42.9179,
+      "lon": 9.4319,
+      "population": 81
+    },
+    {
+      "insee": "2B161",
+      "nom": "Moïta",
+      "lat": 42.2802,
+      "lon": 9.4136,
+      "population": 59
+    },
+    {
+      "insee": "2B162",
+      "nom": "Moltifao",
+      "lat": 42.469,
+      "lon": 9.1248,
+      "population": 735
+    },
+    {
+      "insee": "2B164",
+      "nom": "Monacia-d'Orezza",
+      "lat": 42.3818,
+      "lon": 9.407,
+      "population": 25
+    },
+    {
+      "insee": "2B165",
+      "nom": "Moncale",
+      "lat": 42.5024,
+      "lon": 8.8212,
+      "population": 348
+    },
+    {
+      "insee": "2B166",
+      "nom": "Monte",
+      "lat": 42.4874,
+      "lon": 9.4118,
+      "population": 650
+    },
+    {
+      "insee": "2B167",
+      "nom": "Montegrosso",
+      "lat": 42.5445,
+      "lon": 8.8542,
+      "population": 413
+    },
+    {
+      "insee": "2B168",
+      "nom": "Monticello",
+      "lat": 42.6213,
+      "lon": 8.9613,
+      "population": 2065
+    },
+    {
+      "insee": "2B169",
+      "nom": "Morosaglia",
+      "lat": 42.45,
+      "lon": 9.2514,
+      "population": 961
+    },
+    {
+      "insee": "2B170",
+      "nom": "Morsiglia",
+      "lat": 42.9363,
+      "lon": 9.3742,
+      "population": 109
+    },
+    {
+      "insee": "2B171",
+      "nom": "Muracciole",
+      "lat": 42.1701,
+      "lon": 9.1938,
+      "population": 33
+    },
+    {
+      "insee": "2B172",
+      "nom": "Murato",
+      "lat": 42.572,
+      "lon": 9.3302,
+      "population": 560
+    },
+    {
+      "insee": "2B173",
+      "nom": "Muro",
+      "lat": 42.5454,
+      "lon": 8.915,
+      "population": 243
+    },
+    {
+      "insee": "2B175",
+      "nom": "Nessa",
+      "lat": 42.5517,
+      "lon": 8.9576,
+      "population": 122
+    },
+    {
+      "insee": "2B176",
+      "nom": "Nocario",
+      "lat": 42.3929,
+      "lon": 9.3466,
+      "population": 74
+    },
+    {
+      "insee": "2B177",
+      "nom": "Noceta",
+      "lat": 42.1966,
+      "lon": 9.21,
+      "population": 73
+    },
+    {
+      "insee": "2B178",
+      "nom": "Nonza",
+      "lat": 42.784,
+      "lon": 9.3594,
+      "population": 62
+    },
+    {
+      "insee": "2B179",
+      "nom": "Novale",
+      "lat": 42.3034,
+      "lon": 9.411,
+      "population": 57
+    },
+    {
+      "insee": "2B180",
+      "nom": "Novella",
+      "lat": 42.6035,
+      "lon": 9.1028,
+      "population": 80
+    },
+    {
+      "insee": "2B182",
+      "nom": "Occhiatana",
+      "lat": 42.5952,
+      "lon": 9.0056,
+      "population": 235
+    },
+    {
+      "insee": "2B183",
+      "nom": "Ogliastro",
+      "lat": 42.8216,
+      "lon": 9.3565,
+      "population": 90
+    },
+    {
+      "insee": "2B184",
+      "nom": "Olcani",
+      "lat": 42.8074,
+      "lon": 9.3861,
+      "population": 96
+    },
+    {
+      "insee": "2B185",
+      "nom": "Oletta",
+      "lat": 42.6451,
+      "lon": 9.3453,
+      "population": 1780
+    },
+    {
+      "insee": "2B187",
+      "nom": "Olmeta-di-Capocorso",
+      "lat": 42.7643,
+      "lon": 9.3791,
+      "population": 123
+    },
+    {
+      "insee": "2B188",
+      "nom": "Olmeta-di-Tuda",
+      "lat": 42.6095,
+      "lon": 9.3612,
+      "population": 583
+    },
+    {
+      "insee": "2B190",
+      "nom": "Olmi-Cappella",
+      "lat": 42.5231,
+      "lon": 9.0107,
+      "population": 190
+    },
+    {
+      "insee": "2B192",
+      "nom": "Olmo",
+      "lat": 42.5018,
+      "lon": 9.4139,
+      "population": 138
+    },
+    {
+      "insee": "2B193",
+      "nom": "Omessa",
+      "lat": 42.387,
+      "lon": 9.1946,
+      "population": 595
+    },
+    {
+      "insee": "2B194",
+      "nom": "Ortale",
+      "lat": 42.3105,
+      "lon": 9.4365,
+      "population": 25
+    },
+    {
+      "insee": "2B195",
+      "nom": "Ortiporio",
+      "lat": 42.4568,
+      "lon": 9.3457,
+      "population": 139
+    },
+    {
+      "insee": "2B199",
+      "nom": "Palasca",
+      "lat": 42.6358,
+      "lon": 9.061,
+      "population": 222
+    },
+    {
+      "insee": "2B201",
+      "nom": "Pancheraccia",
+      "lat": 42.1891,
+      "lon": 9.4093,
+      "population": 198
+    },
+    {
+      "insee": "2B202",
+      "nom": "Parata",
+      "lat": 42.3658,
+      "lon": 9.4174,
+      "population": 22
+    },
+    {
+      "insee": "2B205",
+      "nom": "Patrimonio",
+      "lat": 42.7092,
+      "lon": 9.3647,
+      "population": 897
+    },
+    {
+      "insee": "2B206",
+      "nom": "Penta-Acquatella",
+      "lat": 42.4651,
+      "lon": 9.3729,
+      "population": 41
+    },
+    {
+      "insee": "2B207",
+      "nom": "Penta-di-Casinca",
+      "lat": 42.4565,
+      "lon": 9.4888,
+      "population": 3671
+    },
+    {
+      "insee": "2B208",
+      "nom": "Perelli",
+      "lat": 42.3145,
+      "lon": 9.3876,
+      "population": 109
+    },
+    {
+      "insee": "2B210",
+      "nom": "Pero-Casevecchie",
+      "lat": 42.4168,
+      "lon": 9.464,
+      "population": 109
+    },
+    {
+      "insee": "2B213",
+      "nom": "Pianello",
+      "lat": 42.3004,
+      "lon": 9.3577,
+      "population": 53
+    },
+    {
+      "insee": "2B214",
+      "nom": "Piano",
+      "lat": 42.4407,
+      "lon": 9.3964,
+      "population": 17
+    },
+    {
+      "insee": "2B216",
+      "nom": "Piazzali",
+      "lat": 42.3196,
+      "lon": 9.4046,
+      "population": 19
+    },
+    {
+      "insee": "2B217",
+      "nom": "Piazzole",
+      "lat": 42.3946,
+      "lon": 9.4058,
+      "population": 50
+    },
+    {
+      "insee": "2B222",
+      "nom": "Pie-d'Orezza",
+      "lat": 42.3756,
+      "lon": 9.3404,
+      "population": 35
+    },
+    {
+      "insee": "2B218",
+      "nom": "Piedicorte-di-Gaggio",
+      "lat": 42.2175,
+      "lon": 9.3223,
+      "population": 114
+    },
+    {
+      "insee": "2B219",
+      "nom": "Piedicroce",
+      "lat": 42.3847,
+      "lon": 9.367,
+      "population": 81
+    },
+    {
+      "insee": "2B220",
+      "nom": "Piedigriggio",
+      "lat": 42.4456,
+      "lon": 9.1798,
+      "population": 164
+    },
+    {
+      "insee": "2B221",
+      "nom": "Piedipartino",
+      "lat": 42.3569,
+      "lon": 9.3483,
+      "population": 19
+    },
+    {
+      "insee": "2B225",
+      "nom": "Pietra-di-Verde",
+      "lat": 42.2898,
+      "lon": 9.4443,
+      "population": 102
+    },
+    {
+      "insee": "2B224",
+      "nom": "Pietracorbara",
+      "lat": 42.8459,
+      "lon": 9.4361,
+      "population": 652
+    },
+    {
+      "insee": "2B223",
+      "nom": "Pietralba",
+      "lat": 42.5427,
+      "lon": 9.1778,
+      "population": 507
+    },
+    {
+      "insee": "2B226",
+      "nom": "Pietraserena",
+      "lat": 42.2346,
+      "lon": 9.36,
+      "population": 62
+    },
+    {
+      "insee": "2B227",
+      "nom": "Pietricaggio",
+      "lat": 42.3283,
+      "lon": 9.378,
+      "population": 32
+    },
+    {
+      "insee": "2B229",
+      "nom": "Pietroso",
+      "lat": 42.1231,
+      "lon": 9.3123,
+      "population": 334
+    },
+    {
+      "insee": "2B230",
+      "nom": "Piève",
+      "lat": 42.5991,
+      "lon": 9.2838,
+      "population": 115
+    },
+    {
+      "insee": "2B231",
+      "nom": "Pigna",
+      "lat": 42.6003,
+      "lon": 8.9,
+      "population": 128
+    },
+    {
+      "insee": "2B233",
+      "nom": "Pino",
+      "lat": 42.9063,
+      "lon": 9.3518,
+      "population": 148
+    },
+    {
+      "insee": "2B234",
+      "nom": "Piobetta",
+      "lat": 42.3409,
+      "lon": 9.3693,
+      "population": 20
+    },
+    {
+      "insee": "2B235",
+      "nom": "Pioggiola",
+      "lat": 42.5251,
+      "lon": 8.9696,
+      "population": 87
+    },
+    {
+      "insee": "2B239",
+      "nom": "Poggio-d'Oletta",
+      "lat": 42.6558,
+      "lon": 9.3566,
+      "population": 215
+    },
+    {
+      "insee": "2B236",
+      "nom": "Poggio-di-Nazza",
+      "lat": 42.0539,
+      "lon": 9.2998,
+      "population": 187
+    },
+    {
+      "insee": "2B238",
+      "nom": "Poggio-di-Venaco",
+      "lat": 42.269,
+      "lon": 9.2048,
+      "population": 211
+    },
+    {
+      "insee": "2B241",
+      "nom": "Poggio-Marinaccio",
+      "lat": 42.4374,
+      "lon": 9.3493,
+      "population": 38
+    },
+    {
+      "insee": "2B242",
+      "nom": "Poggio-Mezzana",
+      "lat": 42.4009,
+      "lon": 9.5121,
+      "population": 885
+    },
+    {
+      "insee": "2B243",
+      "nom": "Polveroso",
+      "lat": 42.4011,
+      "lon": 9.3625,
+      "population": 31
+    },
+    {
+      "insee": "2B244",
+      "nom": "Popolasca",
+      "lat": 42.4379,
+      "lon": 9.1328,
+      "population": 41
+    },
+    {
+      "insee": "2B245",
+      "nom": "Porri",
+      "lat": 42.4486,
+      "lon": 9.4445,
+      "population": 44
+    },
+    {
+      "insee": "2B248",
+      "nom": "Prato-di-Giovellina",
+      "lat": 42.418,
+      "lon": 9.1751,
+      "population": 52
+    },
+    {
+      "insee": "2B250",
+      "nom": "Prunelli-di-Casacconi",
+      "lat": 42.5094,
+      "lon": 9.4043,
+      "population": 151
+    },
+    {
+      "insee": "2B251",
+      "nom": "Prunelli-di-Fiumorbo",
+      "lat": 42.0069,
+      "lon": 9.3749,
+      "population": 3880
+    },
+    {
+      "insee": "2B252",
+      "nom": "Pruno",
+      "lat": 42.4268,
+      "lon": 9.4473,
+      "population": 180
+    },
+    {
+      "insee": "2B255",
+      "nom": "Quercitello",
+      "lat": 42.4279,
+      "lon": 9.3511,
+      "population": 53
+    },
+    {
+      "insee": "2B256",
+      "nom": "Rapaggio",
+      "lat": 42.3768,
+      "lon": 9.3847,
+      "population": 32
+    },
+    {
+      "insee": "2B257",
+      "nom": "Rapale",
+      "lat": 42.625,
+      "lon": 9.2972,
+      "population": 162
+    },
+    {
+      "insee": "2B260",
+      "nom": "Riventosa",
+      "lat": 42.2484,
+      "lon": 9.2061,
+      "population": 145
+    },
+    {
+      "insee": "2B261",
+      "nom": "Rogliano",
+      "lat": 42.974,
+      "lon": 9.4323,
+      "population": 530
+    },
+    {
+      "insee": "2B263",
+      "nom": "Rospigliani",
+      "lat": 42.1922,
+      "lon": 9.2387,
+      "population": 70
+    },
+    {
+      "insee": "2B264",
+      "nom": "Rusio",
+      "lat": 42.3501,
+      "lon": 9.2572,
+      "population": 65
+    },
+    {
+      "insee": "2B265",
+      "nom": "Rutali",
+      "lat": 42.5809,
+      "lon": 9.3829,
+      "population": 531
+    },
+    {
+      "insee": "2B298",
+      "nom": "Saint-Florent",
+      "lat": 42.689,
+      "lon": 9.2797,
+      "population": 1694
+    },
+    {
+      "insee": "2B267",
+      "nom": "Saliceto",
+      "lat": 42.4126,
+      "lon": 9.262,
+      "population": 46
+    },
+    {
+      "insee": "2B297",
+      "nom": "San-Damiano",
+      "lat": 42.4041,
+      "lon": 9.4178,
+      "population": 54
+    },
+    {
+      "insee": "2B299",
+      "nom": "San-Gavino-d'Ampugnani",
+      "lat": 42.4173,
+      "lon": 9.4266,
+      "population": 103
+    },
+    {
+      "insee": "2B365",
+      "nom": "San-Gavino-di-Fiumorbo",
+      "lat": 41.9658,
+      "lon": 9.2565,
+      "population": 99
+    },
+    {
+      "insee": "2B301",
+      "nom": "San-Gavino-di-Tenda",
+      "lat": 42.6448,
+      "lon": 9.1688,
+      "population": 64
+    },
+    {
+      "insee": "2B302",
+      "nom": "San-Giovanni-di-Moriani",
+      "lat": 42.3714,
+      "lon": 9.4607,
+      "population": 102
+    },
+    {
+      "insee": "2B303",
+      "nom": "San-Giuliano",
+      "lat": 42.2844,
+      "lon": 9.5211,
+      "population": 812
+    },
+    {
+      "insee": "2B304",
+      "nom": "San-Lorenzo",
+      "lat": 42.3907,
+      "lon": 9.2916,
+      "population": 138
+    },
+    {
+      "insee": "2B305",
+      "nom": "San-Martino-di-Lota",
+      "lat": 42.7306,
+      "lon": 9.4289,
+      "population": 3056
+    },
+    {
+      "insee": "2B313",
+      "nom": "San-Nicolao",
+      "lat": 42.3687,
+      "lon": 9.5068,
+      "population": 2062
+    },
+    {
+      "insee": "2B292",
+      "nom": "Sant'Andréa-di-Bozio",
+      "lat": 42.2767,
+      "lon": 9.2792,
+      "population": 55
+    },
+    {
+      "insee": "2B293",
+      "nom": "Sant'Andréa-di-Cotone",
+      "lat": 42.3187,
+      "lon": 9.4768,
+      "population": 193
+    },
+    {
+      "insee": "2B296",
+      "nom": "Sant'Antonino",
+      "lat": 42.5861,
+      "lon": 8.9095,
+      "population": 127
+    },
+    {
+      "insee": "2B306",
+      "nom": "Santa-Lucia-di-Mercurio",
+      "lat": 42.3186,
+      "lon": 9.2217,
+      "population": 115
+    },
+    {
+      "insee": "2B307",
+      "nom": "Santa-Lucia-di-Moriani",
+      "lat": 42.3841,
+      "lon": 9.5089,
+      "population": 1514
+    },
+    {
+      "insee": "2B309",
+      "nom": "Santa-Maria-di-Lota",
+      "lat": 42.7544,
+      "lon": 9.428,
+      "population": 1973
+    },
+    {
+      "insee": "2B311",
+      "nom": "Santa-Maria-Poggio",
+      "lat": 42.3499,
+      "lon": 9.509,
+      "population": 807
+    },
+    {
+      "insee": "2B316",
+      "nom": "Santa-Reparata-di-Balagna",
+      "lat": 42.6038,
+      "lon": 8.9332,
+      "population": 1024
+    },
+    {
+      "insee": "2B317",
+      "nom": "Santa-Reparata-di-Moriani",
+      "lat": 42.3515,
+      "lon": 9.4553,
+      "population": 52
+    },
+    {
+      "insee": "2B314",
+      "nom": "Santo-Pietro-di-Tenda",
+      "lat": 42.6676,
+      "lon": 9.1995,
+      "population": 341
+    },
+    {
+      "insee": "2B315",
+      "nom": "Santo-Pietro-di-Venaco",
+      "lat": 42.2472,
+      "lon": 9.1764,
+      "population": 305
+    },
+    {
+      "insee": "2B273",
+      "nom": "Scata",
+      "lat": 42.4225,
+      "lon": 9.4042,
+      "population": 41
+    },
+    {
+      "insee": "2B274",
+      "nom": "Scolca",
+      "lat": 42.5389,
+      "lon": 9.3675,
+      "population": 92
+    },
+    {
+      "insee": "2B275",
+      "nom": "Sermano",
+      "lat": 42.3155,
+      "lon": 9.2637,
+      "population": 72
+    },
+    {
+      "insee": "2B277",
+      "nom": "Serra-di-Fiumorbo",
+      "lat": 41.9668,
+      "lon": 9.3352,
+      "population": 365
+    },
+    {
+      "insee": "2B280",
+      "nom": "Silvareccio",
+      "lat": 42.4514,
+      "lon": 9.4166,
+      "population": 99
+    },
+    {
+      "insee": "2B281",
+      "nom": "Sisco",
+      "lat": 42.8152,
+      "lon": 9.4389,
+      "population": 1182
+    },
+    {
+      "insee": "2B283",
+      "nom": "Solaro",
+      "lat": 41.8789,
+      "lon": 9.3181,
+      "population": 736
+    },
+    {
+      "insee": "2B286",
+      "nom": "Sorbo-Ocagnano",
+      "lat": 42.4811,
+      "lon": 9.483,
+      "population": 904
+    },
+    {
+      "insee": "2B287",
+      "nom": "Sorio",
+      "lat": 42.5781,
+      "lon": 9.2449,
+      "population": 118
+    },
+    {
+      "insee": "2B289",
+      "nom": "Soveria",
+      "lat": 42.3473,
+      "lon": 9.1425,
+      "population": 109
+    },
+    {
+      "insee": "2B290",
+      "nom": "Speloncato",
+      "lat": 42.5757,
+      "lon": 8.9731,
+      "population": 261
+    },
+    {
+      "insee": "2B291",
+      "nom": "Stazzona",
+      "lat": 42.38,
+      "lon": 9.3745,
+      "population": 38
+    },
+    {
+      "insee": "2B318",
+      "nom": "Taglio-Isolaccio",
+      "lat": 42.4336,
+      "lon": 9.5007,
+      "population": 623
+    },
+    {
+      "insee": "2B319",
+      "nom": "Talasani",
+      "lat": 42.4163,
+      "lon": 9.5076,
+      "population": 847
+    },
+    {
+      "insee": "2B320",
+      "nom": "Tallone",
+      "lat": 42.1897,
+      "lon": 9.4697,
+      "population": 288
+    },
+    {
+      "insee": "2B321",
+      "nom": "Tarrano",
+      "lat": 42.3438,
+      "lon": 9.4006,
+      "population": 16
+    },
+    {
+      "insee": "2B327",
+      "nom": "Tomino",
+      "lat": 42.9459,
+      "lon": 9.4448,
+      "population": 184
+    },
+    {
+      "insee": "2B328",
+      "nom": "Tox",
+      "lat": 42.2454,
+      "lon": 9.4436,
+      "population": 96
+    },
+    {
+      "insee": "2B329",
+      "nom": "Tralonca",
+      "lat": 42.3389,
+      "lon": 9.1956,
+      "population": 118
+    },
+    {
+      "insee": "2B332",
+      "nom": "Urtaca",
+      "lat": 42.6257,
+      "lon": 9.1528,
+      "population": 263
+    },
+    {
+      "insee": "2B334",
+      "nom": "Valle-d'Alesani",
+      "lat": 42.3269,
+      "lon": 9.4318,
+      "population": 124
+    },
+    {
+      "insee": "2B338",
+      "nom": "Valle-d'Orezza",
+      "lat": 42.3636,
+      "lon": 9.4058,
+      "population": 25
+    },
+    {
+      "insee": "2B335",
+      "nom": "Valle-di-Campoloro",
+      "lat": 42.3335,
+      "lon": 9.511,
+      "population": 336
+    },
+    {
+      "insee": "2B337",
+      "nom": "Valle-di-Rostino",
+      "lat": 42.46,
+      "lon": 9.2592,
+      "population": 167
+    },
+    {
+      "insee": "2B333",
+      "nom": "Vallecalle",
+      "lat": 42.6003,
+      "lon": 9.3373,
+      "population": 169
+    },
+    {
+      "insee": "2B339",
+      "nom": "Vallica",
+      "lat": 42.5167,
+      "lon": 9.0582,
+      "population": 29
+    },
+    {
+      "insee": "2B340",
+      "nom": "Velone-Orneto",
+      "lat": 42.3874,
+      "lon": 9.4545,
+      "population": 101
+    },
+    {
+      "insee": "2B341",
+      "nom": "Venaco",
+      "lat": 42.2129,
+      "lon": 9.1455,
+      "population": 644
+    },
+    {
+      "insee": "2B342",
+      "nom": "Ventiseri",
+      "lat": 41.9386,
+      "lon": 9.3552,
+      "population": 2629
+    },
+    {
+      "insee": "2B343",
+      "nom": "Venzolasca",
+      "lat": 42.4998,
+      "lon": 9.4887,
+      "population": 1874
+    },
+    {
+      "insee": "2B344",
+      "nom": "Verdèse",
+      "lat": 42.3935,
+      "lon": 9.3738,
+      "population": 42
+    },
+    {
+      "insee": "2B346",
+      "nom": "Vescovato",
+      "lat": 42.5122,
+      "lon": 9.4756,
+      "population": 3406
+    },
+    {
+      "insee": "2B347",
+      "nom": "Vezzani",
+      "lat": 42.1501,
+      "lon": 9.2936,
+      "population": 269
+    },
+    {
+      "insee": "2B350",
+      "nom": "Vignale",
+      "lat": 42.539,
+      "lon": 9.3997,
+      "population": 222
+    },
+    {
+      "insee": "2B352",
+      "nom": "Ville-di-Paraso",
+      "lat": 42.5845,
+      "lon": 8.9917,
+      "population": 205
+    },
+    {
+      "insee": "2B353",
+      "nom": "Ville-di-Pietrabugno",
+      "lat": 42.7165,
+      "lon": 9.4263,
+      "population": 3215
+    },
+    {
+      "insee": "2B354",
+      "nom": "Vivario",
+      "lat": 42.1429,
+      "lon": 9.1139,
+      "population": 409
+    },
+    {
+      "insee": "2B355",
+      "nom": "Volpajola",
+      "lat": 42.5237,
+      "lon": 9.3699,
+      "population": 418
+    },
+    {
+      "insee": "2B356",
+      "nom": "Zalana",
+      "lat": 42.253,
+      "lon": 9.3837,
+      "population": 153
+    },
+    {
+      "insee": "2B361",
+      "nom": "Zilia",
+      "lat": 42.5181,
+      "lon": 8.8989,
+      "population": 320
+    },
+    {
+      "insee": "2B364",
+      "nom": "Zuani",
+      "lat": 42.2651,
+      "lon": 9.342,
+      "population": 37
+    }
+  ]
+}

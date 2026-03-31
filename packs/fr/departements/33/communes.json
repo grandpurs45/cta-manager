@@ -1,0 +1,3745 @@
+{
+  "country": "FR",
+  "departmentCode": "33",
+  "label": "Departement 33",
+  "communes": [
+    {
+      "insee": "33001",
+      "nom": "Abzac",
+      "lat": 45.0123,
+      "lon": -0.1281,
+      "population": 2048
+    },
+    {
+      "insee": "33002",
+      "nom": "Aillas",
+      "lat": 44.4848,
+      "lon": -0.0673,
+      "population": 786
+    },
+    {
+      "insee": "33003",
+      "nom": "Ambarès-et-Lagrave",
+      "lat": 44.9517,
+      "lon": -0.5,
+      "population": 17644
+    },
+    {
+      "insee": "33004",
+      "nom": "Ambès",
+      "lat": 45.0123,
+      "lon": -0.5486,
+      "population": 3313
+    },
+    {
+      "insee": "33005",
+      "nom": "Andernos-les-Bains",
+      "lat": 44.7529,
+      "lon": -1.082,
+      "population": 12710
+    },
+    {
+      "insee": "33006",
+      "nom": "Anglade",
+      "lat": 45.2123,
+      "lon": -0.6414,
+      "population": 887
+    },
+    {
+      "insee": "33007",
+      "nom": "Arbanats",
+      "lat": 44.6679,
+      "lon": -0.4025,
+      "population": 1357
+    },
+    {
+      "insee": "33009",
+      "nom": "Arcachon",
+      "lat": 44.6515,
+      "lon": -1.1718,
+      "population": 11092
+    },
+    {
+      "insee": "33010",
+      "nom": "Arcins",
+      "lat": 45.0762,
+      "lon": -0.7071,
+      "population": 540
+    },
+    {
+      "insee": "33011",
+      "nom": "Arès",
+      "lat": 44.7997,
+      "lon": -1.0837,
+      "population": 6482
+    },
+    {
+      "insee": "33012",
+      "nom": "Arsac",
+      "lat": 44.9869,
+      "lon": -0.7018,
+      "population": 4124
+    },
+    {
+      "insee": "33013",
+      "nom": "Artigues-près-Bordeaux",
+      "lat": 44.8592,
+      "lon": -0.4878,
+      "population": 8687
+    },
+    {
+      "insee": "33015",
+      "nom": "Arveyres",
+      "lat": 44.89,
+      "lon": -0.2798,
+      "population": 2056
+    },
+    {
+      "insee": "33016",
+      "nom": "Asques",
+      "lat": 44.9487,
+      "lon": -0.4248,
+      "population": 440
+    },
+    {
+      "insee": "33017",
+      "nom": "Aubiac",
+      "lat": 44.4713,
+      "lon": -0.2438,
+      "population": 317
+    },
+    {
+      "insee": "33019",
+      "nom": "Audenge",
+      "lat": 44.7133,
+      "lon": -0.9533,
+      "population": 9596
+    },
+    {
+      "insee": "33020",
+      "nom": "Auriolles",
+      "lat": 44.7333,
+      "lon": 0.0444,
+      "population": 136
+    },
+    {
+      "insee": "33021",
+      "nom": "Auros",
+      "lat": 44.5117,
+      "lon": -0.159,
+      "population": 1072
+    },
+    {
+      "insee": "33022",
+      "nom": "Avensan",
+      "lat": 45.0033,
+      "lon": -0.7574,
+      "population": 3140
+    },
+    {
+      "insee": "33023",
+      "nom": "Ayguemorte-les-Graves",
+      "lat": 44.7027,
+      "lon": -0.4857,
+      "population": 1425
+    },
+    {
+      "insee": "33024",
+      "nom": "Bagas",
+      "lat": 44.6186,
+      "lon": -0.0501,
+      "population": 283
+    },
+    {
+      "insee": "33025",
+      "nom": "Baigneaux",
+      "lat": 44.7246,
+      "lon": -0.1957,
+      "population": 451
+    },
+    {
+      "insee": "33026",
+      "nom": "Balizac",
+      "lat": 44.4878,
+      "lon": -0.45,
+      "population": 520
+    },
+    {
+      "insee": "33027",
+      "nom": "Barie",
+      "lat": 44.5721,
+      "lon": -0.1131,
+      "population": 274
+    },
+    {
+      "insee": "33028",
+      "nom": "Baron",
+      "lat": 44.8218,
+      "lon": -0.318,
+      "population": 1218
+    },
+    {
+      "insee": "33030",
+      "nom": "Barsac",
+      "lat": 44.6036,
+      "lon": -0.3259,
+      "population": 2058
+    },
+    {
+      "insee": "33031",
+      "nom": "Bassanne",
+      "lat": 44.5598,
+      "lon": -0.0944,
+      "population": 131
+    },
+    {
+      "insee": "33032",
+      "nom": "Bassens",
+      "lat": 44.9068,
+      "lon": -0.526,
+      "population": 8435
+    },
+    {
+      "insee": "33033",
+      "nom": "Baurech",
+      "lat": 44.725,
+      "lon": -0.4303,
+      "population": 907
+    },
+    {
+      "insee": "33034",
+      "nom": "Bayas",
+      "lat": 45.0736,
+      "lon": -0.2048,
+      "population": 453
+    },
+    {
+      "insee": "33035",
+      "nom": "Bayon-sur-Gironde",
+      "lat": 45.0421,
+      "lon": -0.6094,
+      "population": 734
+    },
+    {
+      "insee": "33036",
+      "nom": "Bazas",
+      "lat": 44.4409,
+      "lon": -0.2177,
+      "population": 4854
+    },
+    {
+      "insee": "33037",
+      "nom": "Beautiran",
+      "lat": 44.7035,
+      "lon": -0.4604,
+      "population": 2488
+    },
+    {
+      "insee": "33038",
+      "nom": "Bégadan",
+      "lat": 45.3784,
+      "lon": -0.8778,
+      "population": 893
+    },
+    {
+      "insee": "33039",
+      "nom": "Bègles",
+      "lat": 44.803,
+      "lon": -0.5485,
+      "population": 31831
+    },
+    {
+      "insee": "33040",
+      "nom": "Béguey",
+      "lat": 44.6494,
+      "lon": -0.326,
+      "population": 1308
+    },
+    {
+      "insee": "33042",
+      "nom": "Belin-Béliet",
+      "lat": 44.4959,
+      "lon": -0.7989,
+      "population": 6275
+    },
+    {
+      "insee": "33043",
+      "nom": "Bellebat",
+      "lat": 44.7367,
+      "lon": -0.2226,
+      "population": 329
+    },
+    {
+      "insee": "33044",
+      "nom": "Bellefond",
+      "lat": 44.768,
+      "lon": -0.1738,
+      "population": 213
+    },
+    {
+      "insee": "33045",
+      "nom": "Belvès-de-Castillon",
+      "lat": 44.8785,
+      "lon": -0.0257,
+      "population": 327
+    },
+    {
+      "insee": "33046",
+      "nom": "Bernos-Beaulac",
+      "lat": 44.3641,
+      "lon": -0.259,
+      "population": 1131
+    },
+    {
+      "insee": "33047",
+      "nom": "Berson",
+      "lat": 45.1188,
+      "lon": -0.5782,
+      "population": 1846
+    },
+    {
+      "insee": "33048",
+      "nom": "Berthez",
+      "lat": 44.4826,
+      "lon": -0.1288,
+      "population": 301
+    },
+    {
+      "insee": "33049",
+      "nom": "Beychac-et-Caillau",
+      "lat": 44.8708,
+      "lon": -0.3726,
+      "population": 2625
+    },
+    {
+      "insee": "33050",
+      "nom": "Bieujac",
+      "lat": 44.5407,
+      "lon": -0.1525,
+      "population": 654
+    },
+    {
+      "insee": "33051",
+      "nom": "Biganos",
+      "lat": 44.6599,
+      "lon": -0.9582,
+      "population": 11431
+    },
+    {
+      "insee": "33053",
+      "nom": "Birac",
+      "lat": 44.4144,
+      "lon": -0.1457,
+      "population": 240
+    },
+    {
+      "insee": "33054",
+      "nom": "Blaignac",
+      "lat": 44.5488,
+      "lon": -0.052,
+      "population": 335
+    },
+    {
+      "insee": "33055",
+      "nom": "Blaignan-Prignac",
+      "lat": 45.321,
+      "lon": -0.8882,
+      "population": 450
+    },
+    {
+      "insee": "33056",
+      "nom": "Blanquefort",
+      "lat": 44.9216,
+      "lon": -0.61,
+      "population": 17215
+    },
+    {
+      "insee": "33057",
+      "nom": "Blasimon",
+      "lat": 44.7523,
+      "lon": -0.0895,
+      "population": 959
+    },
+    {
+      "insee": "33058",
+      "nom": "Blaye",
+      "lat": 45.1311,
+      "lon": -0.667,
+      "population": 5066
+    },
+    {
+      "insee": "33059",
+      "nom": "Blésignac",
+      "lat": 44.7786,
+      "lon": -0.2537,
+      "population": 313
+    },
+    {
+      "insee": "33060",
+      "nom": "Bommes",
+      "lat": 44.5546,
+      "lon": -0.3454,
+      "population": 459
+    },
+    {
+      "insee": "33061",
+      "nom": "Bonnetan",
+      "lat": 44.8207,
+      "lon": -0.4091,
+      "population": 1065
+    },
+    {
+      "insee": "33062",
+      "nom": "Bonzac",
+      "lat": 45.0089,
+      "lon": -0.2238,
+      "population": 805
+    },
+    {
+      "insee": "33063",
+      "nom": "Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "population": 267991
+    },
+    {
+      "insee": "33064",
+      "nom": "Bossugan",
+      "lat": 44.7911,
+      "lon": -0.0517,
+      "population": 49
+    },
+    {
+      "insee": "33065",
+      "nom": "Bouliac",
+      "lat": 44.8165,
+      "lon": -0.5026,
+      "population": 3804
+    },
+    {
+      "insee": "33066",
+      "nom": "Bourdelles",
+      "lat": 44.5595,
+      "lon": 0.0074,
+      "population": 97
+    },
+    {
+      "insee": "33067",
+      "nom": "Bourg",
+      "lat": 45.0396,
+      "lon": -0.5484,
+      "population": 2244
+    },
+    {
+      "insee": "33068",
+      "nom": "Bourideys",
+      "lat": 44.3614,
+      "lon": -0.4769,
+      "population": 98
+    },
+    {
+      "insee": "33070",
+      "nom": "Brach",
+      "lat": 45.0409,
+      "lon": -0.9468,
+      "population": 906
+    },
+    {
+      "insee": "33071",
+      "nom": "Branne",
+      "lat": 44.8299,
+      "lon": -0.181,
+      "population": 1296
+    },
+    {
+      "insee": "33072",
+      "nom": "Brannens",
+      "lat": 44.5215,
+      "lon": -0.1568,
+      "population": 251
+    },
+    {
+      "insee": "33073",
+      "nom": "Braud-et-Saint-Louis",
+      "lat": 45.2569,
+      "lon": -0.6581,
+      "population": 1527
+    },
+    {
+      "insee": "33074",
+      "nom": "Brouqueyran",
+      "lat": 44.4911,
+      "lon": -0.1753,
+      "population": 196
+    },
+    {
+      "insee": "33075",
+      "nom": "Bruges",
+      "lat": 44.8893,
+      "lon": -0.6029,
+      "population": 20020
+    },
+    {
+      "insee": "33076",
+      "nom": "Budos",
+      "lat": 44.537,
+      "lon": -0.4058,
+      "population": 823
+    },
+    {
+      "insee": "33077",
+      "nom": "Cabanac-et-Villagrains",
+      "lat": 44.5889,
+      "lon": -0.5412,
+      "population": 2400
+    },
+    {
+      "insee": "33078",
+      "nom": "Cabara",
+      "lat": 44.8299,
+      "lon": -0.1612,
+      "population": 526
+    },
+    {
+      "insee": "33079",
+      "nom": "Cadarsac",
+      "lat": 44.8631,
+      "lon": -0.2845,
+      "population": 342
+    },
+    {
+      "insee": "33080",
+      "nom": "Cadaujac",
+      "lat": 44.7468,
+      "lon": -0.5316,
+      "population": 6909
+    },
+    {
+      "insee": "33082",
+      "nom": "Cadillac-en-Fronsadais",
+      "lat": 44.9612,
+      "lon": -0.3732,
+      "population": 1336
+    },
+    {
+      "insee": "33081",
+      "nom": "Cadillac-sur-Garonne",
+      "lat": 44.6407,
+      "lon": -0.3076,
+      "population": 2670
+    },
+    {
+      "insee": "33083",
+      "nom": "Camarsac",
+      "lat": 44.8256,
+      "lon": -0.3703,
+      "population": 1048
+    },
+    {
+      "insee": "33084",
+      "nom": "Cambes",
+      "lat": 44.7408,
+      "lon": -0.4644,
+      "population": 1897
+    },
+    {
+      "insee": "33085",
+      "nom": "Camblanes-et-Meynac",
+      "lat": 44.7643,
+      "lon": -0.474,
+      "population": 3181
+    },
+    {
+      "insee": "33086",
+      "nom": "Camiac-et-Saint-Denis",
+      "lat": 44.7956,
+      "lon": -0.292,
+      "population": 344
+    },
+    {
+      "insee": "33087",
+      "nom": "Camiran",
+      "lat": 44.6346,
+      "lon": -0.0664,
+      "population": 419
+    },
+    {
+      "insee": "33088",
+      "nom": "Camps-sur-l'Isle",
+      "lat": 45.0175,
+      "lon": -0.0342,
+      "population": 621
+    },
+    {
+      "insee": "33089",
+      "nom": "Campugnan",
+      "lat": 45.1834,
+      "lon": -0.5607,
+      "population": 516
+    },
+    {
+      "insee": "33090",
+      "nom": "Canéjan",
+      "lat": 44.7572,
+      "lon": -0.659,
+      "population": 5756
+    },
+    {
+      "insee": "33093",
+      "nom": "Capian",
+      "lat": 44.7179,
+      "lon": -0.3277,
+      "population": 809
+    },
+    {
+      "insee": "33094",
+      "nom": "Caplong",
+      "lat": 44.767,
+      "lon": 0.1507,
+      "population": 245
+    },
+    {
+      "insee": "33095",
+      "nom": "Captieux",
+      "lat": 44.2621,
+      "lon": -0.2981,
+      "population": 1429
+    },
+    {
+      "insee": "33096",
+      "nom": "Carbon-Blanc",
+      "lat": 44.9019,
+      "lon": -0.5008,
+      "population": 8331
+    },
+    {
+      "insee": "33097",
+      "nom": "Carcans",
+      "lat": 45.0794,
+      "lon": -1.0404,
+      "population": 2415
+    },
+    {
+      "insee": "33098",
+      "nom": "Cardan",
+      "lat": 44.6828,
+      "lon": -0.3226,
+      "population": 510
+    },
+    {
+      "insee": "33099",
+      "nom": "Carignan-de-Bordeaux",
+      "lat": 44.8093,
+      "lon": -0.4739,
+      "population": 4388
+    },
+    {
+      "insee": "33100",
+      "nom": "Cars",
+      "lat": 45.1272,
+      "lon": -0.616,
+      "population": 1227
+    },
+    {
+      "insee": "33101",
+      "nom": "Cartelègue",
+      "lat": 45.1882,
+      "lon": -0.5732,
+      "population": 1334
+    },
+    {
+      "insee": "33102",
+      "nom": "Casseuil",
+      "lat": 44.5881,
+      "lon": -0.1157,
+      "population": 363
+    },
+    {
+      "insee": "33103",
+      "nom": "Castelmoron-d'Albret",
+      "lat": 44.6797,
+      "lon": -0.0115,
+      "population": 50
+    },
+    {
+      "insee": "33104",
+      "nom": "Castelnau-de-Médoc",
+      "lat": 45.0033,
+      "lon": -0.8162,
+      "population": 4907
+    },
+    {
+      "insee": "33105",
+      "nom": "Castelviel",
+      "lat": 44.6676,
+      "lon": -0.1525,
+      "population": 205
+    },
+    {
+      "insee": "33106",
+      "nom": "Castets et Castillon",
+      "lat": 44.5544,
+      "lon": -0.1366,
+      "population": 1551
+    },
+    {
+      "insee": "33108",
+      "nom": "Castillon-la-Bataille",
+      "lat": 44.8622,
+      "lon": -0.0244,
+      "population": 3344
+    },
+    {
+      "insee": "33109",
+      "nom": "Castres-Gironde",
+      "lat": 44.6866,
+      "lon": -0.4566,
+      "population": 2695
+    },
+    {
+      "insee": "33111",
+      "nom": "Caudrot",
+      "lat": 44.5845,
+      "lon": -0.1447,
+      "population": 1134
+    },
+    {
+      "insee": "33112",
+      "nom": "Caumont",
+      "lat": 44.6956,
+      "lon": -0.0118,
+      "population": 133
+    },
+    {
+      "insee": "33113",
+      "nom": "Cauvignac",
+      "lat": 44.4171,
+      "lon": -0.0686,
+      "population": 143
+    },
+    {
+      "insee": "33114",
+      "nom": "Cavignac",
+      "lat": 45.0981,
+      "lon": -0.3784,
+      "population": 2372
+    },
+    {
+      "insee": "33115",
+      "nom": "Cazalis",
+      "lat": 44.3304,
+      "lon": -0.3875,
+      "population": 269
+    },
+    {
+      "insee": "33116",
+      "nom": "Cazats",
+      "lat": 44.4728,
+      "lon": -0.2016,
+      "population": 400
+    },
+    {
+      "insee": "33117",
+      "nom": "Cazaugitat",
+      "lat": 44.7125,
+      "lon": 0.01,
+      "population": 220
+    },
+    {
+      "insee": "33118",
+      "nom": "Cénac",
+      "lat": 44.7849,
+      "lon": -0.4573,
+      "population": 2195
+    },
+    {
+      "insee": "33119",
+      "nom": "Cenon",
+      "lat": 44.8552,
+      "lon": -0.5223,
+      "population": 26834
+    },
+    {
+      "insee": "33120",
+      "nom": "Cérons",
+      "lat": 44.6268,
+      "lon": -0.3404,
+      "population": 2126
+    },
+    {
+      "insee": "33121",
+      "nom": "Cessac",
+      "lat": 44.7411,
+      "lon": -0.187,
+      "population": 196
+    },
+    {
+      "insee": "33122",
+      "nom": "Cestas",
+      "lat": 44.7274,
+      "lon": -0.7349,
+      "population": 16666
+    },
+    {
+      "insee": "33123",
+      "nom": "Cézac",
+      "lat": 45.0867,
+      "lon": -0.4171,
+      "population": 2727
+    },
+    {
+      "insee": "33124",
+      "nom": "Chamadelle",
+      "lat": 45.0975,
+      "lon": -0.0883,
+      "population": 725
+    },
+    {
+      "insee": "33125",
+      "nom": "Cissac-Médoc",
+      "lat": 45.2149,
+      "lon": -0.8413,
+      "population": 2332
+    },
+    {
+      "insee": "33126",
+      "nom": "Civrac-de-Blaye",
+      "lat": 45.1124,
+      "lon": -0.4574,
+      "population": 795
+    },
+    {
+      "insee": "33128",
+      "nom": "Civrac-en-Médoc",
+      "lat": 45.342,
+      "lon": -0.9146,
+      "population": 634
+    },
+    {
+      "insee": "33127",
+      "nom": "Civrac-sur-Dordogne",
+      "lat": 44.8306,
+      "lon": -0.0784,
+      "population": 206
+    },
+    {
+      "insee": "33129",
+      "nom": "Cleyrac",
+      "lat": 44.7193,
+      "lon": -0.0387,
+      "population": 148
+    },
+    {
+      "insee": "33130",
+      "nom": "Coimères",
+      "lat": 44.5004,
+      "lon": -0.213,
+      "population": 1103
+    },
+    {
+      "insee": "33131",
+      "nom": "Coirac",
+      "lat": 44.6853,
+      "lon": -0.1735,
+      "population": 219
+    },
+    {
+      "insee": "33132",
+      "nom": "Comps",
+      "lat": 45.0661,
+      "lon": -0.5941,
+      "population": 531
+    },
+    {
+      "insee": "33133",
+      "nom": "Coubeyrac",
+      "lat": 44.7835,
+      "lon": 0.0512,
+      "population": 74
+    },
+    {
+      "insee": "33134",
+      "nom": "Couquèques",
+      "lat": 45.3459,
+      "lon": -0.8454,
+      "population": 270
+    },
+    {
+      "insee": "33135",
+      "nom": "Courpiac",
+      "lat": 44.7568,
+      "lon": -0.1859,
+      "population": 121
+    },
+    {
+      "insee": "33136",
+      "nom": "Cours-de-Monségur",
+      "lat": 44.6489,
+      "lon": 0.1353,
+      "population": 237
+    },
+    {
+      "insee": "33137",
+      "nom": "Cours-les-Bains",
+      "lat": 44.3788,
+      "lon": -0.006,
+      "population": 227
+    },
+    {
+      "insee": "33138",
+      "nom": "Coutras",
+      "lat": 45.0408,
+      "lon": -0.1003,
+      "population": 8678
+    },
+    {
+      "insee": "33139",
+      "nom": "Coutures",
+      "lat": 44.6566,
+      "lon": 0.0318,
+      "population": 89
+    },
+    {
+      "insee": "33140",
+      "nom": "Créon",
+      "lat": 44.7688,
+      "lon": -0.3444,
+      "population": 4950
+    },
+    {
+      "insee": "33141",
+      "nom": "Croignon",
+      "lat": 44.8209,
+      "lon": -0.3452,
+      "population": 749
+    },
+    {
+      "insee": "33142",
+      "nom": "Cubnezais",
+      "lat": 45.0744,
+      "lon": -0.4202,
+      "population": 1915
+    },
+    {
+      "insee": "33143",
+      "nom": "Cubzac-les-Ponts",
+      "lat": 44.9674,
+      "lon": -0.4426,
+      "population": 2693
+    },
+    {
+      "insee": "33144",
+      "nom": "Cudos",
+      "lat": 44.3786,
+      "lon": -0.1841,
+      "population": 793
+    },
+    {
+      "insee": "33145",
+      "nom": "Cursan",
+      "lat": 44.7963,
+      "lon": -0.3339,
+      "population": 663
+    },
+    {
+      "insee": "33146",
+      "nom": "Cussac-Fort-Médoc",
+      "lat": 45.1207,
+      "lon": -0.726,
+      "population": 2279
+    },
+    {
+      "insee": "33147",
+      "nom": "Daignac",
+      "lat": 44.7987,
+      "lon": -0.2337,
+      "population": 473
+    },
+    {
+      "insee": "33148",
+      "nom": "Dardenac",
+      "lat": 44.7834,
+      "lon": -0.2377,
+      "population": 98
+    },
+    {
+      "insee": "33149",
+      "nom": "Daubèze",
+      "lat": 44.7121,
+      "lon": -0.1359,
+      "population": 143
+    },
+    {
+      "insee": "33150",
+      "nom": "Dieulivol",
+      "lat": 44.6817,
+      "lon": 0.1062,
+      "population": 334
+    },
+    {
+      "insee": "33151",
+      "nom": "Donnezac",
+      "lat": 45.2397,
+      "lon": -0.4468,
+      "population": 926
+    },
+    {
+      "insee": "33152",
+      "nom": "Donzac",
+      "lat": 44.6488,
+      "lon": -0.2564,
+      "population": 122
+    },
+    {
+      "insee": "33153",
+      "nom": "Doulezon",
+      "lat": 44.7939,
+      "lon": -0.0009,
+      "population": 286
+    },
+    {
+      "insee": "33155",
+      "nom": "Escaudes",
+      "lat": 44.3174,
+      "lon": -0.2043,
+      "population": 171
+    },
+    {
+      "insee": "33156",
+      "nom": "Escoussans",
+      "lat": 44.6786,
+      "lon": -0.2766,
+      "population": 273
+    },
+    {
+      "insee": "33157",
+      "nom": "Espiet",
+      "lat": 44.7983,
+      "lon": -0.2683,
+      "population": 741
+    },
+    {
+      "insee": "33159",
+      "nom": "Étauliers",
+      "lat": 45.2221,
+      "lon": -0.5851,
+      "population": 1662
+    },
+    {
+      "insee": "33160",
+      "nom": "Eynesse",
+      "lat": 44.8184,
+      "lon": 0.1503,
+      "population": 581
+    },
+    {
+      "insee": "33161",
+      "nom": "Eyrans",
+      "lat": 45.1967,
+      "lon": -0.6116,
+      "population": 756
+    },
+    {
+      "insee": "33162",
+      "nom": "Eysines",
+      "lat": 44.8779,
+      "lon": -0.646,
+      "population": 24825
+    },
+    {
+      "insee": "33163",
+      "nom": "Faleyras",
+      "lat": 44.7646,
+      "lon": -0.2272,
+      "population": 430
+    },
+    {
+      "insee": "33164",
+      "nom": "Fargues",
+      "lat": 44.5362,
+      "lon": -0.2926,
+      "population": 1655
+    },
+    {
+      "insee": "33165",
+      "nom": "Fargues-Saint-Hilaire",
+      "lat": 44.8202,
+      "lon": -0.4399,
+      "population": 3543
+    },
+    {
+      "insee": "33168",
+      "nom": "Flaujagues",
+      "lat": 44.8334,
+      "lon": 0.0264,
+      "population": 594
+    },
+    {
+      "insee": "33167",
+      "nom": "Floirac",
+      "lat": 44.8322,
+      "lon": -0.5215,
+      "population": 18300
+    },
+    {
+      "insee": "33169",
+      "nom": "Floudès",
+      "lat": 44.5698,
+      "lon": -0.0631,
+      "population": 103
+    },
+    {
+      "insee": "33170",
+      "nom": "Fontet",
+      "lat": 44.5531,
+      "lon": -0.027,
+      "population": 746
+    },
+    {
+      "insee": "33171",
+      "nom": "Fossès-et-Baleyssac",
+      "lat": 44.5991,
+      "lon": 0.0522,
+      "population": 222
+    },
+    {
+      "insee": "33172",
+      "nom": "Fours",
+      "lat": 45.1745,
+      "lon": -0.6392,
+      "population": 260
+    },
+    {
+      "insee": "33173",
+      "nom": "Francs",
+      "lat": 44.9474,
+      "lon": 0.0003,
+      "population": 176
+    },
+    {
+      "insee": "33174",
+      "nom": "Fronsac",
+      "lat": 44.9213,
+      "lon": -0.2765,
+      "population": 1130
+    },
+    {
+      "insee": "33175",
+      "nom": "Frontenac",
+      "lat": 44.729,
+      "lon": -0.1411,
+      "population": 803
+    },
+    {
+      "insee": "33176",
+      "nom": "Gabarnac",
+      "lat": 44.6171,
+      "lon": -0.2612,
+      "population": 363
+    },
+    {
+      "insee": "33177",
+      "nom": "Gaillan-en-Médoc",
+      "lat": 45.3135,
+      "lon": -0.9946,
+      "population": 2385
+    },
+    {
+      "insee": "33178",
+      "nom": "Gajac",
+      "lat": 44.4368,
+      "lon": -0.135,
+      "population": 367
+    },
+    {
+      "insee": "33179",
+      "nom": "Galgon",
+      "lat": 44.991,
+      "lon": -0.278,
+      "population": 3144
+    },
+    {
+      "insee": "33180",
+      "nom": "Gans",
+      "lat": 44.4539,
+      "lon": -0.1314,
+      "population": 207
+    },
+    {
+      "insee": "33181",
+      "nom": "Gardegan-et-Tourtirac",
+      "lat": 44.8928,
+      "lon": -0.0182,
+      "population": 274
+    },
+    {
+      "insee": "33182",
+      "nom": "Gauriac",
+      "lat": 45.0614,
+      "lon": -0.6278,
+      "population": 759
+    },
+    {
+      "insee": "33183",
+      "nom": "Gauriaguet",
+      "lat": 45.0446,
+      "lon": -0.3947,
+      "population": 1599
+    },
+    {
+      "insee": "33184",
+      "nom": "Générac",
+      "lat": 45.1769,
+      "lon": -0.5481,
+      "population": 549
+    },
+    {
+      "insee": "33185",
+      "nom": "Génissac",
+      "lat": 44.8614,
+      "lon": -0.2496,
+      "population": 2041
+    },
+    {
+      "insee": "33186",
+      "nom": "Gensac",
+      "lat": 44.7948,
+      "lon": 0.0874,
+      "population": 687
+    },
+    {
+      "insee": "33187",
+      "nom": "Gironde-sur-Dropt",
+      "lat": 44.59,
+      "lon": -0.0909,
+      "population": 1333
+    },
+    {
+      "insee": "33188",
+      "nom": "Giscos",
+      "lat": 44.2625,
+      "lon": -0.1747,
+      "population": 183
+    },
+    {
+      "insee": "33189",
+      "nom": "Gornac",
+      "lat": 44.6636,
+      "lon": -0.1832,
+      "population": 441
+    },
+    {
+      "insee": "33190",
+      "nom": "Goualade",
+      "lat": 44.3182,
+      "lon": -0.1252,
+      "population": 117
+    },
+    {
+      "insee": "33191",
+      "nom": "Gours",
+      "lat": 44.9999,
+      "lon": 0.0232,
+      "population": 526
+    },
+    {
+      "insee": "33192",
+      "nom": "Gradignan",
+      "lat": 44.7681,
+      "lon": -0.6163,
+      "population": 26952
+    },
+    {
+      "insee": "33193",
+      "nom": "Grayan-et-l'Hôpital",
+      "lat": 45.4324,
+      "lon": -1.1057,
+      "population": 1542
+    },
+    {
+      "insee": "33194",
+      "nom": "Grézillac",
+      "lat": 44.8147,
+      "lon": -0.2152,
+      "population": 693
+    },
+    {
+      "insee": "33195",
+      "nom": "Grignols",
+      "lat": 44.4085,
+      "lon": -0.0281,
+      "population": 1216
+    },
+    {
+      "insee": "33196",
+      "nom": "Guillac",
+      "lat": 44.8032,
+      "lon": -0.2107,
+      "population": 181
+    },
+    {
+      "insee": "33197",
+      "nom": "Guillos",
+      "lat": 44.5507,
+      "lon": -0.5235,
+      "population": 467
+    },
+    {
+      "insee": "33198",
+      "nom": "Guîtres",
+      "lat": 45.0443,
+      "lon": -0.1845,
+      "population": 1631
+    },
+    {
+      "insee": "33199",
+      "nom": "Gujan-Mestras",
+      "lat": 44.5758,
+      "lon": -1.0813,
+      "population": 22153
+    },
+    {
+      "insee": "33201",
+      "nom": "Haux",
+      "lat": 44.7387,
+      "lon": -0.3673,
+      "population": 840
+    },
+    {
+      "insee": "33202",
+      "nom": "Hostens",
+      "lat": 44.4834,
+      "lon": -0.6616,
+      "population": 1554
+    },
+    {
+      "insee": "33203",
+      "nom": "Hourtin",
+      "lat": 45.1831,
+      "lon": -1.0534,
+      "population": 4045
+    },
+    {
+      "insee": "33204",
+      "nom": "Hure",
+      "lat": 44.538,
+      "lon": -0.0044,
+      "population": 569
+    },
+    {
+      "insee": "33205",
+      "nom": "Illats",
+      "lat": 44.6087,
+      "lon": -0.3797,
+      "population": 1413
+    },
+    {
+      "insee": "33206",
+      "nom": "Isle-Saint-Georges",
+      "lat": 44.7277,
+      "lon": -0.4755,
+      "population": 502
+    },
+    {
+      "insee": "33207",
+      "nom": "Izon",
+      "lat": 44.9188,
+      "lon": -0.3561,
+      "population": 6374
+    },
+    {
+      "insee": "33208",
+      "nom": "Jau-Dignac-et-Loirac",
+      "lat": 45.4337,
+      "lon": -0.9258,
+      "population": 1007
+    },
+    {
+      "insee": "33209",
+      "nom": "Jugazan",
+      "lat": 44.7799,
+      "lon": -0.1497,
+      "population": 272
+    },
+    {
+      "insee": "33210",
+      "nom": "Juillac",
+      "lat": 44.8136,
+      "lon": 0.0524,
+      "population": 216
+    },
+    {
+      "insee": "33213",
+      "nom": "La Brède",
+      "lat": 44.6777,
+      "lon": -0.5396,
+      "population": 4386
+    },
+    {
+      "insee": "33219",
+      "nom": "La Lande-de-Fronsac",
+      "lat": 44.9849,
+      "lon": -0.3797,
+      "population": 2729
+    },
+    {
+      "insee": "33352",
+      "nom": "La Réole",
+      "lat": 44.5869,
+      "lon": -0.0447,
+      "population": 4487
+    },
+    {
+      "insee": "33356",
+      "nom": "La Rivière",
+      "lat": 44.9385,
+      "lon": -0.318,
+      "population": 409
+    },
+    {
+      "insee": "33360",
+      "nom": "La Roquille",
+      "lat": 44.7853,
+      "lon": 0.2295,
+      "population": 316
+    },
+    {
+      "insee": "33505",
+      "nom": "La Sauve",
+      "lat": 44.7643,
+      "lon": -0.316,
+      "population": 1589
+    },
+    {
+      "insee": "33529",
+      "nom": "La Teste-de-Buch",
+      "lat": 44.586,
+      "lon": -1.1809,
+      "population": 27566
+    },
+    {
+      "insee": "33211",
+      "nom": "Labarde",
+      "lat": 45.0143,
+      "lon": -0.6375,
+      "population": 623
+    },
+    {
+      "insee": "33212",
+      "nom": "Labescau",
+      "lat": 44.4511,
+      "lon": -0.0812,
+      "population": 140
+    },
+    {
+      "insee": "33214",
+      "nom": "Lacanau",
+      "lat": 44.9879,
+      "lon": -1.096,
+      "population": 5739
+    },
+    {
+      "insee": "33215",
+      "nom": "Ladaux",
+      "lat": 44.7031,
+      "lon": -0.2456,
+      "population": 190
+    },
+    {
+      "insee": "33216",
+      "nom": "Lados",
+      "lat": 44.471,
+      "lon": -0.1327,
+      "population": 180
+    },
+    {
+      "insee": "33218",
+      "nom": "Lagorce",
+      "lat": 45.0813,
+      "lon": -0.1606,
+      "population": 1575
+    },
+    {
+      "insee": "33222",
+      "nom": "Lalande-de-Pomerol",
+      "lat": 44.9552,
+      "lon": -0.2036,
+      "population": 618
+    },
+    {
+      "insee": "33220",
+      "nom": "Lamarque",
+      "lat": 45.0961,
+      "lon": -0.718,
+      "population": 1335
+    },
+    {
+      "insee": "33221",
+      "nom": "Lamothe-Landerron",
+      "lat": 44.5662,
+      "lon": 0.0602,
+      "population": 1114
+    },
+    {
+      "insee": "33223",
+      "nom": "Landerrouat",
+      "lat": 44.7422,
+      "lon": 0.1608,
+      "population": 217
+    },
+    {
+      "insee": "33224",
+      "nom": "Landerrouet-sur-Ségur",
+      "lat": 44.651,
+      "lon": -0.0185,
+      "population": 102
+    },
+    {
+      "insee": "33225",
+      "nom": "Landiras",
+      "lat": 44.5696,
+      "lon": -0.4333,
+      "population": 2310
+    },
+    {
+      "insee": "33226",
+      "nom": "Langoiran",
+      "lat": 44.7071,
+      "lon": -0.3734,
+      "population": 2215
+    },
+    {
+      "insee": "33227",
+      "nom": "Langon",
+      "lat": 44.5355,
+      "lon": -0.2422,
+      "population": 7674
+    },
+    {
+      "insee": "33228",
+      "nom": "Lansac",
+      "lat": 45.0651,
+      "lon": -0.5368,
+      "population": 663
+    },
+    {
+      "insee": "33229",
+      "nom": "Lanton",
+      "lat": 44.7719,
+      "lon": -0.9799,
+      "population": 7337
+    },
+    {
+      "insee": "33230",
+      "nom": "Lapouyade",
+      "lat": 45.1094,
+      "lon": -0.2854,
+      "population": 550
+    },
+    {
+      "insee": "33231",
+      "nom": "Laroque",
+      "lat": 44.6594,
+      "lon": -0.3034,
+      "population": 285
+    },
+    {
+      "insee": "33232",
+      "nom": "Lartigue",
+      "lat": 44.2517,
+      "lon": -0.0883,
+      "population": 41
+    },
+    {
+      "insee": "33233",
+      "nom": "Laruscade",
+      "lat": 45.1206,
+      "lon": -0.3394,
+      "population": 2811
+    },
+    {
+      "insee": "33234",
+      "nom": "Latresne",
+      "lat": 44.7901,
+      "lon": -0.4981,
+      "population": 3714
+    },
+    {
+      "insee": "33235",
+      "nom": "Lavazan",
+      "lat": 44.3926,
+      "lon": -0.1133,
+      "population": 228
+    },
+    {
+      "insee": "33029",
+      "nom": "Le Barp",
+      "lat": 44.6297,
+      "lon": -0.7437,
+      "population": 5806
+    },
+    {
+      "insee": "33069",
+      "nom": "Le Bouscat",
+      "lat": 44.865,
+      "lon": -0.6033,
+      "population": 25081
+    },
+    {
+      "insee": "33166",
+      "nom": "Le Fieu",
+      "lat": 45.0536,
+      "lon": -0.0362,
+      "population": 505
+    },
+    {
+      "insee": "33200",
+      "nom": "Le Haillan",
+      "lat": 44.8713,
+      "lon": -0.6903,
+      "population": 11392
+    },
+    {
+      "insee": "33305",
+      "nom": "Le Nizan",
+      "lat": 44.4722,
+      "lon": -0.2802,
+      "population": 506
+    },
+    {
+      "insee": "33322",
+      "nom": "Le Pian-Médoc",
+      "lat": 44.9555,
+      "lon": -0.6737,
+      "population": 7292
+    },
+    {
+      "insee": "33323",
+      "nom": "Le Pian-sur-Garonne",
+      "lat": 44.5818,
+      "lon": -0.2168,
+      "population": 981
+    },
+    {
+      "insee": "33333",
+      "nom": "Le Porge",
+      "lat": 44.8649,
+      "lon": -1.1351,
+      "population": 3465
+    },
+    {
+      "insee": "33335",
+      "nom": "Le Pout",
+      "lat": 44.8045,
+      "lon": -0.3568,
+      "population": 616
+    },
+    {
+      "insee": "33345",
+      "nom": "Le Puy",
+      "lat": 44.6602,
+      "lon": 0.0632,
+      "population": 393
+    },
+    {
+      "insee": "33519",
+      "nom": "Le Taillan-Médoc",
+      "lat": 44.9123,
+      "lon": -0.6785,
+      "population": 11073
+    },
+    {
+      "insee": "33527",
+      "nom": "Le Teich",
+      "lat": 44.5805,
+      "lon": -1.0234,
+      "population": 9180
+    },
+    {
+      "insee": "33528",
+      "nom": "Le Temple",
+      "lat": 44.8662,
+      "lon": -0.9609,
+      "population": 652
+    },
+    {
+      "insee": "33534",
+      "nom": "Le Tourne",
+      "lat": 44.7182,
+      "lon": -0.3974,
+      "population": 833
+    },
+    {
+      "insee": "33536",
+      "nom": "Le Tuzan",
+      "lat": 44.4508,
+      "lon": -0.6011,
+      "population": 263
+    },
+    {
+      "insee": "33544",
+      "nom": "Le Verdon-sur-Mer",
+      "lat": 45.5481,
+      "lon": -1.0826,
+      "population": 1408
+    },
+    {
+      "insee": "33236",
+      "nom": "Lège-Cap-Ferret",
+      "lat": 44.7452,
+      "lon": -1.174,
+      "population": 7909
+    },
+    {
+      "insee": "33237",
+      "nom": "Léogeats",
+      "lat": 44.5053,
+      "lon": -0.3648,
+      "population": 902
+    },
+    {
+      "insee": "33238",
+      "nom": "Léognan",
+      "lat": 44.7236,
+      "lon": -0.6172,
+      "population": 10670
+    },
+    {
+      "insee": "33239",
+      "nom": "Lerm-et-Musset",
+      "lat": 44.3354,
+      "lon": -0.1579,
+      "population": 504
+    },
+    {
+      "insee": "33014",
+      "nom": "Les Artigues-de-Lussac",
+      "lat": 44.9735,
+      "lon": -0.1427,
+      "population": 1119
+    },
+    {
+      "insee": "33052",
+      "nom": "Les Billaux",
+      "lat": 44.9612,
+      "lon": -0.2421,
+      "population": 1174
+    },
+    {
+      "insee": "33154",
+      "nom": "Les Églisottes-et-Chalaures",
+      "lat": 45.0946,
+      "lon": -0.0389,
+      "population": 2205
+    },
+    {
+      "insee": "33158",
+      "nom": "Les Esseintes",
+      "lat": 44.6104,
+      "lon": -0.0655,
+      "population": 244
+    },
+    {
+      "insee": "33242",
+      "nom": "Les Lèves-et-Thoumeyragues",
+      "lat": 44.7771,
+      "lon": 0.1885,
+      "population": 561
+    },
+    {
+      "insee": "33315",
+      "nom": "Les Peintures",
+      "lat": 45.0639,
+      "lon": -0.0922,
+      "population": 1620
+    },
+    {
+      "insee": "33499",
+      "nom": "Les Salles-de-Castillon",
+      "lat": 44.9117,
+      "lon": 0.0058,
+      "population": 330
+    },
+    {
+      "insee": "33240",
+      "nom": "Lesparre-Médoc",
+      "lat": 45.2796,
+      "lon": -0.9235,
+      "population": 5872
+    },
+    {
+      "insee": "33241",
+      "nom": "Lestiac-sur-Garonne",
+      "lat": 44.6929,
+      "lon": -0.3816,
+      "population": 585
+    },
+    {
+      "insee": "33243",
+      "nom": "Libourne",
+      "lat": 44.9125,
+      "lon": -0.2328,
+      "population": 25036
+    },
+    {
+      "insee": "33244",
+      "nom": "Lignan-de-Bazas",
+      "lat": 44.433,
+      "lon": -0.2745,
+      "population": 403
+    },
+    {
+      "insee": "33245",
+      "nom": "Lignan-de-Bordeaux",
+      "lat": 44.7925,
+      "lon": -0.4295,
+      "population": 842
+    },
+    {
+      "insee": "33246",
+      "nom": "Ligueux",
+      "lat": 44.7928,
+      "lon": 0.2631,
+      "population": 138
+    },
+    {
+      "insee": "33247",
+      "nom": "Listrac-de-Durèze",
+      "lat": 44.7618,
+      "lon": 0.0369,
+      "population": 134
+    },
+    {
+      "insee": "33248",
+      "nom": "Listrac-Médoc",
+      "lat": 45.0699,
+      "lon": -0.827,
+      "population": 2807
+    },
+    {
+      "insee": "33249",
+      "nom": "Lormont",
+      "lat": 44.8749,
+      "lon": -0.5176,
+      "population": 25769
+    },
+    {
+      "insee": "33250",
+      "nom": "Loubens",
+      "lat": 44.6263,
+      "lon": -0.0222,
+      "population": 316
+    },
+    {
+      "insee": "33251",
+      "nom": "Louchats",
+      "lat": 44.5104,
+      "lon": -0.5691,
+      "population": 683
+    },
+    {
+      "insee": "33252",
+      "nom": "Loupes",
+      "lat": 44.8119,
+      "lon": -0.3918,
+      "population": 957
+    },
+    {
+      "insee": "33253",
+      "nom": "Loupiac",
+      "lat": 44.6258,
+      "lon": -0.2856,
+      "population": 1093
+    },
+    {
+      "insee": "33254",
+      "nom": "Loupiac-de-la-Réole",
+      "lat": 44.5432,
+      "lon": -0.044,
+      "population": 527
+    },
+    {
+      "insee": "33255",
+      "nom": "Lucmau",
+      "lat": 44.2955,
+      "lon": -0.3364,
+      "population": 247
+    },
+    {
+      "insee": "33256",
+      "nom": "Ludon-Médoc",
+      "lat": 44.9814,
+      "lon": -0.5903,
+      "population": 5578
+    },
+    {
+      "insee": "33257",
+      "nom": "Lugaignac",
+      "lat": 44.8123,
+      "lon": -0.1943,
+      "population": 433
+    },
+    {
+      "insee": "33258",
+      "nom": "Lugasson",
+      "lat": 44.7588,
+      "lon": -0.1559,
+      "population": 316
+    },
+    {
+      "insee": "33259",
+      "nom": "Lugon-et-l'Île-du-Carnay",
+      "lat": 44.9546,
+      "lon": -0.3586,
+      "population": 1395
+    },
+    {
+      "insee": "33260",
+      "nom": "Lugos",
+      "lat": 44.4782,
+      "lon": -0.9241,
+      "population": 1208
+    },
+    {
+      "insee": "33261",
+      "nom": "Lussac",
+      "lat": 44.9683,
+      "lon": -0.0878,
+      "population": 1151
+    },
+    {
+      "insee": "33262",
+      "nom": "Macau",
+      "lat": 45.0112,
+      "lon": -0.6086,
+      "population": 4576
+    },
+    {
+      "insee": "33263",
+      "nom": "Madirac",
+      "lat": 44.7567,
+      "lon": -0.3961,
+      "population": 307
+    },
+    {
+      "insee": "33264",
+      "nom": "Maransin",
+      "lat": 45.0748,
+      "lon": -0.26,
+      "population": 1063
+    },
+    {
+      "insee": "33266",
+      "nom": "Marcenais",
+      "lat": 45.0629,
+      "lon": -0.3424,
+      "population": 863
+    },
+    {
+      "insee": "33555",
+      "nom": "Marcheprime",
+      "lat": 44.7033,
+      "lon": -0.8557,
+      "population": 5696
+    },
+    {
+      "insee": "33268",
+      "nom": "Margaux-Cantenac",
+      "lat": 45.0363,
+      "lon": -0.6788,
+      "population": 2845
+    },
+    {
+      "insee": "33269",
+      "nom": "Margueron",
+      "lat": 44.7669,
+      "lon": 0.2538,
+      "population": 365
+    },
+    {
+      "insee": "33270",
+      "nom": "Marimbault",
+      "lat": 44.4122,
+      "lon": -0.2573,
+      "population": 196
+    },
+    {
+      "insee": "33271",
+      "nom": "Marions",
+      "lat": 44.373,
+      "lon": -0.0881,
+      "population": 206
+    },
+    {
+      "insee": "33272",
+      "nom": "Marsas",
+      "lat": 45.0628,
+      "lon": -0.3769,
+      "population": 1247
+    },
+    {
+      "insee": "33273",
+      "nom": "Martignas-sur-Jalle",
+      "lat": 44.8451,
+      "lon": -0.8006,
+      "population": 8056
+    },
+    {
+      "insee": "33274",
+      "nom": "Martillac",
+      "lat": 44.7176,
+      "lon": -0.558,
+      "population": 3659
+    },
+    {
+      "insee": "33275",
+      "nom": "Martres",
+      "lat": 44.7065,
+      "lon": -0.1713,
+      "population": 105
+    },
+    {
+      "insee": "33276",
+      "nom": "Masseilles",
+      "lat": 44.4009,
+      "lon": -0.0586,
+      "population": 136
+    },
+    {
+      "insee": "33277",
+      "nom": "Massugas",
+      "lat": 44.7643,
+      "lon": 0.0974,
+      "population": 214
+    },
+    {
+      "insee": "33278",
+      "nom": "Mauriac",
+      "lat": 44.7448,
+      "lon": -0.0244,
+      "population": 230
+    },
+    {
+      "insee": "33279",
+      "nom": "Mazères",
+      "lat": 44.5023,
+      "lon": -0.251,
+      "population": 778
+    },
+    {
+      "insee": "33280",
+      "nom": "Mazion",
+      "lat": 45.1705,
+      "lon": -0.6058,
+      "population": 537
+    },
+    {
+      "insee": "33281",
+      "nom": "Mérignac",
+      "lat": 44.8313,
+      "lon": -0.682,
+      "population": 78090
+    },
+    {
+      "insee": "33282",
+      "nom": "Mérignas",
+      "lat": 44.7871,
+      "lon": -0.0843,
+      "population": 295
+    },
+    {
+      "insee": "33283",
+      "nom": "Mesterrieux",
+      "lat": 44.6453,
+      "lon": -0.0139,
+      "population": 221
+    },
+    {
+      "insee": "33284",
+      "nom": "Mios",
+      "lat": 44.6105,
+      "lon": -0.8913,
+      "population": 12043
+    },
+    {
+      "insee": "33285",
+      "nom": "Mombrier",
+      "lat": 45.0778,
+      "lon": -0.5471,
+      "population": 477
+    },
+    {
+      "insee": "33287",
+      "nom": "Mongauzy",
+      "lat": 44.5705,
+      "lon": 0.0217,
+      "population": 667
+    },
+    {
+      "insee": "33288",
+      "nom": "Monprimblanc",
+      "lat": 44.6321,
+      "lon": -0.2537,
+      "population": 276
+    },
+    {
+      "insee": "33289",
+      "nom": "Monségur",
+      "lat": 44.647,
+      "lon": 0.0861,
+      "population": 1579
+    },
+    {
+      "insee": "33290",
+      "nom": "Montagne",
+      "lat": 44.9324,
+      "lon": -0.1304,
+      "population": 1510
+    },
+    {
+      "insee": "33291",
+      "nom": "Montagoudin",
+      "lat": 44.5808,
+      "lon": 0.0055,
+      "population": 165
+    },
+    {
+      "insee": "33292",
+      "nom": "Montignac",
+      "lat": 44.7154,
+      "lon": -0.2142,
+      "population": 133
+    },
+    {
+      "insee": "33293",
+      "nom": "Montussan",
+      "lat": 44.8843,
+      "lon": -0.4294,
+      "population": 3628
+    },
+    {
+      "insee": "33294",
+      "nom": "Morizès",
+      "lat": 44.6142,
+      "lon": -0.0967,
+      "population": 527
+    },
+    {
+      "insee": "33295",
+      "nom": "Mouillac",
+      "lat": 45.0059,
+      "lon": -0.348,
+      "population": 90
+    },
+    {
+      "insee": "33296",
+      "nom": "Mouliets-et-Villemartin",
+      "lat": 44.8311,
+      "lon": -0.0223,
+      "population": 1041
+    },
+    {
+      "insee": "33297",
+      "nom": "Moulis-en-Médoc",
+      "lat": 45.0531,
+      "lon": -0.7971,
+      "population": 1962
+    },
+    {
+      "insee": "33298",
+      "nom": "Moulon",
+      "lat": 44.8616,
+      "lon": -0.2207,
+      "population": 1068
+    },
+    {
+      "insee": "33299",
+      "nom": "Mourens",
+      "lat": 44.6434,
+      "lon": -0.2128,
+      "population": 392
+    },
+    {
+      "insee": "33300",
+      "nom": "Naujac-sur-Mer",
+      "lat": 45.2596,
+      "lon": -1.0643,
+      "population": 1107
+    },
+    {
+      "insee": "33301",
+      "nom": "Naujan-et-Postiac",
+      "lat": 44.7871,
+      "lon": -0.1851,
+      "population": 599
+    },
+    {
+      "insee": "33302",
+      "nom": "Néac",
+      "lat": 44.9434,
+      "lon": -0.1795,
+      "population": 331
+    },
+    {
+      "insee": "33303",
+      "nom": "Nérigean",
+      "lat": 44.8467,
+      "lon": -0.2804,
+      "population": 839
+    },
+    {
+      "insee": "33304",
+      "nom": "Neuffons",
+      "lat": 44.6481,
+      "lon": 0.0125,
+      "population": 154
+    },
+    {
+      "insee": "33306",
+      "nom": "Noaillac",
+      "lat": 44.5167,
+      "lon": -0.022,
+      "population": 552
+    },
+    {
+      "insee": "33307",
+      "nom": "Noaillan",
+      "lat": 44.4812,
+      "lon": -0.3698,
+      "population": 1717
+    },
+    {
+      "insee": "33308",
+      "nom": "Omet",
+      "lat": 44.6561,
+      "lon": -0.2883,
+      "population": 280
+    },
+    {
+      "insee": "33309",
+      "nom": "Ordonnac",
+      "lat": 45.3089,
+      "lon": -0.8385,
+      "population": 476
+    },
+    {
+      "insee": "33310",
+      "nom": "Origne",
+      "lat": 44.5025,
+      "lon": -0.509,
+      "population": 187
+    },
+    {
+      "insee": "33311",
+      "nom": "Paillet",
+      "lat": 44.6864,
+      "lon": -0.3609,
+      "population": 1175
+    },
+    {
+      "insee": "33312",
+      "nom": "Parempuyre",
+      "lat": 44.9548,
+      "lon": -0.5844,
+      "population": 10672
+    },
+    {
+      "insee": "33314",
+      "nom": "Pauillac",
+      "lat": 45.1983,
+      "lon": -0.755,
+      "population": 5190
+    },
+    {
+      "insee": "33316",
+      "nom": "Pellegrue",
+      "lat": 44.7403,
+      "lon": 0.0864,
+      "population": 923
+    },
+    {
+      "insee": "33317",
+      "nom": "Périssac",
+      "lat": 45.0256,
+      "lon": -0.3135,
+      "population": 1184
+    },
+    {
+      "insee": "33318",
+      "nom": "Pessac",
+      "lat": 44.786,
+      "lon": -0.681,
+      "population": 67339
+    },
+    {
+      "insee": "33319",
+      "nom": "Pessac-sur-Dordogne",
+      "lat": 44.8181,
+      "lon": 0.0928,
+      "population": 448
+    },
+    {
+      "insee": "33320",
+      "nom": "Petit-Palais-et-Cornemps",
+      "lat": 44.9823,
+      "lon": -0.053,
+      "population": 740
+    },
+    {
+      "insee": "33321",
+      "nom": "Peujard",
+      "lat": 45.0472,
+      "lon": -0.4313,
+      "population": 2195
+    },
+    {
+      "insee": "33324",
+      "nom": "Pineuilh",
+      "lat": 44.8242,
+      "lon": 0.2284,
+      "population": 4490
+    },
+    {
+      "insee": "33325",
+      "nom": "Plassac",
+      "lat": 45.093,
+      "lon": -0.645,
+      "population": 924
+    },
+    {
+      "insee": "33326",
+      "nom": "Pleine-Selve",
+      "lat": 45.3277,
+      "lon": -0.5819,
+      "population": 223
+    },
+    {
+      "insee": "33327",
+      "nom": "Podensac",
+      "lat": 44.6479,
+      "lon": -0.3576,
+      "population": 3269
+    },
+    {
+      "insee": "33328",
+      "nom": "Pomerol",
+      "lat": 44.9306,
+      "lon": -0.2019,
+      "population": 608
+    },
+    {
+      "insee": "33329",
+      "nom": "Pompéjac",
+      "lat": 44.3986,
+      "lon": -0.2997,
+      "population": 277
+    },
+    {
+      "insee": "33330",
+      "nom": "Pompignac",
+      "lat": 44.8527,
+      "lon": -0.4347,
+      "population": 3577
+    },
+    {
+      "insee": "33331",
+      "nom": "Pondaurat",
+      "lat": 44.531,
+      "lon": -0.079,
+      "population": 455
+    },
+    {
+      "insee": "33332",
+      "nom": "Porchères",
+      "lat": 45.0363,
+      "lon": -0.0003,
+      "population": 887
+    },
+    {
+      "insee": "33008",
+      "nom": "Porte-de-Benauge",
+      "lat": 44.6821,
+      "lon": -0.2265,
+      "population": 602
+    },
+    {
+      "insee": "33334",
+      "nom": "Portets",
+      "lat": 44.6783,
+      "lon": -0.4263,
+      "population": 2618
+    },
+    {
+      "insee": "33336",
+      "nom": "Préchac",
+      "lat": 44.3859,
+      "lon": -0.3715,
+      "population": 1061
+    },
+    {
+      "insee": "33337",
+      "nom": "Preignac",
+      "lat": 44.5719,
+      "lon": -0.3106,
+      "population": 2135
+    },
+    {
+      "insee": "33339",
+      "nom": "Prignac-et-Marcamps",
+      "lat": 45.0279,
+      "lon": -0.4991,
+      "population": 1494
+    },
+    {
+      "insee": "33341",
+      "nom": "Pugnac",
+      "lat": 45.0825,
+      "lon": -0.5003,
+      "population": 2453
+    },
+    {
+      "insee": "33342",
+      "nom": "Puisseguin",
+      "lat": 44.9305,
+      "lon": -0.0631,
+      "population": 834
+    },
+    {
+      "insee": "33344",
+      "nom": "Pujols",
+      "lat": 44.805,
+      "lon": -0.0309,
+      "population": 524
+    },
+    {
+      "insee": "33343",
+      "nom": "Pujols-sur-Ciron",
+      "lat": 44.5685,
+      "lon": -0.3488,
+      "population": 945
+    },
+    {
+      "insee": "33346",
+      "nom": "Puybarban",
+      "lat": 44.544,
+      "lon": -0.0711,
+      "population": 407
+    },
+    {
+      "insee": "33347",
+      "nom": "Puynormand",
+      "lat": 44.9831,
+      "lon": -0.0011,
+      "population": 305
+    },
+    {
+      "insee": "33348",
+      "nom": "Queyrac",
+      "lat": 45.3565,
+      "lon": -0.9952,
+      "population": 1352
+    },
+    {
+      "insee": "33349",
+      "nom": "Quinsac",
+      "lat": 44.751,
+      "lon": -0.4876,
+      "population": 2217
+    },
+    {
+      "insee": "33350",
+      "nom": "Rauzan",
+      "lat": 44.782,
+      "lon": -0.132,
+      "population": 1247
+    },
+    {
+      "insee": "33351",
+      "nom": "Reignac",
+      "lat": 45.2292,
+      "lon": -0.5179,
+      "population": 1628
+    },
+    {
+      "insee": "33353",
+      "nom": "Rimons",
+      "lat": 44.6738,
+      "lon": 0.0129,
+      "population": 198
+    },
+    {
+      "insee": "33354",
+      "nom": "Riocaud",
+      "lat": 44.7484,
+      "lon": 0.203,
+      "population": 195
+    },
+    {
+      "insee": "33355",
+      "nom": "Rions",
+      "lat": 44.6681,
+      "lon": -0.3299,
+      "population": 1470
+    },
+    {
+      "insee": "33357",
+      "nom": "Roaillan",
+      "lat": 44.5086,
+      "lon": -0.2804,
+      "population": 1810
+    },
+    {
+      "insee": "33358",
+      "nom": "Romagne",
+      "lat": 44.7646,
+      "lon": -0.2032,
+      "population": 483
+    },
+    {
+      "insee": "33359",
+      "nom": "Roquebrune",
+      "lat": 44.6228,
+      "lon": 0.018,
+      "population": 279
+    },
+    {
+      "insee": "33361",
+      "nom": "Ruch",
+      "lat": 44.7748,
+      "lon": -0.0337,
+      "population": 539
+    },
+    {
+      "insee": "33362",
+      "nom": "Sablons",
+      "lat": 45.0233,
+      "lon": -0.1822,
+      "population": 1314
+    },
+    {
+      "insee": "33363",
+      "nom": "Sadirac",
+      "lat": 44.787,
+      "lon": -0.3925,
+      "population": 4769
+    },
+    {
+      "insee": "33364",
+      "nom": "Saillans",
+      "lat": 44.955,
+      "lon": -0.2709,
+      "population": 369
+    },
+    {
+      "insee": "33365",
+      "nom": "Saint-Aignan",
+      "lat": 44.9472,
+      "lon": -0.2964,
+      "population": 192
+    },
+    {
+      "insee": "33366",
+      "nom": "Saint-André-de-Cubzac",
+      "lat": 44.9945,
+      "lon": -0.4378,
+      "population": 12626
+    },
+    {
+      "insee": "33367",
+      "nom": "Saint-André-du-Bois",
+      "lat": 44.6085,
+      "lon": -0.191,
+      "population": 440
+    },
+    {
+      "insee": "33369",
+      "nom": "Saint-André-et-Appelles",
+      "lat": 44.8074,
+      "lon": 0.1948,
+      "population": 671
+    },
+    {
+      "insee": "33370",
+      "nom": "Saint-Androny",
+      "lat": 45.202,
+      "lon": -0.6812,
+      "population": 582
+    },
+    {
+      "insee": "33372",
+      "nom": "Saint-Antoine-du-Queyret",
+      "lat": 44.7625,
+      "lon": 0.0105,
+      "population": 62
+    },
+    {
+      "insee": "33373",
+      "nom": "Saint-Antoine-sur-l'Isle",
+      "lat": 45.0452,
+      "lon": 0.0447,
+      "population": 579
+    },
+    {
+      "insee": "33374",
+      "nom": "Saint-Aubin-de-Blaye",
+      "lat": 45.2591,
+      "lon": -0.5763,
+      "population": 838
+    },
+    {
+      "insee": "33375",
+      "nom": "Saint-Aubin-de-Branne",
+      "lat": 44.8113,
+      "lon": -0.1679,
+      "population": 381
+    },
+    {
+      "insee": "33376",
+      "nom": "Saint-Aubin-de-Médoc",
+      "lat": 44.9343,
+      "lon": -0.7478,
+      "population": 7769
+    },
+    {
+      "insee": "33377",
+      "nom": "Saint-Avit-de-Soulège",
+      "lat": 44.8116,
+      "lon": 0.12,
+      "population": 83
+    },
+    {
+      "insee": "33378",
+      "nom": "Saint-Avit-Saint-Nazaire",
+      "lat": 44.8478,
+      "lon": 0.2762,
+      "population": 1503
+    },
+    {
+      "insee": "33379",
+      "nom": "Saint-Brice",
+      "lat": 44.694,
+      "lon": -0.1385,
+      "population": 314
+    },
+    {
+      "insee": "33381",
+      "nom": "Saint-Caprais-de-Bordeaux",
+      "lat": 44.7544,
+      "lon": -0.4262,
+      "population": 3450
+    },
+    {
+      "insee": "33382",
+      "nom": "Saint-Christoly-de-Blaye",
+      "lat": 45.1499,
+      "lon": -0.4967,
+      "population": 1879
+    },
+    {
+      "insee": "33383",
+      "nom": "Saint-Christoly-Médoc",
+      "lat": 45.3673,
+      "lon": -0.8139,
+      "population": 297
+    },
+    {
+      "insee": "33385",
+      "nom": "Saint-Christophe-de-Double",
+      "lat": 45.0838,
+      "lon": 0.0233,
+      "population": 595
+    },
+    {
+      "insee": "33384",
+      "nom": "Saint-Christophe-des-Bardes",
+      "lat": 44.8973,
+      "lon": -0.1196,
+      "population": 386
+    },
+    {
+      "insee": "33386",
+      "nom": "Saint-Cibard",
+      "lat": 44.9393,
+      "lon": -0.0257,
+      "population": 188
+    },
+    {
+      "insee": "33387",
+      "nom": "Saint-Ciers-d'Abzac",
+      "lat": 45.0343,
+      "lon": -0.2907,
+      "population": 1614
+    },
+    {
+      "insee": "33388",
+      "nom": "Saint-Ciers-de-Canesse",
+      "lat": 45.0877,
+      "lon": -0.6033,
+      "population": 746
+    },
+    {
+      "insee": "33389",
+      "nom": "Saint-Ciers-sur-Gironde",
+      "lat": 45.2947,
+      "lon": -0.6648,
+      "population": 3175
+    },
+    {
+      "insee": "33391",
+      "nom": "Saint-Côme",
+      "lat": 44.4249,
+      "lon": -0.174,
+      "population": 319
+    },
+    {
+      "insee": "33393",
+      "nom": "Saint-Denis-de-Pile",
+      "lat": 44.9893,
+      "lon": -0.1833,
+      "population": 5955
+    },
+    {
+      "insee": "33394",
+      "nom": "Saint-Émilion",
+      "lat": 44.8947,
+      "lon": -0.1715,
+      "population": 1608
+    },
+    {
+      "insee": "33395",
+      "nom": "Saint-Estèphe",
+      "lat": 45.2544,
+      "lon": -0.7759,
+      "population": 1638
+    },
+    {
+      "insee": "33396",
+      "nom": "Saint-Étienne-de-Lisse",
+      "lat": 44.882,
+      "lon": -0.0924,
+      "population": 180
+    },
+    {
+      "insee": "33398",
+      "nom": "Saint-Exupéry",
+      "lat": 44.6336,
+      "lon": -0.1009,
+      "population": 168
+    },
+    {
+      "insee": "33399",
+      "nom": "Saint-Félix-de-Foncaude",
+      "lat": 44.6522,
+      "lon": -0.1069,
+      "population": 293
+    },
+    {
+      "insee": "33400",
+      "nom": "Saint-Ferme",
+      "lat": 44.6951,
+      "lon": 0.0593,
+      "population": 328
+    },
+    {
+      "insee": "33405",
+      "nom": "Saint-Genès-de-Blaye",
+      "lat": 45.1644,
+      "lon": -0.6673,
+      "population": 491
+    },
+    {
+      "insee": "33406",
+      "nom": "Saint-Genès-de-Castillon",
+      "lat": 44.9008,
+      "lon": -0.0628,
+      "population": 361
+    },
+    {
+      "insee": "33407",
+      "nom": "Saint-Genès-de-Fronsac",
+      "lat": 45.0259,
+      "lon": -0.347,
+      "population": 994
+    },
+    {
+      "insee": "33408",
+      "nom": "Saint-Genès-de-Lombaud",
+      "lat": 44.7539,
+      "lon": -0.3824,
+      "population": 394
+    },
+    {
+      "insee": "33412",
+      "nom": "Saint-Germain-d'Esteuil",
+      "lat": 45.2534,
+      "lon": -0.8886,
+      "population": 1365
+    },
+    {
+      "insee": "33411",
+      "nom": "Saint-Germain-de-Grave",
+      "lat": 44.6245,
+      "lon": -0.2153,
+      "population": 144
+    },
+    {
+      "insee": "33414",
+      "nom": "Saint-Germain-de-la-Rivière",
+      "lat": 44.9442,
+      "lon": -0.3292,
+      "population": 392
+    },
+    {
+      "insee": "33413",
+      "nom": "Saint-Germain-du-Puch",
+      "lat": 44.8529,
+      "lon": -0.3334,
+      "population": 2304
+    },
+    {
+      "insee": "33415",
+      "nom": "Saint-Gervais",
+      "lat": 45.0164,
+      "lon": -0.4671,
+      "population": 1983
+    },
+    {
+      "insee": "33416",
+      "nom": "Saint-Girons-d'Aiguevives",
+      "lat": 45.1465,
+      "lon": -0.5376,
+      "population": 971
+    },
+    {
+      "insee": "33418",
+      "nom": "Saint-Hilaire-de-la-Noaille",
+      "lat": 44.6053,
+      "lon": 0.0063,
+      "population": 382
+    },
+    {
+      "insee": "33419",
+      "nom": "Saint-Hilaire-du-Bois",
+      "lat": 44.6618,
+      "lon": -0.0755,
+      "population": 79
+    },
+    {
+      "insee": "33420",
+      "nom": "Saint-Hippolyte",
+      "lat": 44.8747,
+      "lon": -0.1207,
+      "population": 118
+    },
+    {
+      "insee": "33422",
+      "nom": "Saint-Jean-d'Illac",
+      "lat": 44.7973,
+      "lon": -0.8156,
+      "population": 9616
+    },
+    {
+      "insee": "33421",
+      "nom": "Saint-Jean-de-Blaignac",
+      "lat": 44.8088,
+      "lon": -0.1329,
+      "population": 445
+    },
+    {
+      "insee": "33423",
+      "nom": "Saint-Julien-Beychevelle",
+      "lat": 45.1606,
+      "lon": -0.739,
+      "population": 606
+    },
+    {
+      "insee": "33425",
+      "nom": "Saint-Laurent-d'Arce",
+      "lat": 45.0438,
+      "lon": -0.4685,
+      "population": 1580
+    },
+    {
+      "insee": "33426",
+      "nom": "Saint-Laurent-des-Combes",
+      "lat": 44.8737,
+      "lon": -0.1377,
+      "population": 231
+    },
+    {
+      "insee": "33427",
+      "nom": "Saint-Laurent-du-Bois",
+      "lat": 44.6402,
+      "lon": -0.1416,
+      "population": 263
+    },
+    {
+      "insee": "33428",
+      "nom": "Saint-Laurent-du-Plan",
+      "lat": 44.6249,
+      "lon": -0.1176,
+      "population": 85
+    },
+    {
+      "insee": "33424",
+      "nom": "Saint-Laurent-Médoc",
+      "lat": 45.1402,
+      "lon": -0.8557,
+      "population": 4914
+    },
+    {
+      "insee": "33429",
+      "nom": "Saint-Léger-de-Balson",
+      "lat": 44.43,
+      "lon": -0.4416,
+      "population": 328
+    },
+    {
+      "insee": "33431",
+      "nom": "Saint-Léon",
+      "lat": 44.7673,
+      "lon": -0.277,
+      "population": 291
+    },
+    {
+      "insee": "33432",
+      "nom": "Saint-Loubert",
+      "lat": 44.5531,
+      "lon": -0.1676,
+      "population": 224
+    },
+    {
+      "insee": "33433",
+      "nom": "Saint-Loubès",
+      "lat": 44.9223,
+      "lon": -0.4257,
+      "population": 10027
+    },
+    {
+      "insee": "33434",
+      "nom": "Saint-Louis-de-Montferrand",
+      "lat": 44.957,
+      "lon": -0.5335,
+      "population": 2051
+    },
+    {
+      "insee": "33435",
+      "nom": "Saint-Macaire",
+      "lat": 44.5641,
+      "lon": -0.2335,
+      "population": 1981
+    },
+    {
+      "insee": "33436",
+      "nom": "Saint-Magne",
+      "lat": 44.559,
+      "lon": -0.6623,
+      "population": 1260
+    },
+    {
+      "insee": "33437",
+      "nom": "Saint-Magne-de-Castillon",
+      "lat": 44.8542,
+      "lon": -0.0716,
+      "population": 2165
+    },
+    {
+      "insee": "33438",
+      "nom": "Saint-Maixant",
+      "lat": 44.5815,
+      "lon": -0.2481,
+      "population": 2057
+    },
+    {
+      "insee": "33439",
+      "nom": "Saint-Mariens",
+      "lat": 45.1228,
+      "lon": -0.4093,
+      "population": 1639
+    },
+    {
+      "insee": "33440",
+      "nom": "Saint-Martial",
+      "lat": 44.6333,
+      "lon": -0.1784,
+      "population": 236
+    },
+    {
+      "insee": "33442",
+      "nom": "Saint-Martin-de-Laye",
+      "lat": 45.0319,
+      "lon": -0.2279,
+      "population": 540
+    },
+    {
+      "insee": "33443",
+      "nom": "Saint-Martin-de-Lerm",
+      "lat": 44.648,
+      "lon": -0.0447,
+      "population": 149
+    },
+    {
+      "insee": "33444",
+      "nom": "Saint-Martin-de-Sescas",
+      "lat": 44.5851,
+      "lon": -0.1641,
+      "population": 558
+    },
+    {
+      "insee": "33445",
+      "nom": "Saint-Martin-du-Bois",
+      "lat": 45.0218,
+      "lon": -0.2615,
+      "population": 845
+    },
+    {
+      "insee": "33446",
+      "nom": "Saint-Martin-du-Puy",
+      "lat": 44.6751,
+      "lon": -0.0367,
+      "population": 163
+    },
+    {
+      "insee": "33441",
+      "nom": "Saint-Martin-Lacaussade",
+      "lat": 45.1397,
+      "lon": -0.6411,
+      "population": 1171
+    },
+    {
+      "insee": "33448",
+      "nom": "Saint-Médard-d'Eyrans",
+      "lat": 44.714,
+      "lon": -0.5125,
+      "population": 3409
+    },
+    {
+      "insee": "33447",
+      "nom": "Saint-Médard-de-Guizières",
+      "lat": 45.0111,
+      "lon": -0.0729,
+      "population": 2438
+    },
+    {
+      "insee": "33449",
+      "nom": "Saint-Médard-en-Jalles",
+      "lat": 44.8861,
+      "lon": -0.7823,
+      "population": 32910
+    },
+    {
+      "insee": "33450",
+      "nom": "Saint-Michel-de-Castelnau",
+      "lat": 44.2882,
+      "lon": -0.0939,
+      "population": 248
+    },
+    {
+      "insee": "33451",
+      "nom": "Saint-Michel-de-Fronsac",
+      "lat": 44.9239,
+      "lon": -0.3004,
+      "population": 509
+    },
+    {
+      "insee": "33453",
+      "nom": "Saint-Michel-de-Lapujade",
+      "lat": 44.586,
+      "lon": 0.0781,
+      "population": 211
+    },
+    {
+      "insee": "33452",
+      "nom": "Saint-Michel-de-Rieufret",
+      "lat": 44.6273,
+      "lon": -0.4453,
+      "population": 868
+    },
+    {
+      "insee": "33454",
+      "nom": "Saint-Morillon",
+      "lat": 44.6387,
+      "lon": -0.5232,
+      "population": 1834
+    },
+    {
+      "insee": "33456",
+      "nom": "Saint-Palais",
+      "lat": 45.3078,
+      "lon": -0.6007,
+      "population": 527
+    },
+    {
+      "insee": "33457",
+      "nom": "Saint-Pardon-de-Conques",
+      "lat": 44.5501,
+      "lon": -0.1898,
+      "population": 663
+    },
+    {
+      "insee": "33458",
+      "nom": "Saint-Paul",
+      "lat": 45.1504,
+      "lon": -0.5918,
+      "population": 1020
+    },
+    {
+      "insee": "33459",
+      "nom": "Saint-Pey-d'Armens",
+      "lat": 44.8539,
+      "lon": -0.1165,
+      "population": 187
+    },
+    {
+      "insee": "33460",
+      "nom": "Saint-Pey-de-Castets",
+      "lat": 44.8207,
+      "lon": -0.0667,
+      "population": 588
+    },
+    {
+      "insee": "33461",
+      "nom": "Saint-Philippe-d'Aiguille",
+      "lat": 44.9166,
+      "lon": -0.0405,
+      "population": 376
+    },
+    {
+      "insee": "33462",
+      "nom": "Saint-Philippe-du-Seignal",
+      "lat": 44.8243,
+      "lon": 0.2511,
+      "population": 496
+    },
+    {
+      "insee": "33463",
+      "nom": "Saint-Pierre-d'Aurillac",
+      "lat": 44.5807,
+      "lon": -0.1916,
+      "population": 1246
+    },
+    {
+      "insee": "33464",
+      "nom": "Saint-Pierre-de-Bat",
+      "lat": 44.6686,
+      "lon": -0.22,
+      "population": 281
+    },
+    {
+      "insee": "33465",
+      "nom": "Saint-Pierre-de-Mons",
+      "lat": 44.5433,
+      "lon": -0.2172,
+      "population": 1240
+    },
+    {
+      "insee": "33466",
+      "nom": "Saint-Quentin-de-Baron",
+      "lat": 44.8175,
+      "lon": -0.2811,
+      "population": 2713
+    },
+    {
+      "insee": "33467",
+      "nom": "Saint-Quentin-de-Caplong",
+      "lat": 44.795,
+      "lon": 0.1365,
+      "population": 267
+    },
+    {
+      "insee": "33470",
+      "nom": "Saint-Romain-la-Virvée",
+      "lat": 44.9609,
+      "lon": -0.4177,
+      "population": 956
+    },
+    {
+      "insee": "33471",
+      "nom": "Saint-Sauveur",
+      "lat": 45.1964,
+      "lon": -0.8223,
+      "population": 1245
+    },
+    {
+      "insee": "33472",
+      "nom": "Saint-Sauveur-de-Puynormand",
+      "lat": 44.9958,
+      "lon": -0.0308,
+      "population": 369
+    },
+    {
+      "insee": "33473",
+      "nom": "Saint-Savin",
+      "lat": 45.1611,
+      "lon": -0.4449,
+      "population": 3582
+    },
+    {
+      "insee": "33474",
+      "nom": "Saint-Selve",
+      "lat": 44.6574,
+      "lon": -0.4726,
+      "population": 3746
+    },
+    {
+      "insee": "33475",
+      "nom": "Saint-Seurin-de-Bourg",
+      "lat": 45.0513,
+      "lon": -0.583,
+      "population": 414
+    },
+    {
+      "insee": "33476",
+      "nom": "Saint-Seurin-de-Cadourne",
+      "lat": 45.2935,
+      "lon": -0.7877,
+      "population": 705
+    },
+    {
+      "insee": "33477",
+      "nom": "Saint-Seurin-de-Cursac",
+      "lat": 45.1576,
+      "lon": -0.6252,
+      "population": 771
+    },
+    {
+      "insee": "33478",
+      "nom": "Saint-Seurin-sur-l'Isle",
+      "lat": 45.0093,
+      "lon": -0.004,
+      "population": 3167
+    },
+    {
+      "insee": "33479",
+      "nom": "Saint-Sève",
+      "lat": 44.6081,
+      "lon": -0.0233,
+      "population": 251
+    },
+    {
+      "insee": "33480",
+      "nom": "Saint-Sulpice-de-Faleyrens",
+      "lat": 44.8614,
+      "lon": -0.1893,
+      "population": 1344
+    },
+    {
+      "insee": "33481",
+      "nom": "Saint-Sulpice-de-Guilleragues",
+      "lat": 44.626,
+      "lon": 0.0495,
+      "population": 234
+    },
+    {
+      "insee": "33482",
+      "nom": "Saint-Sulpice-de-Pommiers",
+      "lat": 44.676,
+      "lon": -0.1125,
+      "population": 277
+    },
+    {
+      "insee": "33483",
+      "nom": "Saint-Sulpice-et-Cameyrac",
+      "lat": 44.9053,
+      "lon": -0.3803,
+      "population": 4881
+    },
+    {
+      "insee": "33484",
+      "nom": "Saint-Symphorien",
+      "lat": 44.4261,
+      "lon": -0.5505,
+      "population": 1878
+    },
+    {
+      "insee": "33486",
+      "nom": "Saint-Trojan",
+      "lat": 45.0895,
+      "lon": -0.5782,
+      "population": 370
+    },
+    {
+      "insee": "33487",
+      "nom": "Saint-Vincent-de-Paul",
+      "lat": 44.9704,
+      "lon": -0.4815,
+      "population": 1067
+    },
+    {
+      "insee": "33488",
+      "nom": "Saint-Vincent-de-Pertignas",
+      "lat": 44.8007,
+      "lon": -0.1131,
+      "population": 331
+    },
+    {
+      "insee": "33489",
+      "nom": "Saint-Vivien-de-Blaye",
+      "lat": 45.1051,
+      "lon": -0.5063,
+      "population": 358
+    },
+    {
+      "insee": "33490",
+      "nom": "Saint-Vivien-de-Médoc",
+      "lat": 45.4678,
+      "lon": -0.9975,
+      "population": 1846
+    },
+    {
+      "insee": "33491",
+      "nom": "Saint-Vivien-de-Monségur",
+      "lat": 44.6167,
+      "lon": 0.1208,
+      "population": 391
+    },
+    {
+      "insee": "33492",
+      "nom": "Saint-Yzan-de-Soudiac",
+      "lat": 45.1548,
+      "lon": -0.4047,
+      "population": 2586
+    },
+    {
+      "insee": "33493",
+      "nom": "Saint-Yzans-de-Médoc",
+      "lat": 45.3321,
+      "lon": -0.7994,
+      "population": 349
+    },
+    {
+      "insee": "33390",
+      "nom": "Sainte-Colombe",
+      "lat": 44.8799,
+      "lon": -0.0653,
+      "population": 423
+    },
+    {
+      "insee": "33392",
+      "nom": "Sainte-Croix-du-Mont",
+      "lat": 44.5977,
+      "lon": -0.2719,
+      "population": 838
+    },
+    {
+      "insee": "33397",
+      "nom": "Sainte-Eulalie",
+      "lat": 44.9027,
+      "lon": -0.48,
+      "population": 4915
+    },
+    {
+      "insee": "33401",
+      "nom": "Sainte-Florence",
+      "lat": 44.817,
+      "lon": -0.0937,
+      "population": 146
+    },
+    {
+      "insee": "33402",
+      "nom": "Sainte-Foy-la-Grande",
+      "lat": 44.8407,
+      "lon": 0.2171,
+      "population": 2507
+    },
+    {
+      "insee": "33403",
+      "nom": "Sainte-Foy-la-Longue",
+      "lat": 44.6157,
+      "lon": -0.1413,
+      "population": 139
+    },
+    {
+      "insee": "33404",
+      "nom": "Sainte-Gemme",
+      "lat": 44.6196,
+      "lon": 0.0693,
+      "population": 192
+    },
+    {
+      "insee": "33417",
+      "nom": "Sainte-Hélène",
+      "lat": 44.9653,
+      "lon": -0.9071,
+      "population": 3091
+    },
+    {
+      "insee": "33468",
+      "nom": "Sainte-Radegonde",
+      "lat": 44.8046,
+      "lon": 0.0278,
+      "population": 408
+    },
+    {
+      "insee": "33485",
+      "nom": "Sainte-Terre",
+      "lat": 44.8328,
+      "lon": -0.1208,
+      "population": 1883
+    },
+    {
+      "insee": "33494",
+      "nom": "Salaunes",
+      "lat": 44.9281,
+      "lon": -0.8502,
+      "population": 1260
+    },
+    {
+      "insee": "33496",
+      "nom": "Sallebœuf",
+      "lat": 44.8423,
+      "lon": -0.392,
+      "population": 2767
+    },
+    {
+      "insee": "33498",
+      "nom": "Salles",
+      "lat": 44.536,
+      "lon": -0.8899,
+      "population": 8208
+    },
+    {
+      "insee": "33500",
+      "nom": "Samonac",
+      "lat": 45.0709,
+      "lon": -0.5715,
+      "population": 474
+    },
+    {
+      "insee": "33501",
+      "nom": "Saucats",
+      "lat": 44.6476,
+      "lon": -0.6377,
+      "population": 3548
+    },
+    {
+      "insee": "33502",
+      "nom": "Saugon",
+      "lat": 45.1864,
+      "lon": -0.5006,
+      "population": 504
+    },
+    {
+      "insee": "33503",
+      "nom": "Saumos",
+      "lat": 44.9119,
+      "lon": -1.0029,
+      "population": 550
+    },
+    {
+      "insee": "33504",
+      "nom": "Sauternes",
+      "lat": 44.5336,
+      "lon": -0.3439,
+      "population": 788
+    },
+    {
+      "insee": "33506",
+      "nom": "Sauveterre-de-Guyenne",
+      "lat": 44.701,
+      "lon": -0.0727,
+      "population": 1885
+    },
+    {
+      "insee": "33507",
+      "nom": "Sauviac",
+      "lat": 44.4001,
+      "lon": -0.183,
+      "population": 333
+    },
+    {
+      "insee": "33508",
+      "nom": "Savignac",
+      "lat": 44.514,
+      "lon": -0.1057,
+      "population": 637
+    },
+    {
+      "insee": "33509",
+      "nom": "Savignac-de-l'Isle",
+      "lat": 44.986,
+      "lon": -0.2381,
+      "population": 612
+    },
+    {
+      "insee": "33510",
+      "nom": "Semens",
+      "lat": 44.6135,
+      "lon": -0.233,
+      "population": 206
+    },
+    {
+      "insee": "33511",
+      "nom": "Sendets",
+      "lat": 44.4272,
+      "lon": -0.0928,
+      "population": 354
+    },
+    {
+      "insee": "33512",
+      "nom": "Sigalens",
+      "lat": 44.4567,
+      "lon": -0.0324,
+      "population": 342
+    },
+    {
+      "insee": "33513",
+      "nom": "Sillas",
+      "lat": 44.3711,
+      "lon": -0.0585,
+      "population": 119
+    },
+    {
+      "insee": "33514",
+      "nom": "Soulac-sur-Mer",
+      "lat": 45.5057,
+      "lon": -1.0694,
+      "population": 3100
+    },
+    {
+      "insee": "33515",
+      "nom": "Soulignac",
+      "lat": 44.6944,
+      "lon": -0.2873,
+      "population": 409
+    },
+    {
+      "insee": "33516",
+      "nom": "Soussac",
+      "lat": 44.7359,
+      "lon": 0.0093,
+      "population": 182
+    },
+    {
+      "insee": "33517",
+      "nom": "Soussans",
+      "lat": 45.0548,
+      "lon": -0.6931,
+      "population": 1719
+    },
+    {
+      "insee": "33518",
+      "nom": "Tabanac",
+      "lat": 44.7231,
+      "lon": -0.4131,
+      "population": 1083
+    },
+    {
+      "insee": "33520",
+      "nom": "Taillecavat",
+      "lat": 44.6505,
+      "lon": 0.1561,
+      "population": 306
+    },
+    {
+      "insee": "33521",
+      "nom": "Talais",
+      "lat": 45.499,
+      "lon": -1.0353,
+      "population": 764
+    },
+    {
+      "insee": "33522",
+      "nom": "Talence",
+      "lat": 44.8061,
+      "lon": -0.5918,
+      "population": 46338
+    },
+    {
+      "insee": "33523",
+      "nom": "Targon",
+      "lat": 44.7375,
+      "lon": -0.2691,
+      "population": 2079
+    },
+    {
+      "insee": "33524",
+      "nom": "Tarnès",
+      "lat": 44.9754,
+      "lon": -0.3543,
+      "population": 298
+    },
+    {
+      "insee": "33525",
+      "nom": "Tauriac",
+      "lat": 45.0524,
+      "lon": -0.5059,
+      "population": 1342
+    },
+    {
+      "insee": "33526",
+      "nom": "Tayac",
+      "lat": 44.9608,
+      "lon": -0.0249,
+      "population": 126
+    },
+    {
+      "insee": "33530",
+      "nom": "Teuillac",
+      "lat": 45.1004,
+      "lon": -0.5506,
+      "population": 884
+    },
+    {
+      "insee": "33531",
+      "nom": "Tizac-de-Curton",
+      "lat": 44.8254,
+      "lon": -0.2428,
+      "population": 383
+    },
+    {
+      "insee": "33532",
+      "nom": "Tizac-de-Lapouyade",
+      "lat": 45.0699,
+      "lon": -0.3111,
+      "population": 477
+    },
+    {
+      "insee": "33533",
+      "nom": "Toulenne",
+      "lat": 44.5665,
+      "lon": -0.2735,
+      "population": 2881
+    },
+    {
+      "insee": "33535",
+      "nom": "Tresses",
+      "lat": 44.8455,
+      "lon": -0.4741,
+      "population": 5290
+    },
+    {
+      "insee": "33537",
+      "nom": "Uzeste",
+      "lat": 44.4304,
+      "lon": -0.3269,
+      "population": 462
+    },
+    {
+      "insee": "33018",
+      "nom": "Val de Virvée",
+      "lat": 45.021,
+      "lon": -0.3887,
+      "population": 3793
+    },
+    {
+      "insee": "33380",
+      "nom": "Val-de-Livenne",
+      "lat": 45.276,
+      "lon": -0.5099,
+      "population": 1792
+    },
+    {
+      "insee": "33538",
+      "nom": "Valeyrac",
+      "lat": 45.4057,
+      "lon": -0.8768,
+      "population": 552
+    },
+    {
+      "insee": "33539",
+      "nom": "Vayres",
+      "lat": 44.8908,
+      "lon": -0.326,
+      "population": 4615
+    },
+    {
+      "insee": "33540",
+      "nom": "Vendays-Montalivet",
+      "lat": 45.3378,
+      "lon": -1.0953,
+      "population": 2838
+    },
+    {
+      "insee": "33541",
+      "nom": "Vensac",
+      "lat": 45.4039,
+      "lon": -1.0821,
+      "population": 1198
+    },
+    {
+      "insee": "33542",
+      "nom": "Vérac",
+      "lat": 44.9939,
+      "lon": -0.337,
+      "population": 883
+    },
+    {
+      "insee": "33543",
+      "nom": "Verdelais",
+      "lat": 44.592,
+      "lon": -0.2535,
+      "population": 1045
+    },
+    {
+      "insee": "33545",
+      "nom": "Vertheuil",
+      "lat": 45.2543,
+      "lon": -0.8476,
+      "population": 1339
+    },
+    {
+      "insee": "33546",
+      "nom": "Vignonet",
+      "lat": 44.8489,
+      "lon": -0.1488,
+      "population": 459
+    },
+    {
+      "insee": "33547",
+      "nom": "Villandraut",
+      "lat": 44.4502,
+      "lon": -0.381,
+      "population": 1112
+    },
+    {
+      "insee": "33548",
+      "nom": "Villegouge",
+      "lat": 44.9748,
+      "lon": -0.3144,
+      "population": 1325
+    },
+    {
+      "insee": "33550",
+      "nom": "Villenave-d'Ornon",
+      "lat": 44.7736,
+      "lon": -0.5523,
+      "population": 42545
+    },
+    {
+      "insee": "33549",
+      "nom": "Villenave-de-Rions",
+      "lat": 44.6898,
+      "lon": -0.341,
+      "population": 374
+    },
+    {
+      "insee": "33551",
+      "nom": "Villeneuve",
+      "lat": 45.0797,
+      "lon": -0.641,
+      "population": 407
+    },
+    {
+      "insee": "33552",
+      "nom": "Virelade",
+      "lat": 44.6565,
+      "lon": -0.3981,
+      "population": 1124
+    },
+    {
+      "insee": "33553",
+      "nom": "Virsac",
+      "lat": 45.0256,
+      "lon": -0.4368,
+      "population": 1304
+    },
+    {
+      "insee": "33554",
+      "nom": "Yvrac",
+      "lat": 44.8817,
+      "lon": -0.4705,
+      "population": 2899
+    }
+  ]
+}

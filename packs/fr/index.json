@@ -1,0 +1,511 @@
+{
+  "country": "FR",
+  "version": "2026-03-31",
+  "departments": [
+    {
+      "code": "01",
+      "label": "Departement 01",
+      "count": 391
+    },
+    {
+      "code": "02",
+      "label": "Departement 02",
+      "count": 797
+    },
+    {
+      "code": "03",
+      "label": "Departement 03",
+      "count": 317
+    },
+    {
+      "code": "04",
+      "label": "Departement 04",
+      "count": 198
+    },
+    {
+      "code": "05",
+      "label": "Departement 05",
+      "count": 162
+    },
+    {
+      "code": "06",
+      "label": "Departement 06",
+      "count": 163
+    },
+    {
+      "code": "07",
+      "label": "Departement 07",
+      "count": 335
+    },
+    {
+      "code": "08",
+      "label": "Departement 08",
+      "count": 447
+    },
+    {
+      "code": "09",
+      "label": "Departement 09",
+      "count": 325
+    },
+    {
+      "code": "10",
+      "label": "Departement 10",
+      "count": 431
+    },
+    {
+      "code": "11",
+      "label": "Departement 11",
+      "count": 433
+    },
+    {
+      "code": "12",
+      "label": "Departement 12",
+      "count": 285
+    },
+    {
+      "code": "13",
+      "label": "Departement 13",
+      "count": 119
+    },
+    {
+      "code": "14",
+      "label": "Departement 14",
+      "count": 526
+    },
+    {
+      "code": "15",
+      "label": "Departement 15",
+      "count": 250
+    },
+    {
+      "code": "16",
+      "label": "Departement 16",
+      "count": 359
+    },
+    {
+      "code": "17",
+      "label": "Departement 17",
+      "count": 462
+    },
+    {
+      "code": "18",
+      "label": "Departement 18",
+      "count": 286
+    },
+    {
+      "code": "19",
+      "label": "Departement 19",
+      "count": 277
+    },
+    {
+      "code": "21",
+      "label": "Departement 21",
+      "count": 698
+    },
+    {
+      "code": "22",
+      "label": "Departement 22",
+      "count": 344
+    },
+    {
+      "code": "23",
+      "label": "Departement 23",
+      "count": 255
+    },
+    {
+      "code": "24",
+      "label": "Departement 24",
+      "count": 503
+    },
+    {
+      "code": "25",
+      "label": "Departement 25",
+      "count": 563
+    },
+    {
+      "code": "26",
+      "label": "Departement 26",
+      "count": 362
+    },
+    {
+      "code": "27",
+      "label": "Departement 27",
+      "count": 585
+    },
+    {
+      "code": "28",
+      "label": "Departement 28",
+      "count": 363
+    },
+    {
+      "code": "29",
+      "label": "Departement 29",
+      "count": 277
+    },
+    {
+      "code": "2A",
+      "label": "Departement 2A",
+      "count": 124
+    },
+    {
+      "code": "2B",
+      "label": "Departement 2B",
+      "count": 236
+    },
+    {
+      "code": "30",
+      "label": "Departement 30",
+      "count": 350
+    },
+    {
+      "code": "31",
+      "label": "Departement 31",
+      "count": 586
+    },
+    {
+      "code": "32",
+      "label": "Departement 32",
+      "count": 458
+    },
+    {
+      "code": "33",
+      "label": "Departement 33",
+      "count": 534
+    },
+    {
+      "code": "34",
+      "label": "Departement 34",
+      "count": 341
+    },
+    {
+      "code": "35",
+      "label": "Departement 35",
+      "count": 332
+    },
+    {
+      "code": "36",
+      "label": "Departement 36",
+      "count": 241
+    },
+    {
+      "code": "37",
+      "label": "Departement 37",
+      "count": 272
+    },
+    {
+      "code": "38",
+      "label": "Departement 38",
+      "count": 512
+    },
+    {
+      "code": "39",
+      "label": "Departement 39",
+      "count": 492
+    },
+    {
+      "code": "40",
+      "label": "Departement 40",
+      "count": 327
+    },
+    {
+      "code": "41",
+      "label": "Departement 41",
+      "count": 267
+    },
+    {
+      "code": "42",
+      "label": "Departement 42",
+      "count": 320
+    },
+    {
+      "code": "43",
+      "label": "Departement 43",
+      "count": 257
+    },
+    {
+      "code": "44",
+      "label": "Departement 44",
+      "count": 207
+    },
+    {
+      "code": "45",
+      "label": "Departement 45",
+      "count": 325
+    },
+    {
+      "code": "46",
+      "label": "Departement 46",
+      "count": 312
+    },
+    {
+      "code": "47",
+      "label": "Departement 47",
+      "count": 319
+    },
+    {
+      "code": "48",
+      "label": "Departement 48",
+      "count": 152
+    },
+    {
+      "code": "49",
+      "label": "Departement 49",
+      "count": 176
+    },
+    {
+      "code": "50",
+      "label": "Departement 50",
+      "count": 445
+    },
+    {
+      "code": "51",
+      "label": "Departement 51",
+      "count": 610
+    },
+    {
+      "code": "52",
+      "label": "Departement 52",
+      "count": 426
+    },
+    {
+      "code": "53",
+      "label": "Departement 53",
+      "count": 240
+    },
+    {
+      "code": "54",
+      "label": "Departement 54",
+      "count": 591
+    },
+    {
+      "code": "55",
+      "label": "Departement 55",
+      "count": 499
+    },
+    {
+      "code": "56",
+      "label": "Departement 56",
+      "count": 249
+    },
+    {
+      "code": "57",
+      "label": "Departement 57",
+      "count": 725
+    },
+    {
+      "code": "58",
+      "label": "Departement 58",
+      "count": 309
+    },
+    {
+      "code": "59",
+      "label": "Departement 59",
+      "count": 647
+    },
+    {
+      "code": "60",
+      "label": "Departement 60",
+      "count": 680
+    },
+    {
+      "code": "61",
+      "label": "Departement 61",
+      "count": 381
+    },
+    {
+      "code": "62",
+      "label": "Departement 62",
+      "count": 887
+    },
+    {
+      "code": "63",
+      "label": "Departement 63",
+      "count": 463
+    },
+    {
+      "code": "64",
+      "label": "Departement 64",
+      "count": 545
+    },
+    {
+      "code": "65",
+      "label": "Departement 65",
+      "count": 469
+    },
+    {
+      "code": "66",
+      "label": "Departement 66",
+      "count": 226
+    },
+    {
+      "code": "67",
+      "label": "Departement 67",
+      "count": 514
+    },
+    {
+      "code": "68",
+      "label": "Departement 68",
+      "count": 366
+    },
+    {
+      "code": "69",
+      "label": "Departement 69",
+      "count": 266
+    },
+    {
+      "code": "70",
+      "label": "Departement 70",
+      "count": 536
+    },
+    {
+      "code": "71",
+      "label": "Departement 71",
+      "count": 563
+    },
+    {
+      "code": "72",
+      "label": "Departement 72",
+      "count": 352
+    },
+    {
+      "code": "73",
+      "label": "Departement 73",
+      "count": 273
+    },
+    {
+      "code": "74",
+      "label": "Departement 74",
+      "count": 279
+    },
+    {
+      "code": "75",
+      "label": "Departement 75",
+      "count": 1
+    },
+    {
+      "code": "76",
+      "label": "Departement 76",
+      "count": 707
+    },
+    {
+      "code": "77",
+      "label": "Departement 77",
+      "count": 507
+    },
+    {
+      "code": "78",
+      "label": "Departement 78",
+      "count": 259
+    },
+    {
+      "code": "79",
+      "label": "Departement 79",
+      "count": 252
+    },
+    {
+      "code": "80",
+      "label": "Departement 80",
+      "count": 771
+    },
+    {
+      "code": "81",
+      "label": "Departement 81",
+      "count": 314
+    },
+    {
+      "code": "82",
+      "label": "Departement 82",
+      "count": 195
+    },
+    {
+      "code": "83",
+      "label": "Departement 83",
+      "count": 153
+    },
+    {
+      "code": "84",
+      "label": "Departement 84",
+      "count": 151
+    },
+    {
+      "code": "85",
+      "label": "Departement 85",
+      "count": 253
+    },
+    {
+      "code": "86",
+      "label": "Departement 86",
+      "count": 265
+    },
+    {
+      "code": "87",
+      "label": "Departement 87",
+      "count": 195
+    },
+    {
+      "code": "88",
+      "label": "Departement 88",
+      "count": 506
+    },
+    {
+      "code": "89",
+      "label": "Departement 89",
+      "count": 423
+    },
+    {
+      "code": "90",
+      "label": "Departement 90",
+      "count": 101
+    },
+    {
+      "code": "91",
+      "label": "Departement 91",
+      "count": 194
+    },
+    {
+      "code": "92",
+      "label": "Departement 92",
+      "count": 36
+    },
+    {
+      "code": "93",
+      "label": "Departement 93",
+      "count": 39
+    },
+    {
+      "code": "94",
+      "label": "Departement 94",
+      "count": 47
+    },
+    {
+      "code": "95",
+      "label": "Departement 95",
+      "count": 183
+    },
+    {
+      "code": "971",
+      "label": "Departement 971",
+      "count": 32
+    },
+    {
+      "code": "972",
+      "label": "Departement 972",
+      "count": 34
+    },
+    {
+      "code": "973",
+      "label": "Departement 973",
+      "count": 22
+    },
+    {
+      "code": "974",
+      "label": "Departement 974",
+      "count": 24
+    },
+    {
+      "code": "976",
+      "label": "Departement 976",
+      "count": 17
+    }
+  ]
+}

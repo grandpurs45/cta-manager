@@ -1,0 +1,1148 @@
+{
+  "country": "FR",
+  "departmentCode": "06",
+  "label": "Departement 06",
+  "communes": [
+    {
+      "insee": "06001",
+      "nom": "Aiglun",
+      "lat": 43.8552,
+      "lon": 6.9348,
+      "population": 104
+    },
+    {
+      "insee": "06002",
+      "nom": "Amirat",
+      "lat": 43.8973,
+      "lon": 6.8108,
+      "population": 45
+    },
+    {
+      "insee": "06003",
+      "nom": "Andon",
+      "lat": 43.7755,
+      "lon": 6.8211,
+      "population": 665
+    },
+    {
+      "insee": "06004",
+      "nom": "Antibes",
+      "lat": 43.5823,
+      "lon": 7.1048,
+      "population": 77637
+    },
+    {
+      "insee": "06005",
+      "nom": "Ascros",
+      "lat": 43.9171,
+      "lon": 7.0159,
+      "population": 174
+    },
+    {
+      "insee": "06006",
+      "nom": "Aspremont",
+      "lat": 43.7772,
+      "lon": 7.2423,
+      "population": 2346
+    },
+    {
+      "insee": "06007",
+      "nom": "Auribeau-sur-Siagne",
+      "lat": 43.6105,
+      "lon": 6.9118,
+      "population": 3401
+    },
+    {
+      "insee": "06008",
+      "nom": "Auvare",
+      "lat": 44.0062,
+      "lon": 6.9133,
+      "population": 52
+    },
+    {
+      "insee": "06009",
+      "nom": "Bairols",
+      "lat": 43.9856,
+      "lon": 7.1174,
+      "population": 105
+    },
+    {
+      "insee": "06011",
+      "nom": "Beaulieu-sur-Mer",
+      "lat": 43.7081,
+      "lon": 7.3324,
+      "population": 3874
+    },
+    {
+      "insee": "06012",
+      "nom": "Beausoleil",
+      "lat": 43.7471,
+      "lon": 7.4227,
+      "population": 11936
+    },
+    {
+      "insee": "06013",
+      "nom": "Belvédère",
+      "lat": 44.0615,
+      "lon": 7.3612,
+      "population": 601
+    },
+    {
+      "insee": "06014",
+      "nom": "Bendejun",
+      "lat": 43.8309,
+      "lon": 7.2841,
+      "population": 971
+    },
+    {
+      "insee": "06015",
+      "nom": "Berre-les-Alpes",
+      "lat": 43.8342,
+      "lon": 7.3306,
+      "population": 1316
+    },
+    {
+      "insee": "06016",
+      "nom": "Beuil",
+      "lat": 44.1176,
+      "lon": 6.9693,
+      "population": 483
+    },
+    {
+      "insee": "06017",
+      "nom": "Bézaudun-les-Alpes",
+      "lat": 43.8026,
+      "lon": 7.0908,
+      "population": 256
+    },
+    {
+      "insee": "06018",
+      "nom": "Biot",
+      "lat": 43.6273,
+      "lon": 7.0821,
+      "population": 10511
+    },
+    {
+      "insee": "06019",
+      "nom": "Blausasc",
+      "lat": 43.7938,
+      "lon": 7.357,
+      "population": 1668
+    },
+    {
+      "insee": "06021",
+      "nom": "Bonson",
+      "lat": 43.8613,
+      "lon": 7.1786,
+      "population": 740
+    },
+    {
+      "insee": "06022",
+      "nom": "Bouyon",
+      "lat": 43.8272,
+      "lon": 7.125,
+      "population": 557
+    },
+    {
+      "insee": "06023",
+      "nom": "Breil-sur-Roya",
+      "lat": 43.9379,
+      "lon": 7.4996,
+      "population": 2377
+    },
+    {
+      "insee": "06024",
+      "nom": "Briançonnet",
+      "lat": 43.8654,
+      "lon": 6.7325,
+      "population": 165
+    },
+    {
+      "insee": "06026",
+      "nom": "Cabris",
+      "lat": 43.6602,
+      "lon": 6.8782,
+      "population": 1450
+    },
+    {
+      "insee": "06027",
+      "nom": "Cagnes-sur-Mer",
+      "lat": 43.6712,
+      "lon": 7.1502,
+      "population": 53354
+    },
+    {
+      "insee": "06028",
+      "nom": "Caille",
+      "lat": 43.7686,
+      "lon": 6.7544,
+      "population": 441
+    },
+    {
+      "insee": "06029",
+      "nom": "Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
+      "population": 74350
+    },
+    {
+      "insee": "06031",
+      "nom": "Cantaron",
+      "lat": 43.7694,
+      "lon": 7.3147,
+      "population": 1268
+    },
+    {
+      "insee": "06032",
+      "nom": "Cap-d'Ail",
+      "lat": 43.7256,
+      "lon": 7.4008,
+      "population": 4482
+    },
+    {
+      "insee": "06033",
+      "nom": "Carros",
+      "lat": 43.785,
+      "lon": 7.1798,
+      "population": 13803
+    },
+    {
+      "insee": "06034",
+      "nom": "Castagniers",
+      "lat": 43.79,
+      "lon": 7.2298,
+      "population": 1666
+    },
+    {
+      "insee": "06035",
+      "nom": "Castellar",
+      "lat": 43.8227,
+      "lon": 7.4989,
+      "population": 996
+    },
+    {
+      "insee": "06036",
+      "nom": "Castillon",
+      "lat": 43.8371,
+      "lon": 7.4627,
+      "population": 425
+    },
+    {
+      "insee": "06037",
+      "nom": "Caussols",
+      "lat": 43.7387,
+      "lon": 6.9071,
+      "population": 332
+    },
+    {
+      "insee": "06040",
+      "nom": "Châteauneuf-d'Entraunes",
+      "lat": 44.1584,
+      "lon": 6.8405,
+      "population": 62
+    },
+    {
+      "insee": "06038",
+      "nom": "Châteauneuf-Grasse",
+      "lat": 43.6626,
+      "lon": 6.9792,
+      "population": 3815
+    },
+    {
+      "insee": "06039",
+      "nom": "Châteauneuf-Villevieille",
+      "lat": 43.8007,
+      "lon": 7.2951,
+      "population": 997
+    },
+    {
+      "insee": "06041",
+      "nom": "Cipières",
+      "lat": 43.7665,
+      "lon": 6.9229,
+      "population": 393
+    },
+    {
+      "insee": "06042",
+      "nom": "Clans",
+      "lat": 44.003,
+      "lon": 7.1827,
+      "population": 703
+    },
+    {
+      "insee": "06043",
+      "nom": "Coaraze",
+      "lat": 43.8693,
+      "lon": 7.3014,
+      "population": 827
+    },
+    {
+      "insee": "06045",
+      "nom": "Collongues",
+      "lat": 43.8934,
+      "lon": 6.8642,
+      "population": 84
+    },
+    {
+      "insee": "06046",
+      "nom": "Colomars",
+      "lat": 43.757,
+      "lon": 7.2212,
+      "population": 3409
+    },
+    {
+      "insee": "06047",
+      "nom": "Conségudes",
+      "lat": 43.8395,
+      "lon": 7.0395,
+      "population": 103
+    },
+    {
+      "insee": "06048",
+      "nom": "Contes",
+      "lat": 43.8133,
+      "lon": 7.3263,
+      "population": 7897
+    },
+    {
+      "insee": "06049",
+      "nom": "Courmes",
+      "lat": 43.7514,
+      "lon": 7.0196,
+      "population": 109
+    },
+    {
+      "insee": "06050",
+      "nom": "Coursegoules",
+      "lat": 43.7898,
+      "lon": 7.0384,
+      "population": 564
+    },
+    {
+      "insee": "06052",
+      "nom": "Cuébris",
+      "lat": 43.889,
+      "lon": 6.9955,
+      "population": 130
+    },
+    {
+      "insee": "06053",
+      "nom": "Daluis",
+      "lat": 44.0426,
+      "lon": 6.8045,
+      "population": 147
+    },
+    {
+      "insee": "06054",
+      "nom": "Drap",
+      "lat": 43.7587,
+      "lon": 7.3395,
+      "population": 5484
+    },
+    {
+      "insee": "06055",
+      "nom": "Duranus",
+      "lat": 43.8954,
+      "lon": 7.2796,
+      "population": 151
+    },
+    {
+      "insee": "06056",
+      "nom": "Entraunes",
+      "lat": 44.2215,
+      "lon": 6.763,
+      "population": 124
+    },
+    {
+      "insee": "06058",
+      "nom": "Escragnolles",
+      "lat": 43.7236,
+      "lon": 6.7758,
+      "population": 622
+    },
+    {
+      "insee": "06059",
+      "nom": "Èze",
+      "lat": 43.7299,
+      "lon": 7.3566,
+      "population": 2144
+    },
+    {
+      "insee": "06060",
+      "nom": "Falicon",
+      "lat": 43.7533,
+      "lon": 7.266,
+      "population": 2185
+    },
+    {
+      "insee": "06062",
+      "nom": "Fontan",
+      "lat": 44.0213,
+      "lon": 7.5527,
+      "population": 307
+    },
+    {
+      "insee": "06063",
+      "nom": "Gars",
+      "lat": 43.8612,
+      "lon": 6.8202,
+      "population": 65
+    },
+    {
+      "insee": "06064",
+      "nom": "Gattières",
+      "lat": 43.769,
+      "lon": 7.1675,
+      "population": 4358
+    },
+    {
+      "insee": "06066",
+      "nom": "Gilette",
+      "lat": 43.8436,
+      "lon": 7.1602,
+      "population": 1627
+    },
+    {
+      "insee": "06067",
+      "nom": "Gorbio",
+      "lat": 43.787,
+      "lon": 7.4476,
+      "population": 1609
+    },
+    {
+      "insee": "06068",
+      "nom": "Gourdon",
+      "lat": 43.7266,
+      "lon": 6.9622,
+      "population": 367
+    },
+    {
+      "insee": "06069",
+      "nom": "Grasse",
+      "lat": 43.656,
+      "lon": 6.937,
+      "population": 50970
+    },
+    {
+      "insee": "06070",
+      "nom": "Gréolières",
+      "lat": 43.8037,
+      "lon": 6.9296,
+      "population": 631
+    },
+    {
+      "insee": "06071",
+      "nom": "Guillaumes",
+      "lat": 44.1007,
+      "lon": 6.8673,
+      "population": 587
+    },
+    {
+      "insee": "06072",
+      "nom": "Ilonse",
+      "lat": 44.0319,
+      "lon": 7.0901,
+      "population": 132
+    },
+    {
+      "insee": "06073",
+      "nom": "Isola",
+      "lat": 44.1903,
+      "lon": 7.0835,
+      "population": 642
+    },
+    {
+      "insee": "06057",
+      "nom": "L'Escarène",
+      "lat": 43.8303,
+      "lon": 7.3665,
+      "population": 2585
+    },
+    {
+      "insee": "06020",
+      "nom": "La Bollène-Vésubie",
+      "lat": 43.9945,
+      "lon": 7.3749,
+      "population": 662
+    },
+    {
+      "insee": "06162",
+      "nom": "La Brigue",
+      "lat": 44.0897,
+      "lon": 7.6496,
+      "population": 763
+    },
+    {
+      "insee": "06044",
+      "nom": "La Colle-sur-Loup",
+      "lat": 43.6869,
+      "lon": 7.0975,
+      "population": 8202
+    },
+    {
+      "insee": "06051",
+      "nom": "La Croix-sur-Roudoule",
+      "lat": 44.0032,
+      "lon": 6.871,
+      "population": 96
+    },
+    {
+      "insee": "06065",
+      "nom": "La Gaude",
+      "lat": 43.7177,
+      "lon": 7.1605,
+      "population": 7265
+    },
+    {
+      "insee": "06093",
+      "nom": "La Penne",
+      "lat": 43.9202,
+      "lon": 6.9361,
+      "population": 254
+    },
+    {
+      "insee": "06107",
+      "nom": "La Roque-en-Provence",
+      "lat": 43.8494,
+      "lon": 6.9916,
+      "population": 67
+    },
+    {
+      "insee": "06108",
+      "nom": "La Roquette-sur-Siagne",
+      "lat": 43.5853,
+      "lon": 6.9475,
+      "population": 5669
+    },
+    {
+      "insee": "06109",
+      "nom": "La Roquette-sur-Var",
+      "lat": 43.8328,
+      "lon": 7.2072,
+      "population": 921
+    },
+    {
+      "insee": "06144",
+      "nom": "La Tour",
+      "lat": 43.9645,
+      "lon": 7.196,
+      "population": 540
+    },
+    {
+      "insee": "06149",
+      "nom": "La Trinité",
+      "lat": 43.7415,
+      "lon": 7.3413,
+      "population": 10602
+    },
+    {
+      "insee": "06150",
+      "nom": "La Turbie",
+      "lat": 43.7462,
+      "lon": 7.3973,
+      "population": 3045
+    },
+    {
+      "insee": "06074",
+      "nom": "Lantosque",
+      "lat": 43.9787,
+      "lon": 7.3121,
+      "population": 1198
+    },
+    {
+      "insee": "06010",
+      "nom": "Le Bar-sur-Loup",
+      "lat": 43.6993,
+      "lon": 6.9674,
+      "population": 2974
+    },
+    {
+      "insee": "06025",
+      "nom": "Le Broc",
+      "lat": 43.8146,
+      "lon": 7.1621,
+      "population": 1446
+    },
+    {
+      "insee": "06030",
+      "nom": "Le Cannet",
+      "lat": 43.5745,
+      "lon": 7.001,
+      "population": 41938
+    },
+    {
+      "insee": "06081",
+      "nom": "Le Mas",
+      "lat": 43.8388,
+      "lon": 6.8572,
+      "population": 97
+    },
+    {
+      "insee": "06112",
+      "nom": "Le Rouret",
+      "lat": 43.6803,
+      "lon": 7.0081,
+      "population": 4209
+    },
+    {
+      "insee": "06140",
+      "nom": "Le Tignet",
+      "lat": 43.6257,
+      "lon": 6.8538,
+      "population": 3212
+    },
+    {
+      "insee": "06061",
+      "nom": "Les Ferres",
+      "lat": 43.8424,
+      "lon": 7.0966,
+      "population": 93
+    },
+    {
+      "insee": "06087",
+      "nom": "Les Mujouls",
+      "lat": 43.8728,
+      "lon": 6.8649,
+      "population": 37
+    },
+    {
+      "insee": "06075",
+      "nom": "Levens",
+      "lat": 43.8501,
+      "lon": 7.2358,
+      "population": 5377
+    },
+    {
+      "insee": "06076",
+      "nom": "Lieuche",
+      "lat": 44.0001,
+      "lon": 7.0361,
+      "population": 50
+    },
+    {
+      "insee": "06077",
+      "nom": "Lucéram",
+      "lat": 43.8997,
+      "lon": 7.3506,
+      "population": 1234
+    },
+    {
+      "insee": "06078",
+      "nom": "Malaussène",
+      "lat": 43.9146,
+      "lon": 7.1389,
+      "population": 326
+    },
+    {
+      "insee": "06079",
+      "nom": "Mandelieu-la-Napoule",
+      "lat": 43.5334,
+      "lon": 6.918,
+      "population": 21640
+    },
+    {
+      "insee": "06080",
+      "nom": "Marie",
+      "lat": 44.0319,
+      "lon": 7.1668,
+      "population": 109
+    },
+    {
+      "insee": "06082",
+      "nom": "Massoins",
+      "lat": 43.9552,
+      "lon": 7.1305,
+      "population": 138
+    },
+    {
+      "insee": "06083",
+      "nom": "Menton",
+      "lat": 43.7961,
+      "lon": 7.498,
+      "population": 30604
+    },
+    {
+      "insee": "06084",
+      "nom": "Mouans-Sartoux",
+      "lat": 43.6192,
+      "lon": 6.9677,
+      "population": 11015
+    },
+    {
+      "insee": "06085",
+      "nom": "Mougins",
+      "lat": 43.5931,
+      "lon": 7.0046,
+      "population": 19782
+    },
+    {
+      "insee": "06086",
+      "nom": "Moulinet",
+      "lat": 43.9503,
+      "lon": 7.4128,
+      "population": 268
+    },
+    {
+      "insee": "06088",
+      "nom": "Nice",
+      "lat": 43.7032,
+      "lon": 7.2528,
+      "population": 357737
+    },
+    {
+      "insee": "06089",
+      "nom": "Opio",
+      "lat": 43.6574,
+      "lon": 7.0094,
+      "population": 2527
+    },
+    {
+      "insee": "06090",
+      "nom": "Pégomas",
+      "lat": 43.5886,
+      "lon": 6.9213,
+      "population": 8240
+    },
+    {
+      "insee": "06091",
+      "nom": "Peille",
+      "lat": 43.8043,
+      "lon": 7.4088,
+      "population": 2123
+    },
+    {
+      "insee": "06092",
+      "nom": "Peillon",
+      "lat": 43.7727,
+      "lon": 7.3668,
+      "population": 1408
+    },
+    {
+      "insee": "06094",
+      "nom": "Péone",
+      "lat": 44.1333,
+      "lon": 6.925,
+      "population": 1094
+    },
+    {
+      "insee": "06095",
+      "nom": "Peymeinade",
+      "lat": 43.6289,
+      "lon": 6.8807,
+      "population": 8514
+    },
+    {
+      "insee": "06096",
+      "nom": "Pierlas",
+      "lat": 44.035,
+      "lon": 7.0177,
+      "population": 98
+    },
+    {
+      "insee": "06097",
+      "nom": "Pierrefeu",
+      "lat": 43.8883,
+      "lon": 7.0743,
+      "population": 337
+    },
+    {
+      "insee": "06098",
+      "nom": "Puget-Rostang",
+      "lat": 44.0056,
+      "lon": 6.9333,
+      "population": 116
+    },
+    {
+      "insee": "06099",
+      "nom": "Puget-Théniers",
+      "lat": 43.9498,
+      "lon": 6.9049,
+      "population": 1798
+    },
+    {
+      "insee": "06100",
+      "nom": "Revest-les-Roches",
+      "lat": 43.8823,
+      "lon": 7.1693,
+      "population": 239
+    },
+    {
+      "insee": "06101",
+      "nom": "Rigaud",
+      "lat": 43.9942,
+      "lon": 6.976,
+      "population": 165
+    },
+    {
+      "insee": "06102",
+      "nom": "Rimplas",
+      "lat": 44.0997,
+      "lon": 7.1449,
+      "population": 156
+    },
+    {
+      "insee": "06103",
+      "nom": "Roquebillière",
+      "lat": 44.0282,
+      "lon": 7.2885,
+      "population": 1818
+    },
+    {
+      "insee": "06104",
+      "nom": "Roquebrune-Cap-Martin",
+      "lat": 43.7638,
+      "lon": 7.4576,
+      "population": 12037
+    },
+    {
+      "insee": "06105",
+      "nom": "Roquefort-les-Pins",
+      "lat": 43.6723,
+      "lon": 7.0565,
+      "population": 7292
+    },
+    {
+      "insee": "06106",
+      "nom": "Roquestéron",
+      "lat": 43.8696,
+      "lon": 7.0232,
+      "population": 552
+    },
+    {
+      "insee": "06110",
+      "nom": "Roubion",
+      "lat": 44.1121,
+      "lon": 7.0233,
+      "population": 112
+    },
+    {
+      "insee": "06111",
+      "nom": "Roure",
+      "lat": 44.1139,
+      "lon": 7.0603,
+      "population": 116
+    },
+    {
+      "insee": "06114",
+      "nom": "Saint-André-de-la-Roche",
+      "lat": 43.7455,
+      "lon": 7.2875,
+      "population": 5896
+    },
+    {
+      "insee": "06115",
+      "nom": "Saint-Antonin",
+      "lat": 43.9085,
+      "lon": 6.9739,
+      "population": 85
+    },
+    {
+      "insee": "06116",
+      "nom": "Saint-Auban",
+      "lat": 43.8319,
+      "lon": 6.7367,
+      "population": 194
+    },
+    {
+      "insee": "06117",
+      "nom": "Saint-Blaise",
+      "lat": 43.8132,
+      "lon": 7.2283,
+      "population": 1397
+    },
+    {
+      "insee": "06118",
+      "nom": "Saint-Cézaire-sur-Siagne",
+      "lat": 43.6592,
+      "lon": 6.8049,
+      "population": 4056
+    },
+    {
+      "insee": "06119",
+      "nom": "Saint-Dalmas-le-Selvage",
+      "lat": 44.281,
+      "lon": 6.8452,
+      "population": 98
+    },
+    {
+      "insee": "06120",
+      "nom": "Saint-Étienne-de-Tinée",
+      "lat": 44.2597,
+      "lon": 6.9252,
+      "population": 1289
+    },
+    {
+      "insee": "06121",
+      "nom": "Saint-Jean-Cap-Ferrat",
+      "lat": 43.6883,
+      "lon": 7.3349,
+      "population": 1531
+    },
+    {
+      "insee": "06122",
+      "nom": "Saint-Jeannet",
+      "lat": 43.7619,
+      "lon": 7.1477,
+      "population": 4453
+    },
+    {
+      "insee": "06123",
+      "nom": "Saint-Laurent-du-Var",
+      "lat": 43.6865,
+      "lon": 7.1822,
+      "population": 32172
+    },
+    {
+      "insee": "06124",
+      "nom": "Saint-Léger",
+      "lat": 44.0014,
+      "lon": 6.8189,
+      "population": 61
+    },
+    {
+      "insee": "06125",
+      "nom": "Saint-Martin-d'Entraunes",
+      "lat": 44.1453,
+      "lon": 6.7492,
+      "population": 138
+    },
+    {
+      "insee": "06126",
+      "nom": "Saint-Martin-du-Var",
+      "lat": 43.8168,
+      "lon": 7.2012,
+      "population": 3431
+    },
+    {
+      "insee": "06127",
+      "nom": "Saint-Martin-Vésubie",
+      "lat": 44.0944,
+      "lon": 7.307,
+      "population": 1337
+    },
+    {
+      "insee": "06128",
+      "nom": "Saint-Paul-de-Vence",
+      "lat": 43.6928,
+      "lon": 7.1196,
+      "population": 3203
+    },
+    {
+      "insee": "06129",
+      "nom": "Saint-Sauveur-sur-Tinée",
+      "lat": 44.1163,
+      "lon": 7.1226,
+      "population": 290
+    },
+    {
+      "insee": "06130",
+      "nom": "Saint-Vallier-de-Thiey",
+      "lat": 43.6994,
+      "lon": 6.8516,
+      "population": 3658
+    },
+    {
+      "insee": "06113",
+      "nom": "Sainte-Agnès",
+      "lat": 43.8046,
+      "lon": 7.4605,
+      "population": 1380
+    },
+    {
+      "insee": "06131",
+      "nom": "Sallagriffon",
+      "lat": 43.8805,
+      "lon": 6.9117,
+      "population": 47
+    },
+    {
+      "insee": "06132",
+      "nom": "Saorge",
+      "lat": 43.9935,
+      "lon": 7.5403,
+      "population": 430
+    },
+    {
+      "insee": "06133",
+      "nom": "Sauze",
+      "lat": 44.0862,
+      "lon": 6.7987,
+      "population": 67
+    },
+    {
+      "insee": "06134",
+      "nom": "Séranon",
+      "lat": 43.7655,
+      "lon": 6.6892,
+      "population": 540
+    },
+    {
+      "insee": "06135",
+      "nom": "Sigale",
+      "lat": 43.8742,
+      "lon": 6.9652,
+      "population": 204
+    },
+    {
+      "insee": "06136",
+      "nom": "Sospel",
+      "lat": 43.8872,
+      "lon": 7.4493,
+      "population": 3791
+    },
+    {
+      "insee": "06137",
+      "nom": "Spéracèdes",
+      "lat": 43.652,
+      "lon": 6.8573,
+      "population": 1241
+    },
+    {
+      "insee": "06163",
+      "nom": "Tende",
+      "lat": 44.0971,
+      "lon": 7.5499,
+      "population": 1775
+    },
+    {
+      "insee": "06138",
+      "nom": "Théoule-sur-Mer",
+      "lat": 43.499,
+      "lon": 6.9303,
+      "population": 1477
+    },
+    {
+      "insee": "06139",
+      "nom": "Thiéry",
+      "lat": 43.9759,
+      "lon": 7.0365,
+      "population": 91
+    },
+    {
+      "insee": "06141",
+      "nom": "Toudon",
+      "lat": 43.8857,
+      "lon": 7.1094,
+      "population": 355
+    },
+    {
+      "insee": "06142",
+      "nom": "Touët-de-l'Escarène",
+      "lat": 43.8516,
+      "lon": 7.3799,
+      "population": 300
+    },
+    {
+      "insee": "06143",
+      "nom": "Touët-sur-Var",
+      "lat": 43.9433,
+      "lon": 7.0091,
+      "population": 748
+    },
+    {
+      "insee": "06145",
+      "nom": "Tourette-du-Château",
+      "lat": 43.8812,
+      "lon": 7.1365,
+      "population": 147
+    },
+    {
+      "insee": "06146",
+      "nom": "Tournefort",
+      "lat": 43.942,
+      "lon": 7.1596,
+      "population": 147
+    },
+    {
+      "insee": "06147",
+      "nom": "Tourrette-Levens",
+      "lat": 43.7882,
+      "lon": 7.275,
+      "population": 4624
+    },
+    {
+      "insee": "06148",
+      "nom": "Tourrettes-sur-Loup",
+      "lat": 43.718,
+      "lon": 7.0353,
+      "population": 4165
+    },
+    {
+      "insee": "06151",
+      "nom": "Utelle",
+      "lat": 43.9392,
+      "lon": 7.2458,
+      "population": 805
+    },
+    {
+      "insee": "06152",
+      "nom": "Valbonne",
+      "lat": 43.6267,
+      "lon": 7.0291,
+      "population": 11939
+    },
+    {
+      "insee": "06153",
+      "nom": "Valdeblore",
+      "lat": 44.1152,
+      "lon": 7.1949,
+      "population": 835
+    },
+    {
+      "insee": "06154",
+      "nom": "Valderoure",
+      "lat": 43.7943,
+      "lon": 6.7038,
+      "population": 539
+    },
+    {
+      "insee": "06155",
+      "nom": "Vallauris",
+      "lat": 43.5787,
+      "lon": 7.0604,
+      "population": 29259
+    },
+    {
+      "insee": "06156",
+      "nom": "Venanson",
+      "lat": 44.0412,
+      "lon": 7.2386,
+      "population": 195
+    },
+    {
+      "insee": "06157",
+      "nom": "Vence",
+      "lat": 43.7373,
+      "lon": 7.0995,
+      "population": 19917
+    },
+    {
+      "insee": "06158",
+      "nom": "Villars-sur-Var",
+      "lat": 43.9564,
+      "lon": 7.076,
+      "population": 780
+    },
+    {
+      "insee": "06159",
+      "nom": "Villefranche-sur-Mer",
+      "lat": 43.7081,
+      "lon": 7.3243,
+      "population": 5008
+    },
+    {
+      "insee": "06160",
+      "nom": "Villeneuve-d'Entraunes",
+      "lat": 44.1301,
+      "lon": 6.774,
+      "population": 82
+    },
+    {
+      "insee": "06161",
+      "nom": "Villeneuve-Loubet",
+      "lat": 43.647,
+      "lon": 7.0984,
+      "population": 17548
+    }
+  ]
+}

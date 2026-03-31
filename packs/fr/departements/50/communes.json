@@ -1,0 +1,3122 @@
+{
+  "country": "FR",
+  "departmentCode": "50",
+  "label": "Departement 50",
+  "communes": [
+    {
+      "insee": "50002",
+      "nom": "Agneaux",
+      "lat": 49.1153,
+      "lon": -1.1272,
+      "population": 4286
+    },
+    {
+      "insee": "50003",
+      "nom": "Agon-Coutainville",
+      "lat": 49.0298,
+      "lon": -1.5807,
+      "population": 3020
+    },
+    {
+      "insee": "50004",
+      "nom": "Airel",
+      "lat": 49.2154,
+      "lon": -1.0787,
+      "population": 515
+    },
+    {
+      "insee": "50006",
+      "nom": "Amigny",
+      "lat": 49.1565,
+      "lon": -1.1856,
+      "population": 151
+    },
+    {
+      "insee": "50008",
+      "nom": "Anctoville-sur-Boscq",
+      "lat": 48.8456,
+      "lon": -1.528,
+      "population": 435
+    },
+    {
+      "insee": "50013",
+      "nom": "Anneville-en-Saire",
+      "lat": 49.6369,
+      "lon": -1.2836,
+      "population": 370
+    },
+    {
+      "insee": "50016",
+      "nom": "Appeville",
+      "lat": 49.3275,
+      "lon": -1.3333,
+      "population": 200
+    },
+    {
+      "insee": "50019",
+      "nom": "Aucey-la-Plaine",
+      "lat": 48.5268,
+      "lon": -1.4786,
+      "population": 412
+    },
+    {
+      "insee": "50021",
+      "nom": "Audouville-la-Hubert",
+      "lat": 49.4183,
+      "lon": -1.2246,
+      "population": 78
+    },
+    {
+      "insee": "50022",
+      "nom": "Aumeville-Lestre",
+      "lat": 49.5392,
+      "lon": -1.3234,
+      "population": 132
+    },
+    {
+      "insee": "50023",
+      "nom": "Auvers",
+      "lat": 49.3001,
+      "lon": -1.3212,
+      "population": 683
+    },
+    {
+      "insee": "50024",
+      "nom": "Auxais",
+      "lat": 49.2152,
+      "lon": -1.3046,
+      "population": 176
+    },
+    {
+      "insee": "50025",
+      "nom": "Avranches",
+      "lat": 48.6759,
+      "lon": -1.3452,
+      "population": 10143
+    },
+    {
+      "insee": "50026",
+      "nom": "Azeville",
+      "lat": 49.4563,
+      "lon": -1.3123,
+      "population": 79
+    },
+    {
+      "insee": "50027",
+      "nom": "Bacilly",
+      "lat": 48.7052,
+      "lon": -1.4313,
+      "population": 921
+    },
+    {
+      "insee": "50029",
+      "nom": "Barenton",
+      "lat": 48.6091,
+      "lon": -0.8433,
+      "population": 1161
+    },
+    {
+      "insee": "50030",
+      "nom": "Barfleur",
+      "lat": 49.6689,
+      "lon": -1.2652,
+      "population": 542
+    },
+    {
+      "insee": "50031",
+      "nom": "Barneville-Carteret",
+      "lat": 49.3787,
+      "lon": -1.7753,
+      "population": 2223
+    },
+    {
+      "insee": "50033",
+      "nom": "Baubigny",
+      "lat": 49.4277,
+      "lon": -1.8029,
+      "population": 132
+    },
+    {
+      "insee": "50034",
+      "nom": "Baudre",
+      "lat": 49.0866,
+      "lon": -1.0675,
+      "population": 613
+    },
+    {
+      "insee": "50036",
+      "nom": "Baupte",
+      "lat": 49.3107,
+      "lon": -1.3675,
+      "population": 436
+    },
+    {
+      "insee": "50038",
+      "nom": "Beauchamps",
+      "lat": 48.8362,
+      "lon": -1.3667,
+      "population": 441
+    },
+    {
+      "insee": "50039",
+      "nom": "Beaucoudray",
+      "lat": 48.9613,
+      "lon": -1.1434,
+      "population": 136
+    },
+    {
+      "insee": "50040",
+      "nom": "Beauficel",
+      "lat": 48.7416,
+      "lon": -0.9616,
+      "population": 122
+    },
+    {
+      "insee": "50042",
+      "nom": "Beauvoir",
+      "lat": 48.6045,
+      "lon": -1.5287,
+      "population": 419
+    },
+    {
+      "insee": "50044",
+      "nom": "Belval",
+      "lat": 49.0547,
+      "lon": -1.3513,
+      "population": 333
+    },
+    {
+      "insee": "50045",
+      "nom": "Benoîtville",
+      "lat": 49.5309,
+      "lon": -1.7743,
+      "population": 640
+    },
+    {
+      "insee": "50046",
+      "nom": "Bérigny",
+      "lat": 49.1395,
+      "lon": -0.9435,
+      "population": 442
+    },
+    {
+      "insee": "50048",
+      "nom": "Beslon",
+      "lat": 48.8583,
+      "lon": -1.1601,
+      "population": 562
+    },
+    {
+      "insee": "50049",
+      "nom": "Besneville",
+      "lat": 49.3766,
+      "lon": -1.6318,
+      "population": 661
+    },
+    {
+      "insee": "50050",
+      "nom": "Beuvrigny",
+      "lat": 48.9655,
+      "lon": -1.0038,
+      "population": 131
+    },
+    {
+      "insee": "50052",
+      "nom": "Beuzeville-la-Bastille",
+      "lat": 49.3499,
+      "lon": -1.3633,
+      "population": 148
+    },
+    {
+      "insee": "50054",
+      "nom": "Biéville",
+      "lat": 49.0739,
+      "lon": -0.8897,
+      "population": 198
+    },
+    {
+      "insee": "50055",
+      "nom": "Biniville",
+      "lat": 49.4303,
+      "lon": -1.4866,
+      "population": 118
+    },
+    {
+      "insee": "50058",
+      "nom": "Blainville-sur-Mer",
+      "lat": 49.0716,
+      "lon": -1.5688,
+      "population": 1600
+    },
+    {
+      "insee": "50059",
+      "nom": "Blosville",
+      "lat": 49.3745,
+      "lon": -1.2944,
+      "population": 310
+    },
+    {
+      "insee": "50062",
+      "nom": "Boisyvon",
+      "lat": 48.8066,
+      "lon": -1.1316,
+      "population": 100
+    },
+    {
+      "insee": "50069",
+      "nom": "Bourguenolles",
+      "lat": 48.7944,
+      "lon": -1.2892,
+      "population": 349
+    },
+    {
+      "insee": "50546",
+      "nom": "Bourgvallées",
+      "lat": 49.0365,
+      "lon": -1.132,
+      "population": 3326
+    },
+    {
+      "insee": "50070",
+      "nom": "Boutteville",
+      "lat": 49.3907,
+      "lon": -1.2543,
+      "population": 57
+    },
+    {
+      "insee": "50072",
+      "nom": "Brainville",
+      "lat": 49.083,
+      "lon": -1.5013,
+      "population": 214
+    },
+    {
+      "insee": "50074",
+      "nom": "Brécey",
+      "lat": 48.727,
+      "lon": -1.1761,
+      "population": 2172
+    },
+    {
+      "insee": "50076",
+      "nom": "Bréhal",
+      "lat": 48.8979,
+      "lon": -1.5278,
+      "population": 3487
+    },
+    {
+      "insee": "50077",
+      "nom": "Bretteville",
+      "lat": 49.6514,
+      "lon": -1.5084,
+      "population": 1027
+    },
+    {
+      "insee": "50078",
+      "nom": "Bretteville-sur-Ay",
+      "lat": 49.2551,
+      "lon": -1.6267,
+      "population": 444
+    },
+    {
+      "insee": "50079",
+      "nom": "Breuville",
+      "lat": 49.5375,
+      "lon": -1.6643,
+      "population": 406
+    },
+    {
+      "insee": "50081",
+      "nom": "Bréville-sur-Mer",
+      "lat": 48.8697,
+      "lon": -1.5549,
+      "population": 791
+    },
+    {
+      "insee": "50082",
+      "nom": "Bricquebec-en-Cotentin",
+      "lat": 49.4621,
+      "lon": -1.6628,
+      "population": 5893
+    },
+    {
+      "insee": "50083",
+      "nom": "Bricquebosq",
+      "lat": 49.5347,
+      "lon": -1.7193,
+      "population": 638
+    },
+    {
+      "insee": "50084",
+      "nom": "Bricqueville-la-Blouette",
+      "lat": 49.0382,
+      "lon": -1.4755,
+      "population": 530
+    },
+    {
+      "insee": "50085",
+      "nom": "Bricqueville-sur-Mer",
+      "lat": 48.9204,
+      "lon": -1.5206,
+      "population": 1261
+    },
+    {
+      "insee": "50086",
+      "nom": "Brillevast",
+      "lat": 49.6251,
+      "lon": -1.4102,
+      "population": 318
+    },
+    {
+      "insee": "50087",
+      "nom": "Brix",
+      "lat": 49.5521,
+      "lon": -1.5783,
+      "population": 2165
+    },
+    {
+      "insee": "50088",
+      "nom": "Brouains",
+      "lat": 48.7226,
+      "lon": -0.9668,
+      "population": 140
+    },
+    {
+      "insee": "50090",
+      "nom": "Buais-Les-Monts",
+      "lat": 48.5245,
+      "lon": -0.9747,
+      "population": 611
+    },
+    {
+      "insee": "50092",
+      "nom": "Cambernon",
+      "lat": 49.0853,
+      "lon": -1.3846,
+      "population": 677
+    },
+    {
+      "insee": "50093",
+      "nom": "Cametours",
+      "lat": 49.072,
+      "lon": -1.2832,
+      "population": 434
+    },
+    {
+      "insee": "50094",
+      "nom": "Camprond",
+      "lat": 49.0893,
+      "lon": -1.3397,
+      "population": 374
+    },
+    {
+      "insee": "50095",
+      "nom": "Canisy",
+      "lat": 49.0706,
+      "lon": -1.1583,
+      "population": 1707
+    },
+    {
+      "insee": "50096",
+      "nom": "Canteloup",
+      "lat": 49.642,
+      "lon": -1.3625,
+      "population": 220
+    },
+    {
+      "insee": "50097",
+      "nom": "Canville-la-Rocque",
+      "lat": 49.3472,
+      "lon": -1.6314,
+      "population": 125
+    },
+    {
+      "insee": "50098",
+      "nom": "Carantilly",
+      "lat": 49.0659,
+      "lon": -1.2499,
+      "population": 619
+    },
+    {
+      "insee": "50099",
+      "nom": "Carentan-les-Marais",
+      "lat": 49.3061,
+      "lon": -1.2118,
+      "population": 10218
+    },
+    {
+      "insee": "50101",
+      "nom": "Carneville",
+      "lat": 49.6579,
+      "lon": -1.4493,
+      "population": 240
+    },
+    {
+      "insee": "50102",
+      "nom": "Carolles",
+      "lat": 48.7505,
+      "lon": -1.5568,
+      "population": 774
+    },
+    {
+      "insee": "50105",
+      "nom": "Catteville",
+      "lat": 49.3565,
+      "lon": -1.5654,
+      "population": 106
+    },
+    {
+      "insee": "50106",
+      "nom": "Cavigny",
+      "lat": 49.1914,
+      "lon": -1.1221,
+      "population": 269
+    },
+    {
+      "insee": "50108",
+      "nom": "Céaux",
+      "lat": 48.6302,
+      "lon": -1.3895,
+      "population": 414
+    },
+    {
+      "insee": "50109",
+      "nom": "Cérences",
+      "lat": 48.9075,
+      "lon": -1.4389,
+      "population": 1852
+    },
+    {
+      "insee": "50110",
+      "nom": "Cerisy-la-Forêt",
+      "lat": 49.1967,
+      "lon": -0.938,
+      "population": 1004
+    },
+    {
+      "insee": "50111",
+      "nom": "Cerisy-la-Salle",
+      "lat": 49.037,
+      "lon": -1.271,
+      "population": 1005
+    },
+    {
+      "insee": "50117",
+      "nom": "Champeaux",
+      "lat": 48.7405,
+      "lon": -1.5259,
+      "population": 349
+    },
+    {
+      "insee": "50118",
+      "nom": "Champrepus",
+      "lat": 48.8357,
+      "lon": -1.3188,
+      "population": 322
+    },
+    {
+      "insee": "50120",
+      "nom": "Chanteloup",
+      "lat": 48.8918,
+      "lon": -1.4784,
+      "population": 407
+    },
+    {
+      "insee": "50514",
+      "nom": "Chaulieu",
+      "lat": 48.7487,
+      "lon": -0.8574,
+      "population": 274
+    },
+    {
+      "insee": "50126",
+      "nom": "Chavoy",
+      "lat": 48.7368,
+      "lon": -1.3346,
+      "population": 126
+    },
+    {
+      "insee": "50129",
+      "nom": "Cherbourg-en-Cotentin",
+      "lat": 49.6277,
+      "lon": -1.6356,
+      "population": 78258
+    },
+    {
+      "insee": "50130",
+      "nom": "Chérencé-le-Héron",
+      "lat": 48.8011,
+      "lon": -1.2009,
+      "population": 436
+    },
+    {
+      "insee": "50135",
+      "nom": "Clitourps",
+      "lat": 49.6496,
+      "lon": -1.3696,
+      "population": 225
+    },
+    {
+      "insee": "50138",
+      "nom": "Colomby",
+      "lat": 49.453,
+      "lon": -1.4938,
+      "population": 569
+    },
+    {
+      "insee": "50139",
+      "nom": "Condé-sur-Vire",
+      "lat": 49.0503,
+      "lon": -1.0409,
+      "population": 4137
+    },
+    {
+      "insee": "50143",
+      "nom": "Coudeville-sur-Mer",
+      "lat": 48.8707,
+      "lon": -1.5321,
+      "population": 887
+    },
+    {
+      "insee": "50144",
+      "nom": "Coulouvray-Boisbenâtre",
+      "lat": 48.786,
+      "lon": -1.0997,
+      "population": 531
+    },
+    {
+      "insee": "50145",
+      "nom": "Courcy",
+      "lat": 49.0517,
+      "lon": -1.392,
+      "population": 639
+    },
+    {
+      "insee": "50146",
+      "nom": "Courtils",
+      "lat": 48.63,
+      "lon": -1.4243,
+      "population": 210
+    },
+    {
+      "insee": "50147",
+      "nom": "Coutances",
+      "lat": 49.0552,
+      "lon": -1.4451,
+      "population": 8321
+    },
+    {
+      "insee": "50148",
+      "nom": "Couvains",
+      "lat": 49.1618,
+      "lon": -1.0099,
+      "population": 562
+    },
+    {
+      "insee": "50149",
+      "nom": "Couville",
+      "lat": 49.561,
+      "lon": -1.6828,
+      "population": 1249
+    },
+    {
+      "insee": "50150",
+      "nom": "Crasville",
+      "lat": 49.554,
+      "lon": -1.3333,
+      "population": 223
+    },
+    {
+      "insee": "50151",
+      "nom": "Créances",
+      "lat": 49.1994,
+      "lon": -1.5616,
+      "population": 2067
+    },
+    {
+      "insee": "50155",
+      "nom": "Crollon",
+      "lat": 48.5821,
+      "lon": -1.3807,
+      "population": 301
+    },
+    {
+      "insee": "50156",
+      "nom": "Crosville-sur-Douve",
+      "lat": 49.3846,
+      "lon": -1.4764,
+      "population": 62
+    },
+    {
+      "insee": "50158",
+      "nom": "Cuves",
+      "lat": 48.7302,
+      "lon": -1.1028,
+      "population": 256
+    },
+    {
+      "insee": "50159",
+      "nom": "Dangy",
+      "lat": 49.0325,
+      "lon": -1.221,
+      "population": 648
+    },
+    {
+      "insee": "50162",
+      "nom": "Digosville",
+      "lat": 49.6318,
+      "lon": -1.5278,
+      "population": 1681
+    },
+    {
+      "insee": "50164",
+      "nom": "Domjean",
+      "lat": 48.9937,
+      "lon": -1.0293,
+      "population": 999
+    },
+    {
+      "insee": "50165",
+      "nom": "Donville-les-Bains",
+      "lat": 48.852,
+      "lon": -1.5732,
+      "population": 3146
+    },
+    {
+      "insee": "50166",
+      "nom": "Doville",
+      "lat": 49.3335,
+      "lon": -1.5515,
+      "population": 321
+    },
+    {
+      "insee": "50167",
+      "nom": "Dragey-Ronthon",
+      "lat": 48.7199,
+      "lon": -1.4898,
+      "population": 785
+    },
+    {
+      "insee": "50168",
+      "nom": "Ducey-Les Chéris",
+      "lat": 48.62,
+      "lon": -1.2661,
+      "population": 2784
+    },
+    {
+      "insee": "50169",
+      "nom": "Écausseville",
+      "lat": 49.4578,
+      "lon": -1.3813,
+      "population": 112
+    },
+    {
+      "insee": "50172",
+      "nom": "Émondeville",
+      "lat": 49.4614,
+      "lon": -1.3399,
+      "population": 341
+    },
+    {
+      "insee": "50174",
+      "nom": "Équilly",
+      "lat": 48.8333,
+      "lon": -1.3799,
+      "population": 194
+    },
+    {
+      "insee": "50175",
+      "nom": "Éroudeville",
+      "lat": 49.4738,
+      "lon": -1.395,
+      "population": 194
+    },
+    {
+      "insee": "50177",
+      "nom": "Étienville",
+      "lat": 49.3859,
+      "lon": -1.4366,
+      "population": 368
+    },
+    {
+      "insee": "50178",
+      "nom": "Fermanville",
+      "lat": 49.6805,
+      "lon": -1.455,
+      "population": 1283
+    },
+    {
+      "insee": "50181",
+      "nom": "Feugères",
+      "lat": 49.1463,
+      "lon": -1.3154,
+      "population": 356
+    },
+    {
+      "insee": "50183",
+      "nom": "Fierville-les-Mines",
+      "lat": 49.3948,
+      "lon": -1.6652,
+      "population": 348
+    },
+    {
+      "insee": "50184",
+      "nom": "Flamanville",
+      "lat": 49.5327,
+      "lon": -1.8658,
+      "population": 1639
+    },
+    {
+      "insee": "50185",
+      "nom": "Fleury",
+      "lat": 48.8497,
+      "lon": -1.2649,
+      "population": 1101
+    },
+    {
+      "insee": "50186",
+      "nom": "Flottemanville",
+      "lat": 49.4755,
+      "lon": -1.4516,
+      "population": 230
+    },
+    {
+      "insee": "50188",
+      "nom": "Folligny",
+      "lat": 48.8201,
+      "lon": -1.4191,
+      "population": 1119
+    },
+    {
+      "insee": "50190",
+      "nom": "Fontenay-sur-Mer",
+      "lat": 49.4922,
+      "lon": -1.3053,
+      "population": 161
+    },
+    {
+      "insee": "50192",
+      "nom": "Fourneaux",
+      "lat": 48.9651,
+      "lon": -1.0388,
+      "population": 131
+    },
+    {
+      "insee": "50194",
+      "nom": "Fresville",
+      "lat": 49.4445,
+      "lon": -1.3515,
+      "population": 373
+    },
+    {
+      "insee": "50195",
+      "nom": "Gathemo",
+      "lat": 48.7707,
+      "lon": -0.9668,
+      "population": 265
+    },
+    {
+      "insee": "50196",
+      "nom": "Gatteville-le-Phare",
+      "lat": 49.6793,
+      "lon": -1.2942,
+      "population": 465
+    },
+    {
+      "insee": "50197",
+      "nom": "Gavray-sur-Sienne",
+      "lat": 48.8903,
+      "lon": -1.3244,
+      "population": 2047
+    },
+    {
+      "insee": "50198",
+      "nom": "Geffosses",
+      "lat": 49.1269,
+      "lon": -1.5543,
+      "population": 501
+    },
+    {
+      "insee": "50199",
+      "nom": "Genêts",
+      "lat": 48.6831,
+      "lon": -1.4785,
+      "population": 451
+    },
+    {
+      "insee": "50200",
+      "nom": "Ger",
+      "lat": 48.6735,
+      "lon": -0.7991,
+      "population": 824
+    },
+    {
+      "insee": "50207",
+      "nom": "Golleville",
+      "lat": 49.4403,
+      "lon": -1.5136,
+      "population": 163
+    },
+    {
+      "insee": "50208",
+      "nom": "Gonfreville",
+      "lat": 49.231,
+      "lon": -1.4019,
+      "population": 164
+    },
+    {
+      "insee": "50209",
+      "nom": "Gonneville-Le Theil",
+      "lat": 49.6205,
+      "lon": -1.4697,
+      "population": 1513
+    },
+    {
+      "insee": "50210",
+      "nom": "Gorges",
+      "lat": 49.2647,
+      "lon": -1.3902,
+      "population": 350
+    },
+    {
+      "insee": "50214",
+      "nom": "Gouvets",
+      "lat": 48.9253,
+      "lon": -1.0901,
+      "population": 295
+    },
+    {
+      "insee": "50215",
+      "nom": "Gouville-sur-Mer",
+      "lat": 49.1077,
+      "lon": -1.5315,
+      "population": 3274
+    },
+    {
+      "insee": "50216",
+      "nom": "Graignes-Mesnil-Angot",
+      "lat": 49.2358,
+      "lon": -1.1961,
+      "population": 797
+    },
+    {
+      "insee": "50391",
+      "nom": "Grandparigny",
+      "lat": 48.6071,
+      "lon": -1.0655,
+      "population": 2605
+    },
+    {
+      "insee": "50218",
+      "nom": "Granville",
+      "lat": 48.8724,
+      "lon": -1.7657,
+      "population": 12510
+    },
+    {
+      "insee": "50219",
+      "nom": "Gratot",
+      "lat": 49.0663,
+      "lon": -1.4883,
+      "population": 679
+    },
+    {
+      "insee": "50221",
+      "nom": "Grimesnil",
+      "lat": 48.956,
+      "lon": -1.3522,
+      "population": 71
+    },
+    {
+      "insee": "50222",
+      "nom": "Grosville",
+      "lat": 49.5078,
+      "lon": -1.7336,
+      "population": 809
+    },
+    {
+      "insee": "50228",
+      "nom": "Hambye",
+      "lat": 48.9483,
+      "lon": -1.2625,
+      "population": 1072
+    },
+    {
+      "insee": "50229",
+      "nom": "Hamelin",
+      "lat": 48.5438,
+      "lon": -1.226,
+      "population": 111
+    },
+    {
+      "insee": "50230",
+      "nom": "Hardinvast",
+      "lat": 49.5777,
+      "lon": -1.6461,
+      "population": 928
+    },
+    {
+      "insee": "50232",
+      "nom": "Hauteville-la-Guichard",
+      "lat": 49.1255,
+      "lon": -1.3038,
+      "population": 440
+    },
+    {
+      "insee": "50231",
+      "nom": "Hauteville-sur-Mer",
+      "lat": 48.9748,
+      "lon": -1.541,
+      "population": 707
+    },
+    {
+      "insee": "50233",
+      "nom": "Hautteville-Bocage",
+      "lat": 49.4302,
+      "lon": -1.4697,
+      "population": 152
+    },
+    {
+      "insee": "50238",
+      "nom": "Héauville",
+      "lat": 49.5744,
+      "lon": -1.8044,
+      "population": 456
+    },
+    {
+      "insee": "50240",
+      "nom": "Helleville",
+      "lat": 49.5611,
+      "lon": -1.7843,
+      "population": 567
+    },
+    {
+      "insee": "50241",
+      "nom": "Hémevez",
+      "lat": 49.4624,
+      "lon": -1.4373,
+      "population": 189
+    },
+    {
+      "insee": "50243",
+      "nom": "Heugueville-sur-Sienne",
+      "lat": 49.0357,
+      "lon": -1.5159,
+      "population": 458
+    },
+    {
+      "insee": "50246",
+      "nom": "Hiesville",
+      "lat": 49.3716,
+      "lon": -1.2572,
+      "population": 72
+    },
+    {
+      "insee": "50247",
+      "nom": "Hocquigny",
+      "lat": 48.8083,
+      "lon": -1.4014,
+      "population": 196
+    },
+    {
+      "insee": "50251",
+      "nom": "Huberville",
+      "lat": 49.5078,
+      "lon": -1.4293,
+      "population": 361
+    },
+    {
+      "insee": "50252",
+      "nom": "Hudimesnil",
+      "lat": 48.8709,
+      "lon": -1.4652,
+      "population": 928
+    },
+    {
+      "insee": "50253",
+      "nom": "Huisnes-sur-Mer",
+      "lat": 48.6103,
+      "lon": -1.4498,
+      "population": 169
+    },
+    {
+      "insee": "50256",
+      "nom": "Isigny-le-Buat",
+      "lat": 48.6236,
+      "lon": -1.1798,
+      "population": 3183
+    },
+    {
+      "insee": "50258",
+      "nom": "Joganville",
+      "lat": 49.4698,
+      "lon": -1.3523,
+      "population": 84
+    },
+    {
+      "insee": "50259",
+      "nom": "Juilley",
+      "lat": 48.5934,
+      "lon": -1.3465,
+      "population": 691
+    },
+    {
+      "insee": "50066",
+      "nom": "Jullouville",
+      "lat": 48.7627,
+      "lon": -1.5291,
+      "population": 2394
+    },
+    {
+      "insee": "50260",
+      "nom": "Juvigny les Vallées",
+      "lat": 48.679,
+      "lon": -1.0161,
+      "population": 1674
+    },
+    {
+      "insee": "50176",
+      "nom": "L'Étang-Bertrand",
+      "lat": 49.4707,
+      "lon": -1.5709,
+      "population": 350
+    },
+    {
+      "insee": "50028",
+      "nom": "La Baleine",
+      "lat": 48.924,
+      "lon": -1.3038,
+      "population": 105
+    },
+    {
+      "insee": "50032",
+      "nom": "La Barre-de-Semilly",
+      "lat": 49.1053,
+      "lon": -1.0127,
+      "population": 1029
+    },
+    {
+      "insee": "50060",
+      "nom": "La Bloutière",
+      "lat": 48.869,
+      "lon": -1.2511,
+      "population": 423
+    },
+    {
+      "insee": "50064",
+      "nom": "La Bonneville",
+      "lat": 49.3873,
+      "lon": -1.4645,
+      "population": 173
+    },
+    {
+      "insee": "50112",
+      "nom": "La Chaise-Baudouin",
+      "lat": 48.764,
+      "lon": -1.2442,
+      "population": 435
+    },
+    {
+      "insee": "50121",
+      "nom": "La Chapelle-Cécelin",
+      "lat": 48.8094,
+      "lon": -1.1677,
+      "population": 245
+    },
+    {
+      "insee": "50124",
+      "nom": "La Chapelle-Urée",
+      "lat": 48.6634,
+      "lon": -1.1495,
+      "population": 172
+    },
+    {
+      "insee": "50137",
+      "nom": "La Colombe",
+      "lat": 48.8704,
+      "lon": -1.1914,
+      "population": 626
+    },
+    {
+      "insee": "50182",
+      "nom": "La Feuillie",
+      "lat": 49.1752,
+      "lon": -1.4919,
+      "population": 302
+    },
+    {
+      "insee": "50205",
+      "nom": "La Godefroy",
+      "lat": 48.6896,
+      "lon": -1.2844,
+      "population": 301
+    },
+    {
+      "insee": "50041",
+      "nom": "La Hague",
+      "lat": 49.6546,
+      "lon": -1.8214,
+      "population": 11484
+    },
+    {
+      "insee": "50236",
+      "nom": "La Haye",
+      "lat": 49.2873,
+      "lon": -1.5966,
+      "population": 4029
+    },
+    {
+      "insee": "50234",
+      "nom": "La Haye-Bellefond",
+      "lat": 48.982,
+      "lon": -1.1901,
+      "population": 63
+    },
+    {
+      "insee": "50235",
+      "nom": "La Haye-d'Ectot",
+      "lat": 49.3933,
+      "lon": -1.732,
+      "population": 285
+    },
+    {
+      "insee": "50237",
+      "nom": "La Haye-Pesnel",
+      "lat": 48.8134,
+      "lon": -1.3732,
+      "population": 1302
+    },
+    {
+      "insee": "50262",
+      "nom": "La Lande-d'Airou",
+      "lat": 48.8171,
+      "lon": -1.2835,
+      "population": 535
+    },
+    {
+      "insee": "50281",
+      "nom": "La Lucerne-d'Outremer",
+      "lat": 48.7871,
+      "lon": -1.411,
+      "population": 880
+    },
+    {
+      "insee": "50283",
+      "nom": "La Luzerne",
+      "lat": 49.1399,
+      "lon": -1.0457,
+      "population": 87
+    },
+    {
+      "insee": "50297",
+      "nom": "La Meauffe",
+      "lat": 49.1697,
+      "lon": -1.0985,
+      "population": 993
+    },
+    {
+      "insee": "50327",
+      "nom": "La Meurdraquière",
+      "lat": 48.8602,
+      "lon": -1.4042,
+      "population": 195
+    },
+    {
+      "insee": "50361",
+      "nom": "La Mouche",
+      "lat": 48.7831,
+      "lon": -1.3514,
+      "population": 249
+    },
+    {
+      "insee": "50395",
+      "nom": "La Pernelle",
+      "lat": 49.612,
+      "lon": -1.314,
+      "population": 286
+    },
+    {
+      "insee": "50607",
+      "nom": "La Trinité",
+      "lat": 48.7871,
+      "lon": -1.2438,
+      "population": 405
+    },
+    {
+      "insee": "50624",
+      "nom": "La Vendelée",
+      "lat": 49.0834,
+      "lon": -1.4585,
+      "population": 459
+    },
+    {
+      "insee": "50261",
+      "nom": "Lamberville",
+      "lat": 49.0797,
+      "lon": -0.914,
+      "population": 167
+    },
+    {
+      "insee": "50263",
+      "nom": "Lapenty",
+      "lat": 48.5673,
+      "lon": -1.0271,
+      "population": 381
+    },
+    {
+      "insee": "50265",
+      "nom": "Laulne",
+      "lat": 49.2505,
+      "lon": -1.4558,
+      "population": 186
+    },
+    {
+      "insee": "50161",
+      "nom": "Le Dézert",
+      "lat": 49.2088,
+      "lon": -1.1661,
+      "population": 601
+    },
+    {
+      "insee": "50193",
+      "nom": "Le Fresne-Poret",
+      "lat": 48.7086,
+      "lon": -0.8207,
+      "population": 226
+    },
+    {
+      "insee": "50217",
+      "nom": "Le Grand-Celland",
+      "lat": 48.6888,
+      "lon": -1.1778,
+      "population": 592
+    },
+    {
+      "insee": "50115",
+      "nom": "Le Grippon",
+      "lat": 48.767,
+      "lon": -1.3923,
+      "population": 391
+    },
+    {
+      "insee": "50225",
+      "nom": "Le Guislain",
+      "lat": 48.9683,
+      "lon": -1.2186,
+      "population": 135
+    },
+    {
+      "insee": "50227",
+      "nom": "Le Ham",
+      "lat": 49.4502,
+      "lon": -1.4113,
+      "population": 309
+    },
+    {
+      "insee": "50278",
+      "nom": "Le Loreur",
+      "lat": 48.8633,
+      "lon": -1.4257,
+      "population": 258
+    },
+    {
+      "insee": "50279",
+      "nom": "Le Lorey",
+      "lat": 49.0976,
+      "lon": -1.3026,
+      "population": 555
+    },
+    {
+      "insee": "50282",
+      "nom": "Le Luot",
+      "lat": 48.7621,
+      "lon": -1.3329,
+      "population": 275
+    },
+    {
+      "insee": "50299",
+      "nom": "Le Mesnil",
+      "lat": 49.3731,
+      "lon": -1.6926,
+      "population": 189
+    },
+    {
+      "insee": "50300",
+      "nom": "Le Mesnil-Adelée",
+      "lat": 48.6992,
+      "lon": -1.0651,
+      "population": 157
+    },
+    {
+      "insee": "50302",
+      "nom": "Le Mesnil-Amey",
+      "lat": 49.1045,
+      "lon": -1.2128,
+      "population": 288
+    },
+    {
+      "insee": "50305",
+      "nom": "Le Mesnil-au-Val",
+      "lat": 49.5959,
+      "lon": -1.5285,
+      "population": 729
+    },
+    {
+      "insee": "50304",
+      "nom": "Le Mesnil-Aubert",
+      "lat": 48.945,
+      "lon": -1.4125,
+      "population": 197
+    },
+    {
+      "insee": "50310",
+      "nom": "Le Mesnil-Eury",
+      "lat": 49.164,
+      "lon": -1.2382,
+      "population": 188
+    },
+    {
+      "insee": "50311",
+      "nom": "Le Mesnil-Garnier",
+      "lat": 48.8639,
+      "lon": -1.3035,
+      "population": 220
+    },
+    {
+      "insee": "50312",
+      "nom": "Le Mesnil-Gilbert",
+      "lat": 48.7221,
+      "lon": -1.0599,
+      "population": 146
+    },
+    {
+      "insee": "50317",
+      "nom": "Le Mesnil-Ozenne",
+      "lat": 48.6686,
+      "lon": -1.2184,
+      "population": 265
+    },
+    {
+      "insee": "50321",
+      "nom": "Le Mesnil-Rouxelin",
+      "lat": 49.1395,
+      "lon": -1.0758,
+      "population": 469
+    },
+    {
+      "insee": "50324",
+      "nom": "Le Mesnil-Véneron",
+      "lat": 49.2254,
+      "lon": -1.1644,
+      "population": 107
+    },
+    {
+      "insee": "50326",
+      "nom": "Le Mesnil-Villeman",
+      "lat": 48.8603,
+      "lon": -1.3414,
+      "population": 238
+    },
+    {
+      "insee": "50315",
+      "nom": "Le Mesnillard",
+      "lat": 48.632,
+      "lon": -1.0801,
+      "population": 257
+    },
+    {
+      "insee": "50353",
+      "nom": "Le Mont-Saint-Michel",
+      "lat": 48.6245,
+      "lon": -1.5278,
+      "population": 23
+    },
+    {
+      "insee": "50371",
+      "nom": "Le Neufbourg",
+      "lat": 48.6604,
+      "lon": -0.9461,
+      "population": 397
+    },
+    {
+      "insee": "50535",
+      "nom": "Le Parc",
+      "lat": 48.7515,
+      "lon": -1.2904,
+      "population": 921
+    },
+    {
+      "insee": "50398",
+      "nom": "Le Perron",
+      "lat": 49.0572,
+      "lon": -0.8939,
+      "population": 188
+    },
+    {
+      "insee": "50399",
+      "nom": "Le Petit-Celland",
+      "lat": 48.6984,
+      "lon": -1.2152,
+      "population": 176
+    },
+    {
+      "insee": "50405",
+      "nom": "Le Plessis-Lastelle",
+      "lat": 49.2792,
+      "lon": -1.4345,
+      "population": 237
+    },
+    {
+      "insee": "50442",
+      "nom": "Le Rozel",
+      "lat": 49.4814,
+      "lon": -1.8256,
+      "population": 258
+    },
+    {
+      "insee": "50590",
+      "nom": "Le Tanu",
+      "lat": 48.8052,
+      "lon": -1.3338,
+      "population": 430
+    },
+    {
+      "insee": "50591",
+      "nom": "Le Teilleul",
+      "lat": 48.5509,
+      "lon": -0.889,
+      "population": 1706
+    },
+    {
+      "insee": "50616",
+      "nom": "Le Val-Saint-Père",
+      "lat": 48.659,
+      "lon": -1.3758,
+      "population": 1898
+    },
+    {
+      "insee": "50619",
+      "nom": "Le Vast",
+      "lat": 49.6187,
+      "lon": -1.3564,
+      "population": 321
+    },
+    {
+      "insee": "50633",
+      "nom": "Le Vicel",
+      "lat": 49.6315,
+      "lon": -1.3185,
+      "population": 119
+    },
+    {
+      "insee": "50266",
+      "nom": "Lengronne",
+      "lat": 48.9343,
+      "lon": -1.3805,
+      "population": 467
+    },
+    {
+      "insee": "50152",
+      "nom": "Les Cresnays",
+      "lat": 48.7102,
+      "lon": -1.1132,
+      "population": 227
+    },
+    {
+      "insee": "50274",
+      "nom": "Les Loges-Marchis",
+      "lat": 48.5372,
+      "lon": -1.084,
+      "population": 1051
+    },
+    {
+      "insee": "50275",
+      "nom": "Les Loges-sur-Brécey",
+      "lat": 48.754,
+      "lon": -1.1623,
+      "population": 115
+    },
+    {
+      "insee": "50332",
+      "nom": "Les Moitiers-d'Allonne",
+      "lat": 49.3995,
+      "lon": -1.7818,
+      "population": 742
+    },
+    {
+      "insee": "50402",
+      "nom": "Les Pieux",
+      "lat": 49.5118,
+      "lon": -1.811,
+      "population": 3249
+    },
+    {
+      "insee": "50267",
+      "nom": "Lessay",
+      "lat": 49.2236,
+      "lon": -1.5257,
+      "population": 2278
+    },
+    {
+      "insee": "50268",
+      "nom": "Lestre",
+      "lat": 49.5235,
+      "lon": -1.3227,
+      "population": 242
+    },
+    {
+      "insee": "50269",
+      "nom": "Liesville-sur-Douve",
+      "lat": 49.3504,
+      "lon": -1.3244,
+      "population": 218
+    },
+    {
+      "insee": "50270",
+      "nom": "Lieusaint",
+      "lat": 49.4819,
+      "lon": -1.4724,
+      "population": 408
+    },
+    {
+      "insee": "50271",
+      "nom": "Lingeard",
+      "lat": 48.7388,
+      "lon": -1.0255,
+      "population": 80
+    },
+    {
+      "insee": "50276",
+      "nom": "Lolif",
+      "lat": 48.7301,
+      "lon": -1.3927,
+      "population": 604
+    },
+    {
+      "insee": "50277",
+      "nom": "Longueville",
+      "lat": 48.8605,
+      "lon": -1.5371,
+      "population": 638
+    },
+    {
+      "insee": "50285",
+      "nom": "Magneville",
+      "lat": 49.4538,
+      "lon": -1.5535,
+      "population": 321
+    },
+    {
+      "insee": "50288",
+      "nom": "Marcey-les-Grèves",
+      "lat": 48.6979,
+      "lon": -1.3877,
+      "population": 1275
+    },
+    {
+      "insee": "50289",
+      "nom": "Marchésieux",
+      "lat": 49.1927,
+      "lon": -1.3133,
+      "population": 665
+    },
+    {
+      "insee": "50290",
+      "nom": "Marcilly",
+      "lat": 48.6539,
+      "lon": -1.245,
+      "population": 355
+    },
+    {
+      "insee": "50291",
+      "nom": "Margueray",
+      "lat": 48.9005,
+      "lon": -1.1253,
+      "population": 119
+    },
+    {
+      "insee": "50292",
+      "nom": "Marigny-Le-Lozon",
+      "lat": 49.1256,
+      "lon": -1.2609,
+      "population": 2761
+    },
+    {
+      "insee": "50294",
+      "nom": "Martinvast",
+      "lat": 49.5979,
+      "lon": -1.6415,
+      "population": 1348
+    },
+    {
+      "insee": "50295",
+      "nom": "Maupertuis",
+      "lat": 48.9568,
+      "lon": -1.1993,
+      "population": 145
+    },
+    {
+      "insee": "50296",
+      "nom": "Maupertus-sur-Mer",
+      "lat": 49.6566,
+      "lon": -1.4842,
+      "population": 238
+    },
+    {
+      "insee": "50298",
+      "nom": "Méautis",
+      "lat": 49.2826,
+      "lon": -1.3008,
+      "population": 648
+    },
+    {
+      "insee": "50328",
+      "nom": "Millières",
+      "lat": 49.189,
+      "lon": -1.4588,
+      "population": 759
+    },
+    {
+      "insee": "50334",
+      "nom": "Montabot",
+      "lat": 48.937,
+      "lon": -1.1328,
+      "population": 271
+    },
+    {
+      "insee": "50335",
+      "nom": "Montaigu-la-Brisette",
+      "lat": 49.5699,
+      "lon": -1.4162,
+      "population": 495
+    },
+    {
+      "insee": "50336",
+      "nom": "Montaigu-les-Bois",
+      "lat": 48.8917,
+      "lon": -1.2716,
+      "population": 204
+    },
+    {
+      "insee": "50338",
+      "nom": "Montbray",
+      "lat": 48.8809,
+      "lon": -1.1056,
+      "population": 340
+    },
+    {
+      "insee": "50340",
+      "nom": "Montcuit",
+      "lat": 49.1171,
+      "lon": -1.3478,
+      "population": 180
+    },
+    {
+      "insee": "50341",
+      "nom": "Montebourg",
+      "lat": 49.4989,
+      "lon": -1.3886,
+      "population": 1925
+    },
+    {
+      "insee": "50342",
+      "nom": "Montfarville",
+      "lat": 49.655,
+      "lon": -1.2627,
+      "population": 798
+    },
+    {
+      "insee": "50345",
+      "nom": "Monthuchon",
+      "lat": 49.0891,
+      "lon": -1.4191,
+      "population": 705
+    },
+    {
+      "insee": "50347",
+      "nom": "Montjoie-Saint-Martin",
+      "lat": 48.5287,
+      "lon": -1.2953,
+      "population": 250
+    },
+    {
+      "insee": "50349",
+      "nom": "Montmartin-sur-Mer",
+      "lat": 48.9932,
+      "lon": -1.5305,
+      "population": 1425
+    },
+    {
+      "insee": "50350",
+      "nom": "Montpinchon",
+      "lat": 49.0266,
+      "lon": -1.3218,
+      "population": 543
+    },
+    {
+      "insee": "50351",
+      "nom": "Montrabot",
+      "lat": 49.1096,
+      "lon": -0.9005,
+      "population": 70
+    },
+    {
+      "insee": "50352",
+      "nom": "Montreuil-sur-Lozon",
+      "lat": 49.1307,
+      "lon": -1.2429,
+      "population": 339
+    },
+    {
+      "insee": "50273",
+      "nom": "Montsenelle",
+      "lat": 49.3053,
+      "lon": -1.4417,
+      "population": 1450
+    },
+    {
+      "insee": "50356",
+      "nom": "Moon-sur-Elle",
+      "lat": 49.203,
+      "lon": -1.0548,
+      "population": 781
+    },
+    {
+      "insee": "50357",
+      "nom": "Morigny",
+      "lat": 48.8811,
+      "lon": -1.0704,
+      "population": 70
+    },
+    {
+      "insee": "50359",
+      "nom": "Mortain-Bocage",
+      "lat": 48.6077,
+      "lon": -0.9259,
+      "population": 2961
+    },
+    {
+      "insee": "50360",
+      "nom": "Morville",
+      "lat": 49.4748,
+      "lon": -1.5178,
+      "population": 277
+    },
+    {
+      "insee": "50362",
+      "nom": "Moulines",
+      "lat": 48.5489,
+      "lon": -1.0466,
+      "population": 280
+    },
+    {
+      "insee": "50363",
+      "nom": "Moyon Villages",
+      "lat": 48.9955,
+      "lon": -1.1354,
+      "population": 1489
+    },
+    {
+      "insee": "50364",
+      "nom": "Muneville-le-Bingard",
+      "lat": 49.1373,
+      "lon": -1.4755,
+      "population": 725
+    },
+    {
+      "insee": "50365",
+      "nom": "Muneville-sur-Mer",
+      "lat": 48.9379,
+      "lon": -1.4835,
+      "population": 491
+    },
+    {
+      "insee": "50368",
+      "nom": "Nay",
+      "lat": 49.2414,
+      "lon": -1.3724,
+      "population": 70
+    },
+    {
+      "insee": "50369",
+      "nom": "Négreville",
+      "lat": 49.5039,
+      "lon": -1.5507,
+      "population": 845
+    },
+    {
+      "insee": "50370",
+      "nom": "Néhou",
+      "lat": 49.4258,
+      "lon": -1.5624,
+      "population": 609
+    },
+    {
+      "insee": "50372",
+      "nom": "Neufmesnil",
+      "lat": 49.3133,
+      "lon": -1.5279,
+      "population": 176
+    },
+    {
+      "insee": "50373",
+      "nom": "Neuville-au-Plain",
+      "lat": 49.4233,
+      "lon": -1.334,
+      "population": 81
+    },
+    {
+      "insee": "50374",
+      "nom": "Neuville-en-Beaumont",
+      "lat": 49.3494,
+      "lon": -1.5966,
+      "population": 27
+    },
+    {
+      "insee": "50376",
+      "nom": "Nicorps",
+      "lat": 49.0327,
+      "lon": -1.4107,
+      "population": 354
+    },
+    {
+      "insee": "50378",
+      "nom": "Notre-Dame-de-Cenilly",
+      "lat": 48.9941,
+      "lon": -1.2663,
+      "population": 637
+    },
+    {
+      "insee": "50379",
+      "nom": "Notre-Dame-de-Livoye",
+      "lat": 48.7464,
+      "lon": -1.198,
+      "population": 164
+    },
+    {
+      "insee": "50382",
+      "nom": "Nouainville",
+      "lat": 49.6195,
+      "lon": -1.6803,
+      "population": 607
+    },
+    {
+      "insee": "50384",
+      "nom": "Octeville-l'Avenel",
+      "lat": 49.5473,
+      "lon": -1.367,
+      "population": 235
+    },
+    {
+      "insee": "50387",
+      "nom": "Orglandes",
+      "lat": 49.4245,
+      "lon": -1.4419,
+      "population": 346
+    },
+    {
+      "insee": "50388",
+      "nom": "Orval sur Sienne",
+      "lat": 49.0092,
+      "lon": -1.4763,
+      "population": 1233
+    },
+    {
+      "insee": "50389",
+      "nom": "Ouville",
+      "lat": 49.0221,
+      "lon": -1.3655,
+      "population": 439
+    },
+    {
+      "insee": "50390",
+      "nom": "Ozeville",
+      "lat": 49.5037,
+      "lon": -1.3421,
+      "population": 159
+    },
+    {
+      "insee": "50393",
+      "nom": "Percy-en-Normandie",
+      "lat": 48.9174,
+      "lon": -1.1939,
+      "population": 2641
+    },
+    {
+      "insee": "50394",
+      "nom": "Périers",
+      "lat": 49.1929,
+      "lon": -1.4136,
+      "population": 2376
+    },
+    {
+      "insee": "50397",
+      "nom": "Perriers-en-Beauficel",
+      "lat": 48.7344,
+      "lon": -0.9989,
+      "population": 207
+    },
+    {
+      "insee": "50400",
+      "nom": "Picauville",
+      "lat": 49.38,
+      "lon": -1.3964,
+      "population": 3228
+    },
+    {
+      "insee": "50401",
+      "nom": "Pierreville",
+      "lat": 49.4665,
+      "lon": -1.773,
+      "population": 757
+    },
+    {
+      "insee": "50403",
+      "nom": "Pirou",
+      "lat": 49.1641,
+      "lon": -1.5558,
+      "population": 1514
+    },
+    {
+      "insee": "50407",
+      "nom": "Poilley",
+      "lat": 48.6154,
+      "lon": -1.3203,
+      "population": 969
+    },
+    {
+      "insee": "50409",
+      "nom": "Pont-Hébert",
+      "lat": 49.1829,
+      "lon": -1.1735,
+      "population": 1897
+    },
+    {
+      "insee": "50408",
+      "nom": "Pontaubault",
+      "lat": 48.6251,
+      "lon": -1.3539,
+      "population": 579
+    },
+    {
+      "insee": "50410",
+      "nom": "Pontorson",
+      "lat": 48.5612,
+      "lon": -1.462,
+      "population": 4280
+    },
+    {
+      "insee": "50411",
+      "nom": "Ponts",
+      "lat": 48.7124,
+      "lon": -1.3277,
+      "population": 708
+    },
+    {
+      "insee": "50412",
+      "nom": "Port-Bail-sur-Mer",
+      "lat": 49.3403,
+      "lon": -1.6888,
+      "population": 2520
+    },
+    {
+      "insee": "50413",
+      "nom": "Précey",
+      "lat": 48.6042,
+      "lon": -1.3766,
+      "population": 559
+    },
+    {
+      "insee": "50417",
+      "nom": "Quettehou",
+      "lat": 49.5853,
+      "lon": -1.3266,
+      "population": 1811
+    },
+    {
+      "insee": "50419",
+      "nom": "Quettreville-sur-Sienne",
+      "lat": 48.968,
+      "lon": -1.4322,
+      "population": 3167
+    },
+    {
+      "insee": "50420",
+      "nom": "Quibou",
+      "lat": 49.0739,
+      "lon": -1.2102,
+      "population": 858
+    },
+    {
+      "insee": "50421",
+      "nom": "Quinéville",
+      "lat": 49.5107,
+      "lon": -1.3056,
+      "population": 258
+    },
+    {
+      "insee": "50422",
+      "nom": "Raids",
+      "lat": 49.2094,
+      "lon": -1.3449,
+      "population": 216
+    },
+    {
+      "insee": "50423",
+      "nom": "Rampan",
+      "lat": 49.1465,
+      "lon": -1.1314,
+      "population": 230
+    },
+    {
+      "insee": "50425",
+      "nom": "Rauville-la-Bigot",
+      "lat": 49.5196,
+      "lon": -1.6634,
+      "population": 1082
+    },
+    {
+      "insee": "50426",
+      "nom": "Rauville-la-Place",
+      "lat": 49.3894,
+      "lon": -1.5044,
+      "population": 399
+    },
+    {
+      "insee": "50428",
+      "nom": "Reffuveille",
+      "lat": 48.6771,
+      "lon": -1.1126,
+      "population": 550
+    },
+    {
+      "insee": "50429",
+      "nom": "Regnéville-sur-Mer",
+      "lat": 49.0153,
+      "lon": -1.5361,
+      "population": 730
+    },
+    {
+      "insee": "50430",
+      "nom": "Reigneville-Bocage",
+      "lat": 49.4109,
+      "lon": -1.4752,
+      "population": 34
+    },
+    {
+      "insee": "50431",
+      "nom": "Remilly Les Marais",
+      "lat": 49.1757,
+      "lon": -1.2445,
+      "population": 1062
+    },
+    {
+      "insee": "50433",
+      "nom": "Réville",
+      "lat": 49.6271,
+      "lon": -1.2542,
+      "population": 1040
+    },
+    {
+      "insee": "50435",
+      "nom": "Rocheville",
+      "lat": 49.5027,
+      "lon": -1.598,
+      "population": 620
+    },
+    {
+      "insee": "50436",
+      "nom": "Romagny Fontenay",
+      "lat": 48.6317,
+      "lon": -0.9934,
+      "population": 1243
+    },
+    {
+      "insee": "50437",
+      "nom": "Roncey",
+      "lat": 48.9849,
+      "lon": -1.3319,
+      "population": 770
+    },
+    {
+      "insee": "50443",
+      "nom": "Sacey",
+      "lat": 48.4977,
+      "lon": -1.4594,
+      "population": 508
+    },
+    {
+      "insee": "50444",
+      "nom": "Saint-Amand-Villages",
+      "lat": 49.0411,
+      "lon": -0.9306,
+      "population": 2525
+    },
+    {
+      "insee": "50445",
+      "nom": "Saint-André-de-Bohon",
+      "lat": 49.2405,
+      "lon": -1.2515,
+      "population": 375
+    },
+    {
+      "insee": "50446",
+      "nom": "Saint-André-de-l'Épine",
+      "lat": 49.1357,
+      "lon": -1.0232,
+      "population": 555
+    },
+    {
+      "insee": "50448",
+      "nom": "Saint-Aubin-de-Terregatte",
+      "lat": 48.5684,
+      "lon": -1.291,
+      "population": 645
+    },
+    {
+      "insee": "50447",
+      "nom": "Saint-Aubin-des-Préaux",
+      "lat": 48.8064,
+      "lon": -1.4999,
+      "population": 488
+    },
+    {
+      "insee": "50450",
+      "nom": "Saint-Barthélemy",
+      "lat": 48.6838,
+      "lon": -0.9495,
+      "population": 342
+    },
+    {
+      "insee": "50451",
+      "nom": "Saint-Brice",
+      "lat": 48.7003,
+      "lon": -1.2978,
+      "population": 140
+    },
+    {
+      "insee": "50452",
+      "nom": "Saint-Brice-de-Landelles",
+      "lat": 48.5424,
+      "lon": -1.1321,
+      "population": 652
+    },
+    {
+      "insee": "50454",
+      "nom": "Saint-Christophe-du-Foc",
+      "lat": 49.5561,
+      "lon": -1.7351,
+      "population": 409
+    },
+    {
+      "insee": "50455",
+      "nom": "Saint-Clair-sur-l'Elle",
+      "lat": 49.1871,
+      "lon": -1.0448,
+      "population": 959
+    },
+    {
+      "insee": "50456",
+      "nom": "Saint-Clément-Rancoudray",
+      "lat": 48.6685,
+      "lon": -0.8937,
+      "population": 555
+    },
+    {
+      "insee": "50461",
+      "nom": "Saint-Cyr",
+      "lat": 49.4848,
+      "lon": -1.4155,
+      "population": 213
+    },
+    {
+      "insee": "50462",
+      "nom": "Saint-Cyr-du-Bailleul",
+      "lat": 48.5694,
+      "lon": -0.8288,
+      "population": 345
+    },
+    {
+      "insee": "50463",
+      "nom": "Saint-Denis-le-Gast",
+      "lat": 48.9413,
+      "lon": -1.3232,
+      "population": 530
+    },
+    {
+      "insee": "50464",
+      "nom": "Saint-Denis-le-Vêtu",
+      "lat": 48.9932,
+      "lon": -1.3748,
+      "population": 590
+    },
+    {
+      "insee": "50467",
+      "nom": "Saint-Floxel",
+      "lat": 49.4907,
+      "lon": -1.3558,
+      "population": 489
+    },
+    {
+      "insee": "50468",
+      "nom": "Saint-Fromond",
+      "lat": 49.2263,
+      "lon": -1.1091,
+      "population": 758
+    },
+    {
+      "insee": "50473",
+      "nom": "Saint-Georges-d'Elle",
+      "lat": 49.1511,
+      "lon": -0.9792,
+      "population": 380
+    },
+    {
+      "insee": "50471",
+      "nom": "Saint-Georges-de-la-Rivière",
+      "lat": 49.3638,
+      "lon": -1.7289,
+      "population": 250
+    },
+    {
+      "insee": "50472",
+      "nom": "Saint-Georges-de-Livoye",
+      "lat": 48.7395,
+      "lon": -1.2211,
+      "population": 204
+    },
+    {
+      "insee": "50474",
+      "nom": "Saint-Georges-de-Rouelley",
+      "lat": 48.6152,
+      "lon": -0.771,
+      "population": 515
+    },
+    {
+      "insee": "50475",
+      "nom": "Saint-Georges-Montcocq",
+      "lat": 49.1374,
+      "lon": -1.1069,
+      "population": 988
+    },
+    {
+      "insee": "50476",
+      "nom": "Saint-Germain-d'Elle",
+      "lat": 49.1172,
+      "lon": -0.9171,
+      "population": 209
+    },
+    {
+      "insee": "50478",
+      "nom": "Saint-Germain-de-Tournebut",
+      "lat": 49.5278,
+      "lon": -1.4008,
+      "population": 418
+    },
+    {
+      "insee": "50479",
+      "nom": "Saint-Germain-de-Varreville",
+      "lat": 49.4376,
+      "lon": -1.2444,
+      "population": 109
+    },
+    {
+      "insee": "50480",
+      "nom": "Saint-Germain-le-Gaillard",
+      "lat": 49.4887,
+      "lon": -1.7762,
+      "population": 801
+    },
+    {
+      "insee": "50481",
+      "nom": "Saint-Germain-sur-Ay",
+      "lat": 49.2339,
+      "lon": -1.6072,
+      "population": 926
+    },
+    {
+      "insee": "50482",
+      "nom": "Saint-Germain-sur-Sèves",
+      "lat": 49.2229,
+      "lon": -1.382,
+      "population": 181
+    },
+    {
+      "insee": "50483",
+      "nom": "Saint-Gilles",
+      "lat": 49.0953,
+      "lon": -1.1615,
+      "population": 1030
+    },
+    {
+      "insee": "50484",
+      "nom": "Saint-Hilaire-du-Harcouët",
+      "lat": 48.568,
+      "lon": -1.1387,
+      "population": 5770
+    },
+    {
+      "insee": "50486",
+      "nom": "Saint-Jacques-de-Néhou",
+      "lat": 49.4221,
+      "lon": -1.6153,
+      "population": 625
+    },
+    {
+      "insee": "50487",
+      "nom": "Saint-James",
+      "lat": 48.5209,
+      "lon": -1.3638,
+      "population": 5018
+    },
+    {
+      "insee": "50492",
+      "nom": "Saint-Jean-d'Elle",
+      "lat": 49.0934,
+      "lon": -0.9551,
+      "population": 2516
+    },
+    {
+      "insee": "50488",
+      "nom": "Saint-Jean-de-Daye",
+      "lat": 49.2336,
+      "lon": -1.1401,
+      "population": 656
+    },
+    {
+      "insee": "50489",
+      "nom": "Saint-Jean-de-la-Haize",
+      "lat": 48.7258,
+      "lon": -1.3598,
+      "population": 535
+    },
+    {
+      "insee": "50490",
+      "nom": "Saint-Jean-de-la-Rivière",
+      "lat": 49.3669,
+      "lon": -1.737,
+      "population": 363
+    },
+    {
+      "insee": "50491",
+      "nom": "Saint-Jean-de-Savigny",
+      "lat": 49.19,
+      "lon": -0.996,
+      "population": 416
+    },
+    {
+      "insee": "50493",
+      "nom": "Saint-Jean-des-Champs",
+      "lat": 48.8244,
+      "lon": -1.4661,
+      "population": 1534
+    },
+    {
+      "insee": "50495",
+      "nom": "Saint-Jean-du-Corail-des-Bois",
+      "lat": 48.7704,
+      "lon": -1.2031,
+      "population": 70
+    },
+    {
+      "insee": "50496",
+      "nom": "Saint-Jean-le-Thomas",
+      "lat": 48.7253,
+      "lon": -1.5162,
+      "population": 401
+    },
+    {
+      "insee": "50498",
+      "nom": "Saint-Joseph",
+      "lat": 49.5346,
+      "lon": -1.5256,
+      "population": 822
+    },
+    {
+      "insee": "50499",
+      "nom": "Saint-Laurent-de-Cuves",
+      "lat": 48.7455,
+      "lon": -1.1094,
+      "population": 496
+    },
+    {
+      "insee": "50500",
+      "nom": "Saint-Laurent-de-Terregatte",
+      "lat": 48.5745,
+      "lon": -1.2448,
+      "population": 637
+    },
+    {
+      "insee": "50502",
+      "nom": "Saint-Lô",
+      "lat": 49.1123,
+      "lon": -1.0812,
+      "population": 19471
+    },
+    {
+      "insee": "50504",
+      "nom": "Saint-Louet-sur-Vire",
+      "lat": 48.9942,
+      "lon": -0.9902,
+      "population": 210
+    },
+    {
+      "insee": "50505",
+      "nom": "Saint-Loup",
+      "lat": 48.6648,
+      "lon": -1.306,
+      "population": 686
+    },
+    {
+      "insee": "50506",
+      "nom": "Saint-Malo-de-la-Lande",
+      "lat": 49.0639,
+      "lon": -1.5429,
+      "population": 460
+    },
+    {
+      "insee": "50507",
+      "nom": "Saint-Marcouf",
+      "lat": 49.4755,
+      "lon": -1.2527,
+      "population": 355
+    },
+    {
+      "insee": "50510",
+      "nom": "Saint-Martin-d'Aubigny",
+      "lat": 49.1658,
+      "lon": -1.3553,
+      "population": 606
+    },
+    {
+      "insee": "50511",
+      "nom": "Saint-Martin-d'Audouville",
+      "lat": 49.5302,
+      "lon": -1.3681,
+      "population": 158
+    },
+    {
+      "insee": "50512",
+      "nom": "Saint-Martin-de-Bonfossé",
+      "lat": 49.042,
+      "lon": -1.1726,
+      "population": 530
+    },
+    {
+      "insee": "50513",
+      "nom": "Saint-Martin-de-Cenilly",
+      "lat": 48.9782,
+      "lon": -1.286,
+      "population": 208
+    },
+    {
+      "insee": "50517",
+      "nom": "Saint-Martin-de-Varreville",
+      "lat": 49.429,
+      "lon": -1.2359,
+      "population": 173
+    },
+    {
+      "insee": "50518",
+      "nom": "Saint-Martin-le-Bouillant",
+      "lat": 48.7801,
+      "lon": -1.1601,
+      "population": 301
+    },
+    {
+      "insee": "50519",
+      "nom": "Saint-Martin-le-Gréard",
+      "lat": 49.5524,
+      "lon": -1.6473,
+      "population": 606
+    },
+    {
+      "insee": "50521",
+      "nom": "Saint-Maur-des-Bois",
+      "lat": 48.8159,
+      "lon": -1.1525,
+      "population": 153
+    },
+    {
+      "insee": "50522",
+      "nom": "Saint-Maurice-en-Cotentin",
+      "lat": 49.3925,
+      "lon": -1.6993,
+      "population": 253
+    },
+    {
+      "insee": "50525",
+      "nom": "Saint-Michel-de-Montjoie",
+      "lat": 48.7647,
+      "lon": -1.0237,
+      "population": 342
+    },
+    {
+      "insee": "50528",
+      "nom": "Saint-Nicolas-de-Pierrepont",
+      "lat": 49.3205,
+      "lon": -1.58,
+      "population": 296
+    },
+    {
+      "insee": "50529",
+      "nom": "Saint-Nicolas-des-Bois",
+      "lat": 48.7627,
+      "lon": -1.1938,
+      "population": 98
+    },
+    {
+      "insee": "50531",
+      "nom": "Saint-Ovin",
+      "lat": 48.6767,
+      "lon": -1.2402,
+      "population": 762
+    },
+    {
+      "insee": "50532",
+      "nom": "Saint-Pair-sur-Mer",
+      "lat": 48.8014,
+      "lon": -1.5441,
+      "population": 4507
+    },
+    {
+      "insee": "50533",
+      "nom": "Saint-Patrice-de-Claids",
+      "lat": 49.2281,
+      "lon": -1.4421,
+      "population": 180
+    },
+    {
+      "insee": "50536",
+      "nom": "Saint-Pierre-d'Arthéglise",
+      "lat": 49.4187,
+      "lon": -1.6871,
+      "population": 172
+    },
+    {
+      "insee": "50537",
+      "nom": "Saint-Pierre-de-Coutances",
+      "lat": 49.0401,
+      "lon": -1.4356,
+      "population": 387
+    },
+    {
+      "insee": "50538",
+      "nom": "Saint-Pierre-de-Semilly",
+      "lat": 49.1234,
+      "lon": -1.0026,
+      "population": 421
+    },
+    {
+      "insee": "50539",
+      "nom": "Saint-Pierre-Église",
+      "lat": 49.6724,
+      "lon": -1.4024,
+      "population": 1765
+    },
+    {
+      "insee": "50540",
+      "nom": "Saint-Pierre-Langers",
+      "lat": 48.7852,
+      "lon": -1.4892,
+      "population": 617
+    },
+    {
+      "insee": "50541",
+      "nom": "Saint-Planchers",
+      "lat": 48.8293,
+      "lon": -1.5032,
+      "population": 1486
+    },
+    {
+      "insee": "50542",
+      "nom": "Saint-Pois",
+      "lat": 48.753,
+      "lon": -1.0568,
+      "population": 454
+    },
+    {
+      "insee": "50543",
+      "nom": "Saint-Quentin-sur-le-Homme",
+      "lat": 48.6475,
+      "lon": -1.3029,
+      "population": 1338
+    },
+    {
+      "insee": "50548",
+      "nom": "Saint-Sauveur-de-Pierrepont",
+      "lat": 49.3355,
+      "lon": -1.607,
+      "population": 126
+    },
+    {
+      "insee": "50549",
+      "nom": "Saint-Sauveur-la-Pommeraye",
+      "lat": 48.8416,
+      "lon": -1.4344,
+      "population": 397
+    },
+    {
+      "insee": "50551",
+      "nom": "Saint-Sauveur-le-Vicomte",
+      "lat": 49.3828,
+      "lon": -1.5452,
+      "population": 2114
+    },
+    {
+      "insee": "50550",
+      "nom": "Saint-Sauveur-Villages",
+      "lat": 49.1342,
+      "lon": -1.4117,
+      "population": 3208
+    },
+    {
+      "insee": "50552",
+      "nom": "Saint-Sébastien-de-Raids",
+      "lat": 49.1929,
+      "lon": -1.3734,
+      "population": 322
+    },
+    {
+      "insee": "50553",
+      "nom": "Saint-Senier-de-Beuvron",
+      "lat": 48.5568,
+      "lon": -1.3188,
+      "population": 324
+    },
+    {
+      "insee": "50554",
+      "nom": "Saint-Senier-sous-Avranches",
+      "lat": 48.6911,
+      "lon": -1.3156,
+      "population": 1451
+    },
+    {
+      "insee": "50562",
+      "nom": "Saint-Vaast-la-Hougue",
+      "lat": 49.5937,
+      "lon": -1.266,
+      "population": 1648
+    },
+    {
+      "insee": "50563",
+      "nom": "Saint-Vigor-des-Monts",
+      "lat": 48.9097,
+      "lon": -1.0596,
+      "population": 284
+    },
+    {
+      "insee": "50453",
+      "nom": "Sainte-Cécile",
+      "lat": 48.8344,
+      "lon": -1.1866,
+      "population": 792
+    },
+    {
+      "insee": "50457",
+      "nom": "Sainte-Colombe",
+      "lat": 49.4161,
+      "lon": -1.5093,
+      "population": 181
+    },
+    {
+      "insee": "50469",
+      "nom": "Sainte-Geneviève",
+      "lat": 49.6597,
+      "lon": -1.3096,
+      "population": 299
+    },
+    {
+      "insee": "50509",
+      "nom": "Sainte-Marie-du-Mont",
+      "lat": 49.3963,
+      "lon": -1.2129,
+      "population": 685
+    },
+    {
+      "insee": "50523",
+      "nom": "Sainte-Mère-Église",
+      "lat": 49.4205,
+      "lon": -1.2967,
+      "population": 2896
+    },
+    {
+      "insee": "50556",
+      "nom": "Sainte-Suzanne-sur-Vire",
+      "lat": 49.0734,
+      "lon": -1.0594,
+      "population": 685
+    },
+    {
+      "insee": "50565",
+      "nom": "Sartilly-Baie-Bocage",
+      "lat": 48.7448,
+      "lon": -1.4441,
+      "population": 2778
+    },
+    {
+      "insee": "50567",
+      "nom": "Saussemesnil",
+      "lat": 49.5701,
+      "lon": -1.4914,
+      "population": 927
+    },
+    {
+      "insee": "50568",
+      "nom": "Saussey",
+      "lat": 49.0121,
+      "lon": -1.4245,
+      "population": 463
+    },
+    {
+      "insee": "50569",
+      "nom": "Savigny",
+      "lat": 49.0572,
+      "lon": -1.3299,
+      "population": 430
+    },
+    {
+      "insee": "50570",
+      "nom": "Savigny-le-Vieux",
+      "lat": 48.5161,
+      "lon": -1.0279,
+      "population": 399
+    },
+    {
+      "insee": "50571",
+      "nom": "Sébeville",
+      "lat": 49.3871,
+      "lon": -1.2837,
+      "population": 34
+    },
+    {
+      "insee": "50572",
+      "nom": "Sénoville",
+      "lat": 49.4302,
+      "lon": -1.7718,
+      "population": 188
+    },
+    {
+      "insee": "50574",
+      "nom": "Servon",
+      "lat": 48.6019,
+      "lon": -1.4114,
+      "population": 252
+    },
+    {
+      "insee": "50575",
+      "nom": "Sideville",
+      "lat": 49.5933,
+      "lon": -1.6864,
+      "population": 856
+    },
+    {
+      "insee": "50576",
+      "nom": "Siouville-Hague",
+      "lat": 49.5602,
+      "lon": -1.8303,
+      "population": 931
+    },
+    {
+      "insee": "50578",
+      "nom": "Sortosville",
+      "lat": 49.4834,
+      "lon": -1.4293,
+      "population": 80
+    },
+    {
+      "insee": "50577",
+      "nom": "Sortosville-en-Beaumont",
+      "lat": 49.4229,
+      "lon": -1.7038,
+      "population": 297
+    },
+    {
+      "insee": "50579",
+      "nom": "Sottevast",
+      "lat": 49.5208,
+      "lon": -1.605,
+      "population": 1459
+    },
+    {
+      "insee": "50580",
+      "nom": "Sotteville",
+      "lat": 49.5375,
+      "lon": -1.7516,
+      "population": 485
+    },
+    {
+      "insee": "50582",
+      "nom": "Sourdeval",
+      "lat": 48.7333,
+      "lon": -0.8965,
+      "population": 3026
+    },
+    {
+      "insee": "50584",
+      "nom": "Subligny",
+      "lat": 48.7533,
+      "lon": -1.3589,
+      "population": 375
+    },
+    {
+      "insee": "50585",
+      "nom": "Surtainville",
+      "lat": 49.4555,
+      "lon": -1.7875,
+      "population": 1166
+    },
+    {
+      "insee": "50587",
+      "nom": "Taillepied",
+      "lat": 49.3619,
+      "lon": -1.5839,
+      "population": 18
+    },
+    {
+      "insee": "50588",
+      "nom": "Tamerville",
+      "lat": 49.5402,
+      "lon": -1.4675,
+      "population": 691
+    },
+    {
+      "insee": "50589",
+      "nom": "Tanis",
+      "lat": 48.5856,
+      "lon": -1.4446,
+      "population": 268
+    },
+    {
+      "insee": "50564",
+      "nom": "Terre-et-Marais",
+      "lat": 49.254,
+      "lon": -1.2958,
+      "population": 1271
+    },
+    {
+      "insee": "50592",
+      "nom": "Tessy-Bocage",
+      "lat": 48.9629,
+      "lon": -1.0599,
+      "population": 2217
+    },
+    {
+      "insee": "50593",
+      "nom": "Teurthéville-Bocage",
+      "lat": 49.5907,
+      "lon": -1.3959,
+      "population": 594
+    },
+    {
+      "insee": "50594",
+      "nom": "Teurthéville-Hague",
+      "lat": 49.5812,
+      "lon": -1.7385,
+      "population": 1037
+    },
+    {
+      "insee": "50239",
+      "nom": "Thèreval",
+      "lat": 49.1306,
+      "lon": -1.1926,
+      "population": 1775
+    },
+    {
+      "insee": "50596",
+      "nom": "Théville",
+      "lat": 49.6514,
+      "lon": -1.4151,
+      "population": 310
+    },
+    {
+      "insee": "50597",
+      "nom": "Tirepied-sur-Sée",
+      "lat": 48.721,
+      "lon": -1.2756,
+      "population": 957
+    },
+    {
+      "insee": "50598",
+      "nom": "Tocqueville",
+      "lat": 49.6707,
+      "lon": -1.3322,
+      "population": 258
+    },
+    {
+      "insee": "50599",
+      "nom": "Tollevast",
+      "lat": 49.5798,
+      "lon": -1.6083,
+      "population": 1654
+    },
+    {
+      "insee": "50601",
+      "nom": "Torigny-les-Villes",
+      "lat": 48.9961,
+      "lon": -0.974,
+      "population": 4444
+    },
+    {
+      "insee": "50272",
+      "nom": "Tourneville-sur-Mer",
+      "lat": 48.9529,
+      "lon": -1.5302,
+      "population": 1666
+    },
+    {
+      "insee": "50603",
+      "nom": "Tourville-sur-Sienne",
+      "lat": 49.0491,
+      "lon": -1.5233,
+      "population": 787
+    },
+    {
+      "insee": "50604",
+      "nom": "Tréauville",
+      "lat": 49.5379,
+      "lon": -1.8272,
+      "population": 719
+    },
+    {
+      "insee": "50606",
+      "nom": "Tribehou",
+      "lat": 49.2119,
+      "lon": -1.2501,
+      "population": 525
+    },
+    {
+      "insee": "50609",
+      "nom": "Turqueville",
+      "lat": 49.406,
+      "lon": -1.2701,
+      "population": 129
+    },
+    {
+      "insee": "50610",
+      "nom": "Urville",
+      "lat": 49.4495,
+      "lon": -1.4432,
+      "population": 190
+    },
+    {
+      "insee": "50612",
+      "nom": "Vains",
+      "lat": 48.6741,
+      "lon": -1.4255,
+      "population": 743
+    },
+    {
+      "insee": "50613",
+      "nom": "Valcanville",
+      "lat": 49.6488,
+      "lon": -1.3149,
+      "population": 389
+    },
+    {
+      "insee": "50615",
+      "nom": "Valognes",
+      "lat": 49.5122,
+      "lon": -1.4758,
+      "population": 6969
+    },
+    {
+      "insee": "50617",
+      "nom": "Varenguebec",
+      "lat": 49.3394,
+      "lon": -1.4956,
+      "population": 321
+    },
+    {
+      "insee": "50618",
+      "nom": "Varouville",
+      "lat": 49.6717,
+      "lon": -1.3711,
+      "population": 216
+    },
+    {
+      "insee": "50621",
+      "nom": "Vaudreville",
+      "lat": 49.5159,
+      "lon": -1.3581,
+      "population": 77
+    },
+    {
+      "insee": "50626",
+      "nom": "Ver",
+      "lat": 48.8973,
+      "lon": -1.3855,
+      "population": 386
+    },
+    {
+      "insee": "50628",
+      "nom": "Vernix",
+      "lat": 48.7152,
+      "lon": -1.2266,
+      "population": 154
+    },
+    {
+      "insee": "50629",
+      "nom": "Vesly",
+      "lat": 49.2516,
+      "lon": -1.4933,
+      "population": 728
+    },
+    {
+      "insee": "50142",
+      "nom": "Vicq-sur-Mer",
+      "lat": 49.6869,
+      "lon": -1.3685,
+      "population": 1093
+    },
+    {
+      "insee": "50634",
+      "nom": "Videcosville",
+      "lat": 49.5673,
+      "lon": -1.3712,
+      "population": 93
+    },
+    {
+      "insee": "50637",
+      "nom": "Villebaudon",
+      "lat": 48.9687,
+      "lon": -1.1692,
+      "population": 327
+    },
+    {
+      "insee": "50639",
+      "nom": "Villedieu-les-Poêles-Rouffigny",
+      "lat": 48.8247,
+      "lon": -1.2399,
+      "population": 3903
+    },
+    {
+      "insee": "50641",
+      "nom": "Villiers-Fossard",
+      "lat": 49.1612,
+      "lon": -1.0605,
+      "population": 646
+    },
+    {
+      "insee": "50643",
+      "nom": "Virandeville",
+      "lat": 49.5694,
+      "lon": -1.7147,
+      "population": 816
+    },
+    {
+      "insee": "50647",
+      "nom": "Yquelon",
+      "lat": 48.8439,
+      "lon": -1.5509,
+      "population": 1240
+    },
+    {
+      "insee": "50648",
+      "nom": "Yvetot-Bocage",
+      "lat": 49.4945,
+      "lon": -1.5129,
+      "population": 1212
+    }
+  ]
+}

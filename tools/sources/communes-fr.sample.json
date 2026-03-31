@@ -1,0 +1,18 @@
+[
+  {
+    "dep": "45",
+    "insee": "45234",
+    "nom": "Orleans",
+    "lat": 47.9029,
+    "lon": 1.9093,
+    "population": 116238
+  },
+  {
+    "dep": "45",
+    "insee": "45314",
+    "nom": "Saran",
+    "lat": 47.95,
+    "lon": 1.88,
+    "population": 16000
+  }
+]
