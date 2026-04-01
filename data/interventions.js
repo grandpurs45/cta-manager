@@ -239,7 +239,7 @@ const INTERVENTION_TEMPLATES = [
 
   /*Operations DIverse*/
   {
-    type: "Innondation",
+    type: "FUITE D'EAU HABITATION",
     dureeSurPlace: 60,
     poids: 10,
     besoins: [{ code: "DIV3", quantite: 1 }],
@@ -252,6 +252,26 @@ const INTERVENTION_TEMPLATES = [
     besoins: [{ code: "INC4", quantite: 1 }],
     zones: "ALL"
   },
-  
+  {
+    type: "Animal Bléssé",
+    dureeSurPlace: 30,
+    poids: 5,
+    besoins: [{ code: "DIV", quantite: 1 }],
+    zones: "ALL"
+  },
+  {
+    type: "Animal Menacant",
+    dureeSurPlace: 30,
+    poids: 5,
+    besoins: [{ code: "DIV", quantite: 1 }],
+    zones: "ALL"
+  },
+  {
+    type: "ARBRE/POTEAU/MATERIAUX MENACANT OU TOMBE VP MOINS 8 M",
+    dureeSurPlace: 30,
+    poids: 5,
+    besoins: [{ code: "DIV", quantite: 1 }],
+    zones: "ALL"
+  },
 
 ];
