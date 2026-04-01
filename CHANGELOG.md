@@ -8,8 +8,8 @@
 
 ### Changed
 - Nouveau demarrage de carriere:
-  - caserne initiale: `LCSM`,
-  - vehicule initial unique: `VIP 01`,
+  - caserne initiale choisie par le joueur au premier lancement,
+  - vehicule initial unique: `VIP` affecte a la caserne choisie,
   - type initial debloque: `VIP` (tous les autres types restent a debloquer).
 
 ## v0.11.3 - 2026-04-01

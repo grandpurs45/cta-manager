@@ -801,15 +801,25 @@ function showDetailPanel() {
   renderAll();
 }
 
-async function submitTerritorySelection(selectId = "territoryDepartmentSelect") {
+async function submitTerritorySelection(
+  selectId = "territoryDepartmentSelect",
+  caserneSelectId = "territoryStartCaserneSelect"
+) {
   const select = document.getElementById(selectId);
+  const caserneSelect = document.getElementById(caserneSelectId);
   const code = select?.value;
+  const startingCaserneId = caserneSelect?.value;
   if (!code) {
     alert("Choisis un departement.");
     return;
   }
 
-  await applyDepartmentSelection(code);
+  if (!startingCaserneId) {
+    alert("Choisis une caserne de depart.");
+    return;
+  }
+
+  await applyDepartmentSelection(code, startingCaserneId);
 }
 
 function renderCenterPanel() {
@@ -821,6 +831,7 @@ function renderCenterPanel() {
     const territoryLabel = typeof getCurrentTerritoryLabel === "function"
       ? getCurrentTerritoryLabel()
       : "Territoire non configure";
+    const isFirstLaunch = !!state?.installation?.isFirstLaunch;
 
     container.innerHTML = `
       <div class="card">
@@ -845,8 +856,23 @@ function renderCenterPanel() {
               </option>
             `).join("")}
           </select>
+          <label for="territoryStartCaserneSelect"><strong>Caserne de depart</strong></label>
+          <select id="territoryStartCaserneSelect" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;">
+            ${CASERNES.map(caserne => `
+              <option value="${caserne.id}" ${caserne.id === (SETTINGS?.progression?.startingCaserneId || CASERNES[0]?.id) ? "selected" : ""}>
+                ${caserne.nom}
+              </option>
+            `).join("")}
+          </select>
+          <p class="muted">
+            ${isFirstLaunch
+              ? "La carriere demarre avec 1 caserne niveau 1 et 1 VIP dans la caserne choisie."
+              : "En cours de partie, le changement de departement ne modifie pas ta carriere."}
+          </p>
           <div class="panel-actions">
-            <button onclick="submitTerritorySelection('territoryDepartmentSelect')">Appliquer ce departement</button>
+            <button onclick="submitTerritorySelection('territoryDepartmentSelect', 'territoryStartCaserneSelect')">
+              ${isFirstLaunch ? "Demarrer la carriere" : "Appliquer ce departement"}
+            </button>
           </div>
         `}
       </div>

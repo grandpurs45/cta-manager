@@ -385,6 +385,97 @@ function slugifyZoneId(value) {
   return safe || `ZONE_${Math.floor(Math.random() * 100000)}`;
 }
 
+function getDefaultStartingCaserneId() {
+  const configured = SETTINGS?.progression?.startingCaserneId;
+  if (configured && CASERNES.some(caserne => caserne.id === configured)) {
+    return configured;
+  }
+
+  return CASERNES[0]?.id || null;
+}
+
+function createStartingVipVehicle(caserneId) {
+  const existingVip = state.vehicules.find(vehicle =>
+    vehicle.type === "VIP" && vehicle.caserneId === caserneId
+  );
+  if (existingVip) {
+    existingVip.status = "DISPO";
+    existingVip.etat = "disponible";
+    return existingVip.id;
+  }
+
+  let nextCounter = 1;
+  let id = `START_VIP_${String(nextCounter).padStart(3, "0")}`;
+  while (state.vehicules.some(vehicle => vehicle.id === id)) {
+    nextCounter += 1;
+    id = `START_VIP_${String(nextCounter).padStart(3, "0")}`;
+  }
+
+  const suffix = String(nextCounter).padStart(3, "0");
+  const vehicle = {
+    id,
+    nom: `VIP ${suffix}`,
+    type: "VIP",
+    caserneId,
+    status: "DISPO",
+    etat: "disponible"
+  };
+
+  state.vehicules.push(vehicle);
+  return vehicle.id;
+}
+
+function initializeNewCareerForStartingCaserne(startingCaserneId) {
+  const fallbackCaserneId = getDefaultStartingCaserneId();
+  const validCaserneId = CASERNES.some(caserne => caserne.id === startingCaserneId)
+    ? startingCaserneId
+    : fallbackCaserneId;
+
+  if (!validCaserneId) {
+    return;
+  }
+
+  state.simulationMinutes = 8 * 60;
+  state.selectedInterventionId = null;
+  state.nextInterventionId = 1;
+  state.currentCenterPanel = "detail";
+  state.currentAdminPanel = null;
+  state.dispatchSelections = {};
+  state.interventions = [];
+  state.activeMissions = [];
+  state.isPaused = false;
+  state.nextStaffingUpdateMinutes = (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60);
+  state.casernes = initializeCasernes(CASERNES);
+  state.vehicules = clone(VEHICULES).map(vehicle => ({
+    ...vehicle,
+    status: "DISPO",
+    etat: "disponible"
+  }));
+
+  const startingVehicleId = createStartingVipVehicle(validCaserneId);
+  state.progression = createProgressionState();
+  state.progression.money = SETTINGS.progression?.startingMoney || 0;
+  state.progression.completedInterventions = 0;
+  state.progression.totalRevenue = 0;
+  state.progression.totalQualityBonus = 0;
+  state.progression.totalQualityPenalty = 0;
+  state.progression.qualityTotalScore = 0;
+  state.progression.qualityRunCount = 0;
+  state.progression.bestQualityScore = null;
+  state.progression.worstQualityScore = null;
+  state.progression.ownedCaserneIds = [validCaserneId];
+  state.progression.caserneLevels = { [validCaserneId]: 1 };
+  state.progression.ownedVehicleIds = [startingVehicleId];
+  state.progression.unlockedVehicleTypes = ["VIP"];
+  state.progression.vehiclePurchaseCounters = {};
+  state.progression.unlockedFeatures = {
+    hospitalTransport: false,
+    adminFleet: false
+  };
+  state.progression.lastReward = null;
+  state.progression.rewardHistory = [];
+}
+
 function communeToZone(commune) {
   const lat = Number(commune?.lat);
   const lon = Number(commune?.lon);
@@ -450,7 +541,7 @@ async function loadTerritoryCatalog() {
   return territoryCatalog;
 }
 
-async function applyDepartmentSelection(departmentCode) {
+async function applyDepartmentSelection(departmentCode, startingCaserneId = null) {
   const normalizedCode = String(departmentCode || "").trim();
   if (!normalizedCode) {
     alert("Choisis un departement.");
@@ -474,6 +565,9 @@ async function applyDepartmentSelection(departmentCode) {
 
     const catalogItem = territoryCatalog.find(item => item.code === normalizedCode);
     state.dynamicZones = zones;
+    if (state.installation?.isFirstLaunch) {
+      initializeNewCareerForStartingCaserne(startingCaserneId || getDefaultStartingCaserneId());
+    }
     state.installation.territory = {
       country: "FR",
       departmentCode: normalizedCode,
