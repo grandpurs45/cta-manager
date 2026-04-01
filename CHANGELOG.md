@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.12.0 - 2026-04-01
+
+### Added
+- Initialisation d'un niveau de caserne dans la progression (`niveau 1` par defaut).
+- Affichage du niveau de chaque caserne dans le panneau Casernes.
+
+### Changed
+- Nouveau demarrage de carriere:
+  - caserne initiale: `LCSM`,
+  - vehicule initial unique: `VIP 01`,
+  - type initial debloque: `VIP` (tous les autres types restent a debloquer).
+
 ## v0.11.3 - 2026-04-01
 
 ### Fixed

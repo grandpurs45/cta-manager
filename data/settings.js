@@ -84,8 +84,9 @@ const SETTINGS = {
   progression: {
     enabled: true,
     startingMoney: 15000,
-    startingCaserneId: "ORL_NOR",
-    startingVehicleIds: ["VSAV114"],
+    startingCaserneId: "LCSM",
+    startingVehicleIds: ["VIP01"],
+    startingUnlockedVehicleTypes: ["VIP"],
 
     rewards: {
       base: 450,
@@ -161,6 +162,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.11.3"
+  version: "v0.12.0"
 };
 window.APP_META = APP_META;

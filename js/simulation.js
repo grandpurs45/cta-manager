@@ -46,6 +46,24 @@ function isCaserneOwned(caserneId) {
   return progression.ownedCaserneIds.includes(caserneId);
 }
 
+function getCaserneLevel(caserneId) {
+  if (!caserneId) {
+    return 0;
+  }
+
+  const progression = getProgressionState();
+  if (!isProgressionEnabled() || !progression) {
+    return 1;
+  }
+
+  if (!isCaserneOwned(caserneId)) {
+    return 0;
+  }
+
+  const level = Number(progression.caserneLevels?.[caserneId]);
+  return Number.isFinite(level) && level >= 1 ? Math.floor(level) : 1;
+}
+
 function isVehicleOwned(vehicleId) {
   const progression = getProgressionState();
   if (!isProgressionEnabled()) {
@@ -2772,6 +2790,8 @@ function unlockCaserne(caserneId) {
   }
 
   progression.ownedCaserneIds.push(caserneId);
+  progression.caserneLevels = progression.caserneLevels || {};
+  progression.caserneLevels[caserneId] = 1;
   saveState();
   renderAll();
 }
@@ -2892,6 +2912,7 @@ window.getSimulationDayLabel = getSimulationDayLabel;
 window.isProgressionEnabled = isProgressionEnabled;
 window.isCaserneOwned = isCaserneOwned;
 window.isVehicleOwned = isVehicleOwned;
+window.getCaserneLevel = getCaserneLevel;
 window.canUseVehicle = canUseVehicle;
 window.getOwnedCasernes = getOwnedCasernes;
 window.getOwnedVehicles = getOwnedVehicles;

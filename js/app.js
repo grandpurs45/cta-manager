@@ -81,13 +81,21 @@ function createProgressionState({ legacyMode = false } = {}) {
     ? VEHICULES.map(vehicle => vehicle.id)
     : (progressionConfig.startingVehicleIds || []).slice();
 
+  const unlockedFromVehicles = Array.from(new Set(
+    VEHICULES
+      .filter(vehicle => defaultOwnedVehicles.includes(vehicle.id))
+      .map(vehicle => vehicle.type)
+  ));
+  const configuredUnlockedTypes = Array.isArray(progressionConfig.startingUnlockedVehicleTypes)
+    ? progressionConfig.startingUnlockedVehicleTypes.filter(type => !!VEHICULE_TYPES[type])
+    : [];
   const defaultUnlockedVehicleTypes = legacyMode
     ? allVehicleTypes
-    : Array.from(new Set(
-      VEHICULES
-        .filter(vehicle => defaultOwnedVehicles.includes(vehicle.id))
-        .map(vehicle => vehicle.type)
-    ));
+    : Array.from(new Set([...configuredUnlockedTypes, ...unlockedFromVehicles]));
+  const defaultCaserneLevels = defaultOwnedCasernes.reduce((acc, caserneId) => {
+    acc[caserneId] = 1;
+    return acc;
+  }, {});
 
   return {
     enabled: progressionConfig.enabled !== false,
@@ -101,8 +109,9 @@ function createProgressionState({ legacyMode = false } = {}) {
     bestQualityScore: null,
     worstQualityScore: null,
     ownedCaserneIds: defaultOwnedCasernes,
+    caserneLevels: defaultCaserneLevels,
     ownedVehicleIds: defaultOwnedVehicles,
-    unlockedVehicleTypes: defaultUnlockedVehicleTypes.length > 0 ? defaultUnlockedVehicleTypes : ["VSAV"],
+    unlockedVehicleTypes: defaultUnlockedVehicleTypes.length > 0 ? defaultUnlockedVehicleTypes : [],
     vehiclePurchaseCounters: {},
     unlockedFeatures: {
       hospitalTransport: false,
@@ -146,6 +155,10 @@ function ensureProgressionStateShape(loadedProgression) {
   progression.ownedCaserneIds = Array.isArray(progression.ownedCaserneIds)
     ? progression.ownedCaserneIds
     : base.ownedCaserneIds;
+  progression.caserneLevels =
+    progression.caserneLevels && typeof progression.caserneLevels === "object"
+      ? progression.caserneLevels
+      : {};
   progression.ownedVehicleIds = Array.isArray(progression.ownedVehicleIds)
     ? progression.ownedVehicleIds
     : base.ownedVehicleIds;
@@ -172,12 +185,15 @@ function ensureProgressionStateShape(loadedProgression) {
         .map(vehicle => vehicle.type)
     );
 
-    if (unlockedFromOwned.size === 0) {
-      unlockedFromOwned.add("VSAV");
-    }
-
     progression.unlockedVehicleTypes = Array.from(unlockedFromOwned);
   }
+
+  progression.ownedCaserneIds.forEach(caserneId => {
+    const currentLevel = Number(progression.caserneLevels[caserneId]);
+    progression.caserneLevels[caserneId] = Number.isFinite(currentLevel) && currentLevel >= 1
+      ? Math.floor(currentLevel)
+      : 1;
+  });
 
   return progression;
 }

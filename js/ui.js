@@ -624,6 +624,7 @@ function renderCasernes() {
     return `
       <div class="card">
         <h3>${caserne.nom}</h3>
+        <p><strong>Niveau :</strong> ${typeof getCaserneLevel === "function" ? getCaserneLevel(caserne.id) : 1}</p>
         <p><strong>SP poste :</strong> ${caserne.sp_poste}</p>
         <p><strong>SP astreinte :</strong> ${caserne.sp_astreinte}</p>
         <p><strong>SP utilises :</strong> ${spUsed}</p>
@@ -928,6 +929,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.0: demarrage VIP only + niveau 1 de caserne initialise pour la progression.</li>
           <li>v0.11.1: corrections reengagement retour + actions retirer/modifier.</li>
           <li>v0.11.0: choix departement + packs territoires + zones dynamiques.</li>
           <li>v0.10.1: zones d'influence des casernes basees sur population + distance.</li>
