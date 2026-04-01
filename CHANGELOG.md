@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.11.3 - 2026-04-01
+
+### Fixed
+- Generation des interventions: limitation de la distance operationnelle pour eviter les departs trop lointains hors secteur utile.
+- Les profils partiels/degrades contribuant a un besoin manquant sont de nouveau proposes en selection.
+- Les options de type `Prompt secours` ne passent plus devant un besoin principal quand un moyen principal plus rapide est disponible.
+
 ## v0.11.2 - 2026-03-31
 
 ### Fixed

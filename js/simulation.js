@@ -1024,8 +1024,20 @@ function advanceSimulation() {
 function pickZoneForTemplate(template) {
   const availableZoneIds = getAvailableZoneIdsForTemplate(template);
   const availableZones = getActiveZones().filter(zone => availableZoneIds.includes(zone.id));
+  const influenceConfig = getInfluenceConfig();
 
-  return pickWeightedItem(availableZones, zone => getZoneInfluenceWeight(zone));
+  const inOperationalReach = availableZones.filter(zone =>
+    getNearestOwnedCaserneDistanceKm(zone) <= influenceConfig.maxOperationalDistanceKm
+  );
+
+  const source = inOperationalReach.length > 0
+    ? inOperationalReach
+    : availableZones
+        .slice()
+        .sort((a, b) => getNearestOwnedCaserneDistanceKm(a) - getNearestOwnedCaserneDistanceKm(b))
+        .slice(0, 20);
+
+  return pickWeightedItem(source, zone => getZoneInfluenceWeight(zone));
 }
 
 function getZonePopulation(zone) {
@@ -1048,7 +1060,11 @@ function getInfluenceConfig() {
   const cfg = SETTINGS?.zoneInfluence || {};
   return {
     radiusKm: typeof cfg.radiusKm === "number" && cfg.radiusKm > 0 ? cfg.radiusKm : 14,
-    minFactor: typeof cfg.minFactor === "number" && cfg.minFactor >= 0 ? cfg.minFactor : 0.2
+    minFactor: typeof cfg.minFactor === "number" && cfg.minFactor >= 0 ? cfg.minFactor : 0.2,
+    maxOperationalDistanceKm:
+      typeof cfg.maxOperationalDistanceKm === "number" && cfg.maxOperationalDistanceKm > 0
+        ? cfg.maxOperationalDistanceKm
+        : 35
   };
 }
 
@@ -1108,6 +1124,27 @@ function getZoneInfluenceWeight(zone) {
   const { bestFactor } = getBestCaserneInfluenceForZone(zone);
   const weight = population * Math.max(0.01, bestFactor);
   return Math.max(1, Math.round(weight));
+}
+
+function getNearestOwnedCaserneDistanceKm(zone) {
+  if (!zone) {
+    return Number.POSITIVE_INFINITY;
+  }
+
+  const casernes = getOwnedCasernesForInfluence();
+  if (!casernes.length) {
+    return Number.POSITIVE_INFINITY;
+  }
+
+  let best = Number.POSITIVE_INFINITY;
+  casernes.forEach(caserne => {
+    const distance = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
+    if (distance < best) {
+      best = distance;
+    }
+  });
+
+  return best;
 }
 
 function getInfluencePopulationByCaserneId(caserneId) {
@@ -1249,6 +1286,23 @@ function getBaseDisplayCode(code) {
   return code
     .replace(/_DEGRADE$/, "")
     .replace(/_REDUIT$/, "");
+}
+
+function profileContributesToNeed(profileCode, baseCode, needCode) {
+  if (!needCode) {
+    return false;
+  }
+
+  if (profileCode === needCode || baseCode === needCode) {
+    return true;
+  }
+
+  const rules = COVERAGE_RULES?.[needCode] || [];
+  return rules.some(rule =>
+    (rule.requires || []).some(requirement =>
+      requirement.code === profileCode || requirement.code === baseCode
+    )
+  );
 }
 
 function getVehicleSelectableProfiles(vehicle, intervention) {
@@ -1396,6 +1450,15 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
       coverageSummary.covered ||
       coverageSummary.details?.some(detail => detail.covered);
 
+    const missingNeedCodes = (coverageSummary.details || [])
+      .filter(detail => !detail.covered)
+      .map(detail => detail.code);
+
+    const contributesToMissingNeed = missingNeedCodes.some(needCode =>
+      profileContributesToNeed(item.profil.code, rawCode, needCode) ||
+      profileContributesToNeed(rawCode, baseCode, needCode)
+    );
+
     const optionCovered =
       optionCoverageSummary.hasOptions &&
       optionCoverageSummary.details?.some(detail => detail.covered);
@@ -1407,7 +1470,7 @@ function getVehicleSelectableProfiles(vehicle, intervention) {
     const contributesToOption =
       optionCovered && optionFasterThanBestMain;
 
-    if (!contributesToMainNeed && !contributesToOption) {
+    if (!contributesToMainNeed && !contributesToMissingNeed && !contributesToOption) {
       return;
     }
 
