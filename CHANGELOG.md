@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.13.2 - 2026-04-02
+
+### Changed
+- Premier lancement: suppression du choix "Commune de depart". La 1ere caserne est maintenant placee via coordonnees GPS saisies manuellement.
+
 ## v0.13.1 - 2026-04-02
 
 ### Changed

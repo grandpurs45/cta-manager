@@ -826,18 +826,15 @@ function showDetailPanel() {
 
 async function submitTerritorySelection(
   selectId = "territoryDepartmentSelect",
-  communeSelectId = "territoryStartCommuneSelect",
   caserneNameInputId = "territoryStartCaserneName",
   latInputId = "territoryStartLat",
   lonInputId = "territoryStartLon"
 ) {
   const select = document.getElementById(selectId);
-  const communeSelect = document.getElementById(communeSelectId);
   const caserneNameInput = document.getElementById(caserneNameInputId);
   const latInput = document.getElementById(latInputId);
   const lonInput = document.getElementById(lonInputId);
   const code = select?.value;
-  const selectedOption = communeSelect?.options?.[communeSelect.selectedIndex];
   const isFirstLaunch = !!state?.installation?.isFirstLaunch;
   if (!code) {
     alert("Choisis un departement.");
@@ -850,18 +847,12 @@ async function submitTerritorySelection(
     const manualLonRaw = String(lonInput?.value || "").trim().replace(",", ".");
     const manualLat = manualLatRaw ? Number(manualLatRaw) : Number.NaN;
     const manualLon = manualLonRaw ? Number(manualLonRaw) : Number.NaN;
-
-    const lat = Number(selectedOption?.dataset?.lat);
-    const lon = Number(selectedOption?.dataset?.lon);
-    const communeName = selectedOption?.dataset?.name || "";
     const typedName = String(caserneNameInput?.value || "").trim();
-
-    const useManualCoords = Number.isFinite(manualLat) && Number.isFinite(manualLon);
-    const finalLat = useManualCoords ? manualLat : lat;
-    const finalLon = useManualCoords ? manualLon : lon;
+    const finalLat = manualLat;
+    const finalLon = manualLon;
 
     if (!Number.isFinite(finalLat) || !Number.isFinite(finalLon)) {
-      alert("Choisis une commune de depart ou saisis des coordonnees valides.");
+      alert("Saisis des coordonnees valides pour la caserne de depart.");
       return;
     }
 
@@ -871,7 +862,7 @@ async function submitTerritorySelection(
     }
 
     startingSelection = {
-      nom: typedName || `CIS ${communeName}`,
+      nom: typedName || "CIS Depart",
       lat: finalLat,
       lon: finalLon
     };
@@ -882,61 +873,19 @@ async function submitTerritorySelection(
 
 async function onTerritoryDepartmentChange(
   selectId = "territoryDepartmentSelect",
-  communeSelectId = "territoryStartCommuneSelect",
   caserneNameInputId = "territoryStartCaserneName"
 ) {
   const select = document.getElementById(selectId);
-  const communeSelect = document.getElementById(communeSelectId);
   const caserneNameInput = document.getElementById(caserneNameInputId);
   const code = select?.value;
 
-  if (!code || !communeSelect || typeof loadDepartmentCommunes !== "function") {
+  if (!code || !caserneNameInput) {
     return;
   }
 
-  try {
-    const communes = await loadDepartmentCommunes(code);
-    const sorted = communes
-      .filter(c => Number.isFinite(Number(c?.lat)) && Number.isFinite(Number(c?.lon)))
-      .sort((a, b) => String(a.nom || "").localeCompare(String(b.nom || ""), "fr-FR"));
-
-    communeSelect.innerHTML = sorted.map(commune => `
-      <option
-        value="${commune.insee || commune.code || commune.nom}"
-        data-lat="${commune.lat}"
-        data-lon="${commune.lon}"
-        data-name="${commune.nom || ""}"
-      >
-        ${commune.nom || "Commune"}${typeof commune.population === "number" ? ` (${Math.round(commune.population).toLocaleString("fr-FR")} hab.)` : ""}
-      </option>
-    `).join("");
-
-    const firstOption = communeSelect.options?.[0];
-    if (firstOption && caserneNameInput && !String(caserneNameInput.value || "").trim()) {
-      caserneNameInput.value = `CIS ${firstOption.dataset.name || "Depart"}`;
-    }
-  } catch (error) {
-    communeSelect.innerHTML = "";
-    alert("Impossible de charger les communes du departement.");
+  if (!String(caserneNameInput.value || "").trim()) {
+    caserneNameInput.value = "CIS Depart";
   }
-}
-
-function onTerritoryCommuneChange(
-  communeSelectId = "territoryStartCommuneSelect",
-  caserneNameInputId = "territoryStartCaserneName"
-) {
-  const communeSelect = document.getElementById(communeSelectId);
-  const caserneNameInput = document.getElementById(caserneNameInputId);
-  if (!communeSelect || !caserneNameInput) {
-    return;
-  }
-
-  const option = communeSelect.options?.[communeSelect.selectedIndex];
-  if (!option) {
-    return;
-  }
-
-  caserneNameInput.value = `CIS ${option.dataset.name || "Depart"}`;
 }
 
 function renderCenterPanel() {
@@ -966,19 +915,17 @@ function renderCenterPanel() {
           <p class="empty">Aucun pack detecte. Verifie le dossier packs/fr.</p>
         ` : `
           <label for="territoryDepartmentSelect"><strong>Departement</strong></label>
-          <select id="territoryDepartmentSelect" onchange="onTerritoryDepartmentChange('territoryDepartmentSelect', 'territoryStartCommuneSelect', 'territoryStartCaserneName')" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;">
+          <select id="territoryDepartmentSelect" onchange="onTerritoryDepartmentChange('territoryDepartmentSelect', 'territoryStartCaserneName')" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;">
             ${catalog.map(item => `
               <option value="${item.code}">
                 ${item.code} - ${item.label}${typeof item.count === "number" ? ` (${item.count} communes)` : ""}
               </option>
             `).join("")}
           </select>
-          <label for="territoryStartCommuneSelect"><strong>Commune de depart</strong></label>
-          <select id="territoryStartCommuneSelect" onchange="onTerritoryCommuneChange('territoryStartCommuneSelect', 'territoryStartCaserneName')" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;"></select>
-          <p class="muted">Optionnel: tu peux remplacer la position de la commune par tes coordonnees.</p>
+          <p class="muted">Positionne la caserne de depart directement avec des coordonnees GPS.</p>
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
-            <label for="territoryStartLat"><strong>Latitude (manuel)</strong></label>
-            <label for="territoryStartLon"><strong>Longitude (manuel)</strong></label>
+            <label for="territoryStartLat"><strong>Latitude</strong></label>
+            <label for="territoryStartLon"><strong>Longitude</strong></label>
             <input id="territoryStartLat" type="text" placeholder="ex: 47.902" style="display:block;width:100%;padding:8px;border-radius:8px;">
             <input id="territoryStartLon" type="text" placeholder="ex: 1.909" style="display:block;width:100%;padding:8px;border-radius:8px;">
           </div>
@@ -986,11 +933,11 @@ function renderCenterPanel() {
           <input id="territoryStartCaserneName" type="text" placeholder="ex: CIS Depart" style="display:block;width:100%;margin-top:6px;margin-bottom:12px;padding:8px;border-radius:8px;">
           <p class="muted">
             ${isFirstLaunch
-              ? "La carriere demarre avec 1 caserne niveau 1 et 1 VIP, places sur la commune choisie (ou sur tes coordonnees manuelles)."
+              ? "La carriere demarre avec 1 caserne niveau 1 et 1 VIP, places sur les coordonnees que tu saisis."
               : "En cours de partie, le changement de departement ne modifie pas ta carriere."}
           </p>
           <div class="panel-actions">
-            <button onclick="submitTerritorySelection('territoryDepartmentSelect', 'territoryStartCommuneSelect', 'territoryStartCaserneName', 'territoryStartLat', 'territoryStartLon')">
+            <button onclick="submitTerritorySelection('territoryDepartmentSelect', 'territoryStartCaserneName', 'territoryStartLat', 'territoryStartLon')">
               ${isFirstLaunch ? "Demarrer la carriere" : "Appliquer ce departement"}
             </button>
           </div>
@@ -1000,7 +947,7 @@ function renderCenterPanel() {
 
     if (catalog.length > 0) {
       setTimeout(() => {
-        onTerritoryDepartmentChange("territoryDepartmentSelect", "territoryStartCommuneSelect", "territoryStartCaserneName");
+        onTerritoryDepartmentChange("territoryDepartmentSelect", "territoryStartCaserneName");
       }, 0);
     }
     return;
@@ -1081,6 +1028,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.2: suppression du choix de commune au demarrage, position 1ere caserne 100% par coordonnees GPS.</li>
           <li>v0.13.1: caserne de depart positionnable aussi en coordonnees manuelles.</li>
           <li>v0.13.0: economie centralisee + panneau gestion casernes (upgrades niveau/remise/garde).</li>
           <li>v0.12.10: correction du cout de debloquage VSAV (6 000 EUR).</li>
