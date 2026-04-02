@@ -970,6 +970,8 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.6: influence tres locale (12 km / rayon 5 / facteur mini 0.08).</li>
+          <li>v0.12.5: influence encore durcie (16 km / rayon 7 / facteur mini 0.12).</li>
           <li>v0.12.4: influence resserree (22 km / rayon 10 / facteur mini 0.25).</li>
           <li>v0.12.3: zone d'influence affichee avec borne operationnelle (fini les couvertures geantes).</li>
           <li>v0.12.2: reset/nouvelle carriere nettoyes (plus de reliquats de flotte historique).</li>

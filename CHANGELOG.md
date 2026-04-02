@@ -1,5 +1,21 @@
 # Changelog
 
+## v0.12.6 - 2026-04-02
+
+### Changed
+- Durcissement "tres local" des zones d'influence:
+  - `maxOperationalDistanceKm`: 12
+  - `radiusKm`: 5
+  - `minFactor`: 0.08
+
+## v0.12.5 - 2026-04-02
+
+### Changed
+- Durcissement supplementaire des zones d'influence:
+  - `maxOperationalDistanceKm`: 16
+  - `radiusKm`: 7
+  - `minFactor`: 0.12
+
 ## v0.12.4 - 2026-04-02
 
 ### Changed
