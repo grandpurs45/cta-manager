@@ -1106,7 +1106,8 @@ function getCaserneDistanceFactor(caserne, zone, influenceConfig) {
   return Math.max(influenceConfig.minFactor, factor);
 }
 
-function getBestCaserneInfluenceForZone(zone) {
+function getBestCaserneInfluenceForZone(zone, options = {}) {
+  const enforceOperationalRange = options.enforceOperationalRange !== false;
   const casernes = getOwnedCasernesForInfluence();
   if (!casernes.length) {
     return { bestFactor: 1, nearestCaserne: null };
@@ -1119,6 +1120,10 @@ function getBestCaserneInfluenceForZone(zone) {
 
   casernes.forEach(caserne => {
     const distanceKm = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
+    if (enforceOperationalRange && distanceKm > influenceConfig.maxOperationalDistanceKm) {
+      return;
+    }
+
     const factor = getCaserneDistanceFactor(caserne, zone, influenceConfig);
 
     if (factor > bestFactor) {
@@ -1134,12 +1139,16 @@ function getBestCaserneInfluenceForZone(zone) {
     }
   });
 
+  if (!nearestCaserne) {
+    return { bestFactor: 0, nearestCaserne: null };
+  }
+
   return { bestFactor, nearestCaserne };
 }
 
 function getZoneInfluenceWeight(zone) {
   const population = getZonePopulation(zone);
-  const { bestFactor } = getBestCaserneInfluenceForZone(zone);
+  const { bestFactor } = getBestCaserneInfluenceForZone(zone, { enforceOperationalRange: false });
   const weight = population * Math.max(0.01, bestFactor);
   return Math.max(1, Math.round(weight));
 }

@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.12.3 - 2026-04-02
+
+### Fixed
+- Affichage de zone d'influence borne au rayon operationnel (`maxOperationalDistanceKm`) pour eviter une couverture artificiellement enorme avec une seule caserne.
+
 ## v0.12.2 - 2026-04-02
 
 ### Fixed
