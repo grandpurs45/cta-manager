@@ -970,6 +970,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.2: reset/nouvelle carriere nettoyes (plus de reliquats de flotte historique).</li>
           <li>v0.12.1: correction cout Orleans Nord + creation de casernes personnalisees.</li>
           <li>v0.12.0: demarrage VIP only + niveau 1 de caserne initialise pour la progression.</li>
           <li>v0.11.1: corrections reengagement retour + actions retirer/modifier.</li>

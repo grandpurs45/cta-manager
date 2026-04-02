@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.12.2 - 2026-04-02
+
+### Fixed
+- Nouvelle partie / reset: isolation sur le parc vehicules par defaut (plus de pollution par d'anciennes donnees persistees).
+- Initialisation de carriere (choix caserne de depart): reconstruction du parc depuis la base par defaut avant creation du VIP initial.
+- Reset complet: purge aussi des anciennes cles de stockage legacy (`cta_vehicules`, `cta_casernes`, `cta_interventions`, `cta_settings`).
+
 ## v0.12.1 - 2026-04-02
 
 ### Fixed

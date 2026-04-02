@@ -70,19 +70,36 @@ function initializeCasernes(casernes) {
   });
 }
 
+function getDefaultVehiclesDataset() {
+  if (Array.isArray(DEFAULT_VEHICULES) && DEFAULT_VEHICULES.length > 0) {
+    return clone(DEFAULT_VEHICULES);
+  }
+
+  return clone(VEHICULES);
+}
+
+function buildInitialVehiclesState() {
+  return getDefaultVehiclesDataset().map(vehicle => ({
+    ...vehicle,
+    status: "DISPO",
+    etat: "disponible"
+  }));
+}
+
 function createProgressionState({ legacyMode = false } = {}) {
   const progressionConfig = SETTINGS.progression || {};
   const allVehicleTypes = Object.keys(VEHICULE_TYPES || {});
+  const baseVehicles = getDefaultVehiclesDataset();
   const defaultOwnedCasernes = legacyMode
     ? CASERNES.map(caserne => caserne.id)
     : [progressionConfig.startingCaserneId || CASERNES[0]?.id].filter(Boolean);
 
   const defaultOwnedVehicles = legacyMode
-    ? VEHICULES.map(vehicle => vehicle.id)
+    ? baseVehicles.map(vehicle => vehicle.id)
     : (progressionConfig.startingVehicleIds || []).slice();
 
   const unlockedFromVehicles = Array.from(new Set(
-    VEHICULES
+    baseVehicles
       .filter(vehicle => defaultOwnedVehicles.includes(vehicle.id))
       .map(vehicle => vehicle.type)
   ));
@@ -179,8 +196,9 @@ function ensureProgressionStateShape(loadedProgression) {
     : [];
 
   if (progression.unlockedVehicleTypes.length === 0) {
+    const baseVehicles = getDefaultVehiclesDataset();
     const unlockedFromOwned = new Set(
-      VEHICULES
+      baseVehicles
         .filter(vehicle => progression.ownedVehicleIds.includes(vehicle.id))
         .map(vehicle => vehicle.type)
     );
@@ -240,11 +258,7 @@ function createInitialState() {
     currentAdminPanel: null,
     casernes: initializeCasernes(CASERNES),
     nextStaffingUpdateMinutes: (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60),
-    vehicules: clone(VEHICULES).map(vehicle => ({
-      ...vehicle,
-      status: "DISPO",
-      etat: "disponible"
-    })),
+    vehicules: buildInitialVehiclesState(),
     interventions: [],
     dynamicZones: null,
     activeMissions: [],
@@ -343,6 +357,10 @@ function resetGame() {
     return;
   }
 
+  localStorage.removeItem(STORAGE_KEYS.VEHICULES);
+  localStorage.removeItem(STORAGE_KEYS.CASERNES);
+  localStorage.removeItem(STORAGE_KEYS.INTERVENTIONS);
+  localStorage.removeItem(STORAGE_KEYS.SETTINGS);
   state = createInitialState();
   saveState();
   renderAll();
@@ -446,11 +464,7 @@ function initializeNewCareerForStartingCaserne(startingCaserneId) {
   state.isPaused = false;
   state.nextStaffingUpdateMinutes = (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60);
   state.casernes = initializeCasernes(CASERNES);
-  state.vehicules = clone(VEHICULES).map(vehicle => ({
-    ...vehicle,
-    status: "DISPO",
-    etat: "disponible"
-  }));
+  state.vehicules = buildInitialVehiclesState();
 
   const startingVehicleId = createStartingVipVehicle(validCaserneId);
   state.progression = createProgressionState();
