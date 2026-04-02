@@ -1171,9 +1171,9 @@ function renderCenterPanel() {
         ` : `<p class="empty">Aucune recette enregistree.</p>`}
       </div>
 
-      <div class="card">
-        <h4>Debloquer une caserne</h4>
-        ${lockedCasernes.length === 0 ? "<p class='empty'>Toutes les casernes sont ouvertes.</p>" : `
+      ${lockedCasernes.length > 0 ? `
+        <div class="card">
+          <h4>Debloquer une caserne</h4>
           <div class="progression-grid">
             ${lockedCasernes.map(caserne => {
               const cost = getCaserneUnlockCost(caserne.id);
@@ -1188,8 +1188,8 @@ function renderCenterPanel() {
               `;
             }).join("")}
           </div>
-        `}
-      </div>
+        </div>
+      ` : ""}
 
       <div class="card">
         <h4>Creer une caserne personnalisee</h4>

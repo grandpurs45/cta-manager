@@ -9,6 +9,7 @@
   - choix d'une commune de depart (chargee depuis le pack),
   - nom libre de la caserne initiale.
 - La caserne de depart est creee aux coordonnees choisies.
+- Le bloc `Debloquer une caserne` est masque quand il n'y a aucune caserne preconfiguree a acheter.
 
 ## v0.12.8 - 2026-04-02
 
