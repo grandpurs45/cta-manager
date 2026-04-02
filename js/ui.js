@@ -792,6 +792,21 @@ function buyVehicleByTypeFromSelect(type, selectId) {
   buyVehicleByType(type, select.value);
 }
 
+function createCustomCaserneFromProgression() {
+  const nom = document.getElementById("customCaserneName")?.value || "";
+  const lat = document.getElementById("customCaserneLat")?.value || "";
+  const lon = document.getElementById("customCaserneLon")?.value || "";
+  const spPoste = document.getElementById("customCasernePoste")?.value || 0;
+  const spAstreinte = document.getElementById("customCaserneAstreinte")?.value || 0;
+
+  if (typeof createCustomCaserne !== "function") {
+    alert("Creation de caserne indisponible.");
+    return;
+  }
+
+  createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte });
+}
+
 function showDetailPanel() {
   state.currentCenterPanel = "detail";
   state.currentAdminPanel = null;
@@ -955,6 +970,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.1: correction cout Orleans Nord + creation de casernes personnalisees.</li>
           <li>v0.12.0: demarrage VIP only + niveau 1 de caserne initialise pour la progression.</li>
           <li>v0.11.1: corrections reengagement retour + actions retirer/modifier.</li>
           <li>v0.11.0: choix departement + packs territoires + zones dynamiques.</li>
@@ -1087,6 +1103,37 @@ function renderCenterPanel() {
             }).join("")}
           </div>
         `}
+      </div>
+
+      <div class="card">
+        <h4>Creer une caserne personnalisee</h4>
+        <p class="muted">Ajoute une caserne ou tu veux (coordonnees GPS). Elle sera ouverte directement au niveau 1.</p>
+        <p class="muted">Cout creation: ${Math.floor(getCustomCaserneCost ? getCustomCaserneCost() : 0).toLocaleString("fr-FR")} \u20AC</p>
+        <div style="display:grid; gap:8px; max-width:520px;">
+          <label>
+            Nom
+            <input id="customCaserneName" type="text" placeholder="ex: CIS Fleury" />
+          </label>
+          <label>
+            Latitude
+            <input id="customCaserneLat" type="text" placeholder="ex: 47.93" />
+          </label>
+          <label>
+            Longitude
+            <input id="customCaserneLon" type="text" placeholder="ex: 1.88" />
+          </label>
+          <label>
+            SP poste
+            <input id="customCasernePoste" type="number" min="0" step="1" value="6" />
+          </label>
+          <label>
+            SP astreinte
+            <input id="customCaserneAstreinte" type="number" min="0" step="1" value="6" />
+          </label>
+          <div class="panel-actions">
+            <button onclick="createCustomCaserneFromProgression()">Creer et ouvrir</button>
+          </div>
+        </div>
       </div>
 
       <div class="card">

@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.12.1 - 2026-04-02
+
+### Fixed
+- Correction du cout de debloquage de `Orleans Nord` (plus de caserne a 0 EUR par defaut).
+
+### Added
+- Creation de casernes personnalisees depuis le panneau Progression:
+  - nom, coordonnees, effectifs poste/astreinte,
+  - ouverture immediate en niveau 1,
+  - cout dedie `unlockCosts.customCaserne`.
+
 ## v0.12.0 - 2026-04-01
 
 ### Added

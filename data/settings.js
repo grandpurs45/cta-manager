@@ -134,6 +134,7 @@ const SETTINGS = {
         VLSM: 10000
       },
       casernes: {
+        ORL_NOR: 20000,
         ORL_CEN: 20000,
         CHECY: 17000,
         ORMSARAN: 17000,
@@ -141,6 +142,7 @@ const SETTINGS = {
         LCSM: 13000,
         SDIS: 25000
       },
+      customCaserne: 22000,
       vehicleByType: {
         VSAV: 9000,
         VTU: 7500,
@@ -162,6 +164,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.12.0"
+  version: "v0.12.1"
 };
 window.APP_META = APP_META;

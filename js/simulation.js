@@ -2560,6 +2560,10 @@ function getCaserneUnlockCost(caserneId) {
   return SETTINGS.progression?.unlockCosts?.casernes?.[caserneId] || 0;
 }
 
+function getCustomCaserneCost() {
+  return SETTINGS.progression?.unlockCosts?.customCaserne || 0;
+}
+
 function getVehicleTypeUnlockCost(type) {
   return SETTINGS.progression?.unlockCosts?.vehicleTypeUnlock?.[type] || 0;
 }
@@ -2796,6 +2800,99 @@ function unlockCaserne(caserneId) {
   renderAll();
 }
 
+function parseCoordinateValue(value) {
+  if (typeof value === "number") {
+    return value;
+  }
+
+  const normalized = String(value || "").trim().replace(",", ".");
+  const parsed = Number(normalized);
+  return Number.isFinite(parsed) ? parsed : Number.NaN;
+}
+
+function createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte }) {
+  if (!nom || String(nom).trim().length < 3) {
+    alert("Nom de caserne invalide (minimum 3 caracteres).");
+    return false;
+  }
+
+  const parsedLat = parseCoordinateValue(lat);
+  const parsedLon = parseCoordinateValue(lon);
+  if (!Number.isFinite(parsedLat) || !Number.isFinite(parsedLon)) {
+    alert("Coordonnees invalides.");
+    return false;
+  }
+
+  if (parsedLat < -90 || parsedLat > 90 || parsedLon < -180 || parsedLon > 180) {
+    alert("Coordonnees hors limites.");
+    return false;
+  }
+
+  const poste = Math.max(0, Math.floor(Number(spPoste) || 0));
+  const astreinte = Math.max(0, Math.floor(Number(spAstreinte) || 0));
+
+  if (poste + astreinte <= 0) {
+    alert("Renseigne au moins 1 SP entre poste et astreinte.");
+    return false;
+  }
+
+  const customCost = getCustomCaserneCost();
+  if (isProgressionEnabled() && customCost > 0 && !spendMoney(customCost)) {
+    alert("Fonds insuffisants.");
+    return false;
+  }
+
+  const progression = getProgressionState();
+  const rawBase = String(nom).trim()
+    .toUpperCase()
+    .replace(/[^A-Z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  const baseId = rawBase || "CUSTOM";
+
+  let nextIndex = 1;
+  let generatedId = `CUS_${baseId}`;
+  while (state.casernes.some(caserne => caserne.id === generatedId)) {
+    generatedId = `CUS_${baseId}_${String(nextIndex).padStart(2, "0")}`;
+    nextIndex += 1;
+  }
+
+  const newCaserne = {
+    id: generatedId,
+    nom: String(nom).trim(),
+    lat: parsedLat,
+    lon: parsedLon,
+    isCustom: true,
+    effectifs: {
+      poste: {
+        min: poste,
+        max: poste,
+        current: poste
+      },
+      astreinte: {
+        min: astreinte,
+        max: astreinte,
+        current: astreinte
+      }
+    },
+    sp_poste: poste,
+    sp_astreinte: astreinte
+  };
+
+  state.casernes.push(newCaserne);
+
+  if (isProgressionEnabled() && progression) {
+    if (!progression.ownedCaserneIds.includes(generatedId)) {
+      progression.ownedCaserneIds.push(generatedId);
+    }
+    progression.caserneLevels = progression.caserneLevels || {};
+    progression.caserneLevels[generatedId] = 1;
+  }
+
+  saveState();
+  renderAll();
+  return true;
+}
+
 function unlockVehicleType(type) {
   if (!isProgressionEnabled()) {
     return;
@@ -2918,6 +3015,7 @@ window.getOwnedCasernes = getOwnedCasernes;
 window.getOwnedVehicles = getOwnedVehicles;
 window.hasFeatureUnlocked = hasFeatureUnlocked;
 window.getCaserneUnlockCost = getCaserneUnlockCost;
+window.getCustomCaserneCost = getCustomCaserneCost;
 window.isVehicleTypeUnlocked = isVehicleTypeUnlocked;
 window.getUnlockedVehicleTypes = getUnlockedVehicleTypes;
 window.getLockedVehicleTypes = getLockedVehicleTypes;
@@ -2931,6 +3029,7 @@ window.getInfluenceZoneCountByCaserneId = getInfluenceZoneCountByCaserneId;
 window.canVehicleBeTransferred = canVehicleBeTransferred;
 window.startVehicleTransfer = startVehicleTransfer;
 window.unlockCaserne = unlockCaserne;
+window.createCustomCaserne = createCustomCaserne;
 window.unlockVehicleType = unlockVehicleType;
 window.buyVehicleByType = buyVehicleByType;
 window.unlockFeature = unlockFeature;
