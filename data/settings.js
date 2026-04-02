@@ -62,11 +62,11 @@ const SETTINGS = {
 
   zoneInfluence: {
     // Rayon de reference pour la zone d'influence autour des casernes.
-    radiusKm: 14,
+    radiusKm: 10,
     // Plancher d'influence pour eviter qu'une commune tombe a 0.
-    minFactor: 0.2,
+    minFactor: 0.25,
     // Distance max (km) de generation d'une intervention autour des casernes ouvertes.
-    maxOperationalDistanceKm: 35
+    maxOperationalDistanceKm: 22
   },
 
   staffing: {
@@ -164,6 +164,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.12.3"
+  version: "v0.12.4"
 };
 window.APP_META = APP_META;

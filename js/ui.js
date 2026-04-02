@@ -970,6 +970,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.4: influence resserree (22 km / rayon 10 / facteur mini 0.25).</li>
           <li>v0.12.3: zone d'influence affichee avec borne operationnelle (fini les couvertures geantes).</li>
           <li>v0.12.2: reset/nouvelle carriere nettoyes (plus de reliquats de flotte historique).</li>
           <li>v0.12.1: correction cout Orleans Nord + creation de casernes personnalisees.</li>

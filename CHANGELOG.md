@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.12.4 - 2026-04-02
+
+### Changed
+- Reglage plus strict des zones d'influence pour reduire la couverture excessive en debut de partie:
+  - `maxOperationalDistanceKm`: 22
+  - `radiusKm`: 10
+  - `minFactor`: 0.25
+
 ## v0.12.3 - 2026-04-02
 
 ### Fixed
