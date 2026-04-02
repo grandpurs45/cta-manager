@@ -122,7 +122,7 @@ const SETTINGS = {
         adminFleet: 8000
       },
       vehicleTypeUnlock: {
-        VSAV: 0,
+        VSAV: 6000,
         VTU: 5000,
         FPT: 12000,
         FPTL6: 11000,
@@ -168,6 +168,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.12.9"
+  version: "v0.12.10"
 };
 window.APP_META = APP_META;

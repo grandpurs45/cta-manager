@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.12.10 - 2026-04-02
+
+### Fixed
+- Le type de vehicule `VSAV` n'est plus debloque a `0 EUR` par erreur.
+- Cout de debloquage `VSAV` fixe a `6 000 EUR`.
+
 ## v0.12.9 - 2026-04-02
 
 ### Changed

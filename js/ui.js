@@ -1048,6 +1048,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.10: correction du cout de debloquage VSAV (6 000 EUR).</li>
           <li>v0.12.9: caserne de depart placee sur une commune choisie au premier lancement.</li>
           <li>v0.12.8: casernes initiales simplifiees, niveau 1 = 0 poste / 3 astreinte.</li>
           <li>v0.12.7: validation auto des codes metier avant deploiement.</li>
