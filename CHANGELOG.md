@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.13.1 - 2026-04-02
+
+### Changed
+- Premier lancement: la 1ere caserne peut maintenant etre placee librement via coordonnees manuelles (lat/lon), en plus du choix de commune.
+
 ## v0.13.0 - 2026-04-02
 
 ### Added
