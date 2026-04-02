@@ -74,6 +74,19 @@ Format attendu par ligne:
 - `lon`
 - `population`
 
+## Validation des donnees metier
+
+Verifier les codes interventions/couverture avant release:
+
+```bash
+node tools/validate-data.js
+```
+
+Le script detecte notamment:
+
+- besoins sans regle de couverture (ex: `DIV` au lieu de `DIV3`),
+- options avec code inconnu,
+- codes invalides dans `coverage-rules.js`.
 ## Versioning
 
 - Version applicative: `data/settings.js` (`APP_META.version`)

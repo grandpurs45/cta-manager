@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.12.7 - 2026-04-02
+
+### Added
+- Nouveau script de validation metier: `tools/validate-data.js`.
+- Verification automatique des codes besoins/options/regles avant deploiement GitHub Pages.
+
 ## v0.12.6 - 2026-04-02
 
 ### Changed
