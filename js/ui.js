@@ -699,6 +699,14 @@ function openProgressionPanel() {
   renderAll();
 }
 
+function openCaserneManagementPanel() {
+  state.currentCenterPanel = "caserneManagement";
+  state.currentAdminPanel = null;
+  state.isPaused = true;
+  saveState();
+  renderAll();
+}
+
 function openAboutPanel() {
   state.currentCenterPanel = "about";
   state.currentAdminPanel = null;
@@ -1048,6 +1056,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.0: economie centralisee + panneau gestion casernes (upgrades niveau/remise/garde).</li>
           <li>v0.12.10: correction du cout de debloquage VSAV (6 000 EUR).</li>
           <li>v0.12.9: caserne de depart placee sur une commune choisie au premier lancement.</li>
           <li>v0.12.8: casernes initiales simplifiees, niveau 1 = 0 poste / 3 astreinte.</li>
@@ -1077,6 +1086,66 @@ function renderCenterPanel() {
           <li>Push main + verification du deploiement GitHub Pages.</li>
         </ol>
       </div>
+    `;
+    return;
+  }
+
+  if (state.currentCenterPanel === "caserneManagement") {
+    const ownedCasernes = state.casernes.filter(caserne => isCaserneOwned(caserne.id));
+    const progression = state.progression || {};
+
+    container.innerHTML = `
+      <div class="card">
+        <div class="panel-header">
+          <h3>Gestion Casernes</h3>
+          <div class="panel-actions">
+            <button onclick="showDetailPanel()">Retour</button>
+          </div>
+        </div>
+        <p><strong>Budget:</strong> ${Math.floor(progression.money || 0).toLocaleString("fr-FR")} \u20AC</p>
+        <p class="muted">Monte les casernes de niveau pour augmenter les effectifs, debloquer la garde postee et agrandir la remise.</p>
+      </div>
+
+      ${ownedCasernes.length === 0 ? `
+        <div class="card">
+          <p class="empty">Aucune caserne ouverte.</p>
+        </div>
+      ` : ownedCasernes.map(caserne => {
+          const info = typeof getCaserneUpgradeInfo === "function"
+            ? getCaserneUpgradeInfo(caserne.id)
+            : null;
+          const level = info?.currentLevel || 1;
+          const currentSpec = info?.currentSpec || {};
+          const nextSpec = info?.nextSpec || null;
+          const nextLevel = info?.nextLevel || null;
+          const upgradeCost = typeof info?.upgradeCost === "number" ? info.upgradeCost : null;
+          const canUpgrade = !!info?.canUpgrade;
+          const bayCapacity = typeof info?.bayCapacity === "number" ? info.bayCapacity : 1;
+          const currentVehicles = typeof info?.currentVehicles === "number" ? info.currentVehicles : 0;
+
+          return `
+            <div class="card">
+              <h4>${caserne.nom}</h4>
+              <p><strong>Niveau actuel:</strong> ${level}</p>
+              <p><strong>Garde postee:</strong> ${currentSpec.postedGuardUnlocked ? "Debloquee" : "Verrouillee"}</p>
+              <p><strong>SP niveau actuel:</strong> ${currentSpec.poste || 0} poste / ${currentSpec.astreinte || 0} astreinte</p>
+              <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
+
+              ${nextSpec ? `
+                <div class="progression-item" style="margin-top:8px;">
+                  <div><strong>Niveau ${nextLevel}</strong></div>
+                  <div class="muted">Effectifs: ${nextSpec.poste} poste / ${nextSpec.astreinte} astreinte</div>
+                  <div class="muted">Garde postee: ${nextSpec.postedGuardUnlocked ? "Oui" : "Non"}</div>
+                  <div class="muted">Capacite remise: ${nextSpec.bayCapacity}</div>
+                  <div class="muted">Cout: ${(upgradeCost || 0).toLocaleString("fr-FR")} \u20AC</div>
+                  <button ${canUpgrade ? "" : "disabled"} onclick="upgradeCaserneLevel('${caserne.id}')">Passer niveau ${nextLevel}</button>
+                </div>
+              ` : `
+                <p class="muted">Niveau maximum atteint.</p>
+              `}
+            </div>
+          `;
+      }).join("")}
     `;
     return;
   }

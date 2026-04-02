@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.13.0 - 2026-04-02
+
+### Added
+- Nouveau fichier central de reference economie: `data/economy.js` (couts, progression, niveaux casernes).
+- Nouveau panneau `Gestion casernes` pour faire evoluer les casernes.
+
+### Changed
+- Les couts progression/revenus sont maintenant lus depuis la config economie centralisee (avec fallback de compatibilite).
+- Ajout de niveaux de caserne exploites en jeu:
+  - augmentation effectifs par niveau,
+  - debloquage garde postee,
+  - augmentation capacite de remise.
+- Achat d'un vehicule bloque si la remise de la caserne est pleine.
+
 ## v0.12.10 - 2026-04-02
 
 ### Fixed

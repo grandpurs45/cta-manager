@@ -8,6 +8,52 @@ function normalizeInstallationMode(mode) {
   return mode === "online" ? "online" : "offline";
 }
 
+function getProgressionConfig() {
+  const base = SETTINGS.progression || {};
+  const eco = (typeof ECONOMY !== "undefined" && ECONOMY?.progression) ? ECONOMY.progression : {};
+
+  return {
+    ...base,
+    ...eco,
+    rewards: {
+      ...(base.rewards || {}),
+      ...(eco.rewards || {})
+    },
+    quality: {
+      ...(base.quality || {}),
+      ...(eco.quality || {})
+    },
+    caserneLevel1Staffing: {
+      ...(base.caserneLevel1Staffing || {}),
+      ...(eco.caserneLevel1Staffing || {})
+    },
+    caserneLevels: {
+      ...(base.caserneLevels || {}),
+      ...(eco.caserneLevels || {})
+    },
+    unlockCosts: {
+      ...(base.unlockCosts || {}),
+      ...(eco.unlockCosts || {}),
+      features: {
+        ...(base.unlockCosts?.features || {}),
+        ...(eco.unlockCosts?.features || {})
+      },
+      vehicleTypeUnlock: {
+        ...(base.unlockCosts?.vehicleTypeUnlock || {}),
+        ...(eco.unlockCosts?.vehicleTypeUnlock || {})
+      },
+      casernes: {
+        ...(base.unlockCosts?.casernes || {}),
+        ...(eco.unlockCosts?.casernes || {})
+      },
+      vehicleByType: {
+        ...(base.unlockCosts?.vehicleByType || {}),
+        ...(eco.unlockCosts?.vehicleByType || {})
+      }
+    }
+  };
+}
+
 if (typeof CASERNES === "undefined") {
   alert("Erreur : le fichier data/casernes.js n'est pas chargé.");
   throw new Error("CASERNES non chargé");
@@ -87,14 +133,33 @@ function buildInitialVehiclesState() {
 }
 
 function getLevelOneStaffingDefaults() {
-  const cfg = SETTINGS?.progression?.caserneLevel1Staffing || {};
+  const cfg = getProgressionConfig()?.caserneLevel1Staffing || {};
   const poste = Math.max(0, Math.floor(Number(cfg.poste) || 0));
   const astreinte = Math.max(0, Math.floor(Number(cfg.astreinte) || 3));
   return { poste, astreinte };
 }
 
+function getCaserneLevelSpec(level) {
+  const config = getProgressionConfig();
+  const levels = config?.caserneLevels || {};
+  const raw = levels[level] || levels[String(level)] || null;
+  if (!raw) {
+    return null;
+  }
+
+  return {
+    poste: Math.max(0, Math.floor(Number(raw.poste) || 0)),
+    astreinte: Math.max(0, Math.floor(Number(raw.astreinte) || 0)),
+    bayCapacity: Math.max(1, Math.floor(Number(raw.bayCapacity) || 1)),
+    postedGuardUnlocked: !!raw.postedGuardUnlocked,
+    upgradeCost: Math.max(0, Math.floor(Number(raw.upgradeCost) || 0))
+  };
+}
+
 function buildLevelOneCaserneState(caserneTemplate) {
-  const { poste, astreinte } = getLevelOneStaffingDefaults();
+  const levelOne = getCaserneLevelSpec(1) || getLevelOneStaffingDefaults();
+  const poste = Math.max(0, Number(levelOne.poste) || 0);
+  const astreinte = Math.max(0, Number(levelOne.astreinte) || 0);
   const safeTemplate = clone(caserneTemplate || {});
   return {
     ...safeTemplate,
@@ -111,12 +176,14 @@ function buildLevelOneCaserneState(caserneTemplate) {
       }
     },
     sp_poste: poste,
-    sp_astreinte: astreinte
+    sp_astreinte: astreinte,
+    bayCapacity: Math.max(1, Number(levelOne.bayCapacity) || 1),
+    postedGuardUnlocked: !!levelOne.postedGuardUnlocked
   };
 }
 
 function createProgressionState({ legacyMode = false } = {}) {
-  const progressionConfig = SETTINGS.progression || {};
+  const progressionConfig = getProgressionConfig();
   const allVehicleTypes = Object.keys(VEHICULE_TYPES || {});
   const baseVehicles = getDefaultVehiclesDataset();
   const defaultOwnedCasernes = legacyMode
@@ -547,7 +614,7 @@ function initializeNewCareerForStartingCaserne(startingSelection, fallbackZone =
 
   const startingVehicleId = createStartingVipVehicle(startingCaserne.id);
   state.progression = createProgressionState();
-  state.progression.money = SETTINGS.progression?.startingMoney || 0;
+  state.progression.money = getProgressionConfig()?.startingMoney || 0;
   state.progression.completedInterventions = 0;
   state.progression.totalRevenue = 0;
   state.progression.totalQualityBonus = 0;

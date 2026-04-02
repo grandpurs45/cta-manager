@@ -9,6 +9,7 @@ Jeu de simulation de centre de traitement d'appels pompiers (CTA), 100% front-en
 - Zone d'influence automatique par caserne (population + distance)
 - Choix du departement au premier lancement (packs territoires)
 - Progression economique (casernes, types de vehicules, achats d'unites)
+- Gestion casernes (niveau, effectifs, garde postee, capacite remise)
 - Administration flotte (transfert inter-caserne avec delai de transit)
 - Sauvegarde locale + export/import JSON de carriere
 - Panneau `A propos` avec version, mode courant et recap release
@@ -49,6 +50,7 @@ docker compose down
 - `css/`: styles
 - `js/`: moteur simulation + UI
 - `data/`: configuration, templates, regles metier
+  - `data/economy.js`: reference unique des couts/paliers economie
 - `docker/`: configuration Nginx
 - `packs/`: base territoires (par departement)
 - `tools/`: scripts de generation de packs
