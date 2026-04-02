@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.12.9 - 2026-04-02
+
+### Changed
+- Premier lancement: la caserne de depart n'est plus choisie dans une liste fixe Loiret.
+- Nouveau flux de demarrage:
+  - choix du departement,
+  - choix d'une commune de depart (chargee depuis le pack),
+  - nom libre de la caserne initiale.
+- La caserne de depart est creee aux coordonnees choisies.
+
 ## v0.12.8 - 2026-04-02
 
 ### Changed

@@ -432,6 +432,11 @@ function slugifyZoneId(value) {
   return safe || `ZONE_${Math.floor(Math.random() * 100000)}`;
 }
 
+function toSafeCoordinate(value) {
+  const parsed = Number(value);
+  return Number.isFinite(parsed) ? parsed : null;
+}
+
 function getDefaultStartingCaserneId() {
   const configured = SETTINGS?.progression?.startingCaserneId;
   if (configured && CASERNES.some(caserne => caserne.id === configured)) {
@@ -472,13 +477,58 @@ function createStartingVipVehicle(caserneId) {
   return vehicle.id;
 }
 
-function initializeNewCareerForStartingCaserne(startingCaserneId) {
+function buildStartingCaserneFromSelection(startingSelection, fallbackZone = null) {
+  if (startingSelection && typeof startingSelection === "object") {
+    const lat = toSafeCoordinate(startingSelection.lat);
+    const lon = toSafeCoordinate(startingSelection.lon);
+    if (lat !== null && lon !== null) {
+      const baseName = String(startingSelection.nom || "").trim() || "Caserne Depart";
+      const slug = slugifyZoneId(baseName);
+      return buildLevelOneCaserneState({
+        id: `START_${slug}`,
+        nom: baseName,
+        lat,
+        lon,
+        isCustom: true,
+        isStartingCaserne: true
+      });
+    }
+  }
+
   const fallbackCaserneId = getDefaultStartingCaserneId();
-  const validCaserneId = CASERNES.some(caserne => caserne.id === startingCaserneId)
-    ? startingCaserneId
+  const validCaserneId = CASERNES.some(caserne => caserne.id === startingSelection)
+    ? startingSelection
     : fallbackCaserneId;
 
-  if (!validCaserneId) {
+  if (validCaserneId) {
+    const selectedCaserneTemplate = CASERNES.find(caserne => caserne.id === validCaserneId);
+    if (selectedCaserneTemplate) {
+      return buildLevelOneCaserneState(selectedCaserneTemplate);
+    }
+  }
+
+  if (fallbackZone) {
+    const zoneLat = toSafeCoordinate(fallbackZone.lat);
+    const zoneLon = toSafeCoordinate(fallbackZone.lon);
+    if (zoneLat !== null && zoneLon !== null) {
+      const zoneName = String(fallbackZone.nom || "").trim() || "Commune";
+      return buildLevelOneCaserneState({
+        id: `START_${slugifyZoneId(zoneName)}`,
+        nom: `CIS ${zoneName}`,
+        lat: zoneLat,
+        lon: zoneLon,
+        isCustom: true,
+        isStartingCaserne: true
+      });
+    }
+  }
+
+  return null;
+}
+
+function initializeNewCareerForStartingCaserne(startingSelection, fallbackZone = null) {
+  const startingCaserne = buildStartingCaserneFromSelection(startingSelection, fallbackZone);
+  if (!startingCaserne) {
     return;
   }
 
@@ -492,13 +542,10 @@ function initializeNewCareerForStartingCaserne(startingCaserneId) {
   state.activeMissions = [];
   state.isPaused = false;
   state.nextStaffingUpdateMinutes = (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60);
-  const selectedCaserneTemplate = CASERNES.find(caserne => caserne.id === validCaserneId);
-  state.casernes = selectedCaserneTemplate
-    ? [buildLevelOneCaserneState(selectedCaserneTemplate)]
-    : [];
+  state.casernes = [startingCaserne];
   state.vehicules = buildInitialVehiclesState();
 
-  const startingVehicleId = createStartingVipVehicle(validCaserneId);
+  const startingVehicleId = createStartingVipVehicle(startingCaserne.id);
   state.progression = createProgressionState();
   state.progression.money = SETTINGS.progression?.startingMoney || 0;
   state.progression.completedInterventions = 0;
@@ -509,8 +556,8 @@ function initializeNewCareerForStartingCaserne(startingCaserneId) {
   state.progression.qualityRunCount = 0;
   state.progression.bestQualityScore = null;
   state.progression.worstQualityScore = null;
-  state.progression.ownedCaserneIds = [validCaserneId];
-  state.progression.caserneLevels = { [validCaserneId]: 1 };
+  state.progression.ownedCaserneIds = [startingCaserne.id];
+  state.progression.caserneLevels = { [startingCaserne.id]: 1 };
   state.progression.ownedVehicleIds = [startingVehicleId];
   state.progression.unlockedVehicleTypes = ["VIP"];
   state.progression.vehiclePurchaseCounters = {};
@@ -587,7 +634,22 @@ async function loadTerritoryCatalog() {
   return territoryCatalog;
 }
 
-async function applyDepartmentSelection(departmentCode, startingCaserneId = null) {
+async function loadDepartmentCommunes(departmentCode) {
+  const normalizedCode = String(departmentCode || "").trim();
+  if (!normalizedCode) {
+    return [];
+  }
+
+  const response = await fetch(`packs/fr/departements/${normalizedCode}/communes.json`, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+
+  const payload = await response.json();
+  return Array.isArray(payload?.communes) ? payload.communes : [];
+}
+
+async function applyDepartmentSelection(departmentCode, startingCaserneSelection = null) {
   const normalizedCode = String(departmentCode || "").trim();
   if (!normalizedCode) {
     alert("Choisis un departement.");
@@ -595,13 +657,7 @@ async function applyDepartmentSelection(departmentCode, startingCaserneId = null
   }
 
   try {
-    const response = await fetch(`packs/fr/departements/${normalizedCode}/communes.json`, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-
-    const payload = await response.json();
-    const communes = Array.isArray(payload?.communes) ? payload.communes : [];
+    const communes = await loadDepartmentCommunes(normalizedCode);
     const zones = communes.map(communeToZone).filter(Boolean);
 
     if (zones.length === 0) {
@@ -612,12 +668,15 @@ async function applyDepartmentSelection(departmentCode, startingCaserneId = null
     const catalogItem = territoryCatalog.find(item => item.code === normalizedCode);
     state.dynamicZones = zones;
     if (state.installation?.isFirstLaunch) {
-      initializeNewCareerForStartingCaserne(startingCaserneId || getDefaultStartingCaserneId());
+      initializeNewCareerForStartingCaserne(
+        startingCaserneSelection,
+        zones[0] || null
+      );
     }
     state.installation.territory = {
       country: "FR",
       departmentCode: normalizedCode,
-      label: catalogItem?.label || payload?.label || normalizedCode
+      label: catalogItem?.label || normalizedCode
     };
     state.installation.isFirstLaunch = false;
     state.currentCenterPanel = "detail";
@@ -699,6 +758,7 @@ window.getInstallationMode = () => state?.installation?.mode || "offline";
 window.getTerritoryCatalog = () => territoryCatalog;
 window.getCurrentTerritoryLabel = getCurrentTerritoryLabel;
 window.applyDepartmentSelection = applyDepartmentSelection;
+window.loadDepartmentCommunes = loadDepartmentCommunes;
 window.reloadTerritoryCatalog = async () => {
   territoryCatalog = [];
   return loadTerritoryCatalog();
