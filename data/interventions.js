@@ -256,21 +256,21 @@ const INTERVENTION_TEMPLATES = [
     type: "Animal Bléssé",
     dureeSurPlace: 30,
     poids: 5,
-    besoins: [{ code: "DIV", quantite: 1 }],
+    besoins: [{ code: "DIV3", quantite: 1 }],
     zones: "ALL"
   },
   {
     type: "Animal Menacant",
     dureeSurPlace: 30,
     poids: 5,
-    besoins: [{ code: "DIV", quantite: 1 }],
+    besoins: [{ code: "DIV3", quantite: 1 }],
     zones: "ALL"
   },
   {
     type: "ARBRE/POTEAU/MATERIAUX MENACANT OU TOMBE VP MOINS 8 M",
     dureeSurPlace: 30,
     poids: 5,
-    besoins: [{ code: "DIV", quantite: 1 }],
+    besoins: [{ code: "DIV3", quantite: 1 }],
     zones: "ALL"
   },
 
