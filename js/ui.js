@@ -790,6 +790,33 @@ function importCareerBackupFromInput(inputId) {
   reader.readAsText(file);
 }
 
+function applyCheatCodeFromProgression(inputId = "cheatCodeInput") {
+  const input = document.getElementById(inputId);
+  const raw = String(input?.value || "");
+  const code = raw.trim().toUpperCase().replace(/[\s_-]+/g, "");
+  const progression = state?.progression;
+
+  if (!progression) {
+    alert("Progression indisponible.");
+    return;
+  }
+
+  if (code !== "RICHECTA") {
+    alert("Code invalide.");
+    return;
+  }
+
+  const amount = 50000;
+  progression.money = Math.max(0, Math.floor((progression.money || 0) + amount));
+  if (input) {
+    input.value = "";
+  }
+
+  saveState();
+  renderAll();
+  alert(`Cheat active: +${amount.toLocaleString("fr-FR")} \u20AC`);
+}
+
 function buyVehicleByTypeFromSelect(type, selectId) {
   const select = document.getElementById(selectId);
   if (!select || !select.value) {
@@ -1028,6 +1055,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.3: ajout du cheat code test RICHECTA (+50 000 EUR).</li>
           <li>v0.13.2: suppression du choix de commune au demarrage, position 1ere caserne 100% par coordonnees GPS.</li>
           <li>v0.13.1: caserne de depart positionnable aussi en coordonnees manuelles.</li>
           <li>v0.13.0: economie centralisee + panneau gestion casernes (upgrades niveau/remise/garde).</li>
@@ -1188,6 +1216,17 @@ function renderCenterPanel() {
         <div class="panel-actions">
           <button onclick="exportCareerBackup()">Exporter backup JSON</button>
           <button class="secondary" onclick="triggerCareerImport('careerBackupInput')">Importer backup JSON</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <h4>Cheat code (test)</h4>
+        <p class="muted">Code dispo: <strong>RICHECTA</strong> (+50 000 \u20AC). Repetable pour accelerer les tests.</p>
+        <div style="display:grid;gap:8px;max-width:420px;">
+          <input id="cheatCodeInput" type="text" placeholder="Saisis un code" />
+          <div class="panel-actions">
+            <button class="secondary" onclick="applyCheatCodeFromProgression('cheatCodeInput')">Appliquer le code</button>
+          </div>
         </div>
       </div>
 

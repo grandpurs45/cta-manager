@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.13.3 - 2026-04-02
+
+### Added
+- Panneau progression: ajout d'un cheat code de test `RICHECTA` pour crediter instantanement le budget de +50 000 EUR (repetable).
+
 ## v0.13.2 - 2026-04-02
 
 ### Changed
