@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.12.8 - 2026-04-02
+
+### Changed
+- Nouvelle carriere: plus de liste de casernes pre-creees dans l'etat de partie.
+- Caserne de depart creee uniquement a la selection joueur (niveau 1).
+- Niveau 1 standardise pour les casernes: `0 SP poste / 3 SP astreinte`.
+
 ## v0.12.7 - 2026-04-02
 
 ### Added

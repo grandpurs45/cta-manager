@@ -970,6 +970,8 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.12.8: casernes initiales simplifiees, niveau 1 = 0 poste / 3 astreinte.</li>
+          <li>v0.12.7: validation auto des codes metier avant deploiement.</li>
           <li>v0.12.6: influence tres locale (12 km / rayon 5 / facteur mini 0.08).</li>
           <li>v0.12.5: influence encore durcie (16 km / rayon 7 / facteur mini 0.12).</li>
           <li>v0.12.4: influence resserree (22 km / rayon 10 / facteur mini 0.25).</li>
@@ -1112,7 +1114,7 @@ function renderCenterPanel() {
 
       <div class="card">
         <h4>Creer une caserne personnalisee</h4>
-        <p class="muted">Ajoute une caserne ou tu veux (coordonnees GPS). Elle sera ouverte directement au niveau 1.</p>
+        <p class="muted">Ajoute une caserne ou tu veux (coordonnees GPS). Elle sera ouverte directement au niveau 1 (0 poste / 3 astreinte par defaut).</p>
         <p class="muted">Cout creation: ${Math.floor(getCustomCaserneCost ? getCustomCaserneCost() : 0).toLocaleString("fr-FR")} \u20AC</p>
         <div style="display:grid; gap:8px; max-width:520px;">
           <label>
@@ -1129,11 +1131,11 @@ function renderCenterPanel() {
           </label>
           <label>
             SP poste
-            <input id="customCasernePoste" type="number" min="0" step="1" value="6" />
+            <input id="customCasernePoste" type="number" min="0" step="1" value="0" />
           </label>
           <label>
             SP astreinte
-            <input id="customCaserneAstreinte" type="number" min="0" step="1" value="6" />
+            <input id="customCaserneAstreinte" type="number" min="0" step="1" value="3" />
           </label>
           <div class="panel-actions">
             <button onclick="createCustomCaserneFromProgression()">Creer et ouvrir</button>

@@ -2573,6 +2573,13 @@ function getCustomCaserneCost() {
   return SETTINGS.progression?.unlockCosts?.customCaserne || 0;
 }
 
+function getLevelOneStaffingDefaults() {
+  const cfg = SETTINGS?.progression?.caserneLevel1Staffing || {};
+  const poste = Math.max(0, Math.floor(Number(cfg.poste) || 0));
+  const astreinte = Math.max(0, Math.floor(Number(cfg.astreinte) || 3));
+  return { poste, astreinte };
+}
+
 function getVehicleTypeUnlockCost(type) {
   return SETTINGS.progression?.unlockCosts?.vehicleTypeUnlock?.[type] || 0;
 }
@@ -2802,6 +2809,17 @@ function unlockCaserne(caserneId) {
     return;
   }
 
+  const caserne = getCaserneById(caserneId);
+  if (caserne) {
+    const { poste, astreinte } = getLevelOneStaffingDefaults();
+    caserne.effectifs = {
+      poste: { min: poste, max: poste, current: poste },
+      astreinte: { min: astreinte, max: astreinte, current: astreinte }
+    };
+    caserne.sp_poste = poste;
+    caserne.sp_astreinte = astreinte;
+  }
+
   progression.ownedCaserneIds.push(caserneId);
   progression.caserneLevels = progression.caserneLevels || {};
   progression.caserneLevels[caserneId] = 1;
@@ -2837,8 +2855,11 @@ function createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte }) {
     return false;
   }
 
-  const poste = Math.max(0, Math.floor(Number(spPoste) || 0));
-  const astreinte = Math.max(0, Math.floor(Number(spAstreinte) || 0));
+  const defaults = getLevelOneStaffingDefaults();
+  const posteInput = Number(spPoste);
+  const astreinteInput = Number(spAstreinte);
+  const poste = Number.isFinite(posteInput) ? Math.max(0, Math.floor(posteInput)) : defaults.poste;
+  const astreinte = Number.isFinite(astreinteInput) ? Math.max(0, Math.floor(astreinteInput)) : defaults.astreinte;
 
   if (poste + astreinte <= 0) {
     alert("Renseigne au moins 1 SP entre poste et astreinte.");

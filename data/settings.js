@@ -87,6 +87,10 @@ const SETTINGS = {
     startingCaserneId: "LCSM",
     startingVehicleIds: ["VIP01"],
     startingUnlockedVehicleTypes: ["VIP"],
+    caserneLevel1Staffing: {
+      poste: 0,
+      astreinte: 3
+    },
 
     rewards: {
       base: 450,
@@ -164,6 +168,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.12.7"
+  version: "v0.12.8"
 };
 window.APP_META = APP_META;

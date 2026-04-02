@@ -86,6 +86,35 @@ function buildInitialVehiclesState() {
   }));
 }
 
+function getLevelOneStaffingDefaults() {
+  const cfg = SETTINGS?.progression?.caserneLevel1Staffing || {};
+  const poste = Math.max(0, Math.floor(Number(cfg.poste) || 0));
+  const astreinte = Math.max(0, Math.floor(Number(cfg.astreinte) || 3));
+  return { poste, astreinte };
+}
+
+function buildLevelOneCaserneState(caserneTemplate) {
+  const { poste, astreinte } = getLevelOneStaffingDefaults();
+  const safeTemplate = clone(caserneTemplate || {});
+  return {
+    ...safeTemplate,
+    effectifs: {
+      poste: {
+        min: poste,
+        max: poste,
+        current: poste
+      },
+      astreinte: {
+        min: astreinte,
+        max: astreinte,
+        current: astreinte
+      }
+    },
+    sp_poste: poste,
+    sp_astreinte: astreinte
+  };
+}
+
 function createProgressionState({ legacyMode = false } = {}) {
   const progressionConfig = SETTINGS.progression || {};
   const allVehicleTypes = Object.keys(VEHICULE_TYPES || {});
@@ -256,9 +285,9 @@ function createInitialState() {
     nextInterventionId: 1,
     currentCenterPanel: "detail",
     currentAdminPanel: null,
-    casernes: initializeCasernes(CASERNES),
+    casernes: [],
     nextStaffingUpdateMinutes: (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60),
-    vehicules: buildInitialVehiclesState(),
+    vehicules: [],
     interventions: [],
     dynamicZones: null,
     activeMissions: [],
@@ -463,7 +492,10 @@ function initializeNewCareerForStartingCaserne(startingCaserneId) {
   state.activeMissions = [];
   state.isPaused = false;
   state.nextStaffingUpdateMinutes = (8 * 60) + (SETTINGS.staffing.updateIntervalHours * 60);
-  state.casernes = initializeCasernes(CASERNES);
+  const selectedCaserneTemplate = CASERNES.find(caserne => caserne.id === validCaserneId);
+  state.casernes = selectedCaserneTemplate
+    ? [buildLevelOneCaserneState(selectedCaserneTemplate)]
+    : [];
   state.vehicules = buildInitialVehiclesState();
 
   const startingVehicleId = createStartingVipVehicle(validCaserneId);
