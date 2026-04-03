@@ -46,6 +46,10 @@ function getProgressionConfig() {
         ...(base.unlockCosts?.casernes || {}),
         ...(eco.unlockCosts?.casernes || {})
       },
+      postedGuard: {
+        ...(base.unlockCosts?.postedGuard || {}),
+        ...(eco.unlockCosts?.postedGuard || {})
+      },
       staffingUnits: {
         ...(base.unlockCosts?.staffingUnits || {}),
         ...(eco.unlockCosts?.staffingUnits || {})
@@ -431,6 +435,10 @@ function loadState() {
           bayCapacity: 1,
           postedGuardUnlocked: false
         };
+        const guardMinLevelRaw = Number(getProgressionConfig()?.unlockCosts?.postedGuard?.minLevel);
+        const guardMinLevel = Number.isFinite(guardMinLevelRaw) && guardMinLevelRaw >= 1
+          ? Math.floor(guardMinLevelRaw)
+          : 3;
         const defaults = getLevelOneStaffingDefaults();
 
         const rawPoste = Number(caserne.effectifs?.poste?.current);
@@ -453,6 +461,9 @@ function loadState() {
           )
         );
 
+        const legacyGuardUnlocked = !!caserne.postedGuardUnlocked;
+        const legacyGuardPurchased = !!caserne.postedGuardPurchased || legacyGuardUnlocked || currentPoste > 0;
+
         caserne.effectifs = {
           poste: { min: currentPoste, max: currentPoste, current: currentPoste },
           astreinte: { min: currentAstreinte, max: currentAstreinte, current: currentAstreinte }
@@ -460,7 +471,8 @@ function loadState() {
         caserne.sp_poste = currentPoste;
         caserne.sp_astreinte = currentAstreinte;
         caserne.bayCapacity = spec.bayCapacity;
-        caserne.postedGuardUnlocked = !!spec.postedGuardUnlocked;
+        caserne.postedGuardPurchased = legacyGuardPurchased;
+        caserne.postedGuardUnlocked = legacyGuardPurchased && level >= guardMinLevel;
 
         return caserne;
       });

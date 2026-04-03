@@ -70,6 +70,10 @@ function getProgressionConfig() {
         ...(base.unlockCosts?.casernes || {}),
         ...(eco.unlockCosts?.casernes || {})
       },
+      postedGuard: {
+        ...(base.unlockCosts?.postedGuard || {}),
+        ...(eco.unlockCosts?.postedGuard || {})
+      },
       staffingUnits: {
         ...(base.unlockCosts?.staffingUnits || {}),
         ...(eco.unlockCosts?.staffingUnits || {})
@@ -2674,6 +2678,19 @@ function getCaserneUpgradeCost(caserneId) {
   return nextSpec.upgradeCost;
 }
 
+function getPostedGuardUnlockMinLevel() {
+  const raw = Number(getProgressionConfig()?.unlockCosts?.postedGuard?.minLevel);
+  return Number.isFinite(raw) && raw >= 1 ? Math.floor(raw) : 3;
+}
+
+function getPostedGuardUnlockCost(caserneId) {
+  const map = getProgressionConfig()?.unlockCosts?.postedGuard?.casernes || {};
+  const defaultCostRaw = Number(getProgressionConfig()?.unlockCosts?.postedGuard?.defaultCost);
+  const defaultCost = Number.isFinite(defaultCostRaw) && defaultCostRaw >= 0 ? Math.floor(defaultCostRaw) : 8000;
+  const specificCost = Number(map?.[caserneId]);
+  return Number.isFinite(specificCost) && specificCost >= 0 ? Math.floor(specificCost) : defaultCost;
+}
+
 function applyCaserneLevelSpec(caserne, level, options = {}) {
   if (!caserne) {
     return false;
@@ -2716,7 +2733,9 @@ function applyCaserneLevelSpec(caserne, level, options = {}) {
   caserne.sp_poste = caserne.effectifs.poste.current;
   caserne.sp_astreinte = caserne.effectifs.astreinte.current;
   caserne.bayCapacity = spec.bayCapacity;
-  caserne.postedGuardUnlocked = spec.postedGuardUnlocked;
+  const minLevel = getPostedGuardUnlockMinLevel();
+  const postedGuardPurchased = !!caserne.postedGuardPurchased;
+  caserne.postedGuardUnlocked = postedGuardPurchased && level >= minLevel;
 
   return true;
 }
@@ -2749,6 +2768,13 @@ function getCaserneUpgradeInfo(caserneId) {
     vehicle.caserneId === caserneId && isVehicleOwned(vehicle.id)
   ).length;
   const bayCapacity = getCaserneVehicleCapacity(caserneId);
+  const postedGuardMinLevel = getPostedGuardUnlockMinLevel();
+  const postedGuardUnlockCost = getPostedGuardUnlockCost(caserneId);
+  const postedGuardPurchased = !!caserne?.postedGuardPurchased;
+  const canUnlockPostedGuard = !!(caserne &&
+    currentLevel >= postedGuardMinLevel &&
+    !postedGuardPurchased &&
+    canAfford(postedGuardUnlockCost));
   const canUpgrade = !!(caserne &&
     currentLevel > 0 &&
     nextSpec &&
@@ -2765,6 +2791,10 @@ function getCaserneUpgradeInfo(caserneId) {
     upgradeCost,
     currentVehicles,
     bayCapacity,
+    postedGuardMinLevel,
+    postedGuardPurchased,
+    postedGuardUnlockCost,
+    canUnlockPostedGuard,
     canUpgrade
   };
 }
@@ -2799,7 +2829,7 @@ function buyCaserneStaffing(caserneId, staffingType) {
     return false;
   }
 
-  if (staffingType === "poste" && !spec.postedGuardUnlocked) {
+  if (staffingType === "poste" && !caserne.postedGuardUnlocked) {
     alert("Garde postee non debloquee a ce niveau.");
     return false;
   }
@@ -2842,6 +2872,43 @@ function buyCaserneStaffing(caserneId, staffingType) {
     caserne.sp_astreinte = nextValue;
   }
 
+  saveState();
+  renderAll();
+  return true;
+}
+
+function unlockPostedGuardForCaserne(caserneId) {
+  if (!isProgressionEnabled()) {
+    return false;
+  }
+  if (!isCaserneOwned(caserneId)) {
+    alert("Caserne non debloquee.");
+    return false;
+  }
+
+  const caserne = getCaserneById(caserneId);
+  const level = getCaserneLevel(caserneId);
+  const minLevel = getPostedGuardUnlockMinLevel();
+  if (!caserne) {
+    alert("Caserne invalide.");
+    return false;
+  }
+  if (caserne.postedGuardPurchased) {
+    return false;
+  }
+  if (level < minLevel) {
+    alert(`Niveau ${minLevel} requis.`);
+    return false;
+  }
+
+  const cost = getPostedGuardUnlockCost(caserneId);
+  if (!spendMoney(cost)) {
+    alert("Fonds insuffisants.");
+    return false;
+  }
+
+  caserne.postedGuardPurchased = true;
+  caserne.postedGuardUnlocked = true;
   saveState();
   renderAll();
   return true;
@@ -3351,6 +3418,8 @@ window.hasFeatureUnlocked = hasFeatureUnlocked;
 window.getCaserneUnlockCost = getCaserneUnlockCost;
 window.getCaserneUpgradeCost = getCaserneUpgradeCost;
 window.getCaserneUpgradeInfo = getCaserneUpgradeInfo;
+window.getPostedGuardUnlockCost = getPostedGuardUnlockCost;
+window.getPostedGuardUnlockMinLevel = getPostedGuardUnlockMinLevel;
 window.getCaserneStaffingUnitCost = getCaserneStaffingUnitCost;
 window.getCaserneVehicleCapacity = getCaserneVehicleCapacity;
 window.getCustomCaserneCost = getCustomCaserneCost;
@@ -3368,6 +3437,7 @@ window.canVehicleBeTransferred = canVehicleBeTransferred;
 window.startVehicleTransfer = startVehicleTransfer;
 window.unlockCaserne = unlockCaserne;
 window.upgradeCaserneLevel = upgradeCaserneLevel;
+window.unlockPostedGuardForCaserne = unlockPostedGuardForCaserne;
 window.buyCaserneStaffing = buyCaserneStaffing;
 window.createCustomCaserne = createCustomCaserne;
 window.unlockVehicleType = unlockVehicleType;

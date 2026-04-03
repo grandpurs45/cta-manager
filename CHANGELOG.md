@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.13.5 - 2026-04-03
+
+### Changed
+- Garde postee: non disponible avant le niveau 3.
+- Ajout d'un achat dedie `Acheter fonction garde postee` (cout configurable) dans Gestion Casernes.
+- L'achat de SP poste est bloque tant que la fonction garde postee n'est pas achetee.
+
 ## v0.13.4 - 2026-04-03
 
 ### Changed

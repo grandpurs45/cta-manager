@@ -58,6 +58,11 @@ const ECONOMY = {
         LCSM: 13000,
         SDIS: 25000
       },
+      postedGuard: {
+        minLevel: 3,
+        defaultCost: 9000,
+        casernes: {}
+      },
       staffingUnits: {
         poste: 2400,
         astreinte: 1200
@@ -85,34 +90,34 @@ const ECONOMY = {
         poste: 2,
         astreinte: 5,
         bayCapacity: 1,
-        postedGuardUnlocked: true
+        postedGuardUnlocked: false
       },
       2: {
         poste: 4,
         astreinte: 7,
         bayCapacity: 2,
-        postedGuardUnlocked: true,
+        postedGuardUnlocked: false,
         upgradeCost: 8000
       },
       3: {
         poste: 6,
         astreinte: 9,
         bayCapacity: 3,
-        postedGuardUnlocked: true,
+        postedGuardUnlocked: false,
         upgradeCost: 15000
       },
       4: {
         poste: 8,
         astreinte: 11,
         bayCapacity: 4,
-        postedGuardUnlocked: true,
+        postedGuardUnlocked: false,
         upgradeCost: 26000
       },
       5: {
         poste: 10,
         astreinte: 13,
         bayCapacity: 5,
-        postedGuardUnlocked: true,
+        postedGuardUnlocked: false,
         upgradeCost: 42000
       }
     }

@@ -1053,6 +1053,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.5: garde postee achetable uniquement a partir du niveau 3 (bouton dedie).</li>
           <li>v0.13.4: achats d'effectifs caserne (+1 poste / +1 astreinte), garde postee possible des le niveau 1.</li>
           <li>v0.13.3: ajout du cheat code test RICHECTA (+50 000 EUR).</li>
           <li>v0.13.2: suppression du choix de commune au demarrage, position 1ere caserne 100% par coordonnees GPS.</li>
@@ -1127,7 +1128,11 @@ function renderCenterPanel() {
           const currentAstreinte = Math.max(0, Math.floor(Number(caserne.sp_astreinte) || 0));
           const maxPoste = Math.max(0, Math.floor(Number(currentSpec.poste) || 0));
           const maxAstreinte = Math.max(0, Math.floor(Number(currentSpec.astreinte) || 0));
-          const postedUnlocked = !!currentSpec.postedGuardUnlocked;
+          const postedUnlocked = !!caserne.postedGuardUnlocked;
+          const postedPurchased = !!info?.postedGuardPurchased;
+          const postedMinLevel = Number(info?.postedGuardMinLevel) || 3;
+          const postedUnlockCost = Number(info?.postedGuardUnlockCost) || 0;
+          const canUnlockPosted = !!info?.canUnlockPostedGuard;
           const posteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("poste") : 0;
           const astreinteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("astreinte") : 0;
           const canBuyPoste = postedUnlocked && currentPoste < maxPoste && (progression.money || 0) >= posteCost;
@@ -1137,10 +1142,18 @@ function renderCenterPanel() {
             <div class="card">
               <h4>${caserne.nom}</h4>
               <p><strong>Niveau actuel:</strong> ${level}</p>
-              <p><strong>Garde postee:</strong> ${postedUnlocked ? "Debloquee" : "Verrouillee"}</p>
+              <p><strong>Garde postee:</strong> ${postedUnlocked ? "Debloquee" : postedPurchased ? `Achetee (niveau ${postedMinLevel} requis)` : "Verrouillee"}</p>
               <p><strong>SP achetes:</strong> ${currentPoste} poste / ${currentAstreinte} astreinte</p>
               <p><strong>Capacite niveau:</strong> ${maxPoste} poste / ${maxAstreinte} astreinte</p>
               <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
+
+              ${postedUnlocked ? "" : `
+                <div class="panel-actions" style="margin-top:8px;">
+                  <button ${canUnlockPosted ? "" : "disabled"} onclick="unlockPostedGuardForCaserne('${caserne.id}')">
+                    Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
+                  </button>
+                </div>
+              `}
 
               <div class="panel-actions" style="margin-top:8px;">
                 <button ${canBuyPoste ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
@@ -1155,7 +1168,7 @@ function renderCenterPanel() {
                 <div class="progression-item" style="margin-top:8px;">
                   <div><strong>Niveau ${nextLevel}</strong></div>
                   <div class="muted">Effectifs: ${nextSpec.poste} poste / ${nextSpec.astreinte} astreinte</div>
-                  <div class="muted">Garde postee: ${nextSpec.postedGuardUnlocked ? "Oui" : "Non"}</div>
+                  <div class="muted">Garde postee: ${nextLevel >= postedMinLevel ? "Eligible a l'achat" : `Niveau ${postedMinLevel} requis`}</div>
                   <div class="muted">Capacite remise: ${nextSpec.bayCapacity}</div>
                   <div class="muted">Cout: ${(upgradeCost || 0).toLocaleString("fr-FR")} \u20AC</div>
                   <button ${canUpgrade ? "" : "disabled"} onclick="upgradeCaserneLevel('${caserne.id}')">Passer niveau ${nextLevel}</button>

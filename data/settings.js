@@ -146,6 +146,11 @@ const SETTINGS = {
         LCSM: 13000,
         SDIS: 25000
       },
+      postedGuard: {
+        minLevel: 3,
+        defaultCost: 9000,
+        casernes: {}
+      },
       staffingUnits: {
         poste: 2400,
         astreinte: 1200
@@ -172,6 +177,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.13.4"
+  version: "v0.13.5"
 };
 window.APP_META = APP_META;
