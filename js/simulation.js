@@ -3184,7 +3184,22 @@ function upgradeCaserneLevel(caserneId) {
   }
 
   const caserne = getCaserneById(caserneId);
-  applyCaserneLevelSpec(caserne, nextLevel, { preserveCurrent: true });
+  const currentPoste = Math.max(
+    0,
+    Math.floor(Number(caserne?.effectifs?.poste?.current ?? caserne?.sp_poste) || 0)
+  );
+  const currentAstreinte = Math.max(
+    0,
+    Math.floor(Number(caserne?.effectifs?.astreinte?.current ?? caserne?.sp_astreinte) || 0)
+  );
+
+  // Regle stricte: un upgrade augmente uniquement les capacites (plafonds),
+  // jamais les effectifs effectivement achetes.
+  applyCaserneLevelSpec(caserne, nextLevel, {
+    preserveCurrent: false,
+    initialPoste: currentPoste,
+    initialAstreinte: currentAstreinte
+  });
 
   progression.caserneLevels = progression.caserneLevels || {};
   progression.caserneLevels[caserneId] = nextLevel;
