@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.13.6 - 2026-04-03
+
+### Changed
+- Retour de la variabilite des astreintes (cycle staffing), tout en conservant un total achete (max) distinct du disponible courant.
+- Upgrade caserne: conserve strictement les effectifs achetes (poste/astreinte max), sans ajout gratuit.
+- UI casernes et gestion: affichage astreinte en `dispo / total`.
+
 ## v0.13.5 - 2026-04-03
 
 ### Changed

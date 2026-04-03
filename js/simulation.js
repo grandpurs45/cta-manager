@@ -2705,8 +2705,12 @@ function applyCaserneLevelSpec(caserne, level, options = {}) {
   const preserveCurrent = options.preserveCurrent === true;
   const initialPoste = Number(options.initialPoste);
   const initialAstreinte = Number(options.initialAstreinte);
+  const initialAstreinteMax = Number(options.initialAstreinteMax);
   const requestedPoste = Number.isFinite(initialPoste) ? Math.floor(initialPoste) : defaults.poste;
   const requestedAstreinte = Number.isFinite(initialAstreinte) ? Math.floor(initialAstreinte) : defaults.astreinte;
+  const requestedAstreinteMax = Number.isFinite(initialAstreinteMax)
+    ? Math.floor(initialAstreinteMax)
+    : requestedAstreinte;
 
   const currentPoste = preserveCurrent
     ? Number(caserne.sp_poste) || 0
@@ -2716,7 +2720,8 @@ function applyCaserneLevelSpec(caserne, level, options = {}) {
     : Math.max(0, requestedAstreinte);
 
   const posteValue = Math.min(spec.poste, Math.max(0, currentPoste));
-  const astreinteValue = Math.min(spec.astreinte, Math.max(0, currentAstreinte));
+  const astreinteMaxValue = Math.min(spec.astreinte, Math.max(0, requestedAstreinteMax));
+  const astreinteValue = Math.min(astreinteMaxValue, Math.max(0, currentAstreinte));
 
   caserne.effectifs = {
     poste: {
@@ -2725,8 +2730,8 @@ function applyCaserneLevelSpec(caserne, level, options = {}) {
       current: posteValue
     },
     astreinte: {
-      min: astreinteValue,
-      max: astreinteValue,
+      min: 0,
+      max: astreinteMaxValue,
       current: astreinteValue
     }
   };
@@ -2836,10 +2841,13 @@ function buyCaserneStaffing(caserneId, staffingType) {
 
   const current = staffingType === "poste"
     ? Math.max(0, Math.floor(Number(caserne.sp_poste) || 0))
-    : Math.max(0, Math.floor(Number(caserne.sp_astreinte) || 0));
+    : Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.current ?? caserne.sp_astreinte) || 0));
+  const purchased = staffingType === "poste"
+    ? current
+    : Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.max ?? caserne.sp_astreinte) || 0));
   const maxAllowed = staffingType === "poste" ? spec.poste : spec.astreinte;
 
-  if (current >= maxAllowed) {
+  if (purchased >= maxAllowed) {
     alert(`Maximum atteint pour ${staffingType}.`);
     return false;
   }
@@ -2851,6 +2859,7 @@ function buyCaserneStaffing(caserneId, staffingType) {
   }
 
   const nextValue = current + 1;
+  const nextPurchased = staffingType === "poste" ? nextValue : purchased + 1;
   if (!caserne.effectifs) {
     caserne.effectifs = {};
   }
@@ -2869,7 +2878,12 @@ function buyCaserneStaffing(caserneId, staffingType) {
   if (staffingType === "poste") {
     caserne.sp_poste = nextValue;
   } else {
-    caserne.sp_astreinte = nextValue;
+    caserne.effectifs.astreinte = {
+      min: 0,
+      max: nextPurchased,
+      current: Math.min(nextPurchased, nextValue)
+    };
+    caserne.sp_astreinte = caserne.effectifs.astreinte.current;
   }
 
   saveState();
@@ -3148,7 +3162,8 @@ function unlockCaserne(caserneId) {
   applyCaserneLevelSpec(caserne, 1, {
     preserveCurrent: false,
     initialPoste: defaults.poste,
-    initialAstreinte: defaults.astreinte
+    initialAstreinte: defaults.astreinte,
+    initialAstreinteMax: defaults.astreinte
   });
 
   progression.ownedCaserneIds.push(caserneId);
@@ -3192,13 +3207,18 @@ function upgradeCaserneLevel(caserneId) {
     0,
     Math.floor(Number(caserne?.effectifs?.astreinte?.current ?? caserne?.sp_astreinte) || 0)
   );
+  const currentAstreinteMax = Math.max(
+    0,
+    Math.floor(Number(caserne?.effectifs?.astreinte?.max ?? caserne?.sp_astreinte) || 0)
+  );
 
   // Regle stricte: un upgrade augmente uniquement les capacites (plafonds),
   // jamais les effectifs effectivement achetes.
   applyCaserneLevelSpec(caserne, nextLevel, {
     preserveCurrent: false,
     initialPoste: currentPoste,
-    initialAstreinte: currentAstreinte
+    initialAstreinte: currentAstreinte,
+    initialAstreinteMax: currentAstreinteMax
   });
 
   progression.caserneLevels = progression.caserneLevels || {};
@@ -3283,7 +3303,12 @@ function createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte }) {
     sp_astreinte: astreinte
   };
 
-  applyCaserneLevelSpec(newCaserne, 1, { preserveCurrent: false });
+  applyCaserneLevelSpec(newCaserne, 1, {
+    preserveCurrent: false,
+    initialPoste: defaults.poste,
+    initialAstreinte: defaults.astreinte,
+    initialAstreinteMax: defaults.astreinte
+  });
 
   state.casernes.push(newCaserne);
 

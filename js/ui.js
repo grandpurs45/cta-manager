@@ -609,8 +609,10 @@ function renderCasernes() {
     ${casernesToRender.map(caserne => {
     const spUsed = calculateUsedSP(caserne.id);
     const spPosteAvailable = Math.max(0, caserne.sp_poste - spUsed);
+    const astreinteCurrent = Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.current ?? caserne.sp_astreinte) || 0));
+    const astreinteTotal = Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.max ?? caserne.sp_astreinte) || 0));
     const spUsedOnAstreinte = Math.max(0, spUsed - caserne.sp_poste);
-    const spAstreinteAvailable = Math.max(0, caserne.sp_astreinte - spUsedOnAstreinte);
+    const spAstreinteAvailable = Math.max(0, astreinteCurrent - spUsedOnAstreinte);
     const spTotalAvailable = Math.max(0, (caserne.sp_poste + caserne.sp_astreinte) - spUsed);
     const influencePopulation = typeof getInfluencePopulationByCaserneId === "function"
       ? getInfluencePopulationByCaserneId(caserne.id)
@@ -628,7 +630,7 @@ function renderCasernes() {
         <h3>${caserne.nom}</h3>
         <p><strong>Niveau :</strong> ${typeof getCaserneLevel === "function" ? getCaserneLevel(caserne.id) : 1}</p>
         <p><strong>SP poste :</strong> ${caserne.sp_poste}</p>
-        <p><strong>SP astreinte :</strong> ${spAstreinteAvailable} / ${caserne.sp_astreinte}</p>
+        <p><strong>SP astreinte :</strong> ${spAstreinteAvailable} / ${astreinteTotal}</p>
         <p><strong>SP utilises :</strong> ${spUsed}</p>
         <p><strong>SP disponibles poste :</strong> ${spPosteAvailable}</p>
         <p><strong>SP disponibles total :</strong> ${spTotalAvailable}</p>
@@ -1055,6 +1057,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.6: retour variabilite astreintes + affichage dispo/total.</li>
           <li>v0.13.5: garde postee achetable uniquement a partir du niveau 3 (bouton dedie).</li>
           <li>v0.13.4: achats d'effectifs caserne (+1 poste / +1 astreinte), garde postee possible des le niveau 1.</li>
           <li>v0.13.3: ajout du cheat code test RICHECTA (+50 000 EUR).</li>
@@ -1127,7 +1130,8 @@ function renderCenterPanel() {
           const bayCapacity = typeof info?.bayCapacity === "number" ? info.bayCapacity : 1;
           const currentVehicles = typeof info?.currentVehicles === "number" ? info.currentVehicles : 0;
           const currentPoste = Math.max(0, Math.floor(Number(caserne.sp_poste) || 0));
-          const currentAstreinte = Math.max(0, Math.floor(Number(caserne.sp_astreinte) || 0));
+          const currentAstreinte = Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.current ?? caserne.sp_astreinte) || 0));
+          const purchasedAstreinte = Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.max ?? caserne.sp_astreinte) || 0));
           const maxPoste = Math.max(0, Math.floor(Number(currentSpec.poste) || 0));
           const maxAstreinte = Math.max(0, Math.floor(Number(currentSpec.astreinte) || 0));
           const postedUnlocked = !!caserne.postedGuardUnlocked;
@@ -1138,14 +1142,15 @@ function renderCenterPanel() {
           const posteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("poste") : 0;
           const astreinteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("astreinte") : 0;
           const canBuyPoste = postedUnlocked && currentPoste < maxPoste && (progression.money || 0) >= posteCost;
-          const canBuyAstreinte = currentAstreinte < maxAstreinte && (progression.money || 0) >= astreinteCost;
+          const canBuyAstreinte = purchasedAstreinte < maxAstreinte && (progression.money || 0) >= astreinteCost;
 
           return `
             <div class="card">
               <h4>${caserne.nom}</h4>
               <p><strong>Niveau actuel:</strong> ${level}</p>
               <p><strong>Garde postee:</strong> ${postedUnlocked ? "Debloquee" : postedPurchased ? `Achetee (niveau ${postedMinLevel} requis)` : "Verrouillee"}</p>
-              <p><strong>SP achetes:</strong> ${currentPoste} poste / ${currentAstreinte} astreinte</p>
+              <p><strong>SP achetes:</strong> ${currentPoste} poste / ${purchasedAstreinte} astreinte</p>
+              <p><strong>SP astreinte dispo:</strong> ${currentAstreinte} / ${purchasedAstreinte}</p>
               <p><strong>Capacite niveau:</strong> ${maxPoste} poste / ${maxAstreinte} astreinte</p>
               <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
 
