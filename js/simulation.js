@@ -70,6 +70,10 @@ function getProgressionConfig() {
         ...(base.unlockCosts?.casernes || {}),
         ...(eco.unlockCosts?.casernes || {})
       },
+      staffingUnits: {
+        ...(base.unlockCosts?.staffingUnits || {}),
+        ...(eco.unlockCosts?.staffingUnits || {})
+      },
       vehicleByType: {
         ...(base.unlockCosts?.vehicleByType || {}),
         ...(eco.unlockCosts?.vehicleByType || {})
@@ -2680,20 +2684,33 @@ function applyCaserneLevelSpec(caserne, level, options = {}) {
     return false;
   }
 
+  const defaults = getLevelOneStaffingDefaults();
   const preserveCurrent = options.preserveCurrent === true;
-  const currentPoste = preserveCurrent ? Number(caserne.sp_poste) || 0 : spec.poste;
-  const currentAstreinte = preserveCurrent ? Number(caserne.sp_astreinte) || 0 : spec.astreinte;
+  const initialPoste = Number(options.initialPoste);
+  const initialAstreinte = Number(options.initialAstreinte);
+  const requestedPoste = Number.isFinite(initialPoste) ? Math.floor(initialPoste) : defaults.poste;
+  const requestedAstreinte = Number.isFinite(initialAstreinte) ? Math.floor(initialAstreinte) : defaults.astreinte;
+
+  const currentPoste = preserveCurrent
+    ? Number(caserne.sp_poste) || 0
+    : Math.max(0, requestedPoste);
+  const currentAstreinte = preserveCurrent
+    ? Number(caserne.sp_astreinte) || 0
+    : Math.max(0, requestedAstreinte);
+
+  const posteValue = Math.min(spec.poste, Math.max(0, currentPoste));
+  const astreinteValue = Math.min(spec.astreinte, Math.max(0, currentAstreinte));
 
   caserne.effectifs = {
     poste: {
-      min: spec.poste,
-      max: spec.poste,
-      current: Math.min(spec.poste, Math.max(0, currentPoste))
+      min: posteValue,
+      max: posteValue,
+      current: posteValue
     },
     astreinte: {
-      min: spec.astreinte,
-      max: spec.astreinte,
-      current: Math.min(spec.astreinte, Math.max(0, currentAstreinte))
+      min: astreinteValue,
+      max: astreinteValue,
+      current: astreinteValue
     }
   };
   caserne.sp_poste = caserne.effectifs.poste.current;
@@ -2750,6 +2767,84 @@ function getCaserneUpgradeInfo(caserneId) {
     bayCapacity,
     canUpgrade
   };
+}
+
+function getCaserneStaffingUnitCost(staffingType) {
+  const costs = getProgressionConfig()?.unlockCosts?.staffingUnits || {};
+  const defaultCost = staffingType === "poste" ? 2500 : 1200;
+  const raw = Number(costs?.[staffingType]);
+  return Number.isFinite(raw) && raw >= 0 ? Math.floor(raw) : defaultCost;
+}
+
+function buyCaserneStaffing(caserneId, staffingType) {
+  if (!isProgressionEnabled()) {
+    return false;
+  }
+
+  if (!isCaserneOwned(caserneId)) {
+    alert("Caserne non debloquee.");
+    return false;
+  }
+
+  if (staffingType !== "poste" && staffingType !== "astreinte") {
+    alert("Type d'effectif inconnu.");
+    return false;
+  }
+
+  const caserne = getCaserneById(caserneId);
+  const level = getCaserneLevel(caserneId);
+  const spec = getCaserneLevelSpec(level);
+  if (!caserne || !spec) {
+    alert("Caserne invalide.");
+    return false;
+  }
+
+  if (staffingType === "poste" && !spec.postedGuardUnlocked) {
+    alert("Garde postee non debloquee a ce niveau.");
+    return false;
+  }
+
+  const current = staffingType === "poste"
+    ? Math.max(0, Math.floor(Number(caserne.sp_poste) || 0))
+    : Math.max(0, Math.floor(Number(caserne.sp_astreinte) || 0));
+  const maxAllowed = staffingType === "poste" ? spec.poste : spec.astreinte;
+
+  if (current >= maxAllowed) {
+    alert(`Maximum atteint pour ${staffingType}.`);
+    return false;
+  }
+
+  const cost = getCaserneStaffingUnitCost(staffingType);
+  if (!spendMoney(cost)) {
+    alert("Fonds insuffisants.");
+    return false;
+  }
+
+  const nextValue = current + 1;
+  if (!caserne.effectifs) {
+    caserne.effectifs = {};
+  }
+  if (!caserne.effectifs[staffingType]) {
+    caserne.effectifs[staffingType] = {
+      min: nextValue,
+      max: nextValue,
+      current: nextValue
+    };
+  } else {
+    caserne.effectifs[staffingType].min = nextValue;
+    caserne.effectifs[staffingType].max = nextValue;
+    caserne.effectifs[staffingType].current = nextValue;
+  }
+
+  if (staffingType === "poste") {
+    caserne.sp_poste = nextValue;
+  } else {
+    caserne.sp_astreinte = nextValue;
+  }
+
+  saveState();
+  renderAll();
+  return true;
 }
 
 function getVehicleTypeUnlockCost(type) {
@@ -2982,7 +3077,12 @@ function unlockCaserne(caserneId) {
   }
 
   const caserne = getCaserneById(caserneId);
-  applyCaserneLevelSpec(caserne, 1, { preserveCurrent: false });
+  const defaults = getLevelOneStaffingDefaults();
+  applyCaserneLevelSpec(caserne, 1, {
+    preserveCurrent: false,
+    initialPoste: defaults.poste,
+    initialAstreinte: defaults.astreinte
+  });
 
   progression.ownedCaserneIds.push(caserneId);
   progression.caserneLevels = progression.caserneLevels || {};
@@ -3017,7 +3117,7 @@ function upgradeCaserneLevel(caserneId) {
   }
 
   const caserne = getCaserneById(caserneId);
-  applyCaserneLevelSpec(caserne, nextLevel, { preserveCurrent: false });
+  applyCaserneLevelSpec(caserne, nextLevel, { preserveCurrent: true });
 
   progression.caserneLevels = progression.caserneLevels || {};
   progression.caserneLevels[caserneId] = nextLevel;
@@ -3056,15 +3156,8 @@ function createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte }) {
   }
 
   const defaults = getLevelOneStaffingDefaults();
-  const posteInput = Number(spPoste);
-  const astreinteInput = Number(spAstreinte);
-  const poste = Number.isFinite(posteInput) ? Math.max(0, Math.floor(posteInput)) : defaults.poste;
-  const astreinte = Number.isFinite(astreinteInput) ? Math.max(0, Math.floor(astreinteInput)) : defaults.astreinte;
-
-  if (poste + astreinte <= 0) {
-    alert("Renseigne au moins 1 SP entre poste et astreinte.");
-    return false;
-  }
+  const poste = defaults.poste;
+  const astreinte = defaults.astreinte;
 
   const customCost = getCustomCaserneCost();
   if (isProgressionEnabled() && customCost > 0 && !spendMoney(customCost)) {
@@ -3258,6 +3351,7 @@ window.hasFeatureUnlocked = hasFeatureUnlocked;
 window.getCaserneUnlockCost = getCaserneUnlockCost;
 window.getCaserneUpgradeCost = getCaserneUpgradeCost;
 window.getCaserneUpgradeInfo = getCaserneUpgradeInfo;
+window.getCaserneStaffingUnitCost = getCaserneStaffingUnitCost;
 window.getCaserneVehicleCapacity = getCaserneVehicleCapacity;
 window.getCustomCaserneCost = getCustomCaserneCost;
 window.isVehicleTypeUnlocked = isVehicleTypeUnlocked;
@@ -3274,6 +3368,7 @@ window.canVehicleBeTransferred = canVehicleBeTransferred;
 window.startVehicleTransfer = startVehicleTransfer;
 window.unlockCaserne = unlockCaserne;
 window.upgradeCaserneLevel = upgradeCaserneLevel;
+window.buyCaserneStaffing = buyCaserneStaffing;
 window.createCustomCaserne = createCustomCaserne;
 window.unlockVehicleType = unlockVehicleType;
 window.buyVehicleByType = buyVehicleByType;

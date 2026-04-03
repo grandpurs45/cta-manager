@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.13.4 - 2026-04-03
+
+### Changed
+- Casernes: la garde postee est disponible des le niveau 1, mais commence a 0 et doit etre achetee.
+- Casernes: les astreintes commencent a 3 a la creation, puis les suivantes sont achetables.
+- Gestion casernes: ajout des actions `Acheter +1 poste` / `Acheter +1 astreinte` avec cout unitaire.
+- Niveaux casernes: les valeurs d'effectif sont maintenant des plafonds de capacite (et non des effectifs auto-donnes).
+
 ## v0.13.3 - 2026-04-02
 
 ### Added

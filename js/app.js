@@ -46,6 +46,10 @@ function getProgressionConfig() {
         ...(base.unlockCosts?.casernes || {}),
         ...(eco.unlockCosts?.casernes || {})
       },
+      staffingUnits: {
+        ...(base.unlockCosts?.staffingUnits || {}),
+        ...(eco.unlockCosts?.staffingUnits || {})
+      },
       vehicleByType: {
         ...(base.unlockCosts?.vehicleByType || {}),
         ...(eco.unlockCosts?.vehicleByType || {})
@@ -158,8 +162,15 @@ function getCaserneLevelSpec(level) {
 
 function buildLevelOneCaserneState(caserneTemplate) {
   const levelOne = getCaserneLevelSpec(1) || getLevelOneStaffingDefaults();
-  const poste = Math.max(0, Number(levelOne.poste) || 0);
-  const astreinte = Math.max(0, Number(levelOne.astreinte) || 0);
+  const defaults = getLevelOneStaffingDefaults();
+  const poste = Math.min(
+    Math.max(0, Number(levelOne.poste) || 0),
+    Math.max(0, Number(defaults.poste) || 0)
+  );
+  const astreinte = Math.min(
+    Math.max(0, Number(levelOne.astreinte) || 0),
+    Math.max(0, Number(defaults.astreinte) || 0)
+  );
   const safeTemplate = clone(caserneTemplate || {});
   return {
     ...safeTemplate,
@@ -410,15 +421,46 @@ function loadState() {
 
     if (Array.isArray(loadedState.casernes)) {
       loadedState.casernes = loadedState.casernes.map(caserne => {
-        if (caserne.effectifs) {
-          if (caserne.effectifs.poste && typeof caserne.effectifs.poste.current === "number") {
-            caserne.sp_poste = caserne.effectifs.poste.current;
-          }
+        const isOwned = loadedState.progression?.ownedCaserneIds?.includes(caserne.id);
+        const level = isOwned
+          ? (Number(loadedState.progression?.caserneLevels?.[caserne.id]) || 1)
+          : 1;
+        const spec = getCaserneLevelSpec(level) || getCaserneLevelSpec(1) || {
+          poste: 0,
+          astreinte: 3,
+          bayCapacity: 1,
+          postedGuardUnlocked: false
+        };
+        const defaults = getLevelOneStaffingDefaults();
 
-          if (caserne.effectifs.astreinte && typeof caserne.effectifs.astreinte.current === "number") {
-            caserne.sp_astreinte = caserne.effectifs.astreinte.current;
-          }
-        }
+        const rawPoste = Number(caserne.effectifs?.poste?.current);
+        const rawAstreinte = Number(caserne.effectifs?.astreinte?.current);
+        const fallbackPoste = Number(caserne.sp_poste);
+        const fallbackAstreinte = Number(caserne.sp_astreinte);
+
+        const currentPoste = Math.min(
+          spec.poste,
+          Math.max(
+            0,
+            Number.isFinite(rawPoste) ? rawPoste : (Number.isFinite(fallbackPoste) ? fallbackPoste : defaults.poste)
+          )
+        );
+        const currentAstreinte = Math.min(
+          spec.astreinte,
+          Math.max(
+            0,
+            Number.isFinite(rawAstreinte) ? rawAstreinte : (Number.isFinite(fallbackAstreinte) ? fallbackAstreinte : defaults.astreinte)
+          )
+        );
+
+        caserne.effectifs = {
+          poste: { min: currentPoste, max: currentPoste, current: currentPoste },
+          astreinte: { min: currentAstreinte, max: currentAstreinte, current: currentAstreinte }
+        };
+        caserne.sp_poste = currentPoste;
+        caserne.sp_astreinte = currentAstreinte;
+        caserne.bayCapacity = spec.bayCapacity;
+        caserne.postedGuardUnlocked = !!spec.postedGuardUnlocked;
 
         return caserne;
       });

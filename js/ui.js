@@ -831,15 +831,13 @@ function createCustomCaserneFromProgression() {
   const nom = document.getElementById("customCaserneName")?.value || "";
   const lat = document.getElementById("customCaserneLat")?.value || "";
   const lon = document.getElementById("customCaserneLon")?.value || "";
-  const spPoste = document.getElementById("customCasernePoste")?.value || 0;
-  const spAstreinte = document.getElementById("customCaserneAstreinte")?.value || 0;
 
   if (typeof createCustomCaserne !== "function") {
     alert("Creation de caserne indisponible.");
     return;
   }
 
-  createCustomCaserne({ nom, lat, lon, spPoste, spAstreinte });
+  createCustomCaserne({ nom, lat, lon });
 }
 
 function showDetailPanel() {
@@ -1055,6 +1053,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.4: achats d'effectifs caserne (+1 poste / +1 astreinte), garde postee possible des le niveau 1.</li>
           <li>v0.13.3: ajout du cheat code test RICHECTA (+50 000 EUR).</li>
           <li>v0.13.2: suppression du choix de commune au demarrage, position 1ere caserne 100% par coordonnees GPS.</li>
           <li>v0.13.1: caserne de depart positionnable aussi en coordonnees manuelles.</li>
@@ -1105,7 +1104,7 @@ function renderCenterPanel() {
           </div>
         </div>
         <p><strong>Budget:</strong> ${Math.floor(progression.money || 0).toLocaleString("fr-FR")} \u20AC</p>
-        <p class="muted">Monte les casernes de niveau pour augmenter les effectifs, debloquer la garde postee et agrandir la remise.</p>
+        <p class="muted">Achete les effectifs (poste/astreinte) selon le plafond du niveau, puis monte de niveau pour augmenter les capacites et la remise.</p>
       </div>
 
       ${ownedCasernes.length === 0 ? `
@@ -1124,14 +1123,33 @@ function renderCenterPanel() {
           const canUpgrade = !!info?.canUpgrade;
           const bayCapacity = typeof info?.bayCapacity === "number" ? info.bayCapacity : 1;
           const currentVehicles = typeof info?.currentVehicles === "number" ? info.currentVehicles : 0;
+          const currentPoste = Math.max(0, Math.floor(Number(caserne.sp_poste) || 0));
+          const currentAstreinte = Math.max(0, Math.floor(Number(caserne.sp_astreinte) || 0));
+          const maxPoste = Math.max(0, Math.floor(Number(currentSpec.poste) || 0));
+          const maxAstreinte = Math.max(0, Math.floor(Number(currentSpec.astreinte) || 0));
+          const postedUnlocked = !!currentSpec.postedGuardUnlocked;
+          const posteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("poste") : 0;
+          const astreinteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("astreinte") : 0;
+          const canBuyPoste = postedUnlocked && currentPoste < maxPoste && (progression.money || 0) >= posteCost;
+          const canBuyAstreinte = currentAstreinte < maxAstreinte && (progression.money || 0) >= astreinteCost;
 
           return `
             <div class="card">
               <h4>${caserne.nom}</h4>
               <p><strong>Niveau actuel:</strong> ${level}</p>
-              <p><strong>Garde postee:</strong> ${currentSpec.postedGuardUnlocked ? "Debloquee" : "Verrouillee"}</p>
-              <p><strong>SP niveau actuel:</strong> ${currentSpec.poste || 0} poste / ${currentSpec.astreinte || 0} astreinte</p>
+              <p><strong>Garde postee:</strong> ${postedUnlocked ? "Debloquee" : "Verrouillee"}</p>
+              <p><strong>SP achetes:</strong> ${currentPoste} poste / ${currentAstreinte} astreinte</p>
+              <p><strong>Capacite niveau:</strong> ${maxPoste} poste / ${maxAstreinte} astreinte</p>
               <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
+
+              <div class="panel-actions" style="margin-top:8px;">
+                <button ${canBuyPoste ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
+                  Acheter +1 poste (${posteCost.toLocaleString("fr-FR")} \u20AC)
+                </button>
+                <button ${canBuyAstreinte ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'astreinte')">
+                  Acheter +1 astreinte (${astreinteCost.toLocaleString("fr-FR")} \u20AC)
+                </button>
+              </div>
 
               ${nextSpec ? `
                 <div class="progression-item" style="margin-top:8px;">
@@ -1276,7 +1294,7 @@ function renderCenterPanel() {
 
       <div class="card">
         <h4>Creer une caserne personnalisee</h4>
-        <p class="muted">Ajoute une caserne ou tu veux (coordonnees GPS). Elle sera ouverte directement au niveau 1 (0 poste / 3 astreinte par defaut).</p>
+        <p class="muted">Ajoute une caserne ou tu veux (coordonnees GPS). Elle sera ouverte au niveau 1 avec 0 poste et 3 astreintes offertes.</p>
         <p class="muted">Cout creation: ${Math.floor(getCustomCaserneCost ? getCustomCaserneCost() : 0).toLocaleString("fr-FR")} \u20AC</p>
         <div style="display:grid; gap:8px; max-width:520px;">
           <label>
@@ -1290,14 +1308,6 @@ function renderCenterPanel() {
           <label>
             Longitude
             <input id="customCaserneLon" type="text" placeholder="ex: 1.88" />
-          </label>
-          <label>
-            SP poste
-            <input id="customCasernePoste" type="number" min="0" step="1" value="0" />
-          </label>
-          <label>
-            SP astreinte
-            <input id="customCaserneAstreinte" type="number" min="0" step="1" value="3" />
           </label>
           <div class="panel-actions">
             <button onclick="createCustomCaserneFromProgression()">Creer et ouvrir</button>

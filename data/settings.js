@@ -146,6 +146,10 @@ const SETTINGS = {
         LCSM: 13000,
         SDIS: 25000
       },
+      staffingUnits: {
+        poste: 2400,
+        astreinte: 1200
+      },
       customCaserne: 22000,
       vehicleByType: {
         VSAV: 9000,
@@ -168,6 +172,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.13.3"
+  version: "v0.13.4"
 };
 window.APP_META = APP_META;

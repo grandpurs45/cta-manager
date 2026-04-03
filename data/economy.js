@@ -58,6 +58,10 @@ const ECONOMY = {
         LCSM: 13000,
         SDIS: 25000
       },
+      staffingUnits: {
+        poste: 2400,
+        astreinte: 1200
+      },
       customCaserne: 22000,
       vehicleByType: {
         VSAV: 9000,
@@ -78,35 +82,35 @@ const ECONOMY = {
     },
     caserneLevels: {
       1: {
-        poste: 0,
-        astreinte: 3,
+        poste: 2,
+        astreinte: 5,
         bayCapacity: 1,
-        postedGuardUnlocked: false
+        postedGuardUnlocked: true
       },
       2: {
-        poste: 2,
-        astreinte: 4,
+        poste: 4,
+        astreinte: 7,
         bayCapacity: 2,
         postedGuardUnlocked: true,
         upgradeCost: 8000
       },
       3: {
-        poste: 4,
-        astreinte: 5,
+        poste: 6,
+        astreinte: 9,
         bayCapacity: 3,
         postedGuardUnlocked: true,
         upgradeCost: 15000
       },
       4: {
-        poste: 6,
-        astreinte: 6,
+        poste: 8,
+        astreinte: 11,
         bayCapacity: 4,
         postedGuardUnlocked: true,
         upgradeCost: 26000
       },
       5: {
-        poste: 8,
-        astreinte: 7,
+        poste: 10,
+        astreinte: 13,
         bayCapacity: 5,
         postedGuardUnlocked: true,
         upgradeCost: 42000
