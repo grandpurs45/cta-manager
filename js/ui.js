@@ -605,10 +605,12 @@ function renderCasernes() {
       <div class="card">
         <p><strong>${lockedCount}</strong> caserne(s) verrouillee(s). Ouvre le panneau progression pour les debloquer.</p>
       </div>
-    ` : ""}
+  ` : ""}
     ${casernesToRender.map(caserne => {
     const spUsed = calculateUsedSP(caserne.id);
     const spPosteAvailable = Math.max(0, caserne.sp_poste - spUsed);
+    const spUsedOnAstreinte = Math.max(0, spUsed - caserne.sp_poste);
+    const spAstreinteAvailable = Math.max(0, caserne.sp_astreinte - spUsedOnAstreinte);
     const spTotalAvailable = Math.max(0, (caserne.sp_poste + caserne.sp_astreinte) - spUsed);
     const influencePopulation = typeof getInfluencePopulationByCaserneId === "function"
       ? getInfluencePopulationByCaserneId(caserne.id)
@@ -626,7 +628,7 @@ function renderCasernes() {
         <h3>${caserne.nom}</h3>
         <p><strong>Niveau :</strong> ${typeof getCaserneLevel === "function" ? getCaserneLevel(caserne.id) : 1}</p>
         <p><strong>SP poste :</strong> ${caserne.sp_poste}</p>
-        <p><strong>SP astreinte :</strong> ${caserne.sp_astreinte}</p>
+        <p><strong>SP astreinte :</strong> ${spAstreinteAvailable} / ${caserne.sp_astreinte}</p>
         <p><strong>SP utilises :</strong> ${spUsed}</p>
         <p><strong>SP disponibles poste :</strong> ${spPosteAvailable}</p>
         <p><strong>SP disponibles total :</strong> ${spTotalAvailable}</p>
