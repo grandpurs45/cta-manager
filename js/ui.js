@@ -640,6 +640,16 @@ function renderCasernes() {
         <div class="vehicle-list">
           ${vehicules.map(vehicle => {
             const statusConfig = getVehicleDisplayStatus(vehicle);
+            const targetCaserne = vehicle.transitTargetCaserneId
+              ? getCaserneById(vehicle.transitTargetCaserneId)
+              : null;
+            const transitRemaining = Number.isFinite(Number(vehicle.transitRemaining))
+              ? Math.max(0, Math.floor(Number(vehicle.transitRemaining)))
+              : null;
+            const isTransit = vehicle.etat === "transit_caserne" && transitRemaining !== null;
+            const transitSuffix = isTransit
+              ? ` -> ${targetCaserne ? targetCaserne.nom : (vehicle.transitTargetCaserneId || "?")} (${transitRemaining} min)`
+              : "";
 
             const isDispo = vehicle.status === "DISPO" && vehicle.etat === "disponible";
             const isUnarmable = isDispo && getAvailableProfilesForVehicle(vehicle).length === 0;
@@ -651,7 +661,7 @@ function renderCasernes() {
 
             const title = isUnarmable
               ? `${vehicle.nom} - Disponible mais non armable (effectif insuffisant)`
-              : `${vehicle.nom} - ${statusConfig.label}`;
+              : `${vehicle.nom} - ${statusConfig.label}${transitSuffix}`;
 
             return `
               <div
@@ -659,7 +669,7 @@ function renderCasernes() {
                 style="${inlineStyle}"
                 title="${title}"
               >
-                ${vehicle.nom}
+                ${vehicle.nom}${transitSuffix}
               </div>
             `;
           }).join("")}
