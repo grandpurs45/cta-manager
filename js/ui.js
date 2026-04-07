@@ -1067,6 +1067,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.13.7: garde postee UX clarifiee + bouton poste masque si garde non debloquee + temps transit affiche.</li>
           <li>v0.13.6: retour variabilite astreintes + affichage dispo/total.</li>
           <li>v0.13.5: garde postee achetable uniquement a partir du niveau 3 (bouton dedie).</li>
           <li>v0.13.4: achats d'effectifs caserne (+1 poste / +1 astreinte), garde postee possible des le niveau 1.</li>

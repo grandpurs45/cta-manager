@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.13.7 - 2026-04-07
+
+### Fixed
+- Gestion casernes: bouton garde postee explicite selon le contexte (bloque avec raison si niveau insuffisant, grise si deja achetee).
+- Gestion casernes: bouton `Acheter +1 poste` masque tant que la garde postee n'est pas debloquee.
+- Casernes: affichage du temps restant pendant transit inter-caserne sur les badges vehicules.
+
 ## v0.13.6 - 2026-04-03
 
 ### Changed
