@@ -1149,9 +1149,10 @@ function renderCenterPanel() {
           const postedMinLevel = Number(info?.postedGuardMinLevel) || 3;
           const postedUnlockCost = Number(info?.postedGuardUnlockCost) || 0;
           const canUnlockPosted = !!info?.canUnlockPostedGuard;
+          const postedLockedByLevel = level < postedMinLevel;
           const postedUnlockReason = postedPurchased
             ? `Fonction deja achetee. Activation automatique au niveau ${postedMinLevel}.`
-            : (level < postedMinLevel
+            : (postedLockedByLevel
               ? `Niveau ${postedMinLevel} requis (actuel: ${level}).`
               : ((progression.money || 0) < postedUnlockCost
                 ? "Budget insuffisant pour debloquer la garde postee."
@@ -1178,7 +1179,12 @@ function renderCenterPanel() {
                       Fonction garde postee deja achetee
                     </button>
                   ` : `
-                    <button ${level < postedMinLevel ? "disabled" : ""} title="${level < postedMinLevel ? `Niveau ${postedMinLevel} requis` : ""}" onclick="unlockPostedGuardForCaserne('${caserne.id}')">
+                    <button
+                      ${postedLockedByLevel ? "disabled" : ""}
+                      style="${postedLockedByLevel ? "opacity:0.45;filter:saturate(0.15);cursor:not-allowed;" : ""}"
+                      title="${postedLockedByLevel ? `Niveau ${postedMinLevel} requis` : ""}"
+                      onclick="unlockPostedGuardForCaserne('${caserne.id}')"
+                    >
                       Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
                     </button>
                   `}
