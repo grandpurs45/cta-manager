@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.13.8 - 2026-04-07
+
+### Fixed
+- Gestion casernes: bouton `Acheter fonction garde postee` visuellement grise tant que le niveau requis n'est pas atteint.
+- Gestion casernes: bouton `Acheter +1 poste` masque tant que la garde postee n'est pas debloquee.
+- Gestion casernes: boutons d'achat d'effectifs clarifies quand le plafond du niveau est atteint (message + etat bloque).
+
 ## v0.13.7 - 2026-04-07
 
 ### Fixed
