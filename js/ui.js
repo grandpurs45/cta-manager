@@ -1171,11 +1171,17 @@ function renderCenterPanel() {
               <p><strong>Capacite niveau:</strong> ${maxPoste} poste / ${maxAstreinte} astreinte</p>
               <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
 
-              ${postedUnlocked || postedPurchased ? "" : `
+              ${postedUnlocked ? "" : `
                 <div class="panel-actions" style="margin-top:8px;">
-                  <button onclick="unlockPostedGuardForCaserne('${caserne.id}')">
-                    Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
-                  </button>
+                  ${postedPurchased ? `
+                    <button disabled title="Fonction deja achetee">
+                      Fonction garde postee deja achetee
+                    </button>
+                  ` : `
+                    <button onclick="unlockPostedGuardForCaserne('${caserne.id}')">
+                      Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
+                    </button>
+                  `}
                 </div>
               `}
               ${postedUnlocked ? "" : `
