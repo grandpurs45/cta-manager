@@ -1195,9 +1195,13 @@ function renderCenterPanel() {
               `}
 
               <div class="panel-actions" style="margin-top:8px;">
-                <button ${canBuyPoste ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
-                  Acheter +1 poste (${posteCost.toLocaleString("fr-FR")} \u20AC)
-                </button>
+                ${postedUnlocked ? `
+                  <button ${canBuyPoste ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
+                    Acheter +1 poste (${posteCost.toLocaleString("fr-FR")} \u20AC)
+                  </button>
+                ` : `
+                  <span class="muted">Achat SP poste indisponible tant que la garde postee n'est pas debloquee.</span>
+                `}
                 <button ${canBuyAstreinte ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'astreinte')">
                   Acheter +1 astreinte (${astreinteCost.toLocaleString("fr-FR")} \u20AC)
                 </button>
