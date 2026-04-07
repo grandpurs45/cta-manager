@@ -2908,6 +2908,11 @@ function unlockPostedGuardForCaserne(caserneId) {
     return false;
   }
   if (caserne.postedGuardPurchased) {
+    if (level < minLevel) {
+      alert(`Fonction deja achetee. Elle sera active au niveau ${minLevel}.`);
+      return false;
+    }
+    alert("Garde postee deja debloquee pour cette caserne.");
     return false;
   }
   if (level < minLevel) {

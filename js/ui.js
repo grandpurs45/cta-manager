@@ -1149,6 +1149,13 @@ function renderCenterPanel() {
           const postedMinLevel = Number(info?.postedGuardMinLevel) || 3;
           const postedUnlockCost = Number(info?.postedGuardUnlockCost) || 0;
           const canUnlockPosted = !!info?.canUnlockPostedGuard;
+          const postedUnlockReason = postedPurchased
+            ? `Fonction deja achetee. Activation automatique au niveau ${postedMinLevel}.`
+            : (level < postedMinLevel
+              ? `Niveau ${postedMinLevel} requis (actuel: ${level}).`
+              : ((progression.money || 0) < postedUnlockCost
+                ? "Budget insuffisant pour debloquer la garde postee."
+                : "Fonction prete a etre debloquee."));
           const posteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("poste") : 0;
           const astreinteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("astreinte") : 0;
           const canBuyPoste = postedUnlocked && currentPoste < maxPoste && (progression.money || 0) >= posteCost;
@@ -1164,12 +1171,15 @@ function renderCenterPanel() {
               <p><strong>Capacite niveau:</strong> ${maxPoste} poste / ${maxAstreinte} astreinte</p>
               <p><strong>Remise:</strong> ${currentVehicles}/${bayCapacity} vehicule(s)</p>
 
-              ${postedUnlocked ? "" : `
+              ${postedUnlocked || postedPurchased ? "" : `
                 <div class="panel-actions" style="margin-top:8px;">
-                  <button ${canUnlockPosted ? "" : "disabled"} onclick="unlockPostedGuardForCaserne('${caserne.id}')">
+                  <button onclick="unlockPostedGuardForCaserne('${caserne.id}')">
                     Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
                   </button>
                 </div>
+              `}
+              ${postedUnlocked ? "" : `
+                <p class="muted">${postedUnlockReason}</p>
               `}
 
               <div class="panel-actions" style="margin-top:8px;">
