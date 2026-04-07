@@ -1160,8 +1160,16 @@ function renderCenterPanel() {
                 : "Fonction prete a etre debloquee."));
           const posteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("poste") : 0;
           const astreinteCost = typeof getCaserneStaffingUnitCost === "function" ? getCaserneStaffingUnitCost("astreinte") : 0;
-          const canBuyPoste = postedUnlocked && currentPoste < maxPoste && (progression.money || 0) >= posteCost;
-          const canBuyAstreinte = purchasedAstreinte < maxAstreinte && (progression.money || 0) >= astreinteCost;
+          const posteMaxReached = currentPoste >= maxPoste;
+          const astreinteMaxReached = purchasedAstreinte >= maxAstreinte;
+          const canBuyPoste = postedUnlocked && !posteMaxReached && (progression.money || 0) >= posteCost;
+          const canBuyAstreinte = !astreinteMaxReached && (progression.money || 0) >= astreinteCost;
+          const posteButtonLabel = posteMaxReached
+            ? "Plafond poste atteint (monter niveau)"
+            : `Acheter +1 poste (${posteCost.toLocaleString("fr-FR")} \u20AC)`;
+          const astreinteButtonLabel = astreinteMaxReached
+            ? "Plafond astreinte atteint (monter niveau)"
+            : `Acheter +1 astreinte (${astreinteCost.toLocaleString("fr-FR")} \u20AC)`;
 
           return `
             <div class="card">
@@ -1197,16 +1205,19 @@ function renderCenterPanel() {
 
               <div class="panel-actions" style="margin-top:8px;">
                 ${postedUnlocked ? `
-                  <button ${canBuyPoste ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
-                    Acheter +1 poste (${posteCost.toLocaleString("fr-FR")} \u20AC)
+                  <button ${canBuyPoste ? "" : "disabled"} title="${posteMaxReached ? "Passe au niveau suivant pour augmenter la capacite poste." : ""}" onclick="buyCaserneStaffing('${caserne.id}', 'poste')">
+                    ${posteButtonLabel}
                   </button>
                 ` : `
                   <span class="muted">Achat SP poste indisponible tant que la garde postee n'est pas debloquee.</span>
                 `}
-                <button ${canBuyAstreinte ? "" : "disabled"} onclick="buyCaserneStaffing('${caserne.id}', 'astreinte')">
-                  Acheter +1 astreinte (${astreinteCost.toLocaleString("fr-FR")} \u20AC)
+                <button ${canBuyAstreinte ? "" : "disabled"} title="${astreinteMaxReached ? "Passe au niveau suivant pour augmenter la capacite astreinte." : ""}" onclick="buyCaserneStaffing('${caserne.id}', 'astreinte')">
+                  ${astreinteButtonLabel}
                 </button>
               </div>
+              ${(posteMaxReached || astreinteMaxReached) && nextSpec ? `
+                <p class="muted">Capacite max atteinte pour ce niveau. Passe niveau ${nextLevel} pour augmenter les effectifs achetables.</p>
+              ` : ""}
 
               ${nextSpec ? `
                 <div class="progression-item" style="margin-top:8px;">
