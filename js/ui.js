@@ -1178,7 +1178,7 @@ function renderCenterPanel() {
                       Fonction garde postee deja achetee
                     </button>
                   ` : `
-                    <button onclick="unlockPostedGuardForCaserne('${caserne.id}')">
+                    <button ${level < postedMinLevel ? "disabled" : ""} title="${level < postedMinLevel ? `Niveau ${postedMinLevel} requis` : ""}" onclick="unlockPostedGuardForCaserne('${caserne.id}')">
                       Acheter fonction garde postee (${postedUnlockCost.toLocaleString("fr-FR")} \u20AC)
                     </button>
                   `}
