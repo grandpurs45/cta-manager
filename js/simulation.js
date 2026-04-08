@@ -980,6 +980,68 @@ function pickWeightedItem(items, getWeight) {
   return items[0] || null;
 }
 
+function isMissionOnSceneOrBeyond(phase) {
+  return phase === "attente_sur_place"
+    || phase === "sur_place"
+    || phase === "transport_hopital"
+    || phase === "retour"
+    || phase === "terminee";
+}
+
+function tryStartOnSceneForIntervention(interventionId) {
+  if (!interventionId) {
+    return;
+  }
+
+  const missions = state.activeMissions.filter(mission =>
+    mission.interventionId === interventionId && mission.phase !== "terminee"
+  );
+
+  if (!missions.length) {
+    return;
+  }
+
+  const alreadyStarted = missions.some(mission =>
+    mission.phase === "sur_place"
+      || mission.phase === "transport_hopital"
+      || mission.phase === "retour"
+  );
+
+  if (alreadyStarted) {
+    missions.forEach(mission => {
+      if (mission.phase !== "attente_sur_place") {
+        return;
+      }
+      mission.phase = "sur_place";
+      mission.remaining = Math.max(0, Number(mission.onSceneTime) || 0);
+      const vehicle = getVehicleById(mission.vehicleId);
+      if (vehicle) {
+        syncVehicleStatusWithPhase(vehicle, "sur_place");
+      }
+    });
+    return;
+  }
+
+  const allArrived = missions.every(mission => isMissionOnSceneOrBeyond(mission.phase));
+  if (!allArrived) {
+    return;
+  }
+
+  missions.forEach(mission => {
+    if (mission.phase !== "attente_sur_place") {
+      return;
+    }
+
+    mission.phase = "sur_place";
+    mission.remaining = Math.max(0, Number(mission.onSceneTime) || 0);
+
+    const vehicle = getVehicleById(mission.vehicleId);
+    if (vehicle) {
+      syncVehicleStatusWithPhase(vehicle, "sur_place");
+    }
+  });
+}
+
 function advanceSimulation() {
   state.simulationMinutes += 1;
 
@@ -988,6 +1050,11 @@ function advanceSimulation() {
   }
 
   state.activeMissions.forEach(mission => {
+    if (mission.phase === "attente_sur_place") {
+      tryStartOnSceneForIntervention(mission.interventionId);
+      return;
+    }
+
     mission.remaining -= 1;
 
     if (mission.remaining > 0) {
@@ -1007,9 +1074,10 @@ function advanceSimulation() {
         break;
 
       case "trajet":
-        mission.phase = "sur_place";
-        mission.remaining = mission.onSceneTime;
+        mission.phase = "attente_sur_place";
+        mission.remaining = 0;
         syncVehicleStatusWithPhase(vehicle, "sur_place");
+        tryStartOnSceneForIntervention(mission.interventionId);
         break;
 
       case "sur_place":

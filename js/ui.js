@@ -21,6 +21,8 @@ function getMissionPhaseLabel(phase) {
       return "alerté";
     case "trajet":
       return "parti";
+    case "attente_sur_place":
+      return "sur place (attente)";
     case "sur_place":
       return "sur place";
     case "retour":
@@ -740,7 +742,6 @@ function openTerritorySetupPanel() {
 function openTerritoryStatsPanel() {
   state.currentCenterPanel = "territoryStats";
   state.currentAdminPanel = null;
-  state.isPaused = true;
   saveState();
   renderAll();
 }
