@@ -1276,6 +1276,134 @@ function getAvailableZoneIdsForTemplate(template) {
   return [];
 }
 
+function getInterventionHistoryArray() {
+  if (!state?.progression) {
+    return [];
+  }
+
+  if (!Array.isArray(state.progression.interventionHistory)) {
+    state.progression.interventionHistory = [];
+  }
+
+  return state.progression.interventionHistory;
+}
+
+function upsertInterventionHistoryEntry(intervention, updates = {}) {
+  if (!intervention?.id) {
+    return;
+  }
+
+  const history = getInterventionHistoryArray();
+  const idx = history.findIndex(entry => entry?.id === intervention.id);
+  const baseEntry = idx >= 0 ? history[idx] : {
+    id: intervention.id,
+    type: intervention.type,
+    zoneId: intervention.zoneId,
+    zoneName: intervention.zone,
+    createdAtSimulationMinutes: intervention.createdAtSimulationMinutes ?? state.simulationMinutes,
+    engagedCaserneIds: [],
+    finalStatus: "ALERTE"
+  };
+
+  const nextEntry = {
+    ...baseEntry,
+    ...updates
+  };
+
+  if (!Array.isArray(nextEntry.engagedCaserneIds)) {
+    nextEntry.engagedCaserneIds = [];
+  }
+
+  if (idx >= 0) {
+    history[idx] = nextEntry;
+  } else {
+    history.push(nextEntry);
+  }
+
+  // Garde-fou memoire: historique des 5000 dernieres interventions.
+  if (history.length > 5000) {
+    state.progression.interventionHistory = history.slice(history.length - 5000);
+  }
+}
+
+function getNearestOwnedCaserneForZone(zoneId) {
+  const zone = getZoneById(zoneId);
+  if (!zone) {
+    return null;
+  }
+
+  const ownedCasernes = getOwnedCasernes();
+  if (!ownedCasernes.length) {
+    return null;
+  }
+
+  let best = null;
+  let bestDistance = Number.POSITIVE_INFINITY;
+
+  ownedCasernes.forEach(caserne => {
+    const distance = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
+    if (distance < bestDistance) {
+      best = caserne;
+      bestDistance = distance;
+    }
+  });
+
+  return best;
+}
+
+function getInterventionCommuneStatsLastDay() {
+  const progression = getProgressionState();
+  if (!progression) {
+    return [];
+  }
+
+  const history = Array.isArray(progression.interventionHistory)
+    ? progression.interventionHistory
+    : [];
+  const startMinute = Math.max(0, state.simulationMinutes - (24 * 60));
+  const recent = history.filter(entry =>
+    typeof entry?.createdAtSimulationMinutes === "number" &&
+    entry.createdAtSimulationMinutes >= startMinute
+  );
+
+  const groups = new Map();
+
+  recent.forEach(entry => {
+    const zoneId = entry.zoneId || "__UNKNOWN__";
+    if (!groups.has(zoneId)) {
+      const nearest = entry.zoneId ? getNearestOwnedCaserneForZone(entry.zoneId) : null;
+      groups.set(zoneId, {
+        zoneId,
+        zoneName: entry.zoneName || entry.zoneId || "Commune inconnue",
+        nearestCaserneId: nearest?.id || null,
+        nearestCaserneName: nearest?.nom || "-",
+        total: 0,
+        assuredByNearest: 0
+      });
+    }
+
+    const row = groups.get(zoneId);
+    row.total += 1;
+
+    const engagedIds = Array.isArray(entry.engagedCaserneIds) ? entry.engagedCaserneIds : [];
+    if (row.nearestCaserneId && engagedIds.includes(row.nearestCaserneId)) {
+      row.assuredByNearest += 1;
+    }
+  });
+
+  return Array.from(groups.values())
+    .map(row => ({
+      ...row,
+      ratio: row.total > 0 ? row.assuredByNearest / row.total : 0
+    }))
+    .sort((a, b) => {
+      if (b.total !== a.total) {
+        return b.total - a.total;
+      }
+      return b.ratio - a.ratio;
+    });
+}
+
 function generateIntervention() {
   const template = pickWeightedInterventionTemplate();
   if (!template) {
@@ -1295,7 +1423,7 @@ function generateIntervention() {
 
   const newId = `INT${String(state.nextInterventionId).padStart(3, "0")}`;
 
-  state.interventions.push({
+  const intervention = {
     id: newId,
     type: template.type,
     zoneId: zone.id,
@@ -1309,6 +1437,11 @@ function generateIntervention() {
     hospitalId: hospital ? hospital.id : null,
     hospitalName: hospital ? hospital.nom : null,
     status: "ALERTE"
+  };
+  state.interventions.push(intervention);
+  upsertInterventionHistoryEntry(intervention, {
+    engagedCaserneIds: [],
+    finalStatus: "ALERTE"
   });
 
   state.nextInterventionId += 1;
@@ -1817,6 +1950,7 @@ function engageSelection(interventionId) {
     : null;
 
   let engagedCount = 0;
+  const engagedCaserneIds = new Set();
 
     const selectedItems = getSelectedItemsForIntervention(interventionId);
 
@@ -1874,6 +2008,7 @@ function engageSelection(interventionId) {
       optionCoverageComplete: evaluation.optionCoverageSummary?.covered || false,
     });
 
+    engagedCaserneIds.add(item.caserne.id);
     engagedCount += 1;
   });
 
@@ -1897,6 +2032,17 @@ function engageSelection(interventionId) {
     if (typeof currentIntervention.engagedAtSimulationMinutes !== "number") {
       currentIntervention.engagedAtSimulationMinutes = state.simulationMinutes;
     }
+    const alreadyEngaged = Array.isArray(currentIntervention.engagedCaserneIds)
+      ? currentIntervention.engagedCaserneIds
+      : [];
+    currentIntervention.engagedCaserneIds = Array.from(new Set([
+      ...alreadyEngaged,
+      ...Array.from(engagedCaserneIds)
+    ]));
+    upsertInterventionHistoryEntry(currentIntervention, {
+      engagedCaserneIds: currentIntervention.engagedCaserneIds,
+      finalStatus: currentIntervention.status
+    });
   }
 
   state.dispatchSelections[interventionId] = [];
@@ -3140,6 +3286,13 @@ function finalizeCompletedInterventions() {
 
     intervention.status = "TERMINEE";
     intervention.isActive = false;
+    upsertInterventionHistoryEntry(intervention, {
+      finalStatus: "TERMINEE",
+      closedAtSimulationMinutes: state.simulationMinutes,
+      engagedCaserneIds: Array.isArray(intervention.engagedCaserneIds)
+        ? intervention.engagedCaserneIds
+        : []
+    });
   });
 
   state.interventions = state.interventions.filter(intervention => intervention.status !== "TERMINEE");
@@ -3478,6 +3631,7 @@ window.getFeatureUnlockCost = getFeatureUnlockCost;
 window.getRoutingProvider = getRoutingProvider;
 window.getInfluencePopulationByCaserneId = getInfluencePopulationByCaserneId;
 window.getInfluenceZoneCountByCaserneId = getInfluenceZoneCountByCaserneId;
+window.getInterventionCommuneStatsLastDay = getInterventionCommuneStatsLastDay;
 window.canVehicleBeTransferred = canVehicleBeTransferred;
 window.startVehicleTransfer = startVehicleTransfer;
 window.unlockCaserne = unlockCaserne;

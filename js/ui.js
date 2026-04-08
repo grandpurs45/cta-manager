@@ -737,6 +737,14 @@ function openTerritorySetupPanel() {
   renderAll();
 }
 
+function openTerritoryStatsPanel() {
+  state.currentCenterPanel = "territoryStats";
+  state.currentAdminPanel = null;
+  state.isPaused = true;
+  saveState();
+  renderAll();
+}
+
 function getStorageKeyForCurrentVersion() {
   const version = APP_META?.version || "v0";
   return `cta-manager-lite-${version}`;
@@ -992,6 +1000,65 @@ function renderCenterPanel() {
     return;
   }
 
+  if (state.currentCenterPanel === "territoryStats") {
+    const rows = typeof getInterventionCommuneStatsLastDay === "function"
+      ? getInterventionCommuneStatsLastDay()
+      : [];
+    const totalInterventions = rows.reduce((sum, row) => sum + (row.total || 0), 0);
+    const totalNearestAssured = rows.reduce((sum, row) => sum + (row.assuredByNearest || 0), 0);
+    const globalRatio = totalInterventions > 0
+      ? (totalNearestAssured / totalInterventions)
+      : 0;
+
+    container.innerHTML = `
+      <div class="card">
+        <div class="panel-header">
+          <h3>Stats territoire (24h glissantes)</h3>
+          <div class="panel-actions">
+            <button onclick="showDetailPanel()">Retour</button>
+          </div>
+        </div>
+        <p><strong>Interventions totales:</strong> ${totalInterventions}</p>
+        <p><strong>Assurees par la caserne la plus proche:</strong> ${totalNearestAssured}</p>
+        <p><strong>Ratio global:</strong> ${(globalRatio * 100).toFixed(1)}%</p>
+        <p class="muted">Aide a la decision pour implantations et evolutions de casernes.</p>
+      </div>
+
+      <div class="card">
+        <h4>Par commune</h4>
+        ${rows.length === 0 ? `
+          <p class="empty">Aucune intervention sur les dernieres 24h de simulation.</p>
+        ` : `
+          <div style="overflow:auto;">
+            <table style="width:100%; border-collapse:collapse;">
+              <thead>
+                <tr>
+                  <th style="text-align:left; padding:8px;">Commune</th>
+                  <th style="text-align:right; padding:8px;">Interventions J-1</th>
+                  <th style="text-align:right; padding:8px;">Assurees par la plus proche</th>
+                  <th style="text-align:right; padding:8px;">Ratio</th>
+                  <th style="text-align:left; padding:8px;">Caserne la plus proche</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${rows.map(row => `
+                  <tr>
+                    <td style="padding:8px; border-top:1px solid rgba(148,163,184,.25);">${row.zoneName}</td>
+                    <td style="padding:8px; border-top:1px solid rgba(148,163,184,.25); text-align:right;">${row.total}</td>
+                    <td style="padding:8px; border-top:1px solid rgba(148,163,184,.25); text-align:right;">${row.assuredByNearest}</td>
+                    <td style="padding:8px; border-top:1px solid rgba(148,163,184,.25); text-align:right;">${(row.ratio * 100).toFixed(1)}%</td>
+                    <td style="padding:8px; border-top:1px solid rgba(148,163,184,.25);">${row.nearestCaserneName}</td>
+                  </tr>
+                `).join("")}
+              </tbody>
+            </table>
+          </div>
+        `}
+      </div>
+    `;
+    return;
+  }
+
   if (state.currentCenterPanel === "admin") {
     if (isProgressionEnabled() && !hasFeatureUnlocked("adminFleet")) {
       state.currentCenterPanel = "progression";
@@ -1067,6 +1134,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.14.0: nouveau panneau Stats territoire (communes, volume 24h, ratio couverture caserne la plus proche).</li>
           <li>v0.13.8: UX achats caserne (boutons grises/masques selon niveau et plafonds).</li>
           <li>v0.13.7: garde postee UX clarifiee + bouton poste masque si garde non debloquee + temps transit affiche.</li>
           <li>v0.13.6: retour variabilite astreintes + affichage dispo/total.</li>

@@ -246,7 +246,8 @@ function createProgressionState({ legacyMode = false } = {}) {
       adminFleet: false
     },
     lastReward: null,
-    rewardHistory: []
+    rewardHistory: [],
+    interventionHistory: []
   };
 }
 
@@ -304,6 +305,9 @@ function ensureProgressionStateShape(loadedProgression) {
   progression.lastReward = progression.lastReward || null;
   progression.rewardHistory = Array.isArray(progression.rewardHistory)
     ? progression.rewardHistory
+    : [];
+  progression.interventionHistory = Array.isArray(progression.interventionHistory)
+    ? progression.interventionHistory
     : [];
 
   if (progression.unlockedVehicleTypes.length === 0) {
@@ -698,6 +702,7 @@ function initializeNewCareerForStartingCaserne(startingSelection, fallbackZone =
   };
   state.progression.lastReward = null;
   state.progression.rewardHistory = [];
+  state.progression.interventionHistory = [];
 }
 
 function communeToZone(commune) {

@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.14.0 - 2026-04-08
+
+### Added
+- Nouveau panneau `Stats territoire` avec analyse par commune sur les 24h glissantes de simulation:
+  - nombre d'interventions,
+  - nombre d'interventions assurees par la caserne la plus proche,
+  - ratio de couverture associe.
+- Historique d'interventions conserve dans la progression pour alimenter les statistiques de decision.
+
 ## v0.13.8 - 2026-04-07
 
 ### Fixed

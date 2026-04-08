@@ -177,6 +177,6 @@ const SETTINGS = {
 };
  const APP_META = {
   name: "CTA-Manager Lite",
-  version: "v0.13.8"
+  version: "v0.14.0"
 };
 window.APP_META = APP_META;
