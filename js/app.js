@@ -450,6 +450,7 @@ function loadState() {
         const rawAstreinteMax = Number(caserne.effectifs?.astreinte?.max);
         const fallbackPoste = Number(caserne.sp_poste);
         const fallbackAstreinte = Number(caserne.sp_astreinte);
+        const minPurchasedAstreinte = isOwned ? defaults.astreinte : 0;
 
         const currentPoste = Math.min(
           spec.poste,
@@ -458,13 +459,14 @@ function loadState() {
             Number.isFinite(rawPoste) ? rawPoste : (Number.isFinite(fallbackPoste) ? fallbackPoste : defaults.poste)
           )
         );
+        const astreinteMaxCandidate = Number.isFinite(rawAstreinteMax)
+          ? rawAstreinteMax
+          : (Number.isFinite(fallbackAstreinte) ? fallbackAstreinte : defaults.astreinte);
         const purchasedAstreinte = Math.min(
           spec.astreinte,
           Math.max(
-            0,
-            Number.isFinite(rawAstreinteMax)
-              ? rawAstreinteMax
-              : (Number.isFinite(fallbackAstreinte) ? fallbackAstreinte : defaults.astreinte)
+            minPurchasedAstreinte,
+            astreinteMaxCandidate
           )
         );
         const currentAstreinte = Math.min(
