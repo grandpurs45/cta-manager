@@ -305,30 +305,46 @@ button.secondary:hover {
 
 .caserne-head {
   width: 100%;
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: minmax(180px, 240px) 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.caserne-title-block h3 {
+  margin: 0 0 6px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.caserne-subline {
+  line-height: 1.2;
 }
 
 .caserne-kpis {
+  display: grid;
+  gap: 6px;
+}
+
+.caserne-kpis-row {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
   justify-content: flex-end;
-  align-items: center;
 }
 
 .caserne-kpi {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  gap: 6px;
   padding: 3px 8px;
   border-radius: 999px;
   border: 1px solid #334155;
   background: #111827;
   color: #cbd5e1;
   font-size: 12px;
+  white-space: nowrap;
 }
 
 /* MISSIONS */
@@ -520,6 +536,14 @@ button.secondary:hover {
 
   .casernes-toolbar {
     grid-template-columns: 1fr;
+  }
+
+  .caserne-head {
+    grid-template-columns: 1fr;
+  }
+
+  .caserne-kpis-row {
+    justify-content: flex-start;
   }
 }
 

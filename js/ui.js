@@ -646,6 +646,11 @@ function renderCasernes() {
     const vehicules = state.vehicules.filter(vehicle =>
       vehicle.caserneId === caserne.id && isVehicleOwned(vehicle.id)
     );
+    const bayCapacity = typeof getCaserneVehicleCapacity === "function"
+      ? getCaserneVehicleCapacity(caserne.id)
+      : Math.max(1, Math.floor(Number(caserne.bayCapacity) || 1));
+    const bayUsed = vehicules.length;
+    const bayFree = Math.max(0, bayCapacity - bayUsed);
 
     return {
       caserne,
@@ -659,7 +664,10 @@ function renderCasernes() {
       spTotalAvailable,
       influencePopulation,
       influenceZoneCount,
-      vehicules
+      vehicules,
+      bayCapacity,
+      bayUsed,
+      bayFree
     };
   });
 
@@ -741,24 +749,33 @@ function renderCasernes() {
       spTotalAvailable,
       influencePopulation,
       influenceZoneCount,
-      vehicules
+      vehicules,
+      bayCapacity,
+      bayUsed,
+      bayFree
     } = item;
 
     return `
       <div class="card caserne-card-compact">
         <div class="caserne-head">
-          <div>
+          <div class="caserne-title-block">
             <h3>${caserne.nom}</h3>
-            <div class="muted">Niveau ${level} • ${vehicules.length} vehicule(s)</div>
+            <div class="muted caserne-subline">Niveau ${level} • ${vehicules.length} vehicule(s)</div>
           </div>
           <div class="caserne-kpis">
-            <span class="caserne-kpi">SP poste: <strong>${caserne.sp_poste}/${posteTotal}</strong></span>
-            <span class="caserne-kpi">Astreinte: <strong>${astreinteCurrent}/${astreinteTotal}</strong></span>
-            <span class="caserne-kpi">Utilises: <strong>${spUsed}</strong></span>
-            <span class="caserne-kpi">Dispo poste: <strong>${spPosteAvailable}</strong></span>
-            <span class="caserne-kpi">Dispo total: <strong>${spTotalAvailable}</strong></span>
-            <span class="caserne-kpi">Zone: <strong>${influenceZoneCount}</strong></span>
-            <span class="caserne-kpi">Pop: <strong>${Math.floor(influencePopulation).toLocaleString("fr-FR")}</strong></span>
+            <div class="caserne-kpis-row">
+              <span class="caserne-kpi">SP poste <strong>${caserne.sp_poste}/${posteTotal}</strong></span>
+              <span class="caserne-kpi">Astreinte <strong>${astreinteCurrent}/${astreinteTotal}</strong></span>
+              <span class="caserne-kpi">Utilises <strong>${spUsed}</strong></span>
+              <span class="caserne-kpi">Dispo poste <strong>${spPosteAvailable}</strong></span>
+              <span class="caserne-kpi">Dispo total <strong>${spTotalAvailable}</strong></span>
+            </div>
+            <div class="caserne-kpis-row">
+              <span class="caserne-kpi">Remise <strong>${bayUsed}/${bayCapacity}</strong></span>
+              <span class="caserne-kpi">Places libres <strong>${bayFree}</strong></span>
+              <span class="caserne-kpi">Zone <strong>${influenceZoneCount}</strong></span>
+              <span class="caserne-kpi">Pop <strong>${Math.floor(influencePopulation).toLocaleString("fr-FR")}</strong></span>
+            </div>
           </div>
         </div>
         <div class="vehicle-list">
