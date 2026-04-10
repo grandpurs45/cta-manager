@@ -763,16 +763,22 @@ function renderCasernes() {
             <div class="muted caserne-subline">Niveau ${level} • ${vehicules.length} vehicule(s)</div>
           </div>
           <div class="caserne-kpis">
-            <div class="caserne-kpis-row">
-              <span class="caserne-kpi">SP poste <strong>${caserne.sp_poste}/${posteTotal}</strong></span>
-              <span class="caserne-kpi">Astreinte <strong>${astreinteCurrent}/${astreinteTotal}</strong></span>
-              <span class="caserne-kpi">Utilises <strong>${spUsed}</strong></span>
-              <span class="caserne-kpi">Dispo poste <strong>${spPosteAvailable}</strong></span>
-              <span class="caserne-kpi">Dispo total <strong>${spTotalAvailable}</strong></span>
+            <div class="caserne-kpis-row caserne-kpis-row-primary">
+              <span class="caserne-kpi caserne-kpi-primary">
+                SP dispo <strong>${spTotalAvailable}</strong>
+              </span>
+              <span class="caserne-kpi caserne-kpi-primary">
+                Remise libre <strong>${bayFree}/${bayCapacity}</strong>
+              </span>
             </div>
-            <div class="caserne-kpis-row">
+            <div class="caserne-kpis-row caserne-kpis-row-secondary">
               <span class="caserne-kpi">Remise <strong>${bayUsed}/${bayCapacity}</strong></span>
-              <span class="caserne-kpi">Places libres <strong>${bayFree}</strong></span>
+              <span class="caserne-kpi">Astreinte <strong>${astreinteCurrent}/${astreinteTotal}</strong></span>
+              <span class="caserne-kpi">SP poste <strong>${caserne.sp_poste}/${posteTotal}</strong></span>
+              <span class="caserne-kpi">Dispo poste <strong>${spPosteAvailable}</strong></span>
+              <span class="caserne-kpi">Utilises <strong>${spUsed}</strong></span>
+            </div>
+            <div class="caserne-kpis-row caserne-kpis-row-tertiary">
               <span class="caserne-kpi">Zone <strong>${influenceZoneCount}</strong></span>
               <span class="caserne-kpi">Pop <strong>${Math.floor(influencePopulation).toLocaleString("fr-FR")}</strong></span>
             </div>

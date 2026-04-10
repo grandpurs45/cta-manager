@@ -334,6 +334,14 @@ button.secondary:hover {
   justify-content: flex-end;
 }
 
+.caserne-kpis-row-primary {
+  margin-bottom: 2px;
+}
+
+.caserne-kpis-row-tertiary {
+  opacity: 0.85;
+}
+
 .caserne-kpi {
   display: inline-flex;
   align-items: center;
@@ -345,6 +353,20 @@ button.secondary:hover {
   color: #cbd5e1;
   font-size: 12px;
   white-space: nowrap;
+}
+
+.caserne-kpi-primary {
+  border-color: #3b82f6;
+  background: #1e3a8a;
+  color: #e0ecff;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 5px 10px;
+}
+
+.caserne-kpi-primary strong {
+  color: #ffffff;
+  font-size: 14px;
 }
 
 /* MISSIONS */
