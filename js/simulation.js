@@ -1166,9 +1166,14 @@ function pickZoneForTemplate(template) {
   const availableZones = getActiveZones().filter(zone => availableZoneIds.includes(zone.id));
   const influenceConfig = getInfluenceConfig();
 
-  const inOperationalReach = availableZones.filter(zone =>
-    getNearestOwnedCaserneDistanceKm(zone) <= influenceConfig.maxOperationalDistanceKm
-  );
+  const inOperationalReach = availableZones.filter(zone => {
+    const nearest = getNearestOwnedCaserneDistanceEntry(zone);
+    if (!nearest?.caserne) {
+      return false;
+    }
+    const range = getCaserneOperationalRangeKm(nearest.caserne, influenceConfig);
+    return nearest.distanceKm <= range;
+  });
 
   const source = inOperationalReach.length > 0
     ? inOperationalReach
@@ -1217,13 +1222,29 @@ function getOwnedCasernesForInfluence() {
   return state.casernes || [];
 }
 
+function getCaserneInfluenceMultiplier(caserne) {
+  if (!caserne?.id) {
+    return 1;
+  }
+
+  const level = Math.max(1, Number(getCaserneLevel(caserne.id)) || 1);
+  return 1 + ((level - 1) * 0.01);
+}
+
+function getCaserneOperationalRangeKm(caserne, influenceConfig) {
+  const multiplier = getCaserneInfluenceMultiplier(caserne);
+  return influenceConfig.maxOperationalDistanceKm * multiplier;
+}
+
 function getCaserneDistanceFactor(caserne, zone, influenceConfig) {
   if (!caserne || !zone) {
     return influenceConfig.minFactor;
   }
 
   const distanceKm = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
-  const normalized = distanceKm / influenceConfig.radiusKm;
+  const multiplier = getCaserneInfluenceMultiplier(caserne);
+  const effectiveRadiusKm = influenceConfig.radiusKm * multiplier;
+  const normalized = distanceKm / effectiveRadiusKm;
   const factor = 1 / (1 + (normalized * normalized));
   return Math.max(influenceConfig.minFactor, factor);
 }
@@ -1242,7 +1263,8 @@ function getBestCaserneInfluenceForZone(zone, options = {}) {
 
   casernes.forEach(caserne => {
     const distanceKm = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
-    if (enforceOperationalRange && distanceKm > influenceConfig.maxOperationalDistanceKm) {
+    const caserneOperationalRange = getCaserneOperationalRangeKm(caserne, influenceConfig);
+    if (enforceOperationalRange && distanceKm > caserneOperationalRange) {
       return;
     }
 
@@ -1276,24 +1298,30 @@ function getZoneInfluenceWeight(zone) {
 }
 
 function getNearestOwnedCaserneDistanceKm(zone) {
+  return getNearestOwnedCaserneDistanceEntry(zone).distanceKm;
+}
+
+function getNearestOwnedCaserneDistanceEntry(zone) {
   if (!zone) {
-    return Number.POSITIVE_INFINITY;
+    return { caserne: null, distanceKm: Number.POSITIVE_INFINITY };
   }
 
   const casernes = getOwnedCasernesForInfluence();
   if (!casernes.length) {
-    return Number.POSITIVE_INFINITY;
+    return { caserne: null, distanceKm: Number.POSITIVE_INFINITY };
   }
 
   let best = Number.POSITIVE_INFINITY;
+  let nearestCaserne = null;
   casernes.forEach(caserne => {
     const distance = calculateDistanceKm(caserne.lat, caserne.lon, zone.lat, zone.lon);
     if (distance < best) {
       best = distance;
+      nearestCaserne = caserne;
     }
   });
 
-  return best;
+  return { caserne: nearestCaserne, distanceKm: best };
 }
 
 function getInfluencePopulationByCaserneId(caserneId) {
