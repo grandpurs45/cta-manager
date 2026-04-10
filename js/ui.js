@@ -602,13 +602,33 @@ function renderCasernes() {
     return;
   }
 
-  container.innerHTML = `
-    ${lockedCount > 0 ? `
-      <div class="card">
-        <p><strong>${lockedCount}</strong> caserne(s) verrouillee(s). Ouvre le panneau progression pour les debloquer.</p>
-      </div>
-  ` : ""}
-    ${casernesToRender.map(caserne => {
+  if (!state.ui) {
+    state.ui = {};
+  }
+  if (!state.ui.casernesView) {
+    state.ui.casernesView = {
+      search: "",
+      sort: "population_desc"
+    };
+  }
+
+  const view = state.ui.casernesView;
+  const search = String(view.search || "").trim().toLowerCase();
+  const sort = view.sort || "population_desc";
+
+  const casernesWithStats = casernesToRender.map(caserne => {
+    const levelInfo = typeof getCaserneUpgradeInfo === "function"
+      ? getCaserneUpgradeInfo(caserne.id)
+      : null;
+    const posteTotal = Math.max(
+      0,
+      Math.floor(
+        Number(
+          levelInfo?.currentSpec?.poste ??
+          caserne.sp_poste
+        ) || 0
+      )
+    );
     const spUsed = calculateUsedSP(caserne.id);
     const spPosteAvailable = Math.max(0, caserne.sp_poste - spUsed);
     const astreinteCurrent = Math.max(0, Math.floor(Number(caserne.effectifs?.astreinte?.current ?? caserne.sp_astreinte) || 0));
@@ -622,23 +642,112 @@ function renderCasernes() {
     const influenceZoneCount = typeof getInfluenceZoneCountByCaserneId === "function"
       ? getInfluenceZoneCountByCaserneId(caserne.id)
       : 0;
-
+    const level = typeof getCaserneLevel === "function" ? getCaserneLevel(caserne.id) : 1;
     const vehicules = state.vehicules.filter(vehicle =>
       vehicle.caserneId === caserne.id && isVehicleOwned(vehicle.id)
     );
 
-    return `
-      <div class="card">
-        <h3>${caserne.nom}</h3>
-        <p><strong>Niveau :</strong> ${typeof getCaserneLevel === "function" ? getCaserneLevel(caserne.id) : 1}</p>
-        <p><strong>SP poste :</strong> ${caserne.sp_poste}</p>
-        <p><strong>SP astreinte :</strong> ${spAstreinteAvailable} / ${astreinteTotal}</p>
-        <p><strong>SP utilises :</strong> ${spUsed}</p>
-        <p><strong>SP disponibles poste :</strong> ${spPosteAvailable}</p>
-        <p><strong>SP disponibles total :</strong> ${spTotalAvailable}</p>
-        <p><strong>Zone d'influence:</strong> ${influenceZoneCount} commune(s)</p>
-        <p><strong>Population couverte:</strong> ${Math.floor(influencePopulation).toLocaleString("fr-FR")} hab.</p>
+    return {
+      caserne,
+      level,
+      spUsed,
+      posteTotal,
+      spPosteAvailable,
+      astreinteCurrent,
+      astreinteTotal,
+      spAstreinteAvailable,
+      spTotalAvailable,
+      influencePopulation,
+      influenceZoneCount,
+      vehicules
+    };
+  });
 
+  const filtered = casernesWithStats
+    .filter(item => {
+      if (!search) {
+        return true;
+      }
+      return String(item.caserne.nom || "").toLowerCase().includes(search);
+    })
+    .sort((a, b) => {
+      switch (sort) {
+        case "name_asc":
+          return String(a.caserne.nom || "").localeCompare(String(b.caserne.nom || ""), "fr-FR");
+        case "population_desc":
+          return b.influencePopulation - a.influencePopulation;
+        case "zone_desc":
+          return b.influenceZoneCount - a.influenceZoneCount;
+        case "available_desc":
+          return b.spTotalAvailable - a.spTotalAvailable;
+        case "level_desc":
+          return b.level - a.level;
+        default:
+          return String(a.caserne.nom || "").localeCompare(String(b.caserne.nom || ""), "fr-FR");
+      }
+    });
+
+  container.innerHTML = `
+    <div class="card casernes-toolbar-card">
+      <div class="casernes-toolbar">
+        <input
+          type="text"
+          class="casernes-search"
+          placeholder="Rechercher une caserne..."
+          value="${view.search || ""}"
+          oninput="setCasernesSearch(this.value)"
+        />
+        <select class="casernes-sort" onchange="setCasernesSort(this.value)">
+          <option value="population_desc" ${sort === "population_desc" ? "selected" : ""}>Tri: population couverte</option>
+          <option value="zone_desc" ${sort === "zone_desc" ? "selected" : ""}>Tri: nb communes</option>
+          <option value="available_desc" ${sort === "available_desc" ? "selected" : ""}>Tri: SP disponibles</option>
+          <option value="level_desc" ${sort === "level_desc" ? "selected" : ""}>Tri: niveau</option>
+          <option value="name_asc" ${sort === "name_asc" ? "selected" : ""}>Tri: nom A-Z</option>
+        </select>
+      </div>
+      <p class="muted">Affichage: ${filtered.length} / ${casernesToRender.length} caserne(s)</p>
+    </div>
+
+    ${lockedCount > 0 ? `
+      <div class="card">
+        <p><strong>${lockedCount}</strong> caserne(s) verrouillee(s). Ouvre le panneau progression pour les debloquer.</p>
+      </div>
+  ` : ""}
+    ${filtered.length === 0 ? `
+      <p class="empty">Aucune caserne ne correspond a ta recherche.</p>
+    ` : filtered.map(item => {
+    const {
+      caserne,
+      level,
+      spUsed,
+      posteTotal,
+      spPosteAvailable,
+      astreinteCurrent,
+      astreinteTotal,
+      spAstreinteAvailable,
+      spTotalAvailable,
+      influencePopulation,
+      influenceZoneCount,
+      vehicules
+    } = item;
+
+    return `
+      <div class="card caserne-card-compact">
+        <div class="caserne-head">
+          <div>
+            <h3>${caserne.nom}</h3>
+            <div class="muted">Niveau ${level} • ${vehicules.length} vehicule(s)</div>
+          </div>
+          <div class="caserne-kpis">
+            <span class="caserne-kpi">SP poste: <strong>${caserne.sp_poste}/${posteTotal}</strong></span>
+            <span class="caserne-kpi">Astreinte: <strong>${astreinteCurrent}/${astreinteTotal}</strong></span>
+            <span class="caserne-kpi">Utilises: <strong>${spUsed}</strong></span>
+            <span class="caserne-kpi">Dispo poste: <strong>${spPosteAvailable}</strong></span>
+            <span class="caserne-kpi">Dispo total: <strong>${spTotalAvailable}</strong></span>
+            <span class="caserne-kpi">Zone: <strong>${influenceZoneCount}</strong></span>
+            <span class="caserne-kpi">Pop: <strong>${Math.floor(influencePopulation).toLocaleString("fr-FR")}</strong></span>
+          </div>
+        </div>
         <div class="vehicle-list">
           ${vehicules.map(vehicle => {
             const statusConfig = getVehicleDisplayStatus(vehicle);
@@ -665,21 +774,44 @@ function renderCasernes() {
               ? `${vehicle.nom} - Disponible mais non armable (effectif insuffisant)`
               : `${vehicle.nom} - ${statusConfig.label}${transitSuffix}`;
 
-            return `
-              <div
-                class="vehicle vehicle-line${extraClass}"
-                style="${inlineStyle}"
-                title="${title}"
-              >
-                ${vehicle.nom}${transitSuffix}
-              </div>
-            `;
-          }).join("")}
+              return `
+                <div
+                  class="vehicle vehicle-line${extraClass}"
+                  style="${inlineStyle}"
+                  title="${title}"
+                >
+                  ${vehicle.nom}${transitSuffix}
+                </div>
+              `;
+            }).join("")}
+          ${vehicules.length === 0 ? `<span class="muted">Aucun vehicule.</span>` : ""}
         </div>
       </div>
     `;
   }).join("")}
   `;
+}
+
+function setCasernesSearch(value) {
+  if (!state.ui) {
+    state.ui = {};
+  }
+  if (!state.ui.casernesView) {
+    state.ui.casernesView = { search: "", sort: "population_desc" };
+  }
+  state.ui.casernesView.search = String(value || "");
+  renderCasernes();
+}
+
+function setCasernesSort(value) {
+  if (!state.ui) {
+    state.ui = {};
+  }
+  if (!state.ui.casernesView) {
+    state.ui.casernesView = { search: "", sort: "population_desc" };
+  }
+  state.ui.casernesView.sort = value || "population_desc";
+  renderCasernes();
 }
 
 function getVehicleDisplayStatus(vehicle) {
@@ -1135,6 +1267,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.14.1: vue Casernes condensee (sans depliage) + recherche/tri + MAJ coverage rules (2 INC4 degrade + 2 RENFORT2).</li>
           <li>v0.14.0: nouveau panneau Stats territoire (communes, volume 24h, ratio couverture caserne la plus proche).</li>
           <li>v0.13.8: UX achats caserne (boutons grises/masques selon niveau et plafonds).</li>
           <li>v0.13.7: garde postee UX clarifiee + bouton poste masque si garde non debloquee + temps transit affiche.</li>

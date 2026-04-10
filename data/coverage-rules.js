@@ -32,6 +32,13 @@ const COVERAGE_RULES = {
         { code: "INC4_DEGRADE", quantite: 1 },
         { code: "INC4", quantite: 1 }
       ]
+    },
+    {
+      label: "2 INC4 dégradé + 2 RENFORT2",
+      requires: [
+        { code: "INC4_DEGRADE", quantite: 2 },
+        { code: "RENFORT2", quantite: 2 }
+      ]
     }
   ],
 

@@ -273,6 +273,64 @@ button.secondary:hover {
   border: 1px solid #7c828a;
 }
 
+/* CASERNES */
+
+.casernes-toolbar-card {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+.casernes-toolbar {
+  display: grid;
+  grid-template-columns: minmax(170px, 1fr) minmax(170px, 220px);
+  gap: 8px;
+  align-items: center;
+}
+
+.casernes-search,
+.casernes-sort {
+  width: 100%;
+  border: 1px solid #334155;
+  background: #0b1220;
+  color: #e2e8f0;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 14px;
+}
+
+.caserne-card-compact {
+  margin-bottom: 10px;
+}
+
+.caserne-head {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.caserne-kpis {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.caserne-kpi {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid #334155;
+  background: #111827;
+  color: #cbd5e1;
+  font-size: 12px;
+}
+
 /* MISSIONS */
 
 .mission-line {
@@ -458,6 +516,10 @@ button.secondary:hover {
 
   .panel {
     min-height: auto;
+  }
+
+  .casernes-toolbar {
+    grid-template-columns: 1fr;
   }
 }
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.14.1 - 2026-04-10
+
+### Changed
+- Vue `Casernes` refondue en mode condense: indicateurs principaux visibles sans deplier (SP poste/max, astreinte dispo/max, utilises, dispo, zone, population, flotte).
+- Ajout des outils de navigation pour grandes flottes de casernes: recherche + tri rapide.
+
+### Updated
+- Regles de couverture: ajout du cas `2 INC4 degrade + 2 RENFORT2` dans `data/coverage-rules.js`.
+
 ## v0.14.0 - 2026-04-08
 
 ### Added
