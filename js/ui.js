@@ -651,6 +651,7 @@ function renderCasernes() {
       : Math.max(1, Math.floor(Number(caserne.bayCapacity) || 1));
     const bayUsed = vehicules.length;
     const bayFree = Math.max(0, bayCapacity - bayUsed);
+    const coveragePercent = 100 + Math.max(0, level - 1);
 
     return {
       caserne,
@@ -667,7 +668,8 @@ function renderCasernes() {
       vehicules,
       bayCapacity,
       bayUsed,
-      bayFree
+      bayFree,
+      coveragePercent
     };
   });
 
@@ -752,7 +754,8 @@ function renderCasernes() {
       vehicules,
       bayCapacity,
       bayUsed,
-      bayFree
+      bayFree,
+      coveragePercent
     } = item;
 
     return `
@@ -779,6 +782,7 @@ function renderCasernes() {
               <span class="caserne-kpi">Utilises <strong>${spUsed}</strong></span>
             </div>
             <div class="caserne-kpis-row caserne-kpis-row-tertiary">
+              <span class="caserne-kpi">Couverture <strong>${coveragePercent}%</strong></span>
               <span class="caserne-kpi">Zone <strong>${influenceZoneCount}</strong></span>
               <span class="caserne-kpi">Pop <strong>${Math.floor(influencePopulation).toLocaleString("fr-FR")}</strong></span>
             </div>
