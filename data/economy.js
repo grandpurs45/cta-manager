@@ -47,9 +47,14 @@
         VIP: 7000,
         VLC: 4000,
         VPC: 6500,
+        VPI: 6000,
         VCG: 4500,
         VBS: 4500,
-        VLSM: 10000
+        VLSM: 10000,
+        CCGC: 13000,
+        CCFL: 9000,
+        CCRL: 8000,
+        CCFS: 16000
       },
       casernes: {
         ORL_NOR: 20000,
@@ -84,9 +89,14 @@
         VIP: 10000,
         VLC: 6500,
         VPC: 9000,
+        VPI: 10000,
         VCG: 7000,
         VBS: 7000,
-        VLSM: 15500
+        VLSM: 15500,
+        CCGC: 23000,
+        CCFL: 14500,
+        CCRL: 13500,
+        CCFS: 28000
       }
     },
     caserneLevels: {

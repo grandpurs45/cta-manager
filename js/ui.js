@@ -687,6 +687,17 @@ function renderCasernes() {
       }
     });
 
+  const activeZones = Array.isArray(state.dynamicZones) && state.dynamicZones.length > 0
+    ? state.dynamicZones
+    : (Array.isArray(ZONES) ? ZONES : []);
+  const totalDepartmentCommunes = activeZones.length;
+  const coveredCommunesRaw = casernesWithStats.reduce((sum, item) => sum + (Number(item.influenceZoneCount) || 0), 0);
+  const coveredDepartmentCommunes = Math.min(totalDepartmentCommunes, Math.max(0, coveredCommunesRaw));
+  const uncoveredDepartmentCommunes = Math.max(0, totalDepartmentCommunes - coveredDepartmentCommunes);
+  const coverageRate = totalDepartmentCommunes > 0
+    ? Math.round((coveredDepartmentCommunes / totalDepartmentCommunes) * 100)
+    : 0;
+
   container.innerHTML = `
     <div class="card casernes-toolbar-card">
       <div class="casernes-toolbar">
@@ -706,6 +717,8 @@ function renderCasernes() {
         </select>
       </div>
       <p class="muted">Affichage: ${filtered.length} / ${casernesToRender.length} caserne(s)</p>
+      <p><strong>Couverture departement:</strong> ${coveredDepartmentCommunes}/${totalDepartmentCommunes} communes (${coverageRate}%)</p>
+      <p class="muted">Communes non couvertes: ${uncoveredDepartmentCommunes}</p>
     </div>
 
     ${lockedCount > 0 ? `
@@ -1267,6 +1280,7 @@ function renderCenterPanel() {
       <div class="card">
         <h4>Changelog rapide</h4>
         <ul class="about-list">
+          <li>v0.14.2: nouveaux engins CCGC/CCFL/CCRL/VPI/CCFS + taux de couverture departement (communes) dans le panneau Casernes.</li>
           <li>v0.14.1: vue Casernes condensee (sans depliage) + recherche/tri + MAJ coverage rules (2 INC4 degrade + 2 RENFORT2).</li>
           <li>v0.14.0: nouveau panneau Stats territoire (communes, volume 24h, ratio couverture caserne la plus proche).</li>
           <li>v0.13.8: UX achats caserne (boutons grises/masques selon niveau et plafonds).</li>

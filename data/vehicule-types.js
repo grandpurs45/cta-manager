@@ -121,6 +121,44 @@
       { code: "FDF_DEGRADE", sp: 3, mode: "degrade" }
     ]
   },
+  CCGC: {
+    label: "Camion Citerne Grande Capacite",
+    profils: [
+      { code: "FDF", sp: 5, mode: "nominal" },
+      { code: "FDF_DEGRADE", sp: 4, mode: "degrade" }
+    ]
+  },
+  CCFL: {
+    label: "Camion Citerne Feux de Forets Leger",
+    profils: [
+      { code: "FDF", sp: 4, mode: "nominal" },
+      { code: "FDF_DEGRADE", sp: 3, mode: "degrade" },
+      { code: "INC4_DEGRADE", sp: 3, mode: "degrade" }
+    ]
+  },
+  CCRL: {
+    label: "Camion Citerne Rural Leger",
+    profils: [
+      { code: "INC4", sp: 4, mode: "nominal" },
+      { code: "INC4_DEGRADE", sp: 3, mode: "degrade" },
+      { code: "FDF_DEGRADE", sp: 3, mode: "degrade" }
+    ]
+  },
+  VPI: {
+    label: "Vehicule de Premiere Intervention",
+    profils: [
+      { code: "INC4", sp: 4, mode: "nominal" },
+      { code: "INC4_DEGRADE", sp: 3, mode: "degrade" },
+      { code: "DIV3", sp: 3, mode: "nominal" }
+    ]
+  },
+  CCFS: {
+    label: "Camion Citerne Feux de Forets Super",
+    profils: [
+      { code: "FDF", sp: 6, mode: "nominal" },
+      { code: "FDF_DEGRADE", sp: 4, mode: "degrade" }
+    ]
+  },
   VPC: {
     label: "Vehicule Poste de Commandement",
     profils: [

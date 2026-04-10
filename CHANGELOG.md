@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.14.2 - 2026-04-10
+
+### Added
+- Nouveaux types d'engins disponibles en progression: `CCGC`, `CCFL`, `CCRL`, `VPI`, `CCFS` (deblocage + achat unitaire).
+
+### Changed
+- Panneau Casernes: ajout du taux de couverture du departement en communes (`couvertes/total` + `%` + `non couvertes`).
+
 ## v0.14.1 - 2026-04-10
 
 ### Changed
