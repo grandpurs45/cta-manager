@@ -114,28 +114,11 @@
       { code: "SR", sp: 3, mode: "nominal" }
     ]
   },
-  CCR: {
-    label: "Camion Citerne Rural",
-    profils: [
-      { code: "FDF", sp: 4, mode: "nominal" },
-      { code: "FDF_DEGRADE", sp: 3, mode: "degrade" },
-      { code: "INC4", sp: 4, mode: "nominal" },
-      { code: "INC4_DEGRADE", sp: 3, mode: "degrade" }
-    ]
-  },
   CCF: {
     label: "Camion Citerne Feux de Forets",
     profils: [
       { code: "FDF", sp: 4, mode: "nominal" },
       { code: "FDF_DEGRADE", sp: 3, mode: "degrade" }
-    ]
-  },
-  VTL: {
-    label: "Vehicule Tout Usage Leger",
-    profils: [
-      { code: "DIV2", sp: 2, mode: "nominal" },
-      { code: "DIV3", sp: 3, mode: "nominal" },
-      { code: "PS", sp: 3, mode: "nominal" }
     ]
   },
   VPC: {

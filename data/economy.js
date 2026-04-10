@@ -1,4 +1,4 @@
-const ECONOMY = {
+﻿const ECONOMY = {
   progression: {
     startingMoney: 15000,
     startingUnlockedVehicleTypes: ["VIP"],
@@ -36,13 +36,11 @@ const ECONOMY = {
       vehicleTypeUnlock: {
         VSAV: 6000,
         VTU: 5000,
-        VTL: 4500,
         FPT: 12000,
         FPTL6: 11000,
         FPTSR: 15000,
         FPTL: 9000,
         CCRM: 9000,
-        CCR: 10000,
         CCF: 11000,
         VSR: 8500,
         EPC: 18000,
@@ -75,13 +73,11 @@ const ECONOMY = {
       vehicleByType: {
         VSAV: 9000,
         VTU: 7500,
-        VTL: 7000,
         FPT: 18000,
         FPTL6: 17000,
         FPTSR: 22000,
         FPTL: 14500,
         CCRM: 14000,
-        CCR: 15500,
         CCF: 17000,
         VSR: 12500,
         EPC: 24000,

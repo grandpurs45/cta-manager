@@ -1,4 +1,4 @@
-const SETTINGS = {
+﻿const SETTINGS = {
   installation: {
     // Choix applique uniquement au premier lancement.
     // Valeurs supportees: "offline" | "online"
@@ -27,9 +27,9 @@ const SETTINGS = {
     /**
      * Facteur de correction entre :
 
-      distance à vol d’oiseau
+      distance Ã  vol dâ€™oiseau
 
-      distance réelle par la route.
+      distance rÃ©elle par la route.
 
       La distance GPS directe est toujours plus courte que la route.
 
@@ -40,11 +40,11 @@ const SETTINGS = {
 
       Donc on multiplie :
 
-      distance réelle ≈ distance GPS × roadFactor
+      distance rÃ©elle â‰ˆ distance GPS Ã— roadFactor
 
-      Valeur par défaut : 1.35
+      Valeur par dÃ©faut : 1.35
 
-      C’est une valeur réaliste pour un réseau routier urbain.
+      Câ€™est une valeur rÃ©aliste pour un rÃ©seau routier urbain.
      */
     minTimeMinutes: 3
   },
@@ -71,9 +71,9 @@ const SETTINGS = {
 
   staffing: {
     updateIntervalHours: 4,
-    /* délais a partir duquel les effectifs dans les casernes sont calculés */
+    /* dÃ©lais a partir duquel les effectifs dans les casernes sont calculÃ©s */
     maxVariationPerUpdate: 3
-    /* maximum de variation d'effectif ex : 2 = + ou - 2 de variation par rapport a l'effectif précédent */
+    /* maximum de variation d'effectif ex : 2 = + ou - 2 de variation par rapport a l'effectif prÃ©cÃ©dent */
   },
   REENGAGEMENT_RETOUR: {
   enabled: true,
@@ -124,13 +124,11 @@ const SETTINGS = {
       vehicleTypeUnlock: {
         VSAV: 6000,
         VTU: 5000,
-        VTL: 4500,
         FPT: 12000,
         FPTL6: 11000,
         FPTSR: 15000,
         FPTL: 9000,
         CCRM: 9000,
-        CCR: 10000,
         CCF: 11000,
         VSR: 8500,
         EPC: 18000,
@@ -163,13 +161,11 @@ const SETTINGS = {
       vehicleByType: {
         VSAV: 9000,
         VTU: 7500,
-        VTL: 7000,
         FPT: 18000,
         FPTL6: 17000,
         FPTSR: 22000,
         FPTL: 14500,
         CCRM: 14000,
-        CCR: 15500,
         CCF: 17000,
         VSR: 12500,
         EPC: 24000,
